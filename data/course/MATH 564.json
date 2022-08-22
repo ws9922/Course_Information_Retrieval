@@ -1,0 +1,13 @@
+{
+    "title": "MATH 564",
+    "names": "Applied Stochastic Processes",
+    "credit": "4 hours.",
+    "intro": "Introduction to topics such as spectral analysis, filtering theory, and prediction theory of stationary processes; Markov chains and Markov processes. ",
+    "instructors": [
+        "Kirkpatrick, K"
+    ],
+    "prereq": [
+        "MATH 446",
+        "MATH 447"
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "title": "IE 400",
+    "names": "Design & Anlys of Experiments",
+    "credit": "3 OR 4 hours.",
+    "intro": "Concepts and methods of design of experiments for quality design, improvement and control. Simple comparative experiments, including concepts of randomization and blocking, and analysis of variance techniques; factorial and fractional factorial designs; Taguchi's concepts and methods; second-order designs; response surface methodology. Engineering applications and case studies. ",
+    "instructors": [
+        "Cottrell, S"
+    ],
+    "prereq": [
+        "IE 300"
+    ]
+}

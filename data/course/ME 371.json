@@ -1,0 +1,19 @@
+{
+    "title": "ME 371",
+    "names": "Mechanical Design II",
+    "credit": "3 hours.",
+    "intro": "Design and analysis of machinery for load-bearing and power transmission. Consideration of material failure modes, including yielding, fracture, and fatigue. Design and selection of machine elements: threaded fasteners, springs, rolling-element bearings, fluid film lubrication, gears and friction drives. ",
+    "instructors": [
+        "Lee, J",
+        "Edward, S",
+        "Kang, M",
+        "Hasan, M",
+        "Dunn, A",
+        "Mercer, B"
+    ],
+    "prereq": [
+        "ME 330",
+        "CEE 300",
+        "ME 370"
+    ]
+}

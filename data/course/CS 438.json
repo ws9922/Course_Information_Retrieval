@@ -1,0 +1,16 @@
+{
+    "title": "CS 438",
+    "names": "Communication Networks",
+    "credit": "3 OR 4 hours.",
+    "intro": "Layered architectures and the OSI Reference Model; design issues and protocols in the transport, network, and data link layers; architectures and control algorithms of local-area, point-to-point, and satellite networks; standards in networks access protocols; models of network interconnection; overview of networking and communication software. ",
+    "instructors": [
+        "Roy Choudhury, R"
+    ],
+    "prereq": [
+        "CS 241",
+        "ECE 391",
+        "ECE 313",
+        "MATH 461",
+        "MATH 463"
+    ]
+}

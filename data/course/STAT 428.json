@@ -1,0 +1,12 @@
+{
+    "title": "STAT 428",
+    "names": "Statistical Computing",
+    "credit": "3 OR 4 hours.",
+    "intro": "Examines statistical packages, numerical analysis for linear and nonlinear models, graphics, and random number generation and Monte Carlo methods. ",
+    "instructors": [
+        "Wang, S"
+    ],
+    "prereq": [
+        "STAT 410"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "title": "MCB 151",
+    "names": "Molec & Cellular Laboratory",
+    "credit": "1 hours.",
+    "intro": "Introductory laboratory course focusing on basic techniques in molecular and cellular biology. ",
+    "instructors": [
+        "Yang, S",
+        "Boob, M",
+        "Reedy, M",
+        "Tian, Y",
+        "Lee, H"
+    ],
+    "prereq": [
+        "MCB 151",
+        "MCB 151",
+        "MCB 251",
+        "MCB 150"
+    ]
+}

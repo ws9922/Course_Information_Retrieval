@@ -1,0 +1,12 @@
+{
+    "title": "IE 523",
+    "names": "Financial Computing",
+    "credit": "4 hours.",
+    "intro": "Review of C++ programming: structures, classes, I/O, C++ standard libraries, Recursion. Linear Algebra tools and MILP solvers in C++. Computational aspects of probability, statistics and simulation in C++. Methods: Root-finding, Taylor's Expansion, FFTs, Dynamic Programming, Monte Carlo Methods. Financial computing case studies in C++. ",
+    "instructors": [
+        "Sreenivas, R"
+    ],
+    "prereq": [
+        "CS 225"
+    ]
+}

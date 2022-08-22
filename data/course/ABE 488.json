@@ -1,0 +1,13 @@
+{
+    "title": "ABE 488",
+    "names": "Bioprocessing Biomass for Fuel",
+    "credit": "4 hours.",
+    "intro": "Engineering and scientific principles governing bioprocessing of biomass for production of ethanol and other fermentation products. Process unit operations; conventional and alternative feed stock materials; recovery of value-added coproducts and other variables involved in producing fuel ethanol; process simulation; economic analysis. ",
+    "instructors": [
+        "Singh, V"
+    ],
+    "prereq": [
+        "ME 200",
+        "BE 321"
+    ]
+}

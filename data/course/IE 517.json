@@ -1,0 +1,12 @@
+{
+    "title": "IE 517",
+    "names": "Machine Learning in Finance Lab",
+    "credit": "2 hours.",
+    "intro": "Machine Learning includes the design and the study of algorithms that can learn from experience, improve their performance and make predictions. This course is designed specifically and exclusively for MSFE first semester students. It features rigorous coding exercises in Python and acts as preparation for later courses. Students will learn the concepts behind different supervised machine learning algorithms and implement them in Python using advanced packages; pandas, NumPy, and scikit-learn. All the data for this course features unique real-world financial datasets. ",
+    "instructors": [
+        "Murphy, M"
+    ],
+    "prereq": [
+        "IE 523"
+    ]
+}

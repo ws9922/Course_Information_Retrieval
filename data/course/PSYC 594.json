@@ -1,0 +1,15 @@
+{
+    "title": "PSYC 594",
+    "names": "Multivar Anlys in Psych and Ed",
+    "credit": "4 hours.",
+    "intro": "Examines the principal methods of descriptive and inferential statistics used in the analysis of multiple measurements, emphasizing linear transformations, multiple regression, principal components, multivariate analysis of variance, canonical correlation and variates, discriminant functions and variates, and conventional procedures of factor analysis; involves both theory and applications. ",
+    "instructors": [
+        "Xia, Y"
+    ],
+    "prereq": [
+        "SOC 584",
+        "PSYC 407",
+        "EPSY 581",
+        "EPSY 582"
+    ]
+}

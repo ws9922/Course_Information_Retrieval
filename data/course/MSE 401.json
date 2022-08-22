@@ -1,0 +1,19 @@
+{
+    "title": "MSE 401",
+    "names": "Thermodynamics of Materials",
+    "credit": "3 hours.",
+    "intro": "Basic thermodynamic principles including energy, entropy, and free energy; macroscopic properties of hard and soft materials systems, such as equilibrium states, phases, and phase transitions. Application of phase diagrams. Statistical interpretation of thermodynamics on the atomistic level. ",
+    "instructors": [
+        "Cahill, D",
+        "Keating, L",
+        "Huang, C"
+    ],
+    "prereq": [
+        "MSE 401",
+        "CHEM 444",
+        "PHYS 427",
+        "MSE 201",
+        "MSE 280",
+        "MATH 285"
+    ]
+}

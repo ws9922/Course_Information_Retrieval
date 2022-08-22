@@ -1,0 +1,12 @@
+{
+    "title": "ECE 476",
+    "names": "Power System Analysis",
+    "credit": "3 hours.",
+    "intro": "Development of power system equivalents by phase network analysis, load flow, symmetrical components, sequence networks, fault analysis, and digital simulation. ",
+    "instructors": [
+        "Dominguez-Garcia, A"
+    ],
+    "prereq": [
+        "ECE 330"
+    ]
+}

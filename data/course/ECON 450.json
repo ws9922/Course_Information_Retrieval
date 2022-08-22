@@ -1,0 +1,17 @@
+{
+    "title": "ECON 450",
+    "names": "Development Economics",
+    "credit": "2 TO 4 hours.",
+    "intro": "Analyzes the economic problems associated with newly developing nations; emphasizes their economic structures, their factor scarcities, and their programs for development. Not open for graduate credit to graduate candidates in economics. ",
+    "instructors": [
+        "Akresh, R"
+    ],
+    "prereq": [
+        "ECON 450",
+        "ECON 550",
+        "ECON 551",
+        "ECON 102",
+        "ECON 103",
+        "ECON 302"
+    ]
+}

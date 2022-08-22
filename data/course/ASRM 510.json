@@ -1,0 +1,18 @@
+{
+    "title": "ASRM 510",
+    "names": "Financial Mathematics",
+    "credit": "4 hours.",
+    "intro": "Theoretical basis of financial models and their applications to insurance and other financial risks. Topics include derivative markets, no-arbitrage pricing of financial derivatives, interest rate models, dynamic hedging and other risk management techniques. ",
+    "instructors": [
+        "Sowers, R"
+    ],
+    "prereq": [
+        "ASRM 410",
+        "MATH 476",
+        "ASRM 510",
+        "MATH 567",
+        "ASRM 402",
+        "MATH 409",
+        "MATH 464"
+    ]
+}

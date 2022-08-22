@@ -1,0 +1,20 @@
+{
+    "title": "CHBE 431",
+    "names": "Process Design",
+    "credit": "4 hours.",
+    "intro": "Capstone design course where students apply principles from previous courses to the design of complete chemical process systems. Topics include: techniques used in the synthesis and analysis of chemical processes, process simulation and optimization, effective communication in a chemical process engineering environment. ",
+    "instructors": [
+        "Thangaraj, J",
+        "Kamble, Y",
+        "Xu, R",
+        "Harrison, W",
+        "Kolliopoulos, A",
+        "Floess, j",
+        "Yappert, R",
+        "Sederholm, J"
+    ],
+    "prereq": [
+        "CHBE 422",
+        "CHBE 424"
+    ]
+}

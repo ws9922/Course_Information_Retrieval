@@ -1,0 +1,12 @@
+{
+    "title": "ASTR 210",
+    "names": "Introduction to Astrophysics",
+    "credit": "3 hours.",
+    "intro": "Survey of modern astronomy for students with background in physics. Topics include: the solar system; nature and evolution of stars; white dwarfs, neutron stars, and black holes; galaxies, quasars and dark matter; large scale structure of the universe; the Big Bang; and Inflation. Emphasis will be on the physical principles underlying the astronomical phenomena. ",
+    "instructors": [
+        "French, D"
+    ],
+    "prereq": [
+        "PHYS 211"
+    ]
+}

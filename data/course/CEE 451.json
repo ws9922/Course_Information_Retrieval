@@ -1,0 +1,12 @@
+{
+    "title": "CEE 451",
+    "names": "Environmental Fluid Mechanics",
+    "credit": "3 hours.",
+    "intro": "Incompressible fluid mechanics with particular emphasis on topics in analysis and applications in civil engineering areas; principles of continuity, momentum and energy, kinematics of flow and stream functions, potential flow, laminar motion, turbulence, and boundary-layer theory. ",
+    "instructors": [
+        "Parker, G"
+    ],
+    "prereq": [
+        "TAM 335"
+    ]
+}

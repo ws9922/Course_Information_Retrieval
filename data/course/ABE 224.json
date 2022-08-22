@@ -1,0 +1,15 @@
+{
+    "title": "ABE 224",
+    "names": "ABE Principles: Soil & Water",
+    "credit": "2 hours.",
+    "intro": "Engineering principles and methods of design and management of natural resources and environmental systems; watershed and hydrologic cycle; infiltration and surveying; runoff and erosion; water quality; non-point source pollution. ",
+    "instructors": [
+        "Kim, D",
+        "Kalita, P"
+    ],
+    "prereq": [
+        "MATH 220",
+        "MATH 221",
+        "MATH 234"
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "title": "TAM 210",
+    "names": "Introduction to Statics",
+    "credit": "2 hours.",
+    "intro": "Forces, moments, couples; resultants of force systems; equilibrium analysis and free-body diagrams; analysis of forces acting on members of trusses, frames, etc.; shear-force and bending-moment distributions; Coulomb friction; centroids and center of mass; applications of statics in design. ",
+    "instructors": [
+        "Admal, N",
+        "Li, C",
+        "Williams, C",
+        "Manandhar, S",
+        "Ko, J",
+        "Joshi, H",
+        "Do, H",
+        "Chang, W",
+        "Taghibakhshi, A",
+        "Kim, J",
+        "Moradzadeh, A",
+        "Qian, B"
+    ],
+    "prereq": [
+        "TAM 210",
+        "TAM 211",
+        "PHYS 211",
+        "MATH 241",
+        "MATH 257"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "title": "STAT 433",
+    "names": "Stochastic Processes",
+    "credit": "3 OR 4 hours.",
+    "intro": "A stochastic process is a random process that represents the evolution of some system over time. Topics may include discrete-time and continuous-time Markov chains, birth-and-death chains, branching chains, stationary distributions, random walks, Markov pure jump processes, birth-and-death processes, renewal processes, Poisson process, queues, second order processes, Brownian motion (Wiener process), and Ito's lemma. ",
+    "instructors": [
+        "Chatterjee, S"
+    ],
+    "prereq": [
+        "STAT 400",
+        "STAT 410",
+        "MATH 225"
+    ]
+}

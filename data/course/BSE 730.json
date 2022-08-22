@@ -1,0 +1,11 @@
+{
+    "title": "BSE 730",
+    "names": "Introduction to Deep Learning on Healthcare Data",
+    "credit": "2 hours.",
+    "intro": "Covers deep learning methods, healthcare data and applications using deep learning methods. Includes activities such as online lectures or video lectures, programming labs, literature review, and individual or group presentations. The overall goal is to understand basic data science workflow for healthcare data such as electronic health records, clinical notes, and medical images, to learn basic deep learning models, and to learn the structure of data science projects. ",
+    "instructors": [
+        "Van Orman, C",
+        "Richards, V"
+    ],
+    "prereq": []
+}

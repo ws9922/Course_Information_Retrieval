@@ -1,0 +1,13 @@
+{
+    "title": "MUS 108",
+    "names": "Musicianship II",
+    "credit": "2 hours.",
+    "intro": "Continuation of aural skills training from MUS 107. Development of performance, notational, and listening skills in the areas of rhythm, melody, harmony, counterpoint, and formal aspects of musical structure; emphasizes tonal pitch structures. ",
+    "instructors": [
+        "Hinkley, B",
+        "Borcherding, C"
+    ],
+    "prereq": [
+        "MUS 107"
+    ]
+}

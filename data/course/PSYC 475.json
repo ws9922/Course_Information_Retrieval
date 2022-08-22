@@ -1,0 +1,14 @@
+{
+    "title": "PSYC 475",
+    "names": "Personnel Psych",
+    "credit": "3 OR 4 hours.",
+    "intro": "Introduces problems and research relevant to personnel issues in organizations. Topics include: individual differences; selection of personnel; test theory; performance appraisal; equal employment opportunity legislation, regulation, and litigation; assessing bias in selection. ",
+    "instructors": [
+        "Chen, Y"
+    ],
+    "prereq": [
+        "PSYC 235",
+        "PSYC 245",
+        "BADM 313"
+    ]
+}

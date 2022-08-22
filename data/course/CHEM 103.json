@@ -1,0 +1,40 @@
+{
+    "title": "CHEM 103",
+    "names": "General Chemistry Lab I",
+    "credit": "1 hours.",
+    "intro": "Laboratory studies to accompany CHEM 102. ",
+    "instructors": [
+        "Rygiel, G",
+        "Boyle, M",
+        "Luo, Y",
+        "Liu, J",
+        "Patel, P",
+        "Zervakis, G",
+        "Adedun, I",
+        "Elangovan, S",
+        "Yang, D",
+        "McCarren, E",
+        "Vega, R",
+        "Curtis, A",
+        "Hwang, M",
+        "Gadgil, M",
+        "Delis, G",
+        "Melzer, M",
+        "Agarwal, U",
+        "Patel, A",
+        "Burki, A",
+        "Gargya, S",
+        "Huang, T",
+        "Bhayani, R",
+        "Quintana, J",
+        "Alzoubi, Z",
+        "Burns, M"
+    ],
+    "prereq": [
+        "CHEM 103",
+        "CHEM 203",
+        "CHEM 102",
+        "CHEM 103",
+        "CHEM 102"
+    ]
+}

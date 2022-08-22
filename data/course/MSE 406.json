@@ -1,0 +1,19 @@
+{
+    "title": "MSE 406",
+    "names": "Thermal-Mech Behavior of Matls",
+    "credit": "3 hours.",
+    "intro": "Fundamentals of elastic, viscoelastic and plastic deformation of materials, elementary theory of statics and dynamics of dislocations; strengthening mechanisms; behavior of composites; fracture and fatigue behavior; fundamentals of thermal behavior: heat capacity, thermal expansion and conductivity; effects of thermal stress. ",
+    "instructors": [
+        "ARRANGED",
+        "Trinkle, D",
+        "Kim, S",
+        "Rizzardi, Q"
+    ],
+    "prereq": [
+        "MSE 406",
+        "ME 430",
+        "TAM 424",
+        "MSE 206",
+        "MSE 201"
+    ]
+}

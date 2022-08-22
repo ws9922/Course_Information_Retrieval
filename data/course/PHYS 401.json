@@ -1,0 +1,17 @@
+{
+    "title": "PHYS 401",
+    "names": "Classical Physics Lab",
+    "credit": "3 hours.",
+    "intro": "Experiments and techniques in classical mechanics and electromagnetism. Dynamics of electrical and mechanical oscillators in the linear domain. Fourier analysis of system response. Measurements of electrostatic fields, transmission lines, waves, and radiation. Electromagnetic phenomena in dielectrics, conductors, and magnetic materials. Instruction in data analysis and report writing. ",
+    "instructors": [
+        "Lam, A",
+        "Sickle, J",
+        "Filippini, J",
+        "Mirasola, A"
+    ],
+    "prereq": [
+        "PHYS 325",
+        "PHYS 435",
+        "ECE 329"
+    ]
+}

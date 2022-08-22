@@ -1,0 +1,15 @@
+{
+    "title": "ME 432",
+    "names": "Fundamentals of Photovoltaics",
+    "credit": "3 OR 4 hours.",
+    "intro": "In this course, we will develop a fundamental understanding of how solar cells convert light to electricity, how solar cells are made, how solar cell performance is evaluated, and the photovoltaic technologies that are currently on the market and/or under development. Using thermodynamics, materials physics, and engineering analysis we will assess and critique the potential and drawbacks of modern photovoltaic technologies, including single- and multi- crystalline silicon, tandem cells, CdTe, CIGS, PVT, bulk heterojunctions (organic), Graetzel cells, nanostructure-based, and third generation PV. ",
+    "instructors": [
+        "Ertekin, E",
+        "Wang, X",
+        "Lee, C"
+    ],
+    "prereq": [
+        "PHYS 212",
+        "ME 330"
+    ]
+}

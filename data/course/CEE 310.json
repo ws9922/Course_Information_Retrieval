@@ -1,0 +1,15 @@
+{
+    "title": "CEE 310",
+    "names": "Transportation Engineering",
+    "credit": "3 hours.",
+    "intro": "Design, planning, operation, management, and maintenance of transportation systems; integrated multi-modal transportation systems (highways, air, rail, etc.); layout of highways, airports, and railroads with traffic flow models, capacity analysis, and safety. Design of facilities and systems with life cycle costing procedures and criteria for optimization. ",
+    "instructors": [
+        "Lehe, L",
+        "Feng, B",
+        "Tutumluer, E"
+    ],
+    "prereq": [
+        "TAM 251",
+        "CEE 202"
+    ]
+}

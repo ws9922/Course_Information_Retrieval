@@ -1,0 +1,10 @@
+{
+    "title": "CS 540",
+    "names": "Deep Learning Theory",
+    "credit": "4 hours.",
+    "intro": "A rigorous mathematical course covering foundational analyses of the approximation, optimization, and generalization properties of Deep Neural Networks. Topics include: constructive and non-constructive approximations with one hidden layer; benefits of depth; optimization in the NTK regime; maximum margin optimization outside the NTK regime; Rademacher complexity, VC dimensino, and covering number bounds for ReLU networks. Evaluation is primarily based on homeworks, with a smaller project component. The course goal is to prepare students perform their own research in the field. ",
+    "instructors": [
+        "Telgarsky, M"
+    ],
+    "prereq": []
+}

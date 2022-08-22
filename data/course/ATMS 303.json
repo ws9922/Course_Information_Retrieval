@@ -1,0 +1,14 @@
+{
+    "title": "ATMS 303",
+    "names": "Synoptic-Dynamic Wea Analysis",
+    "credit": "4 hours.",
+    "intro": "Conceptualizes the structure and dynamics of the atmosphere through interpretation and analysis of weather charts, time and cross sections, soundings, and forecast products. Students develop case studies of weather system structure, and participate in discussions of weather processes as depicted by weather maps. Depiction of atmospheric kinematic and dynamic processes on weather charts is emphasized. Students learn conceptual models of the structure of mid-latitude cyclones and convective weather systems, including cyclogenesis, frontogenesis, the process of storm intensification, occlusion and frontolysis. ",
+    "instructors": [
+        "Gray, K",
+        "Frame, J"
+    ],
+    "prereq": [
+        "ATMS 201",
+        "MATH 241"
+    ]
+}

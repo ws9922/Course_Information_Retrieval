@@ -1,0 +1,10 @@
+{
+    "title": "FIN 566",
+    "names": "Algorithmic Market Microstructure",
+    "credit": "4 hours.",
+    "intro": "This course introduces the modern theoretical, empirical and institutional foundations of market microstructure and trading activity, with an emphasis on applications to algorithmic and high-frequency trading. The first part of the course addresses market microstructure and the algorithmic implementation of traditional microstructure-inspired tasks such as minimizing execution costs. The second part of the course proceeds to examine actual algorithmic strategies, and ultimately high-frequency trading. Recurrent themes throughout the course will be the use of economic theory to simplify computationally challenging problems, and the use of theory-driven structural models to construct more robust trading algorithms. ",
+    "instructors": [
+        "Lariviere, D"
+    ],
+    "prereq": []
+}

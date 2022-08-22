@@ -1,0 +1,12 @@
+{
+    "title": "CEE 360",
+    "names": "Structural Engineering",
+    "credit": "3 hours.",
+    "intro": "Analysis, behavior, and design of trusses and framed structures under static loads; member forces in trusses, shear and moment diagrams, deflections, simple applications of the force method and slope-deflection; computer applications. ",
+    "instructors": [
+        "Yan, J"
+    ],
+    "prereq": [
+        "TAM 251"
+    ]
+}

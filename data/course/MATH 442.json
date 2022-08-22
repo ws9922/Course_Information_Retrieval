@@ -1,0 +1,15 @@
+{
+    "title": "MATH 442",
+    "names": "Intro Partial Diff Equations",
+    "credit": "3 OR 4 hours.",
+    "intro": "Introduces partial differential equations, emphasizing the wave, diffusion and potential (Laplace) equations. Focuses on understanding the physical meaning and mathematical properties of solutions of partial differential equations. Includes fundamental solutions and transform methods for problems on the line, as well as separation of variables using orthogonal series for problems in regions with boundary. Covers convergence of Fourier series in detail. ",
+    "instructors": [
+        "Tumanov, A"
+    ],
+    "prereq": [
+        "MATH 284",
+        "MATH 285",
+        "MATH 286",
+        "MATH 441"
+    ]
+}

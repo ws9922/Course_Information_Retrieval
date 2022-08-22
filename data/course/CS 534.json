@@ -1,0 +1,12 @@
+{
+    "title": "CS 534",
+    "names": "Advanced Topics in Computer Architecture",
+    "credit": "4 hours.",
+    "intro": "Current topics in computer architecture, selected from areas of current research such as: energy efficiency, processing in memory, cloud computing, 3-D architectures, security and privacy, hardware and software resiliency, cross-stack design, heterogeneous platforms, approximate computing, mobile computing, machine learning accelerators, and novel computing technologies. ",
+    "instructors": [
+        "Torrellas, J"
+    ],
+    "prereq": [
+        "CS 433"
+    ]
+}

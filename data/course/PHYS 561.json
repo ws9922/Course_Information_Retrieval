@@ -1,0 +1,13 @@
+{
+    "title": "PHYS 561",
+    "names": "Condensed Matter Physics II",
+    "credit": "4 hours.",
+    "intro": "Hartree-Fock theory and electron-electron interactions; electron-phonon interactions; electron dynamics and transport; BCS theory of superconductivity; elastic properties; thermal properties due to anharmonicity; defects in solids. ",
+    "instructors": [
+        "Phillips, P"
+    ],
+    "prereq": [
+        "PHYS 560",
+        "PHYS 581"
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "title": "PHYS 222",
+    "names": "Enrichment E & M",
+    "credit": "1 hours.",
+    "intro": "Supplement to PHYS 212 with a collaborative group learning approach to improving conceptual understanding and problem solving in introductory calculus-based electricity & magnetism. ",
+    "instructors": [
+        "Doolittle, B"
+    ],
+    "prereq": [
+        "PHYS 100",
+        "PHYS 212"
+    ]
+}

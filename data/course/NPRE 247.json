@@ -1,0 +1,14 @@
+{
+    "title": "NPRE 247",
+    "names": "Modeling Nuclear Energy System",
+    "credit": "3 hours.",
+    "intro": "Applications of elementary nuclear physics in nuclear engineering. Nuclear reactor materials and components. Steady-state and transient operation of nuclear reactors. Nuclear energy removal and conversion. Radiation shielding. ",
+    "instructors": [
+        "Kozlowski, T"
+    ],
+    "prereq": [
+        "PHYS 211",
+        "CS 101",
+        "MATH 285"
+    ]
+}

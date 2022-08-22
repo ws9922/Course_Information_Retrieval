@@ -1,0 +1,14 @@
+{
+    "title": "CHEM 532",
+    "names": "Physical Organic Chemistry",
+    "credit": "4 hours.",
+    "intro": "Advanced survey of physical organic chemistry. The emphasis is on structure and bonding in organic compounds; scope of reaction mechanisms, including reactive intermediates and how these mechanisms and intermediates are studied; and writing reasonable organic reaction mechanisms. ",
+    "instructors": [
+        "van der Donk, W",
+        "Trzupek, T"
+    ],
+    "prereq": [
+        "CHEM 332",
+        "CHEM 436"
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "title": "IE 529",
+    "names": "Stats of Big Data & Clustering",
+    "credit": "4 hours.",
+    "intro": "This course will cover various foundational topics in data science. Parametric and non-parametric methods. Hypothesis testing; Regression; Classification; Dimension reduction; and Regularization. Unsupervised and semi-supervised learning, along with a few case studies. ",
+    "instructors": [
+        "Beck, C"
+    ],
+    "prereq": [
+        "MATH 415",
+        "IE 300"
+    ]
+}

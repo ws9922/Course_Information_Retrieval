@@ -1,0 +1,14 @@
+{
+    "title": "STAT 426",
+    "names": "Statistical Modeling II",
+    "credit": "3 OR 4 hours.",
+    "intro": "This is a continuation in the study of advanced statistical modeling techniques with a focus on categorical data. The course explores logistic regression, generalized linear models, goodness-of-fit, link functions, count regression, log-linear models, probability models for contingency tables, and ordinal response models. Statistical computing is an integral part of the course. ",
+    "instructors": [
+        "Simpson, D",
+        "Bravo De Guenni, L"
+    ],
+    "prereq": [
+        "STAT 410",
+        "STAT 425"
+    ]
+}

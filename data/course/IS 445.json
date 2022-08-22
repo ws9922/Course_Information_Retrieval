@@ -1,0 +1,11 @@
+{
+    "title": "IS 445",
+    "names": "Data Visualization",
+    "credit": "3 OR 4 hours.",
+    "intro": "Data visualization is crucial to conveying information drawn from models, observations or investigations. This course will provide an overview of historical and modern techniques for visualizing data, drawing on quantitative, statistical, and network-focused datasets. Topics will include construction of communicative visualizations, the modern software ecosystem of visualization, and techniques for aggregation and interpretation of data through visualization. Particular attention will be paid to the Python ecosystem and multi-dimensional quantitative datasets. ",
+    "instructors": [
+        "Naiman, J",
+        "Turk, M"
+    ],
+    "prereq": []
+}

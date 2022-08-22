@@ -1,0 +1,17 @@
+{
+    "title": "ECE 206",
+    "names": "Electrical and Electronic Circuits Lab",
+    "credit": "1 hours.",
+    "intro": "Laboratory experiments in digital logic and controllers; transistor amplifier and switching circuits; DC motor control and voltage regulators; sensors and motion control with feedback; wireless communication. ",
+    "instructors": [
+        "Li, Y",
+        "Liu, J",
+        "Link, S",
+        "Cheng, Z",
+        "Wang, Q",
+        "Kang, J"
+    ],
+    "prereq": [
+        "ECE 205"
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "title": "CS 242",
+    "names": "Programming Studio",
+    "credit": "3 hours.",
+    "intro": "Intensive programming lab intended to strengthen skills in programming. ",
+    "instructors": [
+        "Woodley, M"
+    ],
+    "prereq": [
+        "CS 241"
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "title": "ACE 564",
+    "names": "Applied Regression Models II",
+    "credit": "2 hours.",
+    "intro": "Application of multiple regression methods to problems in agricultural and consumer economics with emphasis on extensions to the simple, two-variable regression model, development of the multiple regression model; and problems created by violations of basic model assumptions. ",
+    "instructors": [
+        "Tsay, J",
+        "Paulson, N"
+    ],
+    "prereq": [
+        "ACE 562"
+    ]
+}

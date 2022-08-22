@@ -1,0 +1,14 @@
+{
+    "title": "IB 462",
+    "names": "Mammalogy",
+    "credit": "4 hours.",
+    "intro": "Classification, distribution, structure, function, life history, evolution and identification of mammals. Lecture/discussions, laboratory and field work. The laboratory includes vertebrate dissection. ",
+    "instructors": [
+        "Wagnon, C",
+        "Miller, D"
+    ],
+    "prereq": [
+        "IB 202",
+        "IB 203"
+    ]
+}

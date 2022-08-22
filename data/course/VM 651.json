@@ -1,0 +1,12 @@
+{
+    "title": "VM 651",
+    "names": "Small Animal Medicine and Surgery I",
+    "credit": "4.5 hours.",
+    "intro": "Teaches the practice of Small Animal Medicine and Surgery in cardiology, respiratory diseases, reproduction, anesthesiology, and neonatology. Surgery and Theriogenology laboratories occur throughout this course and the companion course VM 652. ",
+    "instructors": [
+        "AL1"
+    ],
+    "prereq": [
+        "VM 608"
+    ]
+}

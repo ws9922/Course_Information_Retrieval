@@ -1,0 +1,15 @@
+{
+    "title": "ME 487",
+    "names": "MEMS-NEMS Theory & Fabrication",
+    "credit": "4 hours.",
+    "intro": "Physical and chemical theory, design, and hands-on fabrication of micro- and nano-electromechanical systems (MEMS and NEMS); cleanroom fabrication theory, including general cleanroom safety, lithography, additive and subtractive processes, bulk and surface micromachining, deep reactive ion etching (DRIE), lithographic Galvanoformung Abformung (LIGA), packaging, scaling, actuators, and micro-nanofluids; fabrication of two take-home devices, such as piezoresistive sensors and microfluidic logic chips, that demonstrate advanced fabrication processing. ",
+    "instructors": [
+        "Chang, H",
+        "Mahmud, R",
+        "Sultana, P",
+        "Bahl, G"
+    ],
+    "prereq": [
+        "PHYS 212"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "title": "CS 225",
+    "names": "Data Structures",
+    "credit": "4 hours.",
+    "intro": "Data abstractions: elementary data structures (lists, stacks, queues, and trees) and their implementation using an object-oriented programming language. Solutions to a variety of computational problems such as search on graphs and trees. Elementary analysis of algorithms. ",
+    "instructors": [
+        "Evans, C"
+    ],
+    "prereq": [
+        "CS 125",
+        "ECE 220",
+        "CS 173",
+        "MATH 213",
+        "MATH 347",
+        "MATH 412",
+        "MATH 413"
+    ]
+}

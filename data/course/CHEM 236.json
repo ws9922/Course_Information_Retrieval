@@ -1,0 +1,21 @@
+{
+    "title": "CHEM 236",
+    "names": "Fundamental Organic Chem I",
+    "credit": "4 hours.",
+    "intro": "Fundamental structural, synthetic, and mechanistic organic chemistry is presented. For students whose major is chemistry or for those in the specialized curricula in chemistry or chemical engineering. The first term of a two-term integrated sequence (to be followed by CHEM 436). This lecture course is intended to accompany CHEM 237. ",
+    "instructors": [
+        "Polanek, M",
+        "Orea, D",
+        "Albright, S",
+        "Keeton, C",
+        "Klaine, S",
+        "Chan, J"
+    ],
+    "prereq": [
+        "CHEM 236",
+        "CHEM 232",
+        "CHEM 104",
+        "CHEM 204",
+        "CHEM 222"
+    ]
+}

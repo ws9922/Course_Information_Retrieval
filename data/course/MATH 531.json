@@ -1,0 +1,14 @@
+{
+    "title": "MATH 531",
+    "names": "Analytic Theory of Numbers I",
+    "credit": "4 hours.",
+    "intro": "Problems in number theory treated by methods of analysis; arithmetic functions, Dirichlet series, Riemann zeta function, L-functions, Dirichlet's theorem on primes in progressions, the prime number theorem. ",
+    "instructors": [
+        "Thorner, J"
+    ],
+    "prereq": [
+        "MATH 448",
+        "MATH 417",
+        "MATH 453"
+    ]
+}

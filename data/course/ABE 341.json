@@ -1,0 +1,18 @@
+{
+    "title": "ABE 341",
+    "names": "Transport Processes in ABE",
+    "credit": "3 hours.",
+    "intro": "Principles of transport processes involving momentum, heat, and mass as applied to biological systems in agriculture, food, energy, and the environment. ",
+    "instructors": [
+        "11:00AM - 11:50AM"
+    ],
+    "prereq": [
+        "ABE 341",
+        "CHBE 421",
+        "ABE 223",
+        "ABE 224",
+        "ABE 225",
+        "ABE 226",
+        "PHYS 213"
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "title": "MATH 547",
+    "names": "Banach Spaces",
+    "credit": "4 hours.",
+    "intro": "Basic properties and fundamental theorems of Banach spaces and bounded linear maps, trace duality, absolutely summing maps, local theory, type and cotype, probabilistic techniques in Banach spaces, and further topics depending on the instructor. ",
+    "instructors": [
+        "Junge, M"
+    ],
+    "prereq": [
+        "MATH 541"
+    ]
+}

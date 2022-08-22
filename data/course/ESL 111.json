@@ -1,0 +1,23 @@
+{
+    "title": "ESL 111",
+    "names": "Intro to Academic Writing I",
+    "credit": "3 hours.",
+    "intro": "Introduction to the process of writing: fundamentals of paragraph development: analysis of rhetorical patterns: development of oral skills. This course is the first term of a two-term sequence (ESL 111-ESL 112) that fulfills the campus Composition I general education requirement. ",
+    "instructors": [
+        "Bednarz, A",
+        "Gumus, M",
+        "Pan, Y",
+        "Zalesov, S",
+        "Bandy, S",
+        "Gomez Cayapu, R",
+        "Faivre, S",
+        "Al Bulushi, Z",
+        "Dold, C",
+        "Buonomo, E",
+        "Krokhmal, A"
+    ],
+    "prereq": [
+        "ESL 111",
+        "ESL 115"
+    ]
+}

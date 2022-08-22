@@ -1,0 +1,12 @@
+{
+    "title": "STAT 553",
+    "names": "Probability and Measure I",
+    "credit": "4 hours.",
+    "intro": "Measures and probabilities; integration and expectation; convergence theorems and inequalities for integrals and expectations; independence; convergence in probability, almost surely, and mean; Three Series Theorem; laws of large numbers. ",
+    "instructors": [
+        "Chen, X"
+    ],
+    "prereq": [
+        "MATH 447"
+    ]
+}

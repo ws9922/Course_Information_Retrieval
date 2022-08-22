@@ -1,0 +1,14 @@
+{
+    "title": "ASTR 310",
+    "names": "Computing in Astronomy",
+    "credit": "3 hours.",
+    "intro": "An introduction to the use of computers in astrophysics research. Topics covered include a basic introduction to computing hardware concepts, Unix shell commands, programming in Python, data structures, astronomical libraries, modern software engineering concepts and tools, plotting and visualization of data, and fundamental numerical algorithms. Applications and examples drawn from astrophysics are stressed throughout. ",
+    "instructors": [
+        "Narayan, G"
+    ],
+    "prereq": [
+        "PHYS 211",
+        "MATH 220",
+        "ASTR 210"
+    ]
+}

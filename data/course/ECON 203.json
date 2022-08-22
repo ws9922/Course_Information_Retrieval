@@ -1,0 +1,21 @@
+{
+    "title": "ECON 203",
+    "names": "Economic Statistics II",
+    "credit": "3 hours.",
+    "intro": "Continuation of ECON 202. Builds upon point and interval estimation as well as hypothesis testing skills first introduced in ECON 202. Utilizes a practical project format to extend the student skill set to include simple and multiple linear regression and time series techniques. Students will: Understand the relevance of statistics in their future course-work and professions; Be trained to identify the proper statistical technique to apply to a problem; Be adept at finding the answers to statistical queries using excel; Be able to properly interpret the results of their analysis. ",
+    "instructors": [
+        "Yang, Y",
+        "Singh, L",
+        "Ghosh, A",
+        "Arvin-Rad, H",
+        "Martinez Garcia, H"
+    ],
+    "prereq": [
+        "ECON 203",
+        "ECON 202",
+        "ECON 202",
+        "MATH 220",
+        "MATH 221",
+        "MATH 234"
+    ]
+}

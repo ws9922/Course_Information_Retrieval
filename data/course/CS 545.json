@@ -1,0 +1,15 @@
+{
+    "title": "CS 545",
+    "names": "Machine Learning for Signal Processing",
+    "credit": "4 hours.",
+    "intro": "Fundamentals of machine learning and signal processing as they pertain to the development of machines that can understand complex real-world signals, such as speech, images, movies, music, biological and mechanical readings, etc. Hands-on examples of how to decompose, analyze, classify, detect and consolidate signals, and examine various commonplace operations such as finding faces from camera feeds, organizing personal music collections, designing speech dialog systems and understanding movie content. ",
+    "instructors": [
+        "Smaragdis, P"
+    ],
+    "prereq": [
+        "MATH 415",
+        "CS 361",
+        "MATH 461",
+        "STAT 400"
+    ]
+}

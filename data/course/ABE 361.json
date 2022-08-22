@@ -1,0 +1,13 @@
+{
+    "title": "ABE 361",
+    "names": "Off-Road Machine Design",
+    "credit": "3 hours.",
+    "intro": "Design and development concepts of agricultural and industrial machines; analysis and synthesis of tillage, planting, harvesting, chemical application, material handling mechanisms, and precision farming tools. ",
+    "instructors": [
+        "09:00AM - 09:50AM"
+    ],
+    "prereq": [
+        "ABE 223",
+        "TAM 212"
+    ]
+}

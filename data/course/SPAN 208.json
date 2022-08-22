@@ -1,0 +1,17 @@
+{
+    "title": "SPAN 208",
+    "names": "Oral Spanish",
+    "credit": "3 hours.",
+    "intro": "Practice in speaking Spanish. ",
+    "instructors": [
+        "Bedialauneta Txurruka, I",
+        "Henshaw, F",
+        "Fernandez Doig, F",
+        "Nuila, E"
+    ],
+    "prereq": [
+        "SPAN 141",
+        "SPAN 142",
+        "SPAN 204"
+    ]
+}

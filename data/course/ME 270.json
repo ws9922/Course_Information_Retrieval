@@ -1,0 +1,18 @@
+{
+    "title": "ME 270",
+    "names": "Design for Manufacturability",
+    "credit": "3 hours.",
+    "intro": "Introduction to DFM methodologies and tools; material selection (new and traditional materials); designing for primary manufacturing processes (cutting fundamentals, casting, forming, and shaping); designing with plastics (snap-fits, integral hinges, etc.); design for assembly (DFA); geometric dimensioning and tolerancing (GD&T). ",
+    "instructors": [
+        "Flachsbart, B",
+        "Dancholvichit, N",
+        "Hsieh, E",
+        "Loud, I",
+        "Zou, H",
+        "Guo, Z",
+        "Lee, C"
+    ],
+    "prereq": [
+        "ME 170"
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "title": "FSHN 414",
+    "names": "Food Chemistry",
+    "credit": "3 hours.",
+    "intro": "Examines the chemical aspects of major food components; water, carbohydrates, proteins, and lipids; properties of pigments, salts, and food dispersions. Undergraduate Food Science majors must enroll concurrently in FSHN 416. ",
+    "instructors": [
+        "Bohn, D",
+        "Demejia, E",
+        "Schmidt, S",
+        "Engeseth, N"
+    ],
+    "prereq": [
+        "CHEM 232"
+    ]
+}

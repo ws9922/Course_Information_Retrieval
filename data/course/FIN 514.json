@@ -1,0 +1,12 @@
+{
+    "title": "FIN 514",
+    "names": "Valuation of Complex Derivative Securities",
+    "credit": "4 hours.",
+    "intro": "Presents the main ideas and techniques of modern option pricing theory, including: the Black-Scholes-Merton analysis; risk-neutral probabilities and the probabilistic solution; numerical techniques for computing option prices; an introduction to term structure modeling; and perhaps other topics, at the discretion of the instructor. ",
+    "instructors": [
+        "Widdicks, M"
+    ],
+    "prereq": [
+        "FIN 513"
+    ]
+}

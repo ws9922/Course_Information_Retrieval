@@ -1,0 +1,12 @@
+{
+    "title": "PHYS 582",
+    "names": "General Field Theory",
+    "credit": "4 hours.",
+    "intro": "Standard techniques of field theory as used by experimenters and theorists; relativistic quantum mechanics of a single particle; Lagrangian field theories, perturbation theory, and calculation of lowest-order processes; introduction to Feynman diagrams and higher order processes; examples taken from quantum electrodynamics, solid-state and elementary particle physics, and many-body theory. ",
+    "instructors": [
+        "Fradkin, E"
+    ],
+    "prereq": [
+        "PHYS 581"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "title": "MATH 213",
+    "names": "Basic Discrete Mathematics",
+    "credit": "3 hours.",
+    "intro": "Beginning course on discrete mathematics, including sets and relations, functions, basic counting techniques, recurrence relations, graphs and trees, and matrix algebra; emphasis throughout is on algorithms and their efficacy. ",
+    "instructors": [
+        "Ivanov, S",
+        "Kirr, E"
+    ],
+    "prereq": [
+        "MATH 213",
+        "CS 173",
+        "MATH 220",
+        "MATH 221"
+    ]
+}

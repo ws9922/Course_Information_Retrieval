@@ -1,0 +1,15 @@
+{
+    "title": "ECE 417",
+    "names": "Multimedia Signal Processing",
+    "credit": "4 hours.",
+    "intro": "Characteristics of speech and image signals; important analysis and synthesis tools for multimedia signal processing including subspace methods, Bayesian networks, hidden Markov models, and factor graphs; applications to biometrics (person identification), human-computer interaction (face and gesture recognition and synthesis), and audio-visual databases (indexing and retrieval). Emphasis on a set of MATLAB machine problems providing hands-on experience. ",
+    "instructors": [
+        "Hasegawa-Johnson, M"
+    ],
+    "prereq": [
+        "ECE 310",
+        "ECE 401",
+        "ECE 313",
+        "STAT 400"
+    ]
+}

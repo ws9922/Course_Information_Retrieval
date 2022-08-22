@@ -1,0 +1,12 @@
+{
+    "title": "CEE 461",
+    "names": "Reinforced Concrete I",
+    "credit": "3 hours.",
+    "intro": "Strength, behavior, and design of reinforced concrete members subjected to moments, shear, and axial forces; emphasis on the influence of the material properties on behavior. ",
+    "instructors": [
+        "LaFave, J"
+    ],
+    "prereq": [
+        "CEE 360"
+    ]
+}

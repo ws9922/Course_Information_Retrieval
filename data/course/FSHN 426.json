@@ -1,0 +1,14 @@
+{
+    "title": "FSHN 426",
+    "names": "Biochemical Nutrition I",
+    "credit": "3 hours.",
+    "intro": "The dietary and hormonal regulation of carbohydrate, lipid and amino acid metabolism. Emphasizes the regulation of enzyme activity and the different roles the major organs have in whole animal energy balance. ",
+    "instructors": [
+        "Pan, Y"
+    ],
+    "prereq": [
+        "FSHN 220",
+        "FSHN 120",
+        "FSHN 414"
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "title": "ME 320",
+    "names": "Heat Transfer",
+    "credit": "4 hours.",
+    "intro": "Principles and application of heat transfer by conduction, convection, and thermal radiation. ",
+    "instructors": [
+        "Zhang, Y",
+        "Patel, P",
+        "Glumac, N",
+        "Ghaddar, D",
+        "Wang, Y",
+        "Nimmagadda, L",
+        "Smith, K",
+        "Rahat, N",
+        "Do, Q",
+        "Bonagiri, L"
+    ],
+    "prereq": [
+        "MATH 285",
+        "MATH 286",
+        "MATH 441",
+        "ME 310",
+        "TAM 335",
+        "ME 200"
+    ]
+}

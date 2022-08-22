@@ -1,0 +1,10 @@
+{
+    "title": "CS 400",
+    "names": "Accelerated Fundamentals of Computing I",
+    "credit": "3 hours.",
+    "intro": "The first class in a sequence of two classes that introduces students to the basic concepts in computing with an emphasis on the fundamental techniques for solving computational problems. Topics include: core programming concepts (variables, data types, conditional expressions, loops, functions), basic data structures, searching and sorting algorithms, and data exploration and visualization. No prior programming experience is required. ",
+    "instructors": [
+        "Williams, T"
+    ],
+    "prereq": []
+}

@@ -1,0 +1,13 @@
+{
+    "title": "ENGL 255",
+    "names": "Early American Literature and Culture",
+    "credit": "3 hours.",
+    "intro": "This large-scale survey course offers students background in a wide range of genres, authors, and texts, focusing on \"early American literature,\" which ranges from pre-Columbian indigenous narratives to nineteenth century novels, poems, and plays. The material studied ranges across multiple centuries and continents, and includes a wide variety of racial, ethnic, and gendered perspectives. Writers may include Christopher Columbus, Anne Bradstreet, Benjamin Franklin, Phillis Wheatley, William Apess, Nathaniel Hawthorne, Edgar Allan Poe, Frederick Douglass, Henry David Thoreau, Herman Melville, Harriet Jacobs, Walt Whitman, and Emily Dickinson. ",
+    "instructors": [
+        "Schmidt, A",
+        "Jones, J"
+    ],
+    "prereq": [
+        "ENGL 200"
+    ]
+}

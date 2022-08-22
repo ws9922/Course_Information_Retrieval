@@ -1,0 +1,13 @@
+{
+    "title": "CEE 421",
+    "names": "Construction Planning",
+    "credit": "3 OR 4 hours.",
+    "intro": "Project definition; scheduling and control models; material, labor, and equipment allocation; optimal schedules; project organization; documentation and reporting systems; management and control. ",
+    "instructors": [
+        "El-Rayes, K",
+        "Hassan, A"
+    ],
+    "prereq": [
+        "CEE 320"
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "title": "MATH 423",
+    "names": "Differential Geometry",
+    "credit": "3 OR 4 hours.",
+    "intro": "Applications of the calculus to the study of the shape and curvature of curves and surfaces; introduction to vector fields, differential forms on Euclidean spaces, and the method of moving frames for low- dimensional differential geometry. ",
+    "instructors": [
+        "Hirani, A"
+    ],
+    "prereq": [
+        "MATH 241"
+    ]
+}

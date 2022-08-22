@@ -1,0 +1,16 @@
+{
+    "title": "STAT 100",
+    "names": "Statistics",
+    "credit": "3 hours.",
+    "intro": "First course in probability and statistics at a precalculus level; emphasizes basic concepts, including descriptive statistics, elementary probability, estimation, and hypothesis testing in both nonparametric and normal models. ",
+    "instructors": [
+        "Flanagan, K"
+    ],
+    "prereq": [
+        "STAT 100",
+        "ECON 202",
+        "PSYC 235",
+        "SOC 485",
+        "MATH 112"
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "title": "ECE 316",
+    "names": "Ethics and Engineering",
+    "credit": "3 hours.",
+    "intro": "Ethical issues in the practice of engineering: safety and liability, professional responsibility to clients and employers, whistle-blowing, codes of ethics, career choice, and legal obligations. Philosophical analysis of normative ethical theories. Case studies. ",
+    "instructors": [
+        "Hillmer, P"
+    ],
+    "prereq": [
+        "ECE 316",
+        "CS 210",
+        "CS 211",
+        "RHET 105"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "title": "CS 421",
+    "names": "Programming Languages & Compilers",
+    "credit": "3 OR 4 hours.",
+    "intro": "Structure of programming languages and their implementation. Basic language design principles; abstract data types; functional languages; type systems; object-oriented languages. Basics of lexing, parsing, syntax-directed translation, semantic analysis, and code generation. ",
+    "instructors": [
+        "Gunter, E"
+    ],
+    "prereq": [
+        "CS 233",
+        "CS 240",
+        "CS 374",
+        "MATH 225",
+        "MATH 257",
+        "MATH 415",
+        "MATH 416",
+        "ASRM 406"
+    ]
+}

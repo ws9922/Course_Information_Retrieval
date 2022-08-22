@@ -1,0 +1,21 @@
+{
+    "title": "SE 320",
+    "names": "Control Systems",
+    "credit": "4 hours.",
+    "intro": "Fundamental control systems and control systems technology. Sensors, actuators, modeling of physical systems, design and implementation of feedback controllers; operational techniques used in describing, analyzing and designing linear continuous systems; Laplace transforms; response via transfer functions; stability; performance specifications; controller design via transfer functions; frequency response; simple nonlinearities. ",
+    "instructors": [
+        "Love, J",
+        "Leon, V",
+        "Etesami, S",
+        "Chan, A"
+    ],
+    "prereq": [
+        "SE 320",
+        "AE 353",
+        "ME 340",
+        "CS 101",
+        "MATH 285",
+        "TAM 212",
+        "ECE 211"
+    ]
+}

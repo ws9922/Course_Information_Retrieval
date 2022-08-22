@@ -1,0 +1,15 @@
+{
+    "title": "ECE 401",
+    "names": "Signal and Image Analysis",
+    "credit": "4 hours.",
+    "intro": "An introduction to signal analysis and processing methods for advanced undergraduates or graduate students in the biological, physical, social, engineering and computer sciences. Signal analysis methods and their capabilities, weaknesses, and artifacts with an emphasis on their practical application. Significant hands-on processing and interpretation of real data using MATLAB. ",
+    "instructors": [
+        "Hasegawa-Johnson, M",
+        "01:00PM - 01:50PM"
+    ],
+    "prereq": [
+        "ECE 310",
+        "ECE 401",
+        "MATH 220"
+    ]
+}

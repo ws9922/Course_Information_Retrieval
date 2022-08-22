@@ -1,0 +1,16 @@
+{
+    "title": "MATH 447",
+    "names": "Real Variables",
+    "credit": "3 OR 4 hours.",
+    "intro": "Careful development of elementary real analysis for those who intend to take graduate courses in Mathematics. Topics include completeness property of the real number system; basic topological properties of n-dimensional space; convergence of numerical sequences and series of functions; properties of continuous functions; and basic theorems concerning differentiation and Riemann integration. ",
+    "instructors": [
+        "Oikhberg, T"
+    ],
+    "prereq": [
+        "MATH 447",
+        "MATH 444",
+        "MATH 241",
+        "MATH 347",
+        "MATH 348"
+    ]
+}

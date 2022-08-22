@@ -1,0 +1,22 @@
+{
+    "title": "ASRM 461",
+    "names": "Loss Models",
+    "credit": "3 hours.",
+    "intro": "Foundation in the actuarial modeling process; construction, selection and validation of empirical models and parametric models. Also covers survival, severity, frequency and aggregate loss models; statistical methods to estimate model parameters. ",
+    "instructors": [
+        "Freiji, C"
+    ],
+    "prereq": [
+        "ASRM 461",
+        "MATH 478",
+        "ASRM 561",
+        "MATH 568",
+        "ASRM 401",
+        "MATH 408",
+        "MATH 461",
+        "MATH 463",
+        "ASRM 402",
+        "MATH 409",
+        "MATH 464"
+    ]
+}

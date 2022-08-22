@@ -1,0 +1,15 @@
+{
+    "title": "TAM 551",
+    "names": "Solid Mechanics I",
+    "credit": "4 hours.",
+    "intro": "Mechanics of elastic deformable bodies, based on the fundamental concepts of modern continuum mechanics: kinematics, balance laws, constitutive equations; classical small-deformation theory; formulation of initial boundary-value problems of linear elastodynamics and boundary-value problems of linear elastostatics; variational formulations, minimum principles; applications of theory to engineering problems. ",
+    "instructors": [
+        "Vijayvargia, K",
+        "Sofronis, P"
+    ],
+    "prereq": [
+        "MATH 285",
+        "MATH 286",
+        "MATH 441"
+    ]
+}

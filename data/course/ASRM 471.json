@@ -1,0 +1,15 @@
+{
+    "title": "ASRM 471",
+    "names": "Life Contingencies I",
+    "credit": "4 hours.",
+    "intro": "Distribution of the time-to-death random variable for a single life, and its implications for evaluations of insurance and annuity functions, net premiums, and reserves. ",
+    "instructors": [
+        "Cole, P"
+    ],
+    "prereq": [
+        "ASRM 401",
+        "MATH 408",
+        "ASRM 210",
+        "MATH 210"
+    ]
+}

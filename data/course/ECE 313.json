@@ -1,0 +1,17 @@
+{
+    "title": "ECE 313",
+    "names": "Probability with Engrg Applic",
+    "credit": "3 hours.",
+    "intro": "Probability theory with applications to engineering problems such as the reliability of circuits and systems to statistical methods for hypothesis testing, decision making under uncertainty, and parameter estimation. ",
+    "instructors": [
+        "Milenkovic, O",
+        "Baryshnikov, Y",
+        "Han, A"
+    ],
+    "prereq": [
+        "ECE 313",
+        "MATH 461",
+        "MATH 286",
+        "MATH 415"
+    ]
+}

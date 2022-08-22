@@ -1,0 +1,14 @@
+{
+    "title": "CHEM 534",
+    "names": "Advanced Organic Synthesis",
+    "credit": "4 hours.",
+    "intro": "Advanced survey of organic chemistry with emphasis on synthesis of organic compounds. Course content includes survey of important synthetic reactions, construction of fundamental subunits and illustrations of strategy and synthetic analysis. ",
+    "instructors": [
+        "Sarlah, D",
+        "Davis, C"
+    ],
+    "prereq": [
+        "CHEM 332",
+        "CHEM 436"
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "title": "ECE 395",
+    "names": "Advanced Digital Projects Lab",
+    "credit": "2 OR 3 hours.",
+    "intro": "Planning, designing, executing, and documenting a microcomputer-based project. Emphasis on hardware but special projects may require an equal emphasis on software. ",
+    "instructors": [
+        "04:00PM - 04:50PM"
+    ],
+    "prereq": [
+        "ECE 385"
+    ]
+}

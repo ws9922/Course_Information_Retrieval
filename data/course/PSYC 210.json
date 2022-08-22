@@ -1,0 +1,16 @@
+{
+    "title": "PSYC 210",
+    "names": "Behavioral Neuroscience",
+    "credit": "3 hours.",
+    "intro": "Survey of current knowledge and speculation regarding the brain's role in perception, motivation, sexual behavior, thinking, memory, and learning, based upon human clinical data and research in animal models. ",
+    "instructors": [
+        "Liang, N",
+        "Hinman, J",
+        "Juraska, J",
+        "Gulley, J"
+    ],
+    "prereq": [
+        "PSYC 100",
+        "PSYC 103"
+    ]
+}

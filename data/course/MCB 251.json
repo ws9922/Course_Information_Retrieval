@@ -1,0 +1,23 @@
+{
+    "title": "MCB 251",
+    "names": "Exp Techniqs in Molecular Biol",
+    "credit": "2 hours.",
+    "intro": "Laboratory course emphasizing a range of molecular biology questions, and the experimental approaches and methodologies needed to answer these questions. Lectures will accompany labs to explain theoretical background and experimental rationale. Students who enter the University Fall 2011 or later are responsible for additional course-based tuition of $300 unless they are already paying differential tuition during the term of course enrollment. ",
+    "instructors": [
+        "Kirchner, N",
+        "Dewald, Z",
+        "Ni, C",
+        "Chakravarti, A",
+        "Phillips, A",
+        "Erlandson, A",
+        "Seeger, A",
+        "Zhang, D",
+        "Raybarman, A",
+        "Chou Zheng, L"
+    ],
+    "prereq": [
+        "MCB 251",
+        "MCB 151",
+        "MCB 250"
+    ]
+}

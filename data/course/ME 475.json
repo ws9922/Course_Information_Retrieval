@@ -1,0 +1,16 @@
+{
+    "title": "ME 475",
+    "names": "Bioinspired Design",
+    "credit": "3 OR 4 hours.",
+    "intro": "The bioinspired design course offers interdisciplinary, advanced design and critical thinking experience. Students will work in teams to integrate biological knowledge into the engineering design process. The course uses case studies to show how biological solutions can be transferred into engineering design. The case studies will include themes such as locomotion, materials, and sensing. By the end of the course, students will be able to use analogical design concepts to engineer a prototype based on biological function. ",
+    "instructors": [
+        "Othman, A",
+        "Alleyne, M",
+        "Lee, P",
+        "Wissa, A",
+        "Barley, W"
+    ],
+    "prereq": [
+        "ME 370"
+    ]
+}

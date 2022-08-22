@@ -1,0 +1,14 @@
+{
+    "title": "CHEM 297",
+    "names": "Individual Study Sophomore",
+    "credit": "1 TO 3 hours.",
+    "intro": "Individual study of problems related to chemistry or research not necessarily leading to a senior thesis. ",
+    "instructors": [],
+    "prereq": [
+        "CHEM 197",
+        "CHEM 297",
+        "CHEM 397",
+        "CHEM 497",
+        "CHEM 499"
+    ]
+}

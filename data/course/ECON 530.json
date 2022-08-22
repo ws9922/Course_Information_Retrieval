@@ -1,0 +1,14 @@
+{
+    "title": "ECON 530",
+    "names": "Microeconomic Theory I",
+    "credit": "4 hours.",
+    "intro": "Emphasizes microeconomic theory particularly theory of the consumer, theory of the firm, general equilibrium analysis and welfare analysis. Also, covers uncertainty in general equilibrium and informational economics. ",
+    "instructors": [
+        "11:00AM - 12:20PM",
+        "09:30AM - 10:50AM"
+    ],
+    "prereq": [
+        "ECON 302",
+        "ECON 303"
+    ]
+}

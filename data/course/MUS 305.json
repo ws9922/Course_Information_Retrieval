@@ -1,0 +1,16 @@
+{
+    "title": "MUS 305",
+    "names": "Computation and Music III",
+    "credit": "3 hours.",
+    "intro": "Explores designing and building music composition software. The course covers topics such as implementing musical event and container classes, functional tools for manipulating symbolic music information, score file input and output, and scheduling compositional generators to create musical output. A variety of different algorithmic techniques for computing compositions will be also explored, including mapping and transformation, musical pattern generation, Markov chains, cellular automata, chaotic systems, microtonality, and spectralism. Example course outcomes include the ability to work with midi data; import, export, and modify score files, sending data in realtime to external apps, and defining data structures to represent common musical concepts such as notes, rhythms, pitches, envelopes, patterns, etc. ",
+    "instructors": [
+        "Taube, H"
+    ],
+    "prereq": [
+        "MUS 105",
+        "MUS 205",
+        "CS 124",
+        "CS 128",
+        "CS 222"
+    ]
+}

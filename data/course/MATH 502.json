@@ -1,0 +1,12 @@
+{
+    "title": "MATH 502",
+    "names": "Commutative Algebra",
+    "credit": "4 hours.",
+    "intro": "Commutative rings and modules, prime ideals, localization, noetherian rings, primary decomposition, integral extensions and Noether normalization, the Nullstellensatz, dimension, flatness, Hensel's lemma, graded rings, Hilbert polynomial, valuations, regular rings, singularities, unique factorization, homological dimension, depth, completion. Possible further topics: smooth and etale extensions, ramification, Cohen-Macaulay modules, complete intersections. ",
+    "instructors": [
+        "Dutta, S"
+    ],
+    "prereq": [
+        "MATH 501"
+    ]
+}

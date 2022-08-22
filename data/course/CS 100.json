@@ -1,0 +1,10 @@
+{
+    "title": "CS 100",
+    "names": "Freshman Orientation",
+    "credit": "1 hours.",
+    "intro": "Introduction to Computer Science as a field and career for computer science majors. Overview of the field and specific examples of problem areas and methods of solution.",
+    "instructors": [
+        "Gunter, E"
+    ],
+    "prereq": []
+}

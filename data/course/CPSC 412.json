@@ -1,0 +1,17 @@
+{
+    "title": "CPSC 412",
+    "names": "Principles of Crop Production",
+    "credit": "3 hours.",
+    "intro": "Fundamentals in crop development and management, soil structure, management, and fertility, and how crops and soils interact are examined. Students learn how to diagnose real-world problems in fields and field crops grown in the Midwestern US, and to develop practical solutions to such problems. Prepares students to be competitive in careers within commercial crop agriculture. ",
+    "instructors": [
+        "Williams, M",
+        "Margenot, A",
+        "Mideros Mora, S",
+        "Tranel, P",
+        "Seiter, N"
+    ],
+    "prereq": [
+        "CPSC 112",
+        "NRES 201"
+    ]
+}

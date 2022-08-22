@@ -1,0 +1,17 @@
+{
+    "title": "KOR 203",
+    "names": "Intermediate Korean I",
+    "credit": "5 hours.",
+    "intro": "Continuation of KOR 202 and first semester of the second year Korean. Students practice conversations, study grammar based on conversational materials with variety of styles and levels of discourse and usage, and learn about Korean culture, to achieve intermediate-level fluency. ",
+    "instructors": [
+        "Ha, J",
+        "Choi, S",
+        "Seo, B"
+    ],
+    "prereq": [
+        "KOR 203",
+        "KOR 222",
+        "KOR 202",
+        "KOR 202"
+    ]
+}

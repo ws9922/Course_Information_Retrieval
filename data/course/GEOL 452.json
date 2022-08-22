@@ -1,0 +1,15 @@
+{
+    "title": "GEOL 452",
+    "names": "Introduction to Geophysics",
+    "credit": "4 hours.",
+    "intro": "Provides a broad overview of basic concepts and fundamental knowledge of the physics of the Earth. Topics include seismology, gravity, geomagnetism, Earth's thermal state, and geodynamics. Intended for undergraduates in the geophysics concentration and other students who want a more quantitative treatment of the subject than GEOL 450. ",
+    "instructors": [
+        "Liu, L"
+    ],
+    "prereq": [
+        "GEOL 452",
+        "GEOL 450",
+        "MATH 241",
+        "PHYS 211"
+    ]
+}

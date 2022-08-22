@@ -1,0 +1,14 @@
+{
+    "title": "SE 420",
+    "names": "Digital Control Systems",
+    "credit": "4 hours.",
+    "intro": "Theory and techniques for control of dynamic processes by digital computer; linear discrete systems, digital filters, sampling signal reconstruction, digital design, state space methods, computers, state estimators, and laboratory techniques. ",
+    "instructors": [
+        "Stipanovic, D",
+        "Block, D",
+        "Buccafusca, L"
+    ],
+    "prereq": [
+        "SE 320"
+    ]
+}

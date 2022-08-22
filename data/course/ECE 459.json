@@ -1,0 +1,13 @@
+{
+    "title": "ECE 459",
+    "names": "Communications Systems",
+    "credit": "3 hours.",
+    "intro": "Analog underpinning of analog and digital communication systems: representation of signals and systems in the time and frequency domains; analog modulation schemes; random processes; prediction and noise analysis using random processes; noise sensitivity and bandwidth requirements of modulation schemes. Brief introduction to digital communications. ",
+    "instructors": [
+        "Yang, S",
+        "Alvarez, J"
+    ],
+    "prereq": [
+        "ECE 313"
+    ]
+}

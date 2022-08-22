@@ -1,0 +1,23 @@
+{
+    "title": "MCB 250",
+    "names": "Molecular Genetics",
+    "credit": "3 hours.",
+    "intro": "Fundamentals of molecular biology including structure of DNA, RNA and proteins, mechanisms of DNA replication, transcription and translation, gene organization, genetic variation and repair, and regulation of gene expression in Bacteria, and Eukarya. Students who enter the University Fall 2011 or later are responsible for additional course-based tuition of $300 unless they are already paying differential tuition during the term of course enrollment. ",
+    "instructors": [
+        "Kirchner, N",
+        "Slauch, J",
+        "Shilikbay, T",
+        "Smith-Bolton, R",
+        "Mehta, K",
+        "Beal, J",
+        "Vereau Gorbitz, D",
+        "Gill, K",
+        "Boyle, T",
+        "Zhang, C"
+    ],
+    "prereq": [
+        "MCB 150",
+        "CHEM 102",
+        "CHEM 104"
+    ]
+}

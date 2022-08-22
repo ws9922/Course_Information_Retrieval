@@ -1,0 +1,12 @@
+{
+    "title": "ECE 517",
+    "names": "Nonlinear & Adaptive Control",
+    "credit": "4 hours.",
+    "intro": "Design of nonlinear control systems based on stability considerations; Lyapunov and hyperstability approaches to analysis and design of model reference adaptive systems; identifiers, observers, and controllers for unknown plants. ",
+    "instructors": [
+        "Liberzon, D"
+    ],
+    "prereq": [
+        "ECE 515"
+    ]
+}

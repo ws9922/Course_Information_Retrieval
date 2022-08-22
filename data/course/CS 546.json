@@ -1,0 +1,13 @@
+{
+    "title": "CS 546",
+    "names": "Advanced Topics in Natural Language Processing",
+    "credit": "4 hours.",
+    "intro": "Advanced topics in natural language processing, ranging from general techniques such as deep learning for NLP to specific topics such as information extraction, knowledge acquisition, dialogue systems, language grounding, and natural language generation. Review of classic as well as state-of-the-art techniques and remaining challenges, and exploration of recent proposals for meeting these challenges. Intended for graduate students doing research in natural language processing. ",
+    "instructors": [
+        "Ji, H"
+    ],
+    "prereq": [
+        "CS 447",
+        "CS 446"
+    ]
+}

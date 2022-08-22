@@ -1,0 +1,14 @@
+{
+    "title": "MSE 488",
+    "names": "Optical Materials",
+    "credit": "3 OR 4 hours.",
+    "intro": "Optical properties of materials of current and potential technological importance and application to devices. Applicable optics fundamentals based on Maxwell's equations. Liquid crystals for displays; photopolymers for holographic data storage; electro-optic materials for high speed light modulators; electroluminescent materials for light emitting diodes. Application of optics, materials and chemistry in design of practical devices. ",
+    "instructors": [
+        "Cao, Q",
+        "Bushell, M"
+    ],
+    "prereq": [
+        "MATH 285",
+        "PHYS 214"
+    ]
+}

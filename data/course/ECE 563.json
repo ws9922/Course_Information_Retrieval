@@ -1,0 +1,15 @@
+{
+    "title": "ECE 563",
+    "names": "Information Theory",
+    "credit": "4 hours.",
+    "intro": "Mathematical models for channels and sources; entropy, information, data compression, channel capacity, Shannon's theorems, and rate-distortion theory. ",
+    "instructors": [
+        "Shomorony, I",
+        "Shin, S"
+    ],
+    "prereq": [
+        "ECE 534",
+        "MATH 464",
+        "MATH 564"
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "title": "LAT 102",
+    "names": "Elementary Latin II",
+    "credit": "4 hours.",
+    "intro": "Grammar and reading of easy prose. ",
+    "instructors": [
+        "Traill, A",
+        "Warnement, S"
+    ],
+    "prereq": [
+        "LAT 101"
+    ]
+}

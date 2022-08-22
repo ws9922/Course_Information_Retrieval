@@ -1,0 +1,16 @@
+{
+    "title": "MSE 470",
+    "names": "Design and Use of Biomaterials",
+    "credit": "3 hours.",
+    "intro": "Characterization and use of biomaterials in medical applications. Concepts of biocompatibility in terms of structure and properties of materials and interactions between materials and proteins, cells, and tissue. Issues related to the design of biomaterials. Design of biomaterials to meet specific medical needs. ",
+    "instructors": [
+        "Wang, H",
+        "Han, J",
+        "Bhatta, R"
+    ],
+    "prereq": [
+        "MCB 252",
+        "CHEM 232",
+        "MSE 403"
+    ]
+}

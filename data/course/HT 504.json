@@ -1,0 +1,11 @@
+{
+    "title": "HT 504",
+    "names": "Software Engineering for Health Technology",
+    "credit": "4 hours.",
+    "intro": "In this course, students will be introduced to aspects of software engineering to become familiar with rapid prototyping software, programming languages, and app development tools. HT 504 surveys software engineering topics for health technology and will include exposure to and initial examination of topics. Topics may include: Integrated Development Environments (IDEs) for Android/iPhone applications; Virtual Reality (VR) Environments; Basics of AWS-Lambda functions for voice-applications; Software for Analytics and Data-analytics overview; Software for Machine-Learning; MATLAB, SIMULINK and associated packages; User Interface Compilers (UIC); JAVA; PYTHON; MATLAB; ROS; Integrative Final Course-Project. Although there is not a traditional lab associated with this class, the course will include lectures, discussion, and hands-on activity based projects. ",
+    "instructors": [
+        "Sreenivas, R",
+        "Kesavadas, T"
+    ],
+    "prereq": []
+}

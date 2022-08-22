@@ -1,0 +1,13 @@
+{
+    "title": "CHLH 578",
+    "names": "Applied Epidemiology",
+    "credit": "4 hours.",
+    "intro": "Advanced epidemiologic analysis of disease problems. Covers research designs including cohort, case-control, and intervention trials; methods of analysis including multivariate adjustment for confounding and description of effect modification; and application of statistical computer software with emphasis on chronic diseases. ",
+    "instructors": [
+        "Hoopsick, R"
+    ],
+    "prereq": [
+        "CHLH 474",
+        "PATH 517"
+    ]
+}

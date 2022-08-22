@@ -1,0 +1,12 @@
+{
+    "title": "CEE 444",
+    "names": "Env Eng Principles, Biological",
+    "credit": "4 hours.",
+    "intro": "Application of principles of biochemistry and microbiology to air and water quality, wastes, and their engineering management; biological mediated changes in water and in domestic and industrial wastewater. ",
+    "instructors": [
+        "Liu, W"
+    ],
+    "prereq": [
+        "CEE 443"
+    ]
+}

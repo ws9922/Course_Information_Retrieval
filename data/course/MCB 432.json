@@ -1,0 +1,19 @@
+{
+    "title": "MCB 432",
+    "names": "Computing in Molecular Biology",
+    "credit": "3 hours.",
+    "intro": "Examination of computational aspects of biology with an emphasis on the relationships between biological questions and their recastings as mathematical or logical problems. Topics are drawn from biochemistry, genetics, molecular sequence analysis, and molecular structure. ",
+    "instructors": [
+        "Ho, M",
+        "Padron, G"
+    ],
+    "prereq": [
+        "MCB 250",
+        "MCB 252",
+        "MCB 354",
+        "MATH 220",
+        "MATH 221",
+        "MATH 231",
+        "STAT 212"
+    ]
+}

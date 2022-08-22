@@ -1,0 +1,13 @@
+{
+    "title": "ECON 420",
+    "names": "International Economics",
+    "credit": "2 TO 4 hours.",
+    "intro": "Introduction to the theory of international trade and finance with selected application to current problems of  trade policy, balance of payments adjustment, the international monetary system, and globalization issues. ",
+    "instructors": [
+        "Arango Isaza, M"
+    ],
+    "prereq": [
+        "ECON 302",
+        "ECON 303"
+    ]
+}

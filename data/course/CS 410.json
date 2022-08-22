@@ -1,0 +1,12 @@
+{
+    "title": "CS 410",
+    "names": "Text Information Systems",
+    "credit": "3 OR 4 hours.",
+    "intro": "Theory, design, and implementation of text-based information systems. Text analysis, retrieval models (e.g., Boolean, vector space, probabilistic), text categorization, text filtering, clustering, retrieval system design and implementation, and applications to web information management. ",
+    "instructors": [
+        "Zhai, C"
+    ],
+    "prereq": [
+        "CS 225"
+    ]
+}

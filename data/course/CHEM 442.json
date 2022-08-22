@@ -1,0 +1,23 @@
+{
+    "title": "CHEM 442",
+    "names": "Physical Chemistry I",
+    "credit": "4 hours.",
+    "intro": "Lectures and problems focusing on microscopic properties. CHEM 442 and CHEM 444 constitute a year-long study of chemical principles. CHEM 442 focuses on quantum chemistry, atomic and molecular structure, spectroscopy and dynamics. ",
+    "instructors": [
+        "Hirata, S",
+        "Ajayakumar, L",
+        "Woon, D",
+        "Cloyd, M",
+        "Backlund, M"
+    ],
+    "prereq": [
+        "CHEM 442",
+        "PHYS 485",
+        "CHEM 204",
+        "CHEM 222",
+        "MATH 225",
+        "PHYS 211",
+        "PHYS 212",
+        "PHYS 214"
+    ]
+}

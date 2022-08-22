@@ -1,0 +1,12 @@
+{
+    "title": "CS 240",
+    "names": "Introduction to Computer Systems",
+    "credit": "3 hours.",
+    "intro": "Basics of computer systems. Number representations, assembly/machine language, abstract models of processors (fetch/execute, memory hierarchy), processes/process control, simple memory management, file I/O and directories, network programming, usage of cloud services. ",
+    "instructors": [
+        "Fagen-Ulmschneider, W"
+    ],
+    "prereq": [
+        "CS 225"
+    ]
+}

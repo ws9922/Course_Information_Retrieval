@@ -1,0 +1,12 @@
+{
+    "title": "FIN 517",
+    "names": "Advanced Term Structure Models",
+    "credit": "2 hours.",
+    "intro": "This class is a continuation of FIN 516 Term Structure Models. Coverage of advanced term structure models with a focus on the LIBOR Market Model (LMM). Students will learn the theory behind the model, how to calibrate the model to data and how to to develop numerical algorithms in order to implement the model to price a variety of real world interest rate products. ",
+    "instructors": [
+        "Widdicks, M"
+    ],
+    "prereq": [
+        "FIN 516"
+    ]
+}

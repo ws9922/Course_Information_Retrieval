@@ -1,0 +1,15 @@
+{
+    "title": "ASTR 404",
+    "names": "Stellar Astrophysics",
+    "credit": "3 hours.",
+    "intro": "Introduction to astrophysical problems, with emphasis on underlying physical principles; includes the nature of stars, equations of state, stellar energy generation, stellar structure and evolution, astrophysical neutrinos, binary stars, white dwarfs, neutron stars and pulsars, and novae and supernovae. ",
+    "instructors": [
+        "Fields, B"
+    ],
+    "prereq": [
+        "PHYS 212",
+        "ASTR 210",
+        "PHYS 213",
+        "PHYS 214"
+    ]
+}

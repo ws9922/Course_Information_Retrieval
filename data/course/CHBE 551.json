@@ -1,0 +1,11 @@
+{
+    "title": "CHBE 551",
+    "names": "Chemical Kinetics & Catalysis",
+    "credit": "4 hours.",
+    "intro": "Rates and mechanisms of chemical reactions, treatment of data, steady state and unsteady behavior predictions of mechanisms, prediction of rate constants and activation barriers. Introduction to catalysis. Catalysis by solvents, metals, organometallics, acids, enzymes, semiconductors. ",
+    "instructors": [
+        "Peters, B",
+        "Chen, Z"
+    ],
+    "prereq": []
+}

@@ -1,0 +1,14 @@
+{
+    "title": "AE 412",
+    "names": "Viscous Flow & Heat Transfer",
+    "credit": "4 hours.",
+    "intro": "Momentum and thermal transport in wall boundary-layer and free shear flows, solutions to the Navier-Stokes equations for heat conducting laminar and turbulent shear flows; similarity concepts; thermal boundary layers in ducts and high-speed aerodynamic boundary layers. ",
+    "instructors": [
+        "Brewster, M"
+    ],
+    "prereq": [
+        "AE 311",
+        "ME 310",
+        "TAM 335"
+    ]
+}

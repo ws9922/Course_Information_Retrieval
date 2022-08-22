@@ -1,0 +1,12 @@
+{
+    "title": "TRST 508",
+    "names": "Localization",
+    "credit": "4 hours.",
+    "intro": "Combines theories of localization with hands-on activities using a range of computer-assisted translation (CAT) and localization tools. Students explore and reflect on the issues that translators face when adapting content from one language and culture to another. Students also learn state-of-the-art tools and techniques for localizing software, mobile apps, SEO keywords, and web sites. Markup languages, localization project management, and standards for the language industry are also introduced. ",
+    "instructors": [
+        "Warburton, K"
+    ],
+    "prereq": [
+        "TRST 503"
+    ]
+}

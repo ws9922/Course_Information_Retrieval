@@ -1,0 +1,12 @@
+{
+    "title": "IE 405",
+    "names": "Computing for ISE",
+    "credit": "3 OR 4 hours.",
+    "intro": "This course will introduce students to algorithm design, computer programming in C++, and database SQL queries. It will provide the fundamental methods, concepts and principles of these topics to give students enough breadth to use these techniques in their jobs and to prepare them to pursue advanced topics in these areas. There will be weekly programming assignments to implement algorithms and SQL covered in the class. ",
+    "instructors": [
+        "Garg, J"
+    ],
+    "prereq": [
+        "CS 101"
+    ]
+}

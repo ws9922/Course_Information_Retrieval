@@ -1,0 +1,14 @@
+{
+    "title": "PSYC 224",
+    "names": "Cognitive Psych",
+    "credit": "3 hours.",
+    "intro": "Introduction to the psychological study of human information processing and memory; acquisition, retrieval, and forgetting; and general knowledge, concepts, reasoning, and related issues in cognition. ",
+    "instructors": [
+        "Whitlock, J",
+        "Sahakyan, L"
+    ],
+    "prereq": [
+        "PSYC 100",
+        "PSYC 103"
+    ]
+}

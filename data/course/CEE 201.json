@@ -1,0 +1,20 @@
+{
+    "title": "CEE 201",
+    "names": "Systems Engrg & Economics",
+    "credit": "3 hours.",
+    "intro": "Introduction to the formulation and solution of civil engineering problems. Major topics: engineering economy, mathematical modeling, and optimization. Application of techniques, including classical optimization, linear and nonlinear programming, network theory, critical path methods, simulation, decision theory, and dynamic programming to a variety of civil engineering problems. ",
+    "instructors": [
+        "Heidrich, E",
+        "Meidani, H",
+        "Liu, T"
+    ],
+    "prereq": [
+        "CEE 201",
+        "IE 310",
+        "MATH 231",
+        "CS 101",
+        "MATH 225",
+        "MATH 415",
+        "MATH 257"
+    ]
+}

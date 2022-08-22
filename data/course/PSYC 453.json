@@ -1,0 +1,15 @@
+{
+    "title": "PSYC 453",
+    "names": "Cog Neuroscience of Vision",
+    "credit": "3 OR 4 hours.",
+    "intro": "Overview of the neuroscience of the visual system, the eye and subcortical structures, with a focus on the visual cortex and higher-level vision (e.g. attention and object perception). ",
+    "instructors": [
+        "Beck, D"
+    ],
+    "prereq": [
+        "PSYC 210",
+        "PSYC 220",
+        "PSYC 224",
+        "PSYC 230"
+    ]
+}

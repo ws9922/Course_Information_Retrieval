@@ -1,0 +1,12 @@
+{
+    "title": "IE 532",
+    "names": "Analysis of Network Data",
+    "credit": "4 hours.",
+    "intro": "This course will focus on statistical aspects analyzing network data. It will review illustrative problems relating to aggregation of information, decision-making, and inference tasks over various graphical models and networks. ",
+    "instructors": [
+        "Vogiatzis, C"
+    ],
+    "prereq": [
+        "MATH 412"
+    ]
+}

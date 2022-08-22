@@ -1,0 +1,20 @@
+{
+    "title": "ECE 211",
+    "names": "Analog Circuits & Systems",
+    "credit": "2 hours.",
+    "intro": "Concepts from circuit and system analysis: linear systems; review of elementary circuit analysis; op amps; transient analysis; differential equation models of linear circuits and systems; Laplace transform. ",
+    "instructors": [
+        "Lee, M",
+        "Mironenko, O",
+        "Alvarez, J",
+        "Mironov, A"
+    ],
+    "prereq": [
+        "ECE 211",
+        "ECE 210",
+        "ECE 110",
+        "PHYS 212",
+        "MATH 285",
+        "MATH 286"
+    ]
+}

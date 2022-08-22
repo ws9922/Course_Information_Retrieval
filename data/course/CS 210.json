@@ -1,0 +1,18 @@
+{
+    "title": "CS 210",
+    "names": "Ethical & Professional Issues",
+    "credit": "2 hours.",
+    "intro": "Ethics for the computing profession. Ethical decision-making; licensing; intellectual property, freedom of information, and privacy. ",
+    "instructors": [
+        "Cunningham, R",
+        "He, J",
+        "Vankayalapati, A",
+        "Chiang, Y"
+    ],
+    "prereq": [
+        "CS 210",
+        "CS 211",
+        "ECE 316",
+        "CS 225"
+    ]
+}

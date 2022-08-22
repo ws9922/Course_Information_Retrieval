@@ -1,0 +1,12 @@
+{
+    "title": "CEE 406",
+    "names": "Pavement Design I",
+    "credit": "3 OR 4 hours.",
+    "intro": "Analysis, behavior, performance, and structural design of highway flexible and rigid pavements; climate factors, drainage, traffic loading analysis, and life cycle cost analysis. ",
+    "instructors": [
+        "Tutumluer, E"
+    ],
+    "prereq": [
+        "CEE 310"
+    ]
+}

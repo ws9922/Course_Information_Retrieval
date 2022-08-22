@@ -1,0 +1,15 @@
+{
+    "title": "PSYC 331",
+    "names": "Cognitive Psych Lab",
+    "credit": "4 hours.",
+    "intro": "Examination of the methods used to study human thought processes, including attention, memory, decision-making, language and concepts. Students will learn to design, carry out, and report research in cognitive psychology. ",
+    "instructors": [
+        "Mao, S",
+        "Shipstead, Z"
+    ],
+    "prereq": [
+        "PSYC 224",
+        "PSYC 248",
+        "PSYC 235"
+    ]
+}

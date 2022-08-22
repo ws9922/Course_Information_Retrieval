@@ -1,0 +1,30 @@
+{
+    "title": "PHYS 101",
+    "names": "College Physics: Mech & Heat",
+    "credit": "5 hours.",
+    "intro": "Newton's Laws, work and energy, rotational motion, fluids, thermodynamics, and waves. A noncalculus-based approach for majors in the life sciences, preprofessional health programs, agriculture, and veterinary medicine. ",
+    "instructors": [
+        "Aksimentiev, A",
+        "Skye, C",
+        "Cao, Y",
+        "Echevers, J",
+        "Forbes, D",
+        "Kaur, D",
+        "Witek, H",
+        "Cheng, C",
+        "Gulian, E",
+        "Koch, P",
+        "Kim, S",
+        "Hagen, S",
+        "Amerikheirabadi, F",
+        "Liu, Y",
+        "Honeycutt, A",
+        "Rani, S",
+        "Bolan, K"
+    ],
+    "prereq": [
+        "PHYS 101",
+        "PHYS 211",
+        "PHYS 213"
+    ]
+}

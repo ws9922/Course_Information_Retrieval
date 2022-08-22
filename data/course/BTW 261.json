@@ -1,0 +1,15 @@
+{
+    "title": "BTW 261",
+    "names": "Principles Tech Comm",
+    "credit": "3 hours.",
+    "intro": "Teaches students to apply the principles of successful professional writing to a range of realistic cases in technical communication. Emphasizes flexible problem-solving skills and a clear style for communicating technical information to a range of readers. Assignments will include correspondence, instructions, proposals, and a technical report or similar project. ",
+    "instructors": [
+        "Hechler, W",
+        "Roche, D"
+    ],
+    "prereq": [
+        "BTW 261",
+        "BTW 250",
+        "BTW 263"
+    ]
+}

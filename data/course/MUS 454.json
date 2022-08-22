@@ -1,0 +1,15 @@
+{
+    "title": "MUS 454",
+    "names": "Advanced Keyboard Skills I",
+    "credit": "2 hours.",
+    "intro": "Comprehensive keyboard musicianship course for advanced pianists emphasizing the development of the following skills: sight reading, harmonization, transposition, improvisation, playing by ear, and vocal and instrumental score reading. Ensemble piano music is performed. This course addresses the keyboard competency policy for undergraduate piano performance majors. ",
+    "instructors": [
+        "Tsitsaros, C"
+    ],
+    "prereq": [
+        "MUS 180",
+        "MUS 175",
+        "MUS 202",
+        "MUS 208"
+    ]
+}

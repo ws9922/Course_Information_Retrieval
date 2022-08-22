@@ -1,0 +1,16 @@
+{
+    "title": "ACE 562",
+    "names": "Applied Regression Models I",
+    "credit": "2 hours.",
+    "intro": "Application of simple regression methods to problems in agricultural and consumer economics with emphasis on foundational probability, random variable, and distribution concepts, development of the simple, two-variable regression model; estimation of model parameters; hypothesis testing; and prediction. ",
+    "instructors": [
+        "Tsay, J",
+        "Paulson, N"
+    ],
+    "prereq": [
+        "ACE 261",
+        "MATH 220",
+        "MATH 221",
+        "MATH 234"
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "title": "ECE 457",
+    "names": "Microwave Devices & Circuits",
+    "credit": "3 hours.",
+    "intro": "Electromagnetic wave propagation, microwave transmission systems, passive components, microwave tubes, solid state microwave devices, microwave integrated circuits, S-parameter analysis, and microstrip transmission lines. ",
+    "instructors": [
+        "Chen, X"
+    ],
+    "prereq": [
+        "ECE 340",
+        "ECE 350"
+    ]
+}

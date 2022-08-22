@@ -1,0 +1,16 @@
+{
+    "title": "ECE 340",
+    "names": "Semiconductor Electronics",
+    "credit": "3 hours.",
+    "intro": "Modern device electronics: semiconductor fundamentals including crystals and energy bands, charge carriers (electrons and holes), doping, and transport, (drift and diffusion); unipolar devices with the MOS field effect transistor as a logic device and circuit considerations; basic concepts of generation-recombination and the P-N junction as capacitors and current rectifier with applications in photonics; bipolar transistors as amplifiers and switching three-terminal devices. ",
+    "instructors": [
+        "Rakheja, S",
+        "Leburton, J",
+        "He, W"
+    ],
+    "prereq": [
+        "ECE 210",
+        "PHYS 214",
+        "ECE 329"
+    ]
+}

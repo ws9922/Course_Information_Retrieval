@@ -1,0 +1,12 @@
+{
+    "title": "STAT 447",
+    "names": "Data Science Programming Methods",
+    "credit": "3 OR 4 hours.",
+    "intro": "The field of data science is revolutionizing science and industries. Work across many fields is becoming more data driven, affecting available jobs and required skills. Increasing amounts of data, along with novel ways of analyzing them, lead the economy as well as society and daily life to become more data-dependent. This course aims to provide the principal foundations to working with data at scale. We will cover shell programming, git version control, SQL basics, a lot of R, and some more advanced topics such as Docker and some C++. ",
+    "instructors": [
+        "Eddelbuettel, D"
+    ],
+    "prereq": [
+        "STAT 410"
+    ]
+}

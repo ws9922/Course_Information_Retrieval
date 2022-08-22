@@ -1,0 +1,13 @@
+{
+    "title": "CHEM 518",
+    "names": "Topics in Inorganic Chemistry",
+    "credit": "2 TO 4 hours.",
+    "intro": "Advanced course dealing with a subject not ordinarily covered by regularly scheduled courses, such as organometallic chemistry, advanced ligand field theory and molecular orbital theory of inorganic compounds, kinetics and mechanisms of inorganic reactions, etc. ",
+    "instructors": [
+        "Mirica, L",
+        "Chae, J"
+    ],
+    "prereq": [
+        "CHEM 516"
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "title": "CS 433",
+    "names": "Computer System Organization",
+    "credit": "3 OR 4 hours.",
+    "intro": "Computer hardware design and analysis and interface with software. Advanced processor design, including superscalar, out-of-order issue, branch prediction, and speculation. Memory hierarchy design, including advanced cache optimizations, main memory, and virtual memory. Principles of multiprocessor design, including shared-memory, cache coherence, synchronization, and consistency. Other advanced topics depending on time; e.g., GPUs and accelerators, warehouse computers and data centers, security. ",
+    "instructors": [
+        "Adve, S"
+    ],
+    "prereq": [
+        "CS 233"
+    ]
+}

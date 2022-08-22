@@ -1,0 +1,22 @@
+{
+    "title": "ECON 302",
+    "names": "Inter Microeconomic Theory",
+    "credit": "3 hours.",
+    "intro": "Microeconomic analysis including value and distribution theory; analysis of the pricing of the factors of production integrated in a micro-general equilibrium context which builds towards explaining the resource allocation process. ",
+    "instructors": [
+        "Romero, M",
+        "Cenerini, F",
+        "Liu, S",
+        "Bauer, A",
+        "DiIanni, I",
+        "Wang, C",
+        "Buckley, B",
+        "De Souza Godeli, A"
+    ],
+    "prereq": [
+        "ECON 102",
+        "MATH 220",
+        "MATH 221",
+        "MATH 234"
+    ]
+}

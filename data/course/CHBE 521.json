@@ -1,0 +1,11 @@
+{
+    "title": "CHBE 521",
+    "names": "Applied Mathematics in CHBE",
+    "credit": "3 OR 4 hours.",
+    "intro": "Development of mathematical models and a survey of modern mathematical methods currently used in the solution of chemical and biomolecular engineering problems; topics include the application of vectors and matrices, partial differential equations, numerical analysis, and methods of optimization in Chemical and Biomolecular Engineering. ",
+    "instructors": [
+        "Kwon, O",
+        "Higdon, J"
+    ],
+    "prereq": []
+}

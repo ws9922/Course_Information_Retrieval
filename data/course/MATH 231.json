@@ -1,0 +1,35 @@
+{
+    "title": "MATH 231",
+    "names": "Calculus II",
+    "credit": "3 hours.",
+    "intro": "Second course in calculus and analytic geometry: techniques of integration, conic sections, polar coordinates, and infinite series. ",
+    "instructors": [
+        "Bagheri Hosseini, M",
+        "Plomin, T",
+        "Amiri Hezaveh, A",
+        "Le, P",
+        "Tavanaie Marvi, M",
+        "Wattanawanichkul, P",
+        "Huynh, C",
+        "Anderson, J",
+        "Kielty, D",
+        "Xiao, S",
+        "Lamaster, K",
+        "Sakuma, Y",
+        "Chu, H",
+        "Gera, P",
+        "Ritter, M",
+        "Jin, K",
+        "Guzman, R",
+        "Luo, H",
+        "Wu, Q",
+        "Villalobos, V",
+        "Nguyen, A",
+        "Berwick Evans, D",
+        "Lee, C"
+    ],
+    "prereq": [
+        "MATH 220",
+        "MATH 221"
+    ]
+}

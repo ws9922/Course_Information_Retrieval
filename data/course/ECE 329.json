@@ -1,0 +1,14 @@
+{
+    "title": "ECE 329",
+    "names": "Fields and Waves I",
+    "credit": "3 hours.",
+    "intro": "Electromagnetic fields and waves fundamentals and their engineering applications: static electric and magnetic fields; energy storage; Maxwell's equations for time-varying fields; wave solutions in free space, dielectrics and conducting media, transmission line systems; time- and frequency-domain analysis of transmission line circuits and Smith chart applications. ",
+    "instructors": [
+        "Ravaioli, U",
+        "Waldrop, L",
+        "Chen, X"
+    ],
+    "prereq": [
+        "ECE 210"
+    ]
+}

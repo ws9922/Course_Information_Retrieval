@@ -1,0 +1,16 @@
+{
+    "title": "STAT 425",
+    "names": "Statistical Modeling I",
+    "credit": "3 OR 4 hours.",
+    "intro": "This is the foundation for advanced statistical modeling with a focus on multiple strategies for analyzing data. The course explores linear regression, least squares estimates, F-tests, analysis of residuals, regression diagnostics, transformations, model building, generalized and weighted least squares, PCA, A/B testing, randomization tests, ANOVA, random effects, mixed effects, and longitudinal data. Statistical computing is an integral part of the course. ",
+    "instructors": [
+        "Chronopoulou, A",
+        "Bravo De Guenni, L"
+    ],
+    "prereq": [
+        "STAT 400",
+        "MATH 257",
+        "MATH 415",
+        "STAT 410"
+    ]
+}

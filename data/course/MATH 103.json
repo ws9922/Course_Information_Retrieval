@@ -1,0 +1,13 @@
+{
+    "title": "MATH 103",
+    "names": "Theory of Arithmetic",
+    "credit": "4 hours.",
+    "intro": "Analyses of the mathematical issues and methodology underlying elementary mathematics in grades K-5. Topics include sets, arithmetic algorithms, elementary number theory, rational and irrational numbers, measurement, and probability. There is an emphasis on problem solving. Priority registration will be given to students enrolled in teacher education programs leading to certification in elementary or childhood education. ",
+    "instructors": [
+        "Dobbs, T"
+    ],
+    "prereq": [
+        "MATH 112",
+        "MATH 012"
+    ]
+}

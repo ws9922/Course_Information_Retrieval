@@ -1,0 +1,10 @@
+{
+    "title": "STAT 212",
+    "names": "Biostatistics",
+    "credit": "3 hours.",
+    "intro": "Application of statistical reasoning and statistical methodology to biology. Topics include descriptive statistics, graphical methods, experimental design, probability, statistical inference and regression. In addition, techniques of statistical computing are covered. ",
+    "instructors": [
+        "Findley, K"
+    ],
+    "prereq": []
+}

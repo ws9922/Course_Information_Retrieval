@@ -1,0 +1,13 @@
+{
+    "title": "AE 433",
+    "names": "Aerospace Propulsion",
+    "credit": "3 OR 4 hours.",
+    "intro": "Fundamentals of rocket and airbreathing jet propulsion devices electric propulsion; prediction of thrust, combustion reactions, specific fuel consumption, and operating performance; ramjets; turbojets; turbofans; turboprops; aerothermodynamics of inlets, combustors, and nozzles; compressors, turbines; component matching, fundamentals of electrothermal, electromagnetic elastostatis thrusters, and solar sails. ",
+    "instructors": [
+        "Rovey, J"
+    ],
+    "prereq": [
+        "AE 312",
+        "PHYS 212"
+    ]
+}

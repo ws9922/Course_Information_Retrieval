@@ -1,0 +1,11 @@
+{
+    "title": "MCB 501",
+    "names": "Advanced Biochemistry",
+    "credit": "4 hours.",
+    "intro": "Focuses upon structure-function analyses of biomolecules and the chemical and evolutionary foundations of metabolic networks. Emphasis is on research methodology and current problems.",
+    "instructors": [
+        "Imlay, J",
+        "Sanfilippo, J"
+    ],
+    "prereq": []
+}

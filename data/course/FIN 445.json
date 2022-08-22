@@ -1,0 +1,13 @@
+{
+    "title": "FIN 445",
+    "names": "Real Estate Investment",
+    "credit": "3 hours.",
+    "intro": "An approach to the evaluation of real estate investment opportunities. Begins with the identification of the investor's goals and ends with an investment decision. Considers legal, physical, locational, and financial constraint, aggregate real estate and financial markets, tax considerations and investment criteria. ",
+    "instructors": [
+        "Briggs, S"
+    ],
+    "prereq": [
+        "FIN 300",
+        "FIN 241"
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "title": "IS 249",
+    "names": "BSIS Practicum",
+    "credit": "3 hours.",
+    "intro": "A professional field experience program designed to provide the student with the opportunity to work in a professional environment under the supervision of an experienced information professional with the guidance of a faculty advisor. This opportunity allows students to integrate the theory and knowledge of course content with the application of principles and practices in a work environment, including these specific objectives ",
+    "instructors": [
+        "Hodson, R"
+    ],
+    "prereq": [
+        "IS 101",
+        "IS 202"
+    ]
+}

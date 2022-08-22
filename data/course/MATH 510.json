@@ -1,0 +1,12 @@
+{
+    "title": "MATH 510",
+    "names": "Riemann Surf & Algebraic Curv",
+    "credit": "4 hours.",
+    "intro": "An introduction to Riemann Surfaces from both the algebraic and function-theoretic points of view. Topics include holomorphic and meromorphic differential forms, integration of differential forms, divisors and linear equivalence, the genus of a compact Riemann surface, projective algebraic curves, the Riemann-Roch theorem, and applications. ",
+    "instructors": [
+        "Li, M"
+    ],
+    "prereq": [
+        "MATH 542"
+    ]
+}

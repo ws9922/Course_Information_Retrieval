@@ -1,0 +1,13 @@
+{
+    "title": "BIOE 460",
+    "names": "Gene Editing Lab",
+    "credit": "3 hours.",
+    "intro": "The objective of this course is to provide the knowledge and hands-on experience required for both designing and building tools that are necessary to engineer biological systems at the molecular and cellular levels. This particular course will highlight diverse examples of applications in synthetic biology. It will deal with such topics as gene editing, epigenome engineering, regulation of gene expression and synthetic life. Projects will be assigned for small teams. Students will submit a report after completion of each project. Students will have the opportunity to independently design and execute a genetic engineering project and present their project to the class. ",
+    "instructors": [
+        "10:00AM - 11:50AM"
+    ],
+    "prereq": [
+        "BIOE 202",
+        "BIOE 206"
+    ]
+}

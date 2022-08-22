@@ -1,0 +1,10 @@
+{
+    "title": "IS 577",
+    "names": "Data Mining",
+    "credit": "2 OR 4 hours.",
+    "intro": "Data mining refers to the process of exploring large datasets with the goal of uncovering interesting patterns. This process usually involves a number of tasks such as data collection, pre-processing, & characterization; model fitting, selection, & evaluation; classification, clustering, & prediction. Although data mining has its roots in database management, it has grown into a discipline that focuses on algorithm design (to ensure computational feasibility) & statistical modeling (to separate the signal from the noise). It draws heavily upon a variety of other disciplines including statistics, machine learning, operations research, & information retrieval. Will cover the major data mining concepts, principles, & techniques that every information scientist should know about. Lectures will introduce & discuss the major approaches to data mining; computer lab sessions coupled w/assignments will provide hands-on experience with these approaches; term projects offer the opportunity to use data mining in a novel way. Mathematical detail will be left to the students who are so inclined. ",
+    "instructors": [
+        "He, J"
+    ],
+    "prereq": []
+}

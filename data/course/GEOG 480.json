@@ -1,0 +1,13 @@
+{
+    "title": "GEOG 480",
+    "names": "Principles of GIS",
+    "credit": "3 hours.",
+    "intro": "Focuses on Geographic Information Science (GIScience) principles that underlie the development of Geographic Information Systems (GIS) software and its intelligent use. Helps students adapt to rapidly changing geospatial technologies. Knowledge gained in this course will be general and, thus, not be limited to any specific software product that may be revised in the future. ",
+    "instructors": [
+        "Baig, F"
+    ],
+    "prereq": [
+        "GEOG 379",
+        "GEOG 380"
+    ]
+}

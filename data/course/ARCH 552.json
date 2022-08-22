@@ -1,0 +1,13 @@
+{
+    "title": "ARCH 552",
+    "names": "Soil Mech and Foundations",
+    "credit": "3 hours.",
+    "intro": "Soil properties and site exploration; stresses in soils; soil consolidation and settlement; shear strength of soils; bearing capacity; design of spread and combined footings; mats; pile foundations; lateral soil pressure and retaining walls. ",
+    "instructors": [
+        "Pawlikowski, J"
+    ],
+    "prereq": [
+        "ARCH 452",
+        "ARCH 551"
+    ]
+}

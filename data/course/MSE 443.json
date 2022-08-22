@@ -1,0 +1,13 @@
+{
+    "title": "MSE 443",
+    "names": "Design of Engineering Alloys",
+    "credit": "3 hours.",
+    "intro": "Application of science and engineering principles to the design, selection, and performance of engineering alloys. Alloy classes, design, effect of alloying elements, relation to processing variables, and structure-property relationships; design project. ",
+    "instructors": [
+        "Bellon, P"
+    ],
+    "prereq": [
+        "MSE 401",
+        "MSE 402"
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "title": "CEE 380",
+    "names": "Geotechnical Engineering",
+    "credit": "3 hours.",
+    "intro": "Classification of soils, compaction in the laboratory and in the field, soil exploration, boring and sampling, permeability of soils, one-dimensional settlement analyses, strength of soil, and foundations. ",
+    "instructors": [
+        "Hashash, Y",
+        "Tom, J"
+    ],
+    "prereq": [
+        "TAM 251"
+    ]
+}

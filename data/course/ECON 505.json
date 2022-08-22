@@ -1,0 +1,14 @@
+{
+    "title": "ECON 505",
+    "names": "Introduction to Game Theory",
+    "credit": "4 hours.",
+    "intro": "Applications of game theory. Introduction to basic static games and dynamic games with particular attention to applying these games to real world situations. ",
+    "instructors": [
+        "Lemus Encalada, J"
+    ],
+    "prereq": [
+        "MATH 415",
+        "ECON 500",
+        "ECON 501"
+    ]
+}

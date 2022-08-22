@@ -1,0 +1,13 @@
+{
+    "title": "CS 222",
+    "names": "Software Design Lab",
+    "credit": "1 hours.",
+    "intro": "Design and implementation of novel software solutions. Problem identification and definition; idea generation and evaluation; and software implementation, testing, and deployment. Emphasizes software development best practices—including framework selection, code review, documentation, appropriate library usage, project management, continuous integration and testing, and teamwork. ",
+    "instructors": [
+        "Woodley, M"
+    ],
+    "prereq": [
+        "CS 128",
+        "CS 225"
+    ]
+}

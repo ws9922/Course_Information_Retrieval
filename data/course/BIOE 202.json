@@ -1,0 +1,16 @@
+{
+    "title": "BIOE 202",
+    "names": "Cell & Tissue Engineering Lab",
+    "credit": "2 hours.",
+    "intro": "Principles of cell biology inherent in tissue engineering design. Lab experience in safely and skillfully manipulating cells of the four tissue types and performing various quantitative analyses on products produced by cells that have differentiated. ",
+    "instructors": [
+        "Jensen, K",
+        "Suresh, D",
+        "Lyu, S",
+        "Miskalis, A"
+    ],
+    "prereq": [
+        "MCB 150",
+        "BIOE 206"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "title": "SOC 275",
+    "names": "Criminology",
+    "credit": "3 hours.",
+    "intro": "Nature and extent of crime; past and present theories of crime causation; criminal behavior in the United States and abroad, and its relation to personal, structural and cultural conditions; the nature of the criminal justice system and the influences of the exercise of discretion among actors in the criminal justice system. ",
+    "instructors": [
+        "Ladegaard, I"
+    ],
+    "prereq": [
+        "SOC 100",
+        "SOC 101",
+        "SOC 163"
+    ]
+}

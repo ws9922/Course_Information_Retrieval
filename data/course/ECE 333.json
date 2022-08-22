@@ -1,0 +1,13 @@
+{
+    "title": "ECE 333",
+    "names": "Green Electric Energy",
+    "credit": "3 hours.",
+    "intro": "Electric power grid structure and policy; analysis of wind, solar, and fuels as raw resources; wind turbines and parks; solar cells, modules, arrays and systems; fuel cell power plants; energy and financial performance of green energy projects; integration of green energy into power grid; energy project report and presentation. ",
+    "instructors": [
+        "Gross, G"
+    ],
+    "prereq": [
+        "ECE 205",
+        "ECE 210"
+    ]
+}

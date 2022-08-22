@@ -1,0 +1,10 @@
+{
+    "title": "STAT 200",
+    "names": "Statistical Analysis",
+    "credit": "3 hours.",
+    "intro": "Survey of statistical concepts, data analysis, designed and observational studies and statistical models. Statistical computing using a statistical package such as R or a spreadsheet. Topics to be covered include data summary and visualization, study design, elementary probability, categorical data, comparative experiments, multiple linear regression, analysis of variance, statistical inferences and model diagnostics. May be taken as a first statistics course for quantitatively oriented students, or as a second course to follow a basic concepts course. ",
+    "instructors": [
+        "Fireman, E"
+    ],
+    "prereq": []
+}

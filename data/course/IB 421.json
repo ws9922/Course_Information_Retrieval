@@ -1,0 +1,18 @@
+{
+    "title": "IB 421",
+    "names": "Photosynthesis",
+    "credit": "3 hours.",
+    "intro": "Comprehensive description of photosynthesis. Topics include: the photosynthetic membranes, light absorption, electron and proton transfer, photophosphorylation, water oxidation, RUBP carboxylase/oxygenase, photorespiration, whole plant photosynthesis, gas exchange and atmospheric interactions, and impacts of global environmental change. ",
+    "instructors": [
+        "Ainsworth, E",
+        "Ort, D",
+        "Bernacchi, C"
+    ],
+    "prereq": [
+        "CPSC 489",
+        "IB 420",
+        "MCB 354",
+        "MCB 450",
+        "BIOP 401"
+    ]
+}

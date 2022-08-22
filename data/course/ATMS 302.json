@@ -1,0 +1,11 @@
+{
+    "title": "ATMS 302",
+    "names": "Atmospheric Dynamics I",
+    "credit": "3 hours.",
+    "intro": "Introduction to fundamental dynamical processes in the atmosphere through a descriptive and quantitative analysis of dynamical meteorology at the synoptic and global scale. Covers basic laws of fluid mechanics as applied to the atmospheric sciences, vorticity and circulation in 2-D and 3-D flows, boundary layer dynamics and friction, basic concepts of geophysical waves, and baroclinic instability. These topics will be covered both descriptively and mathematically with emphasis on computer representation of the fundamental processes governing atmospheric motion and application of theory to real-world examples. ",
+    "instructors": [
+        "Trapp, R",
+        "Wolff, E"
+    ],
+    "prereq": []
+}

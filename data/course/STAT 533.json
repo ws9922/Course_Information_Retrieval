@@ -1,0 +1,14 @@
+{
+    "title": "STAT 533",
+    "names": "Advanced Stochastic Processes",
+    "credit": "4 hours.",
+    "intro": "A nonmeasure theoretic introduction of stochastic processes. Students with suitable background in probability theory, real analysis and linear algebra are welcome to attend. Some classical topics will be included, such as discrete time Markov chains, continuous time Markov chains, Martingales, Renewal processes and Brownian motion. Students will learn some basic theory of stochastic processes, and their applications in several areas, including Queueing theory, Risk theory and Statistics. Students will also learn some probabilistic intuition and insights in thinking about problems, and some basic tools in the theoretical investigation of stochastic phenomenon and models. ",
+    "instructors": [
+        "Shao, X"
+    ],
+    "prereq": [
+        "MATH 540",
+        "MATH 415",
+        "MATH 461"
+    ]
+}

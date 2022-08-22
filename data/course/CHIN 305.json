@@ -1,0 +1,13 @@
+{
+    "title": "CHIN 305",
+    "names": "Advanced Chinese I",
+    "credit": "5 hours.",
+    "intro": "An advanced-level course that emphasizes rapid reading, vocabulary acquisition, and newspaper reading. ",
+    "instructors": [
+        "ARRANGED"
+    ],
+    "prereq": [
+        "CHIN 204",
+        "CHIN 242"
+    ]
+}

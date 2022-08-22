@@ -1,0 +1,11 @@
+{
+    "title": "IB 390",
+    "names": "Undergraduate Research Experience",
+    "credit": "0 TO 5 hours.",
+    "intro": "Laboratory and/or field research and/or reading supervised by faculty members in the School of Integrative Biology. ",
+    "instructors": [],
+    "prereq": [
+        "IB 390",
+        "IB 490"
+    ]
+}

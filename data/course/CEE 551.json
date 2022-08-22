@@ -1,0 +1,12 @@
+{
+    "title": "CEE 551",
+    "names": "Open-Channel Hydraulics",
+    "credit": "4 hours.",
+    "intro": "Advanced hydraulics of free surface flow in rivers and open channels; discussion of theory, analytical and numerical solution techniques, and their applications to gradually and rapidly varied nonuniform flows, unsteady flow, and flow in open-channel networks. ",
+    "instructors": [
+        "Garcia, M"
+    ],
+    "prereq": [
+        "CEE 451"
+    ]
+}

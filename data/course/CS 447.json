@@ -1,0 +1,14 @@
+{
+    "title": "CS 447",
+    "names": "Natural Language Processing",
+    "credit": "3 OR 4 hours.",
+    "intro": "Part-of-speech tagging, parsing, semantic analysis and machine translation. Relevant linguistics concepts from morphology (word formation) and lexical semantics (the meaning of words) to syntax (sentence structure) and compositional semantics (the meaning of sentences). ",
+    "instructors": [
+        "Hockenmaier, J"
+    ],
+    "prereq": [
+        "CS 447",
+        "LING 406",
+        "CS 374"
+    ]
+}

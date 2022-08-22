@@ -1,0 +1,21 @@
+{
+    "title": "CHEM 445",
+    "names": "Physical Principles Lab I",
+    "credit": "2 hours.",
+    "intro": "Laboratory course featuring experiments of interest to chemists and biochemists. Examples of experiments may include, but are not limited to, electron paramagnetic resonance (EPR) spectroscopy; Fourier-transform infrared (FT-IR) spectroscopy; X-ray diffraction; differential scanning calorimetry (DSC); 1D and 2D Fourier-transform nuclear magnetic resonance (FT-NMR) spectroscopy; and computational quantum chemistry (QM). This course provides hands-on experience with instrumental and computational techniques that are frequently used in both industrial and academic research and will be of interest to students proposing to carry out work in any area of chemistry and in related disciplines. ",
+    "instructors": [
+        "Smith, L",
+        "Oldfield, E",
+        "Adams, K",
+        "Rasmussen, B",
+        "Gopan, G",
+        "Grant, R"
+    ],
+    "prereq": [
+        "CHEM 440",
+        "CHEM 442",
+        "CHEM 472",
+        "BIOC 446",
+        "MCB 446"
+    ]
+}

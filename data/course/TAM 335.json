@@ -1,0 +1,21 @@
+{
+    "title": "TAM 335",
+    "names": "Introductory Fluid Mechanics",
+    "credit": "4 hours.",
+    "intro": "Fluid statics; continuity, momentum, and energy principles via control volumes; ideal and real fluid flow; introduction to the Navier-Stokes equation; similitude; laminar and turbulent boundary layers; closed-conduit flow, open-channel flow, and turbomachinery. ",
+    "instructors": [
+        "Krishnan, G",
+        "Cheng, J",
+        "Kumar, V",
+        "Liebenberg, L",
+        "Hong, L",
+        "Sung, M",
+        "Hossain, T",
+        "Tang, K"
+    ],
+    "prereq": [
+        "ME 310",
+        "TAM 335",
+        "TAM 212"
+    ]
+}

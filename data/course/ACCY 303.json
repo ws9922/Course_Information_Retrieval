@@ -1,0 +1,15 @@
+{
+    "title": "ACCY 303",
+    "names": "Accounting Institutions and Regulation",
+    "credit": "3 hours.",
+    "intro": "Measurement and reporting of firm's liabilities and shareholders' equity. Topics include current liabilities, contingencies, subsequent events, bonds, leases, pensions, equity issuance and repurchase, dividends, and equity-based compensation. ",
+    "instructors": [
+        "Godsell, D",
+        "Hamm, B",
+        "Pachera, S"
+    ],
+    "prereq": [
+        "ACCY 301",
+        "FIN 221"
+    ]
+}

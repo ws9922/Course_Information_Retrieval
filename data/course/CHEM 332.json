@@ -1,0 +1,18 @@
+{
+    "title": "CHEM 332",
+    "names": "Elementary Organic Chem II",
+    "credit": "4 hours.",
+    "intro": "Continuation of CHEM 232 focuses on advanced organic chemistry synthesis, mechanisms, and history, and its applications to peptide and protein sciences, carbohydrate chemistry, and DNA structure, repair and enzymatic processes. ",
+    "instructors": [
+        "Koerner, M",
+        "Pineda-Knauseder, A",
+        "Ocampo, B"
+    ],
+    "prereq": [
+        "CHEM 332",
+        "CHEM 436",
+        "CHEM 236",
+        "CHEM 232",
+        "CHEM 233"
+    ]
+}

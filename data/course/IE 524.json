@@ -1,0 +1,13 @@
+{
+    "title": "IE 524",
+    "names": "Optimization in Finance",
+    "credit": "2 hours.",
+    "intro": "Basic optimization models, theory and methods for financial engineering including linear, quadratic, nonlinear, dynamic integer, and stochastic programming; applications to portfolio selection, index fund tracking, asset management, arbitrage detection, option pricing and risk management; optimization software for classes of optimization problems. Projects requiring building optimization models based on financial market data and solutions using optimization solvers. ",
+    "instructors": [
+        "Wang, Q"
+    ],
+    "prereq": [
+        "FIN 500",
+        "MATH 415"
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "title": "CS 463",
+    "names": "Computer Security II",
+    "credit": "3 OR 4 hours.",
+    "intro": "Program security, trusted base, privacy, anonymity, non-interference, information flow, confinement, advanced auditing, forensics, intrusion detection, key management and distribution, policy composition and analysis, formal approaches to specification and verification of secure systems and protocols, and topics in applied cryptography. ",
+    "instructors": [
+        "Wang, G"
+    ],
+    "prereq": [
+        "CS 461",
+        "CS 475"
+    ]
+}

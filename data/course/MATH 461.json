@@ -1,0 +1,16 @@
+{
+    "title": "MATH 461",
+    "names": "Probability Theory",
+    "credit": "3 OR 4 hours.",
+    "intro": "Introduction to mathematical probability; includes the calculus of probability, combinatorial analysis, random variables, expectation, distribution functions, moment-generating functions, and central limit theorem. ",
+    "instructors": [
+        "Carpenter, B",
+        "Song, R"
+    ],
+    "prereq": [
+        "MATH 461",
+        "STAT 408",
+        "ECE 313",
+        "MATH 241"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "title": "MUS 201",
+    "names": "Music Theory and Practice III",
+    "credit": "2 hours.",
+    "intro": "Continuation of MUS 102. Gradually increased emphasis on contrapuntal techniques, dissonance in tonal music, and musical form. ",
+    "instructors": [
+        "Borcherding, C",
+        "Zheng, V",
+        "Carrillo, C",
+        "Yi, S",
+        "Stiles, S",
+        "McDunn, T",
+        "Hahn, J"
+    ],
+    "prereq": [
+        "MUS 102",
+        "MUS 108"
+    ]
+}

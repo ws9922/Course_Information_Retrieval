@@ -1,0 +1,13 @@
+{
+    "title": "IS 229",
+    "names": "Web Design Fundamentals",
+    "credit": "3 hours.",
+    "intro": "This course will teach students about building inclusive interactive systems. They will learn to gather and understand user requirements and needs for a wide range of user populations, especially those that are under-served (e.g., children, older adults, people with disabilities), apply inclusive design frameworks and principles, and design, develop, evaluate and improve interactive prototypes in an iterative manner. ",
+    "instructors": [
+        "Hopping, D"
+    ],
+    "prereq": [
+        "IS 205",
+        "IS 226"
+    ]
+}

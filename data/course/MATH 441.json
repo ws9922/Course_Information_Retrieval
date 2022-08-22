@@ -1,0 +1,19 @@
+{
+    "title": "MATH 441",
+    "names": "Differential Equations",
+    "credit": "3 OR 4 hours.",
+    "intro": "Basic course in ordinary differential equations; topics include existence and uniqueness of solutions and the general theory of linear differential equations; treatment is more rigorous than that given in MATH 285. ",
+    "instructors": [
+        "Tzirakis, N",
+        "Rapti, Z"
+    ],
+    "prereq": [
+        "MATH 441",
+        "MATH 284",
+        "MATH 285",
+        "MATH 286",
+        "MATH 241",
+        "MATH 347",
+        "MATH 348"
+    ]
+}

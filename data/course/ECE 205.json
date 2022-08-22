@@ -1,0 +1,13 @@
+{
+    "title": "ECE 205",
+    "names": "Electrical and Electronic Circuits",
+    "credit": "3 hours.",
+    "intro": "ECE 205 is an introductory course on circuit analysis and electronics for non-majors in engineering. The course includes bi-weekly electronics lab experiments designed to provide students with hands-on experience. Basic principles of circuit analysis and DC circuits; time-domain analysis of 1st and 2nd order linear circuits; complex numbers, phasors, AC steady-state analysis; frequency response; op-amp, diode, and BJT circuits; logic gates and digital logic circuits. Credit is not given to Computer or Electrical Engineering majors. ",
+    "instructors": [
+        "Kevin Daniel, -",
+        "Radhakrishnan, C"
+    ],
+    "prereq": [
+        "PHYS 212"
+    ]
+}

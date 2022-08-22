@@ -1,0 +1,15 @@
+{
+    "title": "BIOE 303",
+    "names": "Quantitative Physiology Lab",
+    "credit": "2 hours.",
+    "intro": "Experiments involving the modeling and measurement of animal and human physiology systems. Use of computer simulations to provide mathematical descriptions of physiology behavior. Calibration and validation of models through hands-on experiments. Focus on quantitative measurement of neural, cardiovascular, respiratory, muscular, and endocrine system functions. ",
+    "instructors": [
+        "Asilador, A",
+        "Zuo, J",
+        "Tarabey, M",
+        "Cvetkovic, C"
+    ],
+    "prereq": [
+        "BIOE 302"
+    ]
+}

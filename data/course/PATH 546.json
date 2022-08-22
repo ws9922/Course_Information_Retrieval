@@ -1,0 +1,17 @@
+{
+    "title": "PATH 546",
+    "names": "Vet Diagnostic Path 2",
+    "credit": "0 TO 6 hours.",
+    "intro": "Instruction in diagnostic pathology for pathology majors. Instruction based on necropsy cases with emphasis on recognition, description, and interpretation of gross and microscopic lesions; evaluation of results of other diagnostic assays; disease pathogenesis; and final case diagnosis and comments. ",
+    "instructors": [
+        "Baumgartner, W",
+        "Vieson, M",
+        "Hsiao, S",
+        "Fredrickson, R",
+        "Roady, P",
+        "Samuelson, J"
+    ],
+    "prereq": [
+        "PATH 545"
+    ]
+}

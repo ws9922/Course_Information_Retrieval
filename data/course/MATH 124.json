@@ -1,0 +1,15 @@
+{
+    "title": "MATH 124",
+    "names": "Finite Mathematics",
+    "credit": "3 hours.",
+    "intro": "Introduction to finite mathematics for students in the social sciences; introduces the student to the basic ideas of logic, set theory, probability, vectors and matrices, and Markov chains. Problems are selected from social sciences and business. ",
+    "instructors": [
+        "Townsend V, T",
+        "Govindarajan, A",
+        "Dao, Q"
+    ],
+    "prereq": [
+        "MATH 112",
+        "MATH 012"
+    ]
+}

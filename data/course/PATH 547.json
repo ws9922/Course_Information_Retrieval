@@ -1,0 +1,19 @@
+{
+    "title": "PATH 547",
+    "names": "Pathology Seminar",
+    "credit": "0 TO 1 hours.",
+    "intro": "Review and discussion of selected pathologic and clinico-pathologic material.  Students are required to participate in weekly discussions and present at least one formal seminar per semester, on a topic approved by Pathology faculty. ",
+    "instructors": [
+        "Baumgartner, W",
+        "Vieson, M",
+        "Connolly, S",
+        "Hsiao, S",
+        "Fredrickson, R",
+        "Schnelle, A",
+        "Roady, P",
+        "Samuelson, J"
+    ],
+    "prereq": [
+        "PATH 545"
+    ]
+}

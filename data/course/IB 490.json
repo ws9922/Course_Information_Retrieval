@@ -1,0 +1,11 @@
+{
+    "title": "IB 490",
+    "names": "Independent Study",
+    "credit": "1 TO 5 hours.",
+    "intro": "Laboratory and/or field research supervised by faculty members in the School of Integrative Biology. A written report is required. ",
+    "instructors": [],
+    "prereq": [
+        "IB 390",
+        "IB 490"
+    ]
+}

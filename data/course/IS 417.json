@@ -1,0 +1,13 @@
+{
+    "title": "IS 417",
+    "names": "Data Science in the Humanities",
+    "credit": "3 OR 4 hours.",
+    "intro": "Human culture provides an ideal testbed for students exploring data science, because the interpretive challenges that lurk beneath the surface in other domains become starkly visible here. For instance, cultural materials usually come to analysts as unstructured texts, images, or sound files, forcing explicit decisions about data modeling and feature extraction. Cultural questions also highlight the importance of interpreting statistical models in relation to a social context. Last but not least: songs, poems, and stories confront us with vivid problems that are inherently fun to explore. This course will start by reviewing descriptive and inferential statistics, and build up to applications of supervised and unsupervised machine learning. We will apply those methods to a range of cultural materials using them to model the pace of stylistic change in popular music, for instance, and the representation of gender in fiction. ",
+    "instructors": [
+        "Underwood, W"
+    ],
+    "prereq": [
+        "STAT 107",
+        "IS 430"
+    ]
+}

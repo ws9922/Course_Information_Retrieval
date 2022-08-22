@@ -1,0 +1,12 @@
+{
+    "title": "CS 440",
+    "names": "Artificial Intelligence",
+    "credit": "3 OR 4 hours.",
+    "intro": "Major topics in and directions of research in artificial intelligence: basic problem solving techniques, knowledge representation and computer inference, machine learning, natural language understanding, computer vision, robotics, and societal impacts. ",
+    "instructors": [
+        "Fleck, M"
+    ],
+    "prereq": [
+        "CS 225"
+    ]
+}

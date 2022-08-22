@@ -1,0 +1,15 @@
+{
+    "title": "CHEM 440",
+    "names": "Physical Chemistry Principles",
+    "credit": "4 hours.",
+    "intro": "One-term course in physical chemistry emphasizing topics most important to students in the biological and agricultural sciences. Not open to students in the specialized curricula in chemistry and chemical engineering. Laboratory experience in this area provided by CHEM 315 to be taken preferably after CHEM 440. ",
+    "instructors": [
+        "Tajkhorshid, E"
+    ],
+    "prereq": [
+        "CHEM 104",
+        "CHEM 204",
+        "PHYS 102",
+        "MATH 241"
+    ]
+}

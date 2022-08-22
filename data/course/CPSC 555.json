@@ -1,0 +1,13 @@
+{
+    "title": "CPSC 555",
+    "names": "Crop Germplasm Resources",
+    "credit": "2 hours.",
+    "intro": "In this course students will explore the use, curation and collection of germplasm resources to facilitate crop improvement. Genetic diversity is the foundational resource that plant breeders use for the benefit of society; however, it is often challenging to identify, access, and use desirable genes from relatives of crop plants. Strategies and methods employed by plant breeders, curators and collectors will be discussed. Topics will include using distant relatives in breeding program, selecting a subset of accessions for evaluations when large collections are available, circumventing breeding barriers to obtain wide-cross progenies, navigating intellectual property issues, and writing a successful plant exploration proposal. ",
+    "instructors": [
+        "Sacks, E"
+    ],
+    "prereq": [
+        "CPSC 352",
+        "CPSC 453"
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "title": "PSYC 311",
+    "names": "Behavioral Neuroscience Lab",
+    "credit": "4 hours.",
+    "intro": "Introduction to the research techniques used in behavioral neuroscience: includes behavioral analysis of drug effects, anatomy of the brain, hormones and behavior, neural circuits and related topics. Students will have direct experience working with laboratory rats to understand their importance in the advancement of our knowledge about how the brain functions. ",
+    "instructors": [
+        "Parker, C",
+        "Sellinger, E",
+        "Juraska, J",
+        "Brinks, A"
+    ],
+    "prereq": [
+        "PSYC 210"
+    ]
+}

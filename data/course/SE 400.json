@@ -1,0 +1,12 @@
+{
+    "title": "SE 400",
+    "names": "Engineering Law",
+    "credit": "3 OR 4 hours.",
+    "intro": "Nature and development of the legal system; legal rights and duties important to engineers in their professions; contracts, uniform commercial code and sales of goods, torts, agency, worker's compensation, labor law, property, environmental law, intellectual property. ",
+    "instructors": [
+        "Barich, J"
+    ],
+    "prereq": [
+        "RHET 105"
+    ]
+}

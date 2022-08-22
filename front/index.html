@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
+        integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <link rel="stylesheet" href="{{ url_for('static', filename='main-style.css') }}">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title>Course Information Retrieval</title>
+</head>
+
+<body>
+    <nav class="fixed-top">
+        <div class="nav-left">
+            <div class="nav-text">Course Information Retrieval</div>
+        </div>
+    </nav>
+
+    <div class="search">
+		<form action="/search" method="POST">
+            <h1>Find Your Course</h1>
+            <br>
+			<input class="search_query" name="search_query" type="text" placeholder="Search for class..">
+            <br><br>
+            <button class="submit_button" type="submit">Search</button>
+		</form>
+	</div>
+</body>
+
+
+</html>

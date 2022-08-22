@@ -1,0 +1,15 @@
+{
+    "title": "IS 585",
+    "names": "Bibliographic Metadata",
+    "credit": "4 hours.",
+    "intro": "Introduction to basic principles and concepts of descriptive and subject cataloging in the context of information service needs for various user communities. Explores principles, structures, standards, technologies and practices relating to organizing and creating access to print and non-print media. Includes coverage of subject analysis and descriptive practices. Introduces controlled vocabularies. ",
+    "instructors": [
+        "Choi, I",
+        "Bothmann, R",
+        "Lopez, M"
+    ],
+    "prereq": [
+        "IS 505",
+        "IS 501"
+    ]
+}

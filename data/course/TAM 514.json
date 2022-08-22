@@ -1,0 +1,14 @@
+{
+    "title": "TAM 514",
+    "names": "Elastodynamics and Vibrations",
+    "credit": "4 hours.",
+    "intro": "Review of theory of multi-degree-of-freedom systems; problems in the free and forced vibration of continuous linear elastic structures, rods, beams, membranes, plates, and three-dimensional solid and fluid bodies; Lagrangian densities, Sturm-Liouville problems, time and frequency domains, damping, Green's functions, and elastic waves; propagation and modal analysis; modeling of damping in structures; response of complex structures. ",
+    "instructors": [
+        "Vakakis, A"
+    ],
+    "prereq": [
+        "TAM 412",
+        "TAM 542",
+        "TAM 551"
+    ]
+}

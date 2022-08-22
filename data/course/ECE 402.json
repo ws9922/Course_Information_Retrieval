@@ -1,0 +1,12 @@
+{
+    "title": "ECE 402",
+    "names": "Electronic Music Synthesis",
+    "credit": "3 hours.",
+    "intro": "Historical survey of electronic and computer music technology; parameters of musical expression and their codification; analysis and synthesis of fixed sound spectra; time-variant spectrum analysis/synthesis of musical sounds; algorithms for dynamic sound synthesis. ",
+    "instructors": [
+        "Haken, L"
+    ],
+    "prereq": [
+        "ECE 310"
+    ]
+}

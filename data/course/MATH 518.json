@@ -1,0 +1,13 @@
+{
+    "title": "MATH 518",
+    "names": "Differentiable Manifolds I",
+    "credit": "4 hours.",
+    "intro": "Definitions and properties of differentiable manifolds and maps, (co)tangent bundles, vector fields and flows, Frobenius theorem, differential forms, exterior derivatives, integration and Stokes' theorem, DeRham cohomology, inverse function theorem, Sard's theorem, transversality and intersection theory. ",
+    "instructors": [
+        "Tolman, S"
+    ],
+    "prereq": [
+        "MATH 423",
+        "MATH 481"
+    ]
+}

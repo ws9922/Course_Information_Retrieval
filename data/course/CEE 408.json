@@ -1,0 +1,12 @@
+{
+    "title": "CEE 408",
+    "names": "Railroad Transportation Engrg",
+    "credit": "3 OR 4 hours.",
+    "intro": "Principles and analysis of railroad transportation efficiency, economics, energy, and engineering; effect on production and markets. Railroad infrastructure; locomotive and rolling stock design, function, and operation. Computation of train speed, power, and acceleration requirements; railway traffic control and signaling. Quantitative analytical tools for rail-transportation decision-making and optimization. Field trip to observe railroad infrastructure, equipment and operations. ",
+    "instructors": [
+        "Barkan, C"
+    ],
+    "prereq": [
+        "CEE 310"
+    ]
+}

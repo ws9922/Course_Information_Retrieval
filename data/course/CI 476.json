@@ -1,0 +1,18 @@
+{
+    "title": "CI 476",
+    "names": "Teaching Elementary and Middle Grade Language Arts",
+    "credit": "3 hours.",
+    "intro": "Second of a two-course sequence that examines the basic theories, issues, methods, and materials for a developmental K-8 language arts program. It continues to emphasize the need to integrate the four language arts (reading, writing, speaking, and listening) as tools for learning across the curriculum. This second course, however, places a relatively greater emphasis on writing than on reading, speaking, and listening. Continues to address cultural diversity in language arts instruction, with emphasis on linguistic diversity. ",
+    "instructors": [
+        "Elassi, A",
+        "MacGregor, N",
+        "McCarthey, S",
+        "James, C",
+        "Zhang, J"
+    ],
+    "prereq": [
+        "CI 467",
+        "CI 475",
+        "CI 471"
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "title": "PHYS 403",
+    "names": "Modern Experimental Physics",
+    "credit": "4 OR 5 hours.",
+    "intro": "Techniques and experiments in the physics of atoms, atomic nuclei, molecules, the solid state, and other areas of modern physical research. ",
+    "instructors": [
+        "Colla, E",
+        "Lorenz, V"
+    ],
+    "prereq": [
+        "PHYS 486"
+    ]
+}

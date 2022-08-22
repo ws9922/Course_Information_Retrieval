@@ -1,0 +1,23 @@
+{
+    "title": "CHEM 315",
+    "names": "Instrumental Chem Systems Lab",
+    "credit": "2 hours.",
+    "intro": "Laboratory course emphasizes the application of modern instrumental techniques for characterizing the kinetic behavior and equilibrium properties of chemical systems. ",
+    "instructors": [
+        "Forney, N",
+        "Paliwal, A",
+        "Shiau, A",
+        "Gewirth, A",
+        "Chen, C",
+        "Malme, J",
+        "Bregman, M",
+        "Barton, G",
+        "Macainsh, B",
+        "Hoane, A"
+    ],
+    "prereq": [
+        "CHEM 237",
+        "CHEM 223",
+        "CHEM 233"
+    ]
+}

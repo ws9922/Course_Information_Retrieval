@@ -1,0 +1,10 @@
+{
+    "title": "NPRE 461",
+    "names": "Probabilistic Risk Assessment",
+    "credit": "3 OR 4 hours.",
+    "intro": "Multidisciplinary theories and techniques of risk, safety, and reliability of complex systems and state-of-the-art Probabilistic Risk Assessment (PRA), which provides input for risk-informed decision-making for design, operation, and regulatory oversight in diverse high-consequence industries such as nuclear power, aviation, space, chemical processes, oil and gas, and healthcare. Topics include: Systematic Risk Scenario Modeling, Consequence Analysis, Bayesian Updating, Bayesian Belief Network, Binary Decision Diagram, Uncertainty Propagation, Hardware Reliability, Human Error Modeling, Failure Causal Modeling, Maintenance and Repair Modeling, Risk Importance Ranking, and Data Analytics. PRA and Reliability Engineering software codes will be utilized for assignments. ",
+    "instructors": [
+        "Mohaghegh, Z"
+    ],
+    "prereq": []
+}

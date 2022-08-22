@@ -1,0 +1,19 @@
+{
+    "title": "CHBE 472",
+    "names": "Techniques in Biomolecular Eng",
+    "credit": "3 OR 4 hours.",
+    "intro": "Engineering principles that underlie many of the powerful tools in biotechnology and how scientific discoveries and engineering approaches are used in current industrial applications. Physical principles that govern self-organization and repair in biological systems; tools developed to characterize, manipulate, and quantify biomolecules; use of analytical tools and genetic manipulation in modern bioengineering and biotechnology applications. ",
+    "instructors": [
+        "ARRANGED"
+    ],
+    "prereq": [
+        "CHEM 202",
+        "CHEM 203",
+        "CHEM 204",
+        "MATH 220",
+        "MATH 221",
+        "PHYS 211",
+        "PHYS 214",
+        "MCB 450"
+    ]
+}

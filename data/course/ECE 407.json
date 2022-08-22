@@ -1,0 +1,12 @@
+{
+    "title": "ECE 407",
+    "names": "Cryptography",
+    "credit": "3 OR 4 hours.",
+    "intro": "Cryptography is a powerful toolbox for building secure systems --- not just for private communication, but also for building fault tolerant protocols, for securely outsourcing computation to untrusted services, and more. The goal of this course is to introduce the concepts of modern cryptography, including a combination of theoretical foundations (how do we precisely state security guarantees and assumptions, and prove that a protocol is designed correctly?) and practical techniques (how do we combine secure primitives to make effective systems?). This course is intended for senior undergraduate students with an interest in applying cryptographic techniques to building secure systems, and for graduate students with an interest in cryptography or systems security. ",
+    "instructors": [
+        "Miller, A"
+    ],
+    "prereq": [
+        "CS 225"
+    ]
+}

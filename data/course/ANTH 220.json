@@ -1,0 +1,13 @@
+{
+    "title": "ANTH 220",
+    "names": "Introduction to Archaeology",
+    "credit": "3 hours.",
+    "intro": "Introduction to the problems of studying past cultures; special attention given to the ranges of techniques available and the adequacy of various methodologies as bases for sound inference about the structure of extinct cultures. ",
+    "instructors": [
+        "Fennell, C",
+        "Verstraete, E"
+    ],
+    "prereq": [
+        "ANTH 102"
+    ]
+}

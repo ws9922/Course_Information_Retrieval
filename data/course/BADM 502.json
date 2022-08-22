@@ -1,0 +1,11 @@
+{
+    "title": "BADM 502",
+    "names": "Communicating with Data and Decision Making",
+    "credit": "2 hours.",
+    "intro": "Making decisions in organizations often require data, an approach that is increasingly becoming critical with proliferation of data. Data has to be understood for insights, to aid in decision making or presented to others to persuade. This course will introduce concepts and techniques to understand and communicate data for insights and decision-making. Topics include types of data, data visualization, descriptive statistics, understanding and representing variation, multiple variables, time series and maps. The course will follow a practice based approach. ",
+    "instructors": [
+        "Baddam, S",
+        "Larson, E"
+    ],
+    "prereq": []
+}

@@ -1,0 +1,12 @@
+{
+    "title": "MATH 550",
+    "names": "Dynamical Systems I",
+    "credit": "4 hours.",
+    "intro": "An introduction to the study of dynamical systems. Considers continuous and discrete dynamical systems at a sophisticated level: differential equations, flows and maps on Euclidean space and other manifolds. Emphasis will be placed on the fundamental theoretical concepts and the interaction between the geometry and topology of manifolds and global flows. Discrete dynamics includes Bernoulli shifts, elementary Anosov diffeomorphisms and surfaces of sections of flows. Bifurcation phenomena in both continuous and discrete dynamics will be studied. ",
+    "instructors": [
+        "Zharnitsky, V"
+    ],
+    "prereq": [
+        "MATH 489"
+    ]
+}

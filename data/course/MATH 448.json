@@ -1,0 +1,14 @@
+{
+    "title": "MATH 448",
+    "names": "Complex Variables",
+    "credit": "3 OR 4 hours.",
+    "intro": "For students who desire a rigorous introduction to the theory of functions of a complex variable; topics include Cauchy's theorem, the residue theorem, the maximum modulus theorem, Laurent series, the fundamental theorem of algebra, and the argument principle. ",
+    "instructors": [
+        "Tumanov, A"
+    ],
+    "prereq": [
+        "MATH 448",
+        "MATH 446",
+        "MATH 447"
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "title": "NPRE 432",
+    "names": "Nuclear Engrg Materials Lab",
+    "credit": "2 hours.",
+    "intro": "Experiments relating to materials applications in nuclear engineering and energy systems. Examination of topics in room and elevated temperature mechanical properties of structural materials, corrosion, physical properties, radiation damage and effects, and materials selection in design. ",
+    "instructors": [
+        "Stubbins, J"
+    ],
+    "prereq": [
+        "NPRE 431"
+    ]
+}

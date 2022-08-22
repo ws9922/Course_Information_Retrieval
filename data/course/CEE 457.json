@@ -1,0 +1,13 @@
+{
+    "title": "CEE 457",
+    "names": "Groundwater",
+    "credit": "3 hours.",
+    "intro": "Physical properties of groundwater and aquifers, principles and fundamental equations of porous media flow and mass transport, well hydraulics and pumping test analysis, role of groundwater in the hydrologic cycle, groundwater quality and contamination. ",
+    "instructors": [
+        "Tartakovsky, A"
+    ],
+    "prereq": [
+        "CEE 350",
+        "TAM 335"
+    ]
+}

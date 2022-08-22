@@ -1,0 +1,12 @@
+{
+    "title": "IE 412",
+    "names": "OR Models for Mfg Systems",
+    "credit": "3 OR 4 hours.",
+    "intro": "Operations research techniques applied to problems in manufacturing and distribution. Single and multi-stage lot sizing problems, scheduling and sequencing problems, and performance evaluation of manufacturing systems. ",
+    "instructors": [
+        "King, D"
+    ],
+    "prereq": [
+        "IE 310"
+    ]
+}

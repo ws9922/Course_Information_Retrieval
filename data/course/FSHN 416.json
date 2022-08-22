@@ -1,0 +1,16 @@
+{
+    "title": "FSHN 416",
+    "names": "Food Chemistry Laboratory",
+    "credit": "3 hours.",
+    "intro": "Chemical and physical properties of water, proteins, lipids, carbohydrates, and other food components/additives are discovered in the context of their interactions and functional roles in foods. ",
+    "instructors": [
+        "Radlowski, C",
+        "Demejia, E",
+        "Chandrasekaran, S",
+        "Huang, X"
+    ],
+    "prereq": [
+        "CHEM 232",
+        "FSHN 414"
+    ]
+}

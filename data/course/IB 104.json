@@ -1,0 +1,13 @@
+{
+    "title": "IB 104",
+    "names": "Animal Biology",
+    "credit": "4 hours.",
+    "intro": "Introductory zoological concepts with emphasis on the diversity and comparative anatomy of animals and the fundamentals of physiology, genetics, evolution, and behavior. Lecture and laboratory. The laboratory includes vertebrate dissection.",
+    "instructors": [
+        "Surber, L",
+        "Arias, L",
+        "Strailey, K",
+        "Jones, L"
+    ],
+    "prereq": []
+}

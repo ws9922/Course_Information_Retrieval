@@ -1,0 +1,21 @@
+{
+    "title": "ASRM 406",
+    "names": "Linear Algebra with Financial Applications",
+    "credit": "3 OR 4 hours.",
+    "intro": "Emphasizes techniques of linear algebra and introductory and advanced applications to actuarial science, finance and economics. Topics include linear equations, matrix theory, vector spaces, linear transformations, eigenvalues and eigenvectors and inner product spaces. In addition, current research topics such as modeling, data mining, and generalized linear models are explored. ",
+    "instructors": [
+        "Rosenblatt, J"
+    ],
+    "prereq": [
+        "ASRM 406",
+        "MATH 410",
+        "MATH 125",
+        "MATH 225",
+        "MATH 415",
+        "MATH 416",
+        "MATH 241",
+        "ASRM 210",
+        "MATH 210",
+        "FIN 221"
+    ]
+}

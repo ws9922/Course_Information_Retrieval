@@ -1,0 +1,11 @@
+{
+    "title": "GEOG 105",
+    "names": "The Digital Earth",
+    "credit": "3 hours.",
+    "intro": "Geospatial technologies such as global positioning systems (GPS) and geographic information systems (GIS) are becoming increasingly important tools in research and policy arenas and in everyday life. This course will provide an introduction to these emerging technologies and to the principles of mapping science that underpin them. At the same time, the course will explore how these innovative technologies are changing the spaces and places around us, including how we interact with the environment and each other. Lab exercises provide hands-on experience in collecting and mapping geospatial information, interpreting digital imagery and the Earth's environments, and critically thinking about the social implications of the digital Earth.",
+    "instructors": [
+        "Morioka, W",
+        "Jefferson, B"
+    ],
+    "prereq": []
+}

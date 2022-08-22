@@ -1,0 +1,17 @@
+{
+    "title": "MATH 125",
+    "names": "Elementary Linear Algebra",
+    "credit": "3 hours.",
+    "intro": "Basic concepts and techniques of linear algebra; includes systems of linear equations, matrices, determinants, vectors in n-space, and eigenvectors, together with selected applications, such as Markov processes, linear programming, economic models, least squares, and population growth. ",
+    "instructors": [
+        "Araiza, R"
+    ],
+    "prereq": [
+        "MATH 125",
+        "MATH 225",
+        "ASRM 406",
+        "MATH 415",
+        "MATH 112",
+        "MATH 012"
+    ]
+}

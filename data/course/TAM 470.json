@@ -1,0 +1,16 @@
+{
+    "title": "TAM 470",
+    "names": "Computational Mechanics",
+    "credit": "3 OR 4 hours.",
+    "intro": "Modercomputational mechanics: mappings and iterative methods; stability; convergence; consistency; numerical and symbolic solutions of ordinary and partial differential equations; finite-difference methods; the finite-element method; spectral methods. Applications to problems in solid mechanics, fluid mechanics, and dynamics. ",
+    "instructors": [
+        "Shih, C",
+        "Mercer, B"
+    ],
+    "prereq": [
+        "CS 101",
+        "MATH 285",
+        "MATH 286",
+        "MATH 441"
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "title": "ECE 508",
+    "names": "Manycore Parallel Algorithms",
+    "credit": "4 hours.",
+    "intro": "Algorithm techniques for enhancing the scalability of parallel software: scatter vs. gather, problem decomposition, spatial sorting and binning, privatization for reduced conflicts, tiling for data locality, regularization for improved load balance, compaction to conserve memory bandwidth, double-buffering to overlap latencies, and data layout for improved efficiency of DRAM accesses. ",
+    "instructors": [
+        "Lumetta, S"
+    ],
+    "prereq": [
+        "ECE 408",
+        "CS 420"
+    ]
+}

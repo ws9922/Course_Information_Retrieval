@@ -1,0 +1,10 @@
+{
+    "title": "IS 430",
+    "names": "Foundations of Information Processing",
+    "credit": "2 OR 4 hours.",
+    "intro": "Covers common data, document processing, and programming constructs and concepts. Focuses on problem solving and abstraction with a programming language. By the end of the course students will be able to design, develop and test a moderately complex computer program to manage full text, bibliographic records or multimedia. The course prepares students for working with applications in data analytics, data science, digital libraries, text mining and knowledge management. No prior programming background is assumed. ",
+    "instructors": [
+        "Trainor, K"
+    ],
+    "prereq": []
+}

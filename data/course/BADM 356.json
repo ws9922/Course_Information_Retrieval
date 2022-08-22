@@ -1,0 +1,10 @@
+{
+    "title": "BADM 356",
+    "names": "Data Science and Analytics",
+    "credit": "3 hours.",
+    "intro": "In this course, you will learn not only data analytic techniques but also the managerial implications of competing with analytics. You will understand the managerial challenges of using data analytics to develop a strategic advantage through readings and case studies. You will learn techniques such as statistical inference, linear modeling, sentiment analytics, and data mining through hands-on exercises in R. R is an open source language that has grown in importance and usage in corporations. Finally, you will be able to present and interpret data through an understanding of data visualization techniques.",
+    "instructors": [
+        "Nelson, M"
+    ],
+    "prereq": []
+}

@@ -1,0 +1,18 @@
+{
+    "title": "ECE 120",
+    "names": "Introduction to Computing",
+    "credit": "4 hours.",
+    "intro": "Introduction to digital logic, computer systems, and computer languages. Topics include representation of information, combinational and sequential logic analysis and design, finite state machines, the von Neumann model, basic computer organization, and machine language programming. Laboratory assignments provide hands-on experience with design, simulation, implementation, and programming of digital systems. ",
+    "instructors": [
+        "Zhang, Y",
+        "Levchenko, K",
+        "Bhat, S",
+        "Wang, L",
+        "Ryu, C",
+        "Liu, Y",
+        "Bhowmik, U",
+        "Baltaji, R",
+        "Tu, J"
+    ],
+    "prereq": []
+}

@@ -1,0 +1,13 @@
+{
+    "title": "BIOE 580",
+    "names": "Foundations of Imaging Science",
+    "credit": "4 hours.",
+    "intro": "Exposes students to a broad treatment of the mathematical and statistical principles of biomedical imaging. In addition to providing a foundation for understanding general principles of image formation and objective image quality assessment that are widely applicable, this material will be essential for the principled and successful application of artificial intelligence methods in biomedical imaging. This course will cover the mathematical concepts needed for the deterministic analysis of imaging systems. Linear operator theory will be employed to describe continuous-to-continuous, continuous-to-discrete, and discrete-to-discrete mappings from objects to images. In addition, imaging systems will be analyzed in a statistical framework where stochastic models for objects and images will be introduced. Methodologies for objective assessment of image quality (OAIQ) will be introduced, which will address classification tasks, receiver operator characteristic (ROC) analysis, and salient aspects estimation theory. An introduction to numerical observers for quantification of OAIQ will be provided. ",
+    "instructors": [
+        "Brooks, F"
+    ],
+    "prereq": [
+        "BIOE 485",
+        "BIOE 483"
+    ]
+}

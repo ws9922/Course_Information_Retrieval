@@ -1,0 +1,23 @@
+{
+    "title": "ECON 202",
+    "names": "Economic Statistics I",
+    "credit": "3 hours.",
+    "intro": "Introduction of basic concepts in statistics including the presentation of data, descriptive statistics, probability theory, discrete and continuous distributions, sampling distributions, estimation, and hypothesis testing. The approach of the class includes both learning the concepts behind basic statistics and also how to apply these concepts in \"real-life\" situations. Utilizes a practical project format. To complete the Business Statistics sequence, students must also complete ECON 203. ",
+    "instructors": [
+        "Yang, H",
+        "Yi, M",
+        "Shen, K",
+        "Schultz, C",
+        "Kyriazis, A",
+        "Stocker, A"
+    ],
+    "prereq": [
+        "ECON 202",
+        "PSYC 235",
+        "SOC 280",
+        "STAT 100",
+        "MATH 220",
+        "MATH 221",
+        "MATH 234"
+    ]
+}

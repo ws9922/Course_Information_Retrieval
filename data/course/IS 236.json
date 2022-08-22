@@ -1,0 +1,13 @@
+{
+    "title": "IS 236",
+    "names": "User Research & Evaluation",
+    "credit": "3 hours.",
+    "intro": "This course will teach students about user research and evaluation. They will learn to apply various user research methods, gather and understand user requirements and needs for a wide range of user populations, especially those that are under-served (e.g., children, older adults, people with disabilities), conduct user evaluations of prototypes and interactive systems, and communicate effectively about the research insights and make actionable design suggestions. ",
+    "instructors": [
+        "Wang, Y"
+    ],
+    "prereq": [
+        "IS 204",
+        "IS 226"
+    ]
+}

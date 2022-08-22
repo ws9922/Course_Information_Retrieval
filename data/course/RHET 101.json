@@ -1,0 +1,19 @@
+{
+    "title": "RHET 101",
+    "names": "Principles of Writing",
+    "credit": "4 hours.",
+    "intro": "Instruction in structuring academic, argumentative essays, including how to develop thesis statements and use evidence across different types of writing. This course is the first semester of a two-semester sequence (RHET 101 - RHET 102) that fulfills the campus Composition I general education requirement. This course includes weekly individual tutorials. ",
+    "instructors": [
+        "10:00AM - 10:50AM",
+        "09:00AM - 09:50AM",
+        "11:00AM - 12:15PM",
+        "12:30PM - 01:45PM",
+        "09:30AM - 10:45AM",
+        "02:00PM - 03:15PM"
+    ],
+    "prereq": [
+        "RHET 101",
+        "RHET 105",
+        "RHET 101"
+    ]
+}

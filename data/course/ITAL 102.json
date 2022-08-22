@@ -1,0 +1,13 @@
+{
+    "title": "ITAL 102",
+    "names": "Elementary Italian II",
+    "credit": "4 hours.",
+    "intro": "Continuation of ITAL 101. ",
+    "instructors": [
+        "Hill, L",
+        "Cipolla, S"
+    ],
+    "prereq": [
+        "ITAL 101"
+    ]
+}

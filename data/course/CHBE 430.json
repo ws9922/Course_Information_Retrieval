@@ -1,0 +1,18 @@
+{
+    "title": "CHBE 430",
+    "names": "Unit Operations Laboratory",
+    "credit": "4 hours.",
+    "intro": "Experiments and computation in fluid mechanics, heat transfer, mass transfer, and chemical reaction engineering. Exercises in effective Chemical and Biomolecular Engineering communications. ",
+    "instructors": [
+        "Leicht, J",
+        "Jeon, J",
+        "Monye, U",
+        "Lee, J",
+        "Gautam, A",
+        "Jira, E"
+    ],
+    "prereq": [
+        "CHBE 422",
+        "CHBE 424"
+    ]
+}

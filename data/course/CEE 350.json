@@ -1,0 +1,13 @@
+{
+    "title": "CEE 350",
+    "names": "Water Resources Engineering",
+    "credit": "3 hours.",
+    "intro": "Quantitative aspects of water in the earth's environment and its engineering implications, including design and analysis of systems directly concerned with use and control of water; quantitative introduction to hydrology, hydraulic engineering, and water resources planning. ",
+    "instructors": [
+        "Konar, M"
+    ],
+    "prereq": [
+        "CEE 202",
+        "CEE 201"
+    ]
+}

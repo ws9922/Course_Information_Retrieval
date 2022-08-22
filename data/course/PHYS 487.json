@@ -1,0 +1,13 @@
+{
+    "title": "PHYS 487",
+    "names": "Quantum Physics II",
+    "credit": "4 hours.",
+    "intro": "Continuation of PHYS 486. Identical particles, spectral hyperfine structure, magnetic properties of matter, atomic spectroscopy of inner electrons, high-energy photon effects, molecular binding and spectra, emission and absorption of light, and symmetry principles. ",
+    "instructors": [
+        "Goldman, S",
+        "Shelton, J"
+    ],
+    "prereq": [
+        "PHYS 486"
+    ]
+}

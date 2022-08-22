@@ -1,0 +1,12 @@
+{
+    "title": "STAT 429",
+    "names": "Time Series Analysis",
+    "credit": "3 OR 4 hours.",
+    "intro": "Studies theory and data analysis for time series; examines auto-regressive moving average model building and statistical techniques; and discusses spectral model building and statistical analysis using windowed periodograms and Fast Fourier Transformations. ",
+    "instructors": [
+        "Lee, H"
+    ],
+    "prereq": [
+        "STAT 410"
+    ]
+}

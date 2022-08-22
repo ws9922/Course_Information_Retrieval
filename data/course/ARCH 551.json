@@ -1,0 +1,13 @@
+{
+    "title": "ARCH 551",
+    "names": "Structural Analysis",
+    "credit": "4 hours.",
+    "intro": "Advanced problems in the analysis of statically determinate structures; general theories and methods of analysis of statically indeterminate structures by geometric and energy methods; and introduction to theory of plastic design. ",
+    "instructors": [
+        "Uihlein, M"
+    ],
+    "prereq": [
+        "ARCH 451",
+        "ARCH 452"
+    ]
+}

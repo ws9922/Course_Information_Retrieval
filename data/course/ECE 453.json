@@ -1,0 +1,15 @@
+{
+    "title": "ECE 453",
+    "names": "Wireless Communication Systems",
+    "credit": "4 hours.",
+    "intro": "Design of a radio system for transmission of information; modulation, receivers, impedance matching, oscillators, two-port network analysis, receiver and antenna noise, nonlinear effects, mixers, phase-locked loops. ",
+    "instructors": [
+        "Zhao, N",
+        "Schutt-Aine, J",
+        "Konduru, J"
+    ],
+    "prereq": [
+        "ECE 329",
+        "ECE 342"
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "title": "VM 607",
+    "names": "Pathobiology II",
+    "credit": "10 hours.",
+    "intro": "Infectious disease concepts in parasitology, protozoology, bacteriology, mycology, and virology; and introduces basic antimicrobial pharmacology.  ",
+    "instructors": [
+        "08:00AM - 11:50AM"
+    ],
+    "prereq": [
+        "VM 605",
+        "VM 606"
+    ]
+}

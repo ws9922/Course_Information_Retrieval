@@ -1,0 +1,12 @@
+{
+    "title": "BIOE 505",
+    "names": "Computational Bioengineering",
+    "credit": "4 hours.",
+    "intro": "Mathematical and statistical models plus accompanying computational techniques central to many aspects of systems biology and bioengineering research. Theory of supervised and unsupervised learning; linear models; dimension reduction; Monte Carlo computation; analysis of gene expression data and genome sequence data; modeling of gene transcription network signaling pathways. ",
+    "instructors": [
+        "Maslov, S"
+    ],
+    "prereq": [
+        "STAT 400"
+    ]
+}

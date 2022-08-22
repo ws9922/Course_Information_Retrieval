@@ -1,0 +1,13 @@
+{
+    "title": "CEE 409",
+    "names": "Railroad Track Engineering",
+    "credit": "3 OR 4 hours.",
+    "intro": "Railroad track engineering concepts including track component and system design, construction, evaluation, maintenance, load distribution, and wheel-rail interaction. Design and analysis tools for railroad track engineering and maintenance. Field trip to observe railroad track system and components. ",
+    "instructors": [
+        "Edwards, J",
+        "Ruppert, C"
+    ],
+    "prereq": [
+        "CEE 310"
+    ]
+}

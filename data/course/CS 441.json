@@ -1,0 +1,14 @@
+{
+    "title": "CS 441",
+    "names": "Applied Machine Learning",
+    "credit": "3 OR 4 hours.",
+    "intro": "Techniques of machine learning to various signal problems: regression, including linear regression, multiple regression, regression forest and nearest neighbors regression; classification with various methods, including logistic regression, support vector machines, nearest neighbors, simple boosting and decision forests; clustering with various methods, including basic agglomerative clustering and k-means; resampling methods, including cross-validation and the bootstrap; model selection methods, including AIC, stepwise selection and the lasso; hidden Markov models; model estimation in the presence of missing variables; and neural networks, including deep networks. The course will focus on tool-oriented and problem-oriented exposition. Application areas include computer vision, natural language, interpreting accelerometer data, and understanding audio data. ",
+    "instructors": [
+        "Robles Granda, P",
+        "Morales Aguirre, M"
+    ],
+    "prereq": [
+        "CS 225",
+        "CS 361"
+    ]
+}

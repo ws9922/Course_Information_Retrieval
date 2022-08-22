@@ -1,0 +1,17 @@
+{
+    "title": "ECE 444",
+    "names": "IC Device Theory & Fabrication",
+    "credit": "4 hours.",
+    "intro": "Fabrication lab emphasizing physical theory and design of devices suitable for integrated circuitry; electrical properties of semiconductors and techniques (epitaxial growth, oxidation, photolithography diffusion, ion implantation, metallization, and characterization) for fabricating integrated circuit devices such as p-n junction diodes, bipolar transistors, and field effect transistors. ",
+    "instructors": [
+        "Froeter, P",
+        "Lyding, J",
+        "Chan, C",
+        "Kumar, R",
+        "Sievers, D",
+        "Chiu, Y"
+    ],
+    "prereq": [
+        "ECE 340"
+    ]
+}

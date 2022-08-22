@@ -1,0 +1,14 @@
+{
+    "title": "AE 140",
+    "names": "Aerospace Computer-Aided Design",
+    "credit": "2 hours.",
+    "intro": "Computer-aided design (CAD) software modeling of engineered components. Sketching and three-dimensional solid modeling. Complex surface modeling. Production of assembly drawings and exploded views. Creation of dimensioned drawings using best practices for manufacturing. Sketching of parts in isometric views and multi-view drawings along with spatial visualization. Aerospace engineering-themed final project. ",
+    "instructors": [
+        "Laystrom-Woodard, J"
+    ],
+    "prereq": [
+        "AE 140",
+        "SE 101",
+        "ME 170"
+    ]
+}

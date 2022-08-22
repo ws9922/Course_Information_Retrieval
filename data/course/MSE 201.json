@@ -1,0 +1,18 @@
+{
+    "title": "MSE 201",
+    "names": "Phases and Phase Relations",
+    "credit": "3 hours.",
+    "intro": "Understanding microstructure. Quantitative examination of phases (crystalline and non-crystalline structures) and the relationships between phases (phase diagrams). Commercial practices for producing desired microscopic phase configurations and macroscopic shapes (processing). ",
+    "instructors": [
+        "Drake, G",
+        "Leal, C"
+    ],
+    "prereq": [
+        "MSE 201",
+        "MSE 280",
+        "MSE 182",
+        "CHEM 104",
+        "MATH 231",
+        "PHYS 211"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "title": "STAT 430",
+    "names": "Topics in Applied Statistics",
+    "credit": "3 OR 4 hours.",
+    "intro": "Formulation and analysis of mathematical models for random phenomena; extensive involvement with the analysis of real data; and instruction in statistical and computing techniques as needed. ",
+    "instructors": [
+        "Ellison, T",
+        "Balamuta, J",
+        "Zhao, S",
+        "Nguyen, H"
+    ],
+    "prereq": [
+        "STAT 410",
+        "STAT 425"
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "title": "CS 519",
+    "names": "Scientific Visualization",
+    "credit": "4 hours.",
+    "intro": "Visualization techniques useful in analysis of engineering and scientific data. Physical models; methods of computational science; two- and three-dimensional data types; visual representation schemes for scalar, vector, and tensor data; isosurface and volume visualization methods; visual monitoring; interactive steering. ",
+    "instructors": [
+        "Shaffer, E"
+    ],
+    "prereq": [
+        "CS 418"
+    ]
+}

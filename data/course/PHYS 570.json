@@ -1,0 +1,13 @@
+{
+    "title": "PHYS 570",
+    "names": "Subatomic Physics",
+    "credit": "4 hours.",
+    "intro": "Nuclear systematics, nucleon-nucleon interaction, shell model, and single-particle and collective excitations; hadron spectroscopy, hadronic quantum numbers, quark-parton model, and hadron dynamics; weak interactions. ",
+    "instructors": [
+        "Noronha-Hostler, J"
+    ],
+    "prereq": [
+        "PHYS 580",
+        "PHYS 581"
+    ]
+}

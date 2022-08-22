@@ -1,0 +1,13 @@
+{
+    "title": "LER 545",
+    "names": "Economics of Human Resources",
+    "credit": "4 hours.",
+    "intro": "Study of the economics of personnel with the modern corporation. Topics include hiring, promotion, evaluation, discrimination, raiding, job definition, pay schemes, benefits, and design of work. ",
+    "instructors": [
+        "Forsythe, E"
+    ],
+    "prereq": [
+        "HRD 534",
+        "LER 593"
+    ]
+}

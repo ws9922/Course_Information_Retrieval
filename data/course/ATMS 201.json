@@ -1,0 +1,15 @@
+{
+    "title": "ATMS 201",
+    "names": "General Physical Meteorology",
+    "credit": "3 hours.",
+    "intro": "Introduction to physical processes in the atmosphere, focusing on those relevant to weather and storms. Emphasizes quantitative problem solving. Topics include atmospheric structure, atmospheric thermodynamics, clouds, synoptic meteorology, weather forecasting, and storms. For students in atmospheric sciences, physics, mathematics, engineering, and other physical and natural sciences. ",
+    "instructors": [
+        "Choate, J"
+    ],
+    "prereq": [
+        "MATH 220",
+        "MATH 221",
+        "MATH 231",
+        "PHYS 211"
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "title": "CHEM 233",
+    "names": "Elementary Organic Chem Lab I",
+    "credit": "2 hours.",
+    "intro": "Basic laboratory techniques in organic chemistry are presented with emphasis on the separation, isolation, and purification of organic compounds. For students in agricultural science, dairy technology, food technology, nutrition, dietetics, premedical, predental, and preveterinary programs. ",
+    "instructors": [
+        "Abo, K",
+        "Kell, D",
+        "Brandt, D",
+        "Ma, A",
+        "Woodard, A",
+        "Greenan, D",
+        "Medine, K",
+        "Scoville, R",
+        "Firouzbakht, A",
+        "Albritton, M",
+        "Kincanon, M",
+        "Zhao, Z",
+        "Lutsky, A",
+        "Rakowski, C",
+        "Berry, J"
+    ],
+    "prereq": [
+        "CHEM 233",
+        "CHEM 237",
+        "CHEM 232"
+    ]
+}

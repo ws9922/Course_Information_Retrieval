@@ -1,0 +1,18 @@
+{
+    "title": "MCB 101",
+    "names": "Intro Microbiology Laboratory",
+    "credit": "2 hours.",
+    "intro": "Laboratory introduction to the techniques employed in the investigation of microbial activities and properties; experiments designed to familiarize the student with the handling, identification, and characterization of microorganisms and their activities, particularly those of interest to man. ",
+    "instructors": [
+        "Chen, Y",
+        "Hossain, M",
+        "Alt, R",
+        "Zhang, T",
+        "Aktuna, S"
+    ],
+    "prereq": [
+        "MCB 101",
+        "MCB 301",
+        "MCB 100"
+    ]
+}

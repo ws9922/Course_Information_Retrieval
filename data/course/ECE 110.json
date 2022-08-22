@@ -1,0 +1,32 @@
+{
+    "title": "ECE 110",
+    "names": "Introduction to Electronics",
+    "credit": "1 to 3 hours.",
+    "intro": "Introduction to selected fundamental concepts and principles in electrical engineering. Emphasis on measurement, modeling, and analysis of circuits and electronics while introducing numerous applications. Includes sub-discipline topics of electrical and computer engineering, for example, electromagnetics, control, signal processing, microelectronics, communications, and scientific computing basics. Lab work incorporates sensors and motors into an autonomous moving vehicle, designed and constructed to perform tasks jointly determined by the instructors and students.",
+    "instructors": [
+        "Li, X",
+        "Pandey, A",
+        "Zhu, X",
+        "Yu, T",
+        "Ma, X",
+        "Ng, A",
+        "Wang, H",
+        "Wu, B",
+        "Fang, K",
+        "Andrews, C",
+        "Pasic, A",
+        "Makela, J",
+        "Tong, H",
+        "Hong, K",
+        "Schuh, J",
+        "Taki, D",
+        "Zhuang, F",
+        "Schmitz, C",
+        "Yan, Y",
+        "Ryu, H",
+        "Benaissa, M",
+        "Hassanien, A",
+        "Choi, H"
+    ],
+    "prereq": []
+}

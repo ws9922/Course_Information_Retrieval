@@ -1,0 +1,14 @@
+{
+    "title": "NPRE 527",
+    "names": "Plasma Technology of Gaseous Electronics",
+    "credit": "4 hours.",
+    "intro": "This course will help students to develop an advanced theoretical understanding of Low-Temperature Plasma (LTP) processing systems, with an emphasis on system design. Whereas prerequisite coursework focused on developing a framework for the analysis of LTP systems, in this course students will build upon that foundation to develop more advanced theoretical models for LTP dynamics, including electron collisions, plasma transport, sheath dynamics, and plasma and surface chemistry. Students will be able to apply this advanced LTP theory for the design of systems for etching, advanced deposition, and others important in modern materials processing applications. ",
+    "instructors": [
+        "Ruzic, D"
+    ],
+    "prereq": [
+        "ECE 452",
+        "PHYS 485",
+        "NPRE 429"
+    ]
+}

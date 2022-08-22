@@ -1,0 +1,12 @@
+{
+    "title": "MATH 582",
+    "names": "Structure of Graphs",
+    "credit": "4 hours.",
+    "intro": "Structure of graphs and properties of special classes of graphs. Degree sequences and reconstruction, structure of k-connected graphs, Hamiltonian cycles and circumference, planar graphs and their properties, graph minors, cycle coverings, matroidal and algebraic aspects of graphs. ",
+    "instructors": [
+        "Kostochka, A"
+    ],
+    "prereq": [
+        "MATH 580"
+    ]
+}

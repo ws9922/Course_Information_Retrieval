@@ -1,0 +1,14 @@
+{
+    "title": "CHBE 424",
+    "names": "Chemical Reaction Engineering",
+    "credit": "3 hours.",
+    "intro": "Chemical kinetics; chemical reactor design; the interrelationship between transport, thermodynamics, and chemical reaction in open and closed systems. ",
+    "instructors": [
+        "Li, C",
+        "Jacobson, M",
+        "Flaherty, D"
+    ],
+    "prereq": [
+        "CHBE 422"
+    ]
+}

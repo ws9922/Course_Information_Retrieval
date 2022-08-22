@@ -1,0 +1,11 @@
+{
+    "title": "BIOE 485",
+    "names": "Computational Mathematics for Machine Learning and Imaging",
+    "credit": "4 hours.",
+    "intro": "Covers fundamental mathematical and computational methods needed to implement computational imaging and machine learning solutions. First, relevant aspects of probability theory, matrix decompositions, and vector calculus will be introduced. Subsequently, methods that underline approximate inference, such as stochastic sampling methods, are introduced. Finally, numerical optimization methods that represent core components of computed imaging and machine learning will be introduced. This will include numerical optimization-based formulations of inverse problems. An emphasis will be placed on first order deterministic and stochastic gradient-based methods. Second order optimization techniques including quasi-Newton and Hessian free methods will also be surveyed. The application of these methods to computed imaging and machine learning problems will be addressed in detail. ",
+    "instructors": [
+        "Wagh, N",
+        "Varatharajah, Y"
+    ],
+    "prereq": []
+}

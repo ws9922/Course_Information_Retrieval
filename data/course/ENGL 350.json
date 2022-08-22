@@ -1,0 +1,16 @@
+{
+    "title": "ENGL 350",
+    "names": "Writing about Literature, Text, and Culture",
+    "credit": "3 hours.",
+    "intro": "Writing-intensive, variable-topic course designed to improve English majors' ability to produce clear, well-organized, analytically sound and persuasively argued essays relevant to English studies. Introduces students to research techniques through the examination of critical texts appropriate to the course topic. ",
+    "instructors": [
+        "Hansen, J",
+        "Baron, I",
+        "Freeburg, C",
+        "Newcomb, J"
+    ],
+    "prereq": [
+        "ENGL 300",
+        "ENGL 350"
+    ]
+}

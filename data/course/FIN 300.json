@@ -1,0 +1,14 @@
+{
+    "title": "FIN 300",
+    "names": "Financial Markets",
+    "credit": "3 hours.",
+    "intro": "Theory and applications associated with the functioning of financial markets to include the conceptual foundations of portfolio theory, risk management, and asset valuation. The stock, money, bond, mortgage, and futures and options markets are examined. ",
+    "instructors": [
+        "Marcinkowski, M",
+        "Smith, M",
+        "Peters, S"
+    ],
+    "prereq": [
+        "FIN 221"
+    ]
+}

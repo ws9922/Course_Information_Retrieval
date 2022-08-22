@@ -1,0 +1,16 @@
+{
+    "title": "ECE 439",
+    "names": "Wireless Networks",
+    "credit": "3 OR 4 hours.",
+    "intro": "Overview of wireless network architectures including cellular networks, local area networks, multi-hop wireless networks such as ad hoc networks, mesh networks, and sensor networks; capacity of wireless networks; medium access control, routing protocols, and transport protocols for wireless networks; mechanisms to improve performance and security in wireless networks; energy-efficient protocols for sensor networks. ",
+    "instructors": [
+        "Kravets, R"
+    ],
+    "prereq": [
+        "CS 241",
+        "ECE 391",
+        "MATH 461",
+        "MATH 463",
+        "ECE 313"
+    ]
+}

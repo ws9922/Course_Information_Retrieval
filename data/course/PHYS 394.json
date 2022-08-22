@@ -1,0 +1,18 @@
+{
+    "title": "PHYS 394",
+    "names": "Pedagogy and Teaching Physics for Learning Assistants",
+    "credit": "2 hours.",
+    "intro": "Designed to support Learning Assistants (LAs) who are working as instructional aids in lab or discussion sections of the introductory physics courses. Students will study pedagogical strategies for instructor-student interaction and philosophies guiding lab design and/or discussion problem creation. ",
+    "instructors": [
+        "Engblom, S",
+        "Lundsgaard, M"
+    ],
+    "prereq": [
+        "PHYS 101",
+        "PHYS 102",
+        "PHYS 211",
+        "PHYS 212",
+        "PHYS 100",
+        "PHYS 211"
+    ]
+}

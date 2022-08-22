@@ -1,0 +1,12 @@
+{
+    "title": "ECE 495",
+    "names": "Photonic Device Laboratory",
+    "credit": "3 hours.",
+    "intro": "Active photonic devices and lightwave technology. Hands-on experience with several classes of lasers (HeNe laser, semiconductor edge emitting lasers, vertical cavity surface emitting lasers), photodetectors, and photonic systems. Familiarization with experimental optical characterization techniques and equipment. ",
+    "instructors": [
+        "ARRANGED"
+    ],
+    "prereq": [
+        "ECE 487"
+    ]
+}

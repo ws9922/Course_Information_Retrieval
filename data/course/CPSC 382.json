@@ -1,0 +1,15 @@
+{
+    "title": "CPSC 382",
+    "names": "Organic Chem of Biol Processes",
+    "credit": "4 hours.",
+    "intro": "An overview of the structure, properties, and reactions of carbon-containing compounds relevant to biological processes and cellular structure. The chemistry of hydro carbon, aromatic, as well as oxygen- nitrogen-, phosphorus-, and sulfur-containing compounds will be examined. Macromolecular structures including biological membranes, carbohydrates, proteins and nucleic acids will also be discussed. ",
+    "instructors": [
+        "Margenot, A"
+    ],
+    "prereq": [
+        "CHEM 102",
+        "CHEM 104",
+        "CHEM 202",
+        "CHEM 204"
+    ]
+}

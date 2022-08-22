@@ -1,0 +1,13 @@
+{
+    "title": "MSE 461",
+    "names": "Electronic Materials II",
+    "credit": "3 hours.",
+    "intro": "Materials science, engineering, and processing of microlithographic materials, conductors, and dielectrics for electronic applications. Performance related to materials properties and processing. Processing commonly used in microelectronic circuit manufacture for metallization, dielectric formation, and lithography. ",
+    "instructors": [
+        "Zhang, Y",
+        "Panse, K"
+    ],
+    "prereq": [
+        "ECE 340"
+    ]
+}

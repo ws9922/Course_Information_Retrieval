@@ -1,0 +1,16 @@
+{
+    "title": "ARTD 225",
+    "names": "Design Drawing",
+    "credit": "3 hours.",
+    "intro": "Introduction to rapid drawing methods and tools used by designers. Focuses on theory and application of orthographic and perspective drawing for communication of design ideas. ",
+    "instructors": [
+        "Kendall, J",
+        "Zhang, Z",
+        "Raheel, S",
+        "Li, Y"
+    ],
+    "prereq": [
+        "ARTD 201",
+        "ARTD 202"
+    ]
+}

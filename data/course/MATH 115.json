@@ -1,0 +1,27 @@
+{
+    "title": "MATH 115",
+    "names": "Preparation for Calculus",
+    "credit": "3 hours.",
+    "intro": "Reviews trigonometric, rational, exponential, and logarithmic functions; provides a full treatment of limits, definition of derivative, and an introduction to finding area under a curve. Intended for students who need preparation for MATH 220, either because they lack the content background or because they are not prepared for the rigor of a university calculus course. ",
+    "instructors": [
+        "Carroll, H",
+        "Hoffmeister, A",
+        "Eckels, E",
+        "Srikant, J",
+        "Townsend V, T",
+        "Rachfal, E",
+        "Stelzer, A",
+        "Jiron, V",
+        "Perrone, A",
+        "Bonamarte, G"
+    ],
+    "prereq": [
+        "MATH 115",
+        "MATH 014",
+        "MATH 114",
+        "MATH 115",
+        "MATH 220",
+        "MATH 221",
+        "MATH 112"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "title": "CEE 470",
+    "names": "Structural Analysis",
+    "credit": "4 hours.",
+    "intro": "Direct stiffness method of structural analysis; fundamentals and algorithms; numerical analysis of plane trusses, grids and frames; virtual work and energy principles; finite element method for plane stress and plane strain. ",
+    "instructors": [
+        "Duarte, C"
+    ],
+    "prereq": [
+        "CEE 470",
+        "ME 471",
+        "CEE 360"
+    ]
+}

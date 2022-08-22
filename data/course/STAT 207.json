@@ -1,0 +1,13 @@
+{
+    "title": "STAT 207",
+    "names": "Data Science Exploration",
+    "credit": "4 hours.",
+    "intro": "Explores the data science pipeline from hypothesis formulation, to data collection and management, to analysis and reporting. Topics include data collection, preprocessing and checking for missing data, data summary and visualization, random sampling and probability models, estimating parameters, uncertainty quantification, hypothesis testing, multiple linear and logistic regression modeling, classification, and machine learning approaches for high dimensional data analysis. Students will learn how to implement the methods using Python programming and Git version control. ",
+    "instructors": [
+        "Ellison, T",
+        "Li, Y"
+    ],
+    "prereq": [
+        "STAT 107"
+    ]
+}

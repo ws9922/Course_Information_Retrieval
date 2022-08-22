@@ -1,0 +1,13 @@
+{
+    "title": "ATMS 305",
+    "names": "Computing and Data Analysis",
+    "credit": "3 hours.",
+    "intro": "Introduction to the statistical treatment and graphical representation of atmospheric sciences data, both in the space and time domain. Emphasis is placed on applications and real-world examples. Discusses relevant statistics, methods of interpolation and least squares, and linear and nonlinear correlations. Students gain experience using Python for data analysis, develop theoretical skills for analyzing and modeling data, and perform virtual experiments and analyze real-world publicly available data sets. ",
+    "instructors": [
+        "Jewett, B",
+        "Fernandes, L"
+    ],
+    "prereq": [
+        "MATH 241"
+    ]
+}

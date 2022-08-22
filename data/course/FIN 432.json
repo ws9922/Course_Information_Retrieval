@@ -1,0 +1,14 @@
+{
+    "title": "FIN 432",
+    "names": "Managing Fin Risk for Insurers",
+    "credit": "3 OR 4 hours.",
+    "intro": "Introduces basic concepts in financial economics used in the analysis and management of financial risks, with an emphasis on the applications by insurers and pension plans; topics include decision making under uncertainty, economic statistics, deterministic and stochastic interest rate models, derivative securities, valuation, binomial models and option pricing models. ",
+    "instructors": [
+        "Brobst, C"
+    ],
+    "prereq": [
+        "FIN 300",
+        "FIN 230",
+        "FIN 435"
+    ]
+}

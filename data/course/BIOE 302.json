@@ -1,0 +1,15 @@
+{
+    "title": "BIOE 302",
+    "names": "Modeling Human Physiology",
+    "credit": "3 hours.",
+    "intro": "Description, quantification, and modeling of human physiological systems, based on systems fundamentals. Components, relationships, and homeostatic controls of neural, musculoskeletal, respiratory, cardiovascular, endocrine, digestion, and renal-filtration systems. Application of mathematical modeling and MATLAB simulation to further understanding of the systems and relate physiological consequences to changes in environment or component function. ",
+    "instructors": [
+        "Sutton, B",
+        "Fanous, M"
+    ],
+    "prereq": [
+        "BIOE 205",
+        "MCB 252",
+        "BIOE 206"
+    ]
+}

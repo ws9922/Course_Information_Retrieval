@@ -1,0 +1,19 @@
+{
+    "title": "CHBE 440",
+    "names": "Process Control and Dynamics",
+    "credit": "3 hours.",
+    "intro": "Techniques used in the analysis of process dynamics and in the design of process control systems. Laplace transforms, stability analysis, and frequency response methods. ",
+    "instructors": [
+        "Chiang, H",
+        "Shukla, D",
+        "Kwon, R",
+        "Dutta, S"
+    ],
+    "prereq": [
+        "CHBE 421",
+        "MATH 284",
+        "MATH 285",
+        "MATH 286",
+        "CS 101"
+    ]
+}

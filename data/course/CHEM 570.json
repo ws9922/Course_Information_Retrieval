@@ -1,0 +1,11 @@
+{
+    "title": "CHEM 570",
+    "names": "Concepts in Chemical Biology",
+    "credit": "4 hours.",
+    "intro": "An overview of the concepts and methods utilized in research at the interface of chemistry and biology, and their application to contemporary problems in biological chemistry. Specific topics covered include, but are not limited to, chemical genetics, bioconjugation reactions, combinatorial chemistry, high-throughput screening, identifying biological targets of small-molecule compounds, combinatorial biosynthesis, sequence-specific DNA-binding compounds, activity-based protein profiling, anti-cancer agents, targeted therapeutics, phage display, and yeast-hybrid systems. ",
+    "instructors": [
+        "Mehta, A",
+        "Haskin, N"
+    ],
+    "prereq": []
+}

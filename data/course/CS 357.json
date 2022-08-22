@@ -1,0 +1,24 @@
+{
+    "title": "CS 357",
+    "names": "Numerical Methods I",
+    "credit": "3 hours.",
+    "intro": "Fundamentals of numerical methods for students in science and engineering; floating-point computation, systems of linear equations, approximation of functions and integrals, the single nonlinear equation, and the numerical solution of ordinary differential equations; various applications in science and engineering; programming exercises and use of high quality mathematical library routines. ",
+    "instructors": [
+        "Silva, M"
+    ],
+    "prereq": [
+        "CS 357",
+        "CS 450",
+        "CS 101",
+        "CS 105",
+        "CS 124",
+        "CS 125",
+        "ECE 220",
+        "MATH 241",
+        "MATH 225",
+        "MATH 257",
+        "MATH 415",
+        "MATH 416",
+        "ASRM 406"
+    ]
+}

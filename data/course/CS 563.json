@@ -1,0 +1,13 @@
+{
+    "title": "CS 563",
+    "names": "Advanced Computer Security",
+    "credit": "4 hours.",
+    "intro": "Current research trends in computer and network security. Privacy, tamper-resistance, unwanted traffic, monitoring and surveillance, and critical infrastructure protection. Subtopics will vary depending upon current research trends. Students work in teams in close coordination with the course instructor to develop one of the topics in depth by carrying out background research and an exploratory project. ",
+    "instructors": [
+        "Fletcher, C"
+    ],
+    "prereq": [
+        "CS 461",
+        "CS 463"
+    ]
+}

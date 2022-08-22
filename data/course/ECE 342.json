@@ -1,0 +1,15 @@
+{
+    "title": "ECE 342",
+    "names": "Electronic Circuits",
+    "credit": "3 hours.",
+    "intro": "Analysis and design of analog and digital electronic circuits using MOS field effect transistors and bipolar junction transistors, with emphasis on amplifiers in integrated circuits. ",
+    "instructors": [
+        "Shanbhag, N",
+        "Gruev, V"
+    ],
+    "prereq": [
+        "ECE 342",
+        "PHYS 404",
+        "ECE 210"
+    ]
+}

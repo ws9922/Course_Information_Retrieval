@@ -1,0 +1,25 @@
+{
+    "title": "ECE 210",
+    "names": "Analog Signal Processing",
+    "credit": "4 hours.",
+    "intro": "Analog signal processing, with an emphasis on underlying concepts from circuit and system analysis: linear systems; review of elementary circuit analysis; differential equation models of linear circuits and systems; Laplace transform; convolution; stability; phasors; frequency response; Fourier series; Fourier transform; active filters; AM radio. ",
+    "instructors": [
+        "Yang, S",
+        "Mironenko, O",
+        "Song, X",
+        "Mironov, A",
+        "Lee, M",
+        "Sun, H",
+        "Wang, B",
+        "Alvarez, J",
+        "Huang, K"
+    ],
+    "prereq": [
+        "ECE 210",
+        "ECE 211",
+        "ECE 110",
+        "PHYS 212",
+        "MATH 285",
+        "MATH 286"
+    ]
+}

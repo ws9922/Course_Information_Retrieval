@@ -1,0 +1,17 @@
+{
+    "title": "ACE 261",
+    "names": "Applied Statistical Methods",
+    "credit": "4 hours.",
+    "intro": "Statistical methods and computer applications for agricultural and consumer economics, including descriptive statistics, probability distribution, interval estimation, hypothesis testing, analysis of variance, simple and multiple regression, and non-parametric methods. ",
+    "instructors": [
+        "Gundersen, L"
+    ],
+    "prereq": [
+        "ACE 261",
+        "ECON 202",
+        "CPSC 440",
+        "STAT 100",
+        "MATH 124",
+        "MATH 125"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "title": "ECE 580",
+    "names": "Optimiz by Vector Space Methds",
+    "credit": "4 hours.",
+    "intro": "Normed, Banach, and Hilbert spaces; applications of the projection theorem and the Hahn-Banach Theorem to problems of minimum norm, least squares estimation, mathematical programming, and optimal control; the Kuhn-Tucker Theorem and Pontryagin's maximum principle; iterative methods. ",
+    "instructors": [
+        "Raginsky, M"
+    ],
+    "prereq": [
+        "MATH 415",
+        "MATH 482",
+        "MATH 447"
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "title": "ECON 471",
+    "names": "Intro to Applied Econometrics",
+    "credit": "2 TO 4 hours.",
+    "intro": "Introduction to specification, estimation, prediction and evaluation of econometric models, emphasizing the interplay between statistical theory and economic applications. ",
+    "instructors": [
+        "Arvin-Rad, H",
+        "Bhardwaj, S"
+    ],
+    "prereq": [
+        "ECON 203",
+        "ECON 302",
+        "ECON 303"
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "title": "STAT 510",
+    "names": "Mathematical Statistics",
+    "credit": "4 hours.",
+    "intro": "Distributions, transformations, order-statistics, exponential families, sufficiency, delta-method, Edgeworth expansions; uniformly minimum variance unbiased estimators, Rao-Blackwell theorem, Cramer-Rao lower bound, information inequality; equivariance. ",
+    "instructors": [
+        "Chen, X"
+    ],
+    "prereq": [
+        "STAT 410"
+    ]
+}

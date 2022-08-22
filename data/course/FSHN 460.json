@@ -1,0 +1,13 @@
+{
+    "title": "FSHN 460",
+    "names": "Food Processing Engineering",
+    "credit": "3 hours.",
+    "intro": "Examines application of process engineering principles to the conversion of raw agricultural materials into finished food products. Topics include basics of engineering analysis, units and dimensions, materials balances, energy balances, thermodynamics, heat transfer, psychrometry, refrigeration and mechanical separations. ",
+    "instructors": [
+        "ARRANGED"
+    ],
+    "prereq": [
+        "PHYS 101",
+        "MATH 220"
+    ]
+}

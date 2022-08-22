@@ -1,0 +1,31 @@
+{
+    "title": "BTW 250",
+    "names": "Principles Bus Comm",
+    "credit": "3 hours.",
+    "intro": "Teaches students to apply the principles of successful professional communication to workplace writing tasks. Students will also practice editing and supervising the writing of others. Assignments replicate typical business cases and situations, including a report that requires students to compile and interpret research. ",
+    "instructors": [
+        "Hapke, G",
+        "Hudek, B",
+        "Cheslow, E",
+        "McGuire, L",
+        "Claborn, J",
+        "Canipe, J",
+        "Moss, A",
+        "Kelly, D",
+        "Bales, A",
+        "Merrill, A",
+        "Gilmore, S",
+        "Slobodnik, S",
+        "Norcross, K",
+        "Selznick, H",
+        "McVicker, Z",
+        "Keener, J",
+        "Hechler, W",
+        "Burstein, A"
+    ],
+    "prereq": [
+        "BTW 250",
+        "BTW 261",
+        "BTW 263"
+    ]
+}

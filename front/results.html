@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
+        integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <link rel="stylesheet" href="{{ url_for('static', filename='main-style.css') }}">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title>Course Information Retrieval</title>
+</head>
+
+<body>
+    <nav class="fixed-top">
+        <div class="nav-left">
+            <div class="nav-text">Course Information Retrieval</div>
+        </div>
+    </nav>
+
+    <div class="main">
+        <div class="container">
+            <div class="card">
+                <div class="card-header">
+                    {{search_result[0]['course_num'] + '(' + search_result[0]['credits'] + ')'}}
+                </div>
+                <div class="card-body">
+                    <h5 class="card-title">{{search_result[0]['course_name']}}</h5>
+                    <p class="card-text">{{search_result[0]['course_description']}}</p>
+                    <a href="/courses/{{search_result[0]['course_num']}}" class="btn btn-primary">Check</a>
+                </div>
+            </div>
+            <br>
+            <div class="card">
+                <div class="card-header">
+                    {{search_result[1]['course_num'] + '(' + (search_result[1]['credits'])+ ')'}}
+                </div>
+                <div class="card-body">
+                    <h5 class="card-title">{{search_result[1]['course_name']}}</h5>
+                    <p class="card-text">{{search_result[1]['course_description']}}</p>
+                    <a href="/courses/{{search_result[1]['course_num']}}" class="btn btn-primary">Check</a>
+                </div>
+            </div>
+            <br>
+            <div class="card">
+                <div class="card-header">
+                    {{search_result[2]['course_num'] + '(' + search_result[2]['credits'] + ')'}}
+                </div>
+                <div class="card-body">
+                    <h5 class="card-title">{{search_result[2]['course_name']}}</h5>
+                    <p class="card-text">{{search_result[2]['course_description']}}</p>
+                    <a href="/courses/{{search_result[2]['course_num']}}" class="btn btn-primary">Check</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+</body>
+
+
+</html>

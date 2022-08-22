@@ -1,0 +1,16 @@
+{
+    "title": "CHEM 312",
+    "names": "Inorganic Chemistry",
+    "credit": "3 hours.",
+    "intro": "Basic chemical bonding in molecules, introduction to symmetry, chemistry of the main group elements, coordination chemistry of the transition elements, organometallic chemistry, solid state chemistry, bioinorganic chemistry, chemistry of the lanthanide and actinide elements. ",
+    "instructors": [
+        "Fout, A",
+        "Matsuura, J",
+        "Moore, J",
+        "Denny, A"
+    ],
+    "prereq": [
+        "CHEM 232",
+        "CHEM 236"
+    ]
+}

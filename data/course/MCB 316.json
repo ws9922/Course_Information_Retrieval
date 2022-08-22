@@ -1,0 +1,16 @@
+{
+    "title": "MCB 316",
+    "names": "Genetics and Disease",
+    "credit": "4 hours.",
+    "intro": "Introduction of the structure, expression, and regulation of genes of higher eukaryotes with an emphasis upon animal cells. Specific topics will include chromatin structure and its relation to gene expression, regulation of gene expression during development, recombination, molecular genetic technologies, gene replacement therapy, and the molecular genetics of cancers. ",
+    "instructors": [
+        "Schuler, M",
+        "Liu, Q"
+    ],
+    "prereq": [
+        "MCB 316",
+        "MCB 317",
+        "MCB 150",
+        "MCB 250"
+    ]
+}

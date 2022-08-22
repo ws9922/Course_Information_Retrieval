@@ -1,0 +1,15 @@
+{
+    "title": "BIOE 435",
+    "names": "Senior Design I",
+    "credit": "2 hours.",
+    "intro": "Capstone bioengineering design activity to develop solutions to projects provided by academia, industry, or clinical settings, utilizing principles of design, engineering analysis, and functional operation of engineering systems. Concept-design, safety, human-factors, quality, and Six-Sigma considerations. Initial solution proposals meeting professional technical-writing and communication standards. Concluded in BIOE 436. ",
+    "instructors": [
+        "08:00AM - 09:20AM"
+    ],
+    "prereq": [
+        "BIOE 414",
+        "BIOE 415",
+        "BIOE 302",
+        "BIOE 303"
+    ]
+}

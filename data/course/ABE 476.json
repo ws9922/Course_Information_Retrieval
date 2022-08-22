@@ -1,0 +1,14 @@
+{
+    "title": "ABE 476",
+    "names": "Indoor Air Quality Engineering",
+    "credit": "4 hours.",
+    "intro": "Principles and applications of indoor air quality. Particle mechanics, gas kinetics, air quality sampling principles and techniques, air cleaning technologies such as filters, cyclones, electrostatic precipitation for indoor environments; ventilation effectiveness for pollutant control. Research or design project. ",
+    "instructors": [
+        "Zhang, Y"
+    ],
+    "prereq": [
+        "PHYS 213",
+        "MATH 285",
+        "TAM 335"
+    ]
+}

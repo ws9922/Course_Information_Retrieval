@@ -1,0 +1,15 @@
+{
+    "title": "PHYS 246",
+    "names": "Physics on the Silicon Prairie: An Introduction to Modern Computational Physics",
+    "credit": "2 hours.",
+    "intro": "You will become a fearless code warrior, exploring the behaviors of systems that are too complicated for analytic characterization. You will calculate the trajectory of a relativistic starship and confirm an insight of Ramanujan, the \"Man Who Knew Infinity.\" You will generate diagrams of spacetime curvature near black holes and confirm that General Relativity causes the non-Newtonian behavior of Mercury's orbit. You will calculate Π using simulated grains of sand. There will be chaos, Monte Carlo simulations, and adaptive numerical integrations. ",
+    "instructors": [
+        "Clark, B"
+    ],
+    "prereq": [
+        "PHYS 211",
+        "MATH 231",
+        "PHYS 212",
+        "PHYS 225"
+    ]
+}

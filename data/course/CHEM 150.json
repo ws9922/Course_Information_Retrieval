@@ -1,0 +1,20 @@
+{
+    "title": "CHEM 150",
+    "names": "First Semester Success in Chemistry",
+    "credit": "1 hours.",
+    "intro": "The first in a set of two courses for first-year students in Chemistry majors. It focuses on helping students to develop a sense of community in Chemistry, acquire the study tools and skills needed to succeed in college-level STEM courses, and identify resources to begin exploring career options. The course emphasizes discussion, group-based activities, short reflective writings, and attendance at campus events (career fairs) and workshops (developing a resume, getting started in research). ",
+    "instructors": [
+        "Rygiel, G",
+        "Roslend, A",
+        "Lawal, A",
+        "Arce, A",
+        "Powers, K",
+        "Varvitsiotis, C"
+    ],
+    "prereq": [
+        "CHEM 101",
+        "CHEM 102",
+        "CHEM 202",
+        "CHEM 222"
+    ]
+}

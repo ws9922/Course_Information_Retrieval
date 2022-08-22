@@ -1,0 +1,17 @@
+{
+    "title": "GEOL 432",
+    "names": "Mineralogy and Mineral Optics",
+    "credit": "4 hours.",
+    "intro": "Introduction to: crystallography; crystal optics; structure, composition, properties, stability and geological occurrences of minerals; and mineral identification. ",
+    "instructors": [
+        "Stewart, M",
+        "Margason, A"
+    ],
+    "prereq": [
+        "GEOL 333",
+        "GEOL 432",
+        "GEOL 208",
+        "CHEM 104",
+        "CHEM 105"
+    ]
+}

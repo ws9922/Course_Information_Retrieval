@@ -1,0 +1,12 @@
+{
+    "title": "CS 437",
+    "names": "Topics in Internet of Things",
+    "credit": "3 OR 4 hours.",
+    "intro": "Topics of networked embedded computing technology, known as the Internet of Things, in application, distributed, human-centric, or social contexts. The tight coupling between people, networking protocols, computing elements, and physical things in IoT systems presents unique challenges for data collection, processing in constrained computation and communication environments. Introduces general principles of IoT systems and protocol, offers broad foundations for IoT services, and allows specialization to pursue an in-depth understanding of selected IoT aspects or subtopics. ",
+    "instructors": [
+        "Caesar, M"
+    ],
+    "prereq": [
+        "CS 241"
+    ]
+}

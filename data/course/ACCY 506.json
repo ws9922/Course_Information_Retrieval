@@ -1,0 +1,15 @@
+{
+    "title": "ACCY 506",
+    "names": "Advanced Topics in Accounting",
+    "credit": "4 hours.",
+    "intro": "Covers current authoritative accounting standards and applications to accounting practice. Topics include accounting for business combinations, the preparation of consolidated financial statements, and other advanced financial reporting topics. ",
+    "instructors": [
+        "Kustanovich, M"
+    ],
+    "prereq": [
+        "ACCY 410",
+        "ACCY 506",
+        "ACCY 501",
+        "ACCY 502"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "title": "MATH 286",
+    "names": "Intro to Differential Eq Plus",
+    "credit": "4 hours.",
+    "intro": "Techniques and applications of ordinary differential equations, including Fourier series and boundary value problems, linear systems of differential equations, and an introduction to partial differential equations. Covers all the MATH 285 plus linear systems. Intended for engineering majors and other who require a working knowledge of differential equations. ",
+    "instructors": [
+        "Manfroi, A"
+    ],
+    "prereq": [
+        "MATH 286",
+        "MATH 284",
+        "MATH 285",
+        "MATH 441",
+        "MATH 241"
+    ]
+}

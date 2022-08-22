@@ -1,0 +1,18 @@
+{
+    "title": "THEA 473",
+    "names": "Acting Studio III: Movement",
+    "credit": "2 hours.",
+    "intro": "Training in stage combat, sword, and rapier. Enrollment limited to Theatre majors. ",
+    "instructors": [
+        "Steinrock, Z"
+    ],
+    "prereq": [
+        "THEA 375",
+        "THEA 376",
+        "THEA 377",
+        "THEA 378",
+        "THEA 471",
+        "THEA 472",
+        "THEA 474"
+    ]
+}

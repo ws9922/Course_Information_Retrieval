@@ -1,0 +1,19 @@
+{
+    "title": "PSYC 216",
+    "names": "Child Psych",
+    "credit": "3 hours.",
+    "intro": "Study of the psychological development of the child. ",
+    "instructors": [
+        "Yuile, A",
+        "Fisher, C",
+        "Rudolph, K",
+        "Hyde, D",
+        "Pomerantz, E"
+    ],
+    "prereq": [
+        "PSYC 216",
+        "EPSY 236",
+        "PSYC 100",
+        "PSYC 103"
+    ]
+}

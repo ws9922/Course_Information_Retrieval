@@ -1,0 +1,14 @@
+{
+    "title": "BIOE 201",
+    "names": "Conservation Principles Bioeng",
+    "credit": "3 hours.",
+    "intro": "Material, energy, charge, and momentum balances in biological problems. Steady-state and transient conservation equations for mass, energy, charge, and momentum will be derived and applied to mathematically analyze physiological systems using basic mathematical principles, physical laws, stoichiometry, and thermodynamic properties. ",
+    "instructors": [
+        "Amos, J"
+    ],
+    "prereq": [
+        "CHEM 104",
+        "MCB 150",
+        "PHYS 211"
+    ]
+}

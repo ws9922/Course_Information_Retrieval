@@ -1,0 +1,14 @@
+{
+    "title": "ANSC 222",
+    "names": "Anatomy and Physiology",
+    "credit": "3 hours.",
+    "intro": "Provides an introductory background in basic and fundamental principles of animal anatomy and physiology. The major organ systems (muscle, skeletal, neural, endocrine, cardiovascular, respiratory, and renal) will be presented with an emphasis on comparative anatomy, integrated function, and specific homeostatic mechanisms. ",
+    "instructors": [
+        "Antonson, A",
+        "Wheeler, M",
+        "Dean, M"
+    ],
+    "prereq": [
+        "ANSC 100"
+    ]
+}

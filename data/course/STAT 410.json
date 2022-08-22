@@ -1,0 +1,15 @@
+{
+    "title": "STAT 410",
+    "names": "Statistics and Probability II",
+    "credit": "3 OR 4 hours.",
+    "intro": "Continuation of STAT 400. Includes moment-generating functions, transformations of random variables, normal sampling theory, sufficiency, best estimators, maximum likelihood estimators, confidence intervals, most powerful tests, unbiased tests, and chi-square tests. ",
+    "instructors": [
+        "Stepanov, A"
+    ],
+    "prereq": [
+        "STAT 410",
+        "STAT 409",
+        "MATH 241",
+        "STAT 400"
+    ]
+}

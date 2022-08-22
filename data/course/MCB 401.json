@@ -1,0 +1,12 @@
+{
+    "title": "MCB 401",
+    "names": "Cellular Physiology",
+    "credit": "3 hours.",
+    "intro": "Foundational principles of cellular physiology. Topics include solute/water transport, membrane bio electricity, action potentials, ion channel physiology, neuromuscular transmission, muscle physiology, and central neurophysiology and plasticity. ",
+    "instructors": [
+        "Christian-Hinman, C"
+    ],
+    "prereq": [
+        "MCB 252"
+    ]
+}

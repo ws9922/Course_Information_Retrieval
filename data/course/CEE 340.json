@@ -1,0 +1,19 @@
+{
+    "title": "CEE 340",
+    "names": "Energy and Global Environment",
+    "credit": "3 hours.",
+    "intro": "Introduction to evaluating multiple impacts of engineering decisions. Topics include mass and chemical balances; effects of engineered systems on local and global environment, health, and risk; economic, consumer, and social considerations; provision of conventional and renewable energy; and future projections. Design projects emphasize making appropriate decisions by quantifying total impact and evaluating social environment. ",
+    "instructors": [
+        "Matthews, M",
+        "Santacruz Romero, E"
+    ],
+    "prereq": [
+        "PHYS 211",
+        "PHYS 213",
+        "CEE 201",
+        "IE 310",
+        "CEE 202",
+        "IE 300",
+        "STAT 200"
+    ]
+}

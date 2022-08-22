@@ -1,0 +1,15 @@
+{
+    "title": "SOC 380",
+    "names": "Social Research Methods",
+    "credit": "4 hours.",
+    "intro": "Introduction to the foundations of social research and to the major types of research methods employed in sociology. Provides exposure to the major tools and terminology of social research, including the use of computers in sociology. Topics include: research design, finding and using sociology literature, measurement, sampling, survey research, field methods, use of available data, quantitative data analysis and presentation, and computer resources for research. ",
+    "instructors": [
+        "Steward, D"
+    ],
+    "prereq": [
+        "SOC 280",
+        "SOC 100",
+        "SOC 101",
+        "SOC 163"
+    ]
+}

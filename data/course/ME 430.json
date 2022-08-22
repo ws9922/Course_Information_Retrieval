@@ -1,0 +1,14 @@
+{
+    "title": "ME 430",
+    "names": "Failure of Engrg Materials",
+    "credit": "3 OR 4 hours.",
+    "intro": "Material anisotropy and elasto-plastic properties at the crystal level; microstructural basis for fatigue, fracture, and creep in metals, polymers, and ceramics; failure mechanisms and toughening in composites; structure and behavior of metal-matrix composites, ceramic-matrix composites, and polymer composites. ",
+    "instructors": [
+        "Tawfick, S",
+        "Yaacoub, J"
+    ],
+    "prereq": [
+        "ME 330",
+        "TAM 324"
+    ]
+}

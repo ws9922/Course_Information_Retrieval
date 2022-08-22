@@ -1,0 +1,16 @@
+{
+    "title": "MUS 350",
+    "names": "Music Teaching in Ensemble Settings",
+    "credit": "5 hours.",
+    "intro": "Emphasizing the collaborative nature of teaching and learning, this team-taught, comprehensive course engages students in teaching music through school ensembles of all kinds. Topics include comprehensive musicianship, creativity and composition, instructional planning, management structures and routines, and inclusive practices in music education. ",
+    "instructors": [
+        "Nichols, J",
+        "Sweet, B",
+        "Fairbanks, S"
+    ],
+    "prereq": [
+        "MUS 240",
+        "MUS 342",
+        "MUS 343"
+    ]
+}

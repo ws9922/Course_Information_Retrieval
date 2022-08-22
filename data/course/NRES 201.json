@@ -1,0 +1,15 @@
+{
+    "title": "NRES 201",
+    "names": "Introductory Soils",
+    "credit": "4 hours.",
+    "intro": "The nature and properties of soil including origin, formation, and biological, chemical, and physical aspects. ",
+    "instructors": [
+        "Mulvaney, R"
+    ],
+    "prereq": [
+        "MATH 115",
+        "MATH 234",
+        "CHEM 102",
+        "CHEM 104"
+    ]
+}

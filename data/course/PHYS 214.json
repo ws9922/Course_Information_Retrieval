@@ -1,0 +1,28 @@
+{
+    "title": "PHYS 214",
+    "names": "Univ Physics: Quantum Physics",
+    "credit": "2 hours.",
+    "intro": "Interference and diffraction, photons and matter waves, the Bohr atom, uncertainty principle, and wave mechanics. A calculus-based course for majors in engineering, mathematics, physics, and chemistry. ",
+    "instructors": [
+        "Cordeiro, I",
+        "Makins, N",
+        "Arya, S",
+        "Balaji, P",
+        "Shelton, T",
+        "Germany, C",
+        "Ouellette, A",
+        "Kaur, S",
+        "Bradlyn, B",
+        "Mozafarishamsi, T",
+        "Bezryadin, A",
+        "Kim, J",
+        "Velury, S",
+        "Gliozzi, J",
+        "Miloro, P"
+    ],
+    "prereq": [
+        "PHYS 214",
+        "PHYS 102",
+        "PHYS 212"
+    ]
+}

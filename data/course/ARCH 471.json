@@ -1,0 +1,12 @@
+{
+    "title": "ARCH 471",
+    "names": "Fundamentals of Arch Design",
+    "credit": "6 hours.",
+    "intro": "Basic architectural design methods, fundamentals, principles and concepts including creative problem solving in two- and three-dimensions. ",
+    "instructors": [
+        "ARRANGED"
+    ],
+    "prereq": [
+        "ARCH 231"
+    ]
+}

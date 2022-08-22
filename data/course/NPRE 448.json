@@ -1,0 +1,14 @@
+{
+    "title": "NPRE 448",
+    "names": "Nuclear Syst Engrg & Design",
+    "credit": "4 hours.",
+    "intro": "Engineering principles underling nuclear systems designed with emphasis on nuclear power reactors. Materials for nuclear systems. Energy generation and removal in single- and two-phase flows. Reactor and component control systems and nuclear fuel reloading patterns. ",
+    "instructors": [
+        "Brooks, C"
+    ],
+    "prereq": [
+        "MATH 285",
+        "ME 200",
+        "NPRE 455"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "title": "ARTD 201",
+    "names": "Industrial Design I",
+    "credit": "4 hours.",
+    "intro": "Introduction to the creative process and methods involved in industrial design; research, modeling, form giving, prototyping and communication with emphasis on user centered design. Projects of escalating scale and complexity complemented by lectures and demonstrations. ",
+    "instructors": [
+        "09:00AM - 11:40AM",
+        "01:00PM - 03:40PM"
+    ],
+    "prereq": [
+        "ARTD 224",
+        "ARTD 225"
+    ]
+}

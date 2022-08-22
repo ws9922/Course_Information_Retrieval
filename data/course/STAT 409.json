@@ -1,0 +1,15 @@
+{
+    "title": "STAT 409",
+    "names": "Actuarial Statistics II",
+    "credit": "4 hours.",
+    "intro": "Continuation of STAT 408. Examines parametric point and interval estimation, including maximum likelihood estimation, sufficiency, completeness, and Bayesian estimation; hypothesis testing; linear models; regression and correlation. ",
+    "instructors": [
+        "Stepanov, A",
+        "Abdikerimova, S"
+    ],
+    "prereq": [
+        "STAT 409",
+        "STAT 410",
+        "STAT 408"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "title": "CHBE 421",
+    "names": "Momentum and Heat Transfer",
+    "credit": "4 hours.",
+    "intro": "Introduction to fluid statics and dynamics; dimensional analysis; design of flow systems; introduction to heat transfer; conduction, convection, and radiation. ",
+    "instructors": [
+        "Harley, B",
+        "Wang, S",
+        "Timmer, K",
+        "Jiang, C",
+        "Burgeson, E"
+    ],
+    "prereq": [
+        "CHBE 421",
+        "ABE 341",
+        "CHBE 221",
+        "MATH 241"
+    ]
+}

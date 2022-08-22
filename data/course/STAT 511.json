@@ -1,0 +1,12 @@
+{
+    "title": "STAT 511",
+    "names": "Advanced Mathematical Statistics",
+    "credit": "4 hours.",
+    "intro": "Provides an advanced introduction to rigorous mathematical foundations of statistical inference, covering topics such as distribution theory, point estimation theory, interval estimation, theory of hypothesis testing, and decision theory. ",
+    "instructors": [
+        "Yang, Y"
+    ],
+    "prereq": [
+        "STAT 410"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "title": "ECE 535",
+    "names": "Theory of Semicond & Devices",
+    "credit": "4 hours.",
+    "intro": "Introductory quantum mechanics of semiconductors; energy bands; dynamics of Block electrons in static and high-frequency electric and magnetic fields; equilibrium statistics; transport theory, diffusion, drift, and thermoelectric effects; characteristics of p-n junctions, heterojunctions, and transistor devices. ",
+    "instructors": [
+        "Leburton, J"
+    ],
+    "prereq": []
+}

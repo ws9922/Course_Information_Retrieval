@@ -1,0 +1,13 @@
+{
+    "title": "STAT 385",
+    "names": "Statistics Programming Methods",
+    "credit": "3 hours.",
+    "intro": "Statisticians must be savvy in programming methods useful to the wide variety of analysis that they will be expected to perform. This course provides the foundation for writing and packaging statistical algorithms through the creation of functions and object oriented programming. Fundamental programming techniques and considerations will be emphasized. Students will also create dynamic reports that encapsulate their implemented algorithms. Students must have access to a computer on which they can install software. ",
+    "instructors": [
+        "Dalpiaz, D"
+    ],
+    "prereq": [
+        "STAT 200",
+        "STAT 212"
+    ]
+}

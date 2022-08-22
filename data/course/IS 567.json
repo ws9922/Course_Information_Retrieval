@@ -1,0 +1,10 @@
+{
+    "title": "IS 567",
+    "names": "Text Mining",
+    "credit": "4 hours.",
+    "intro": "The goal of this project-based course is to provide students with first-hand experience with how to create a well-formed text mining problem and how to select, transform, and mine a collection of text. Prior programming knowledge (in any language) is required. As students work on their own project, they will draw from key concepts in text mining using perspectives from both the knowledge discovery and natural language processing research communities. ",
+    "instructors": [
+        "Blake, C"
+    ],
+    "prereq": []
+}

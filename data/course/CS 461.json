@@ -1,0 +1,14 @@
+{
+    "title": "CS 461",
+    "names": "Computer Security I",
+    "credit": "4 hours.",
+    "intro": "Fundamental principles of computer and communications security and information assurance: ethics, privacy, notions of threat, vulnerabilities, and risk in systems, information warfare, malicious software, data secrecy and integrity issues, network security, trusted computing, mandatory and discretionary access controls, certification and accreditation of systems against security standards. Security mechanisms: authentication, auditing, intrusion detection, access control, cryptography, security protocols, key distribution. ",
+    "instructors": [
+        "Ren, L",
+        "Bates, A"
+    ],
+    "prereq": [
+        "CS 241",
+        "ECE 391"
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "title": "ECE 380",
+    "names": "Biomedical Imaging",
+    "credit": "3 hours.",
+    "intro": "Physics and engineering principles associated with x-ray, computed tomography, nuclear, ultrasound, magnetic resonance, and optical imaging, including human visualization and perception of image data. ",
+    "instructors": [
+        "Song, P"
+    ],
+    "prereq": [
+        "MATH 285",
+        "MATH 286"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "title": "CHEM 544",
+    "names": "Statistical Thermodynamics",
+    "credit": "4 hours.",
+    "intro": "Fundamentals of thermodynamics and statistical mechanics, covering equilibria, thermodynamic transforms, phase transitions, ensembles and non-equilibrium statistical mechanics, from single molecules to complex biological systems. ",
+    "instructors": [
+        "Luthey-Schulten, Z",
+        "Zhu, W"
+    ],
+    "prereq": [
+        "CHEM 442",
+        "CHEM 444"
+    ]
+}

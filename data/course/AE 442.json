@@ -1,0 +1,17 @@
+{
+    "title": "AE 442",
+    "names": "Aerospace Systems Design I",
+    "credit": "3 hours.",
+    "intro": "Principles of systems engineering as they apply to the design process for aerospace flight systems; general design methodology; application of these concepts to the initial sizing of both aircraft and spacecraft systems. Intensive technical writing. ",
+    "instructors": [
+        "Merret, J",
+        "Lembeck, M"
+    ],
+    "prereq": [
+        "AE 442",
+        "AE 443",
+        "AE 311",
+        "AE 323",
+        "AE 352"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "title": "ECE 460",
+    "names": "Optical Imaging",
+    "credit": "4 hours.",
+    "intro": "Scalar fields, geometrical optics, wave optics, Gaussian beams, Fourier optics, spatial and temporal coherence, microscopy, interference chromatic and geometric aberrations, Jones matrices, waveplates, electromagnetic fields, and electro-optic and acousto-optic effects. Laboratory covers numerical signal processing, spectroscopy, ray optics, diffraction, Fourier optics, microscopy, spatial coherence, temporal coherence, polarimetry, fiber optics, electro-optic modulation and acousto-optic modulation. ",
+    "instructors": [
+        "Sakakura, M",
+        "Popescu, G"
+    ],
+    "prereq": [
+        "ECE 329",
+        "ECE 313"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "title": "TAM 424",
+    "names": "Mechanics of Structural Metals",
+    "credit": "3 OR 4 hours.",
+    "intro": "Micromechanisms at the atomic, single-crystal, and polycrystal levels and their use in explaining the deformation and failure characteristics of metals; elastic deformation, dislocation mechanics, plastic deformation and strengthening mechanisms, fracture mechanics and fracture mechanisms, fatigue, and creep; design criteria; special topics. ",
+    "instructors": [
+        "Tawfick, S",
+        "Yaacoub, J"
+    ],
+    "prereq": [
+        "CEE 300",
+        "ME 330"
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "title": "CEE 434",
+    "names": "Environmental Systems I",
+    "credit": "3 hours.",
+    "intro": "Introduction to the concepts and applications of environmental systems analysis. Application of mathematical programming and modeling to the design, planning, and management of engineered environmental systems, regional environmental systems, and environmental policy. Economic analysis, including benefit-cost analysis and management strategies. Concepts of tradeoff, non-inferior sets, single- and multi-objective optimization. Practical application to case studies to convey an understanding of the complexity and data collection challenges of actual design practice. ",
+    "instructors": [
+        "Cai, X"
+    ],
+    "prereq": [
+        "CEE 201",
+        "CEE 330"
+    ]
+}

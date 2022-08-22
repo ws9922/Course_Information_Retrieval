@@ -1,0 +1,11 @@
+{
+    "title": "IS 525",
+    "names": "Data Warehousing and Business Intelligence",
+    "credit": "4 hours.",
+    "intro": "This course examines the construction of a data warehouse and business intelligence system. It will review the roles and requirements of building the system, including data modelling and business intelligence product design. This course will explore real-world case studies of data warehouse and business intelligence projects through hands-on experience with data modelling, Business Objects, Power BI and Tableau. The course culminates with a final project to design a solution for a business case. ",
+    "instructors": [
+        "Green, B",
+        "Wonderlich, M"
+    ],
+    "prereq": []
+}

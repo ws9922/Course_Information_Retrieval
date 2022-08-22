@@ -1,0 +1,13 @@
+{
+    "title": "CEE 401",
+    "names": "Concrete Materials",
+    "credit": "4 hours.",
+    "intro": "Examination of the influence of constituent materials (cements, water, aggregates and admixtures) on the properties of fresh and hardened concrete, concrete mix design, handling and placement of concrete, and behavior of concrete under various types of loading and environment. Laboratory exercises utilize standard concrete test methods. Field trips are held during some scheduled laboratory sessions. ",
+    "instructors": [
+        "Srivastava, S",
+        "Henschen, J"
+    ],
+    "prereq": [
+        "CEE 300"
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "title": "PSYC 514",
+    "names": "Seminar in Cognitive Science",
+    "credit": "2 OR 4 hours.",
+    "intro": "In-depth view of cognitive science: the study of mind and intelligence. Covers major areas of cognitive science including: anthropology, artificial intelligence, cognitive neuroscience, cognitive psychology, emotions, linguistics, and philosophy. Lectures focus on prominent questions and issues in each area highlighted by descriptions of current research. Also explores interconnections among these fields. ",
+    "instructors": [
+        "Hummel, J"
+    ],
+    "prereq": [
+        "CS 549",
+        "EPSY 551",
+        "LING 570",
+        "PHIL 514"
+    ]
+}

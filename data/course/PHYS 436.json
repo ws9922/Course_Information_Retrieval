@@ -1,0 +1,13 @@
+{
+    "title": "PHYS 436",
+    "names": "Electromagnetic Fields II",
+    "credit": "3 hours.",
+    "intro": "Time-dependent fields. Electromagnetic induction, Maxwell's equations, electromagnetic wave propagation in various media and structures, and electromagnetic radiation from charge and current distributions. Relativistic covariance of Maxwell's equations.  ",
+    "instructors": [
+        "Eckstein, J",
+        "Passias, V"
+    ],
+    "prereq": [
+        "PHYS 435"
+    ]
+}

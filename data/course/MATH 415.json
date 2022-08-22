@@ -1,0 +1,19 @@
+{
+    "title": "MATH 415",
+    "names": "Applied Linear Algebra",
+    "credit": "3 or 4 hours.",
+    "intro": "Introductory course emphasizing techniques of linear algebra with applications to engineering; topics include matrix operations, determinants, linear equations, vector spaces, linear transformations, eigenvalues, and eigenvectors, inner products and norms, orthogonality, equilibrium, and linear dynamical systems. ",
+    "instructors": [
+        "Haboush, W",
+        "Hirani, A",
+        "La Nave, G"
+    ],
+    "prereq": [
+        "MATH 415",
+        "MATH 125",
+        "MATH 225",
+        "ASRM 406",
+        "MATH 416",
+        "MATH 241"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "title": "MATH 412",
+    "names": "Graph Theory",
+    "credit": "3 OR 4 hours.",
+    "intro": "Examines basic concepts and applications of graph theory, where graph refers to a set of vertices and edges that join some pairs of vertices; topics include subgraphs, connectivity, trees, cycles, vertex and edge coloring, planar graphs and their colorings. Draws applications from computer science, operations research, chemistry, the social sciences, and other branches of mathematics, but emphasis is placed on theoretical aspects of graphs. ",
+    "instructors": [
+        "Kelley, E"
+    ],
+    "prereq": [
+        "MATH 347",
+        "MATH 348",
+        "CS 374"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "title": "CEE 405",
+    "names": "Asphalt Materials I",
+    "credit": "3 OR 4 hours.",
+    "intro": "Properties and control testing of bituminous materials, aggregates for bituminous mixtures, and analysis and design of asphalt concrete and liquid asphalt cold mixtures; structural properties of bituminous mixes; surface treatment design; recycling of mixtures. ",
+    "instructors": [
+        "10:00AM - 10:50AM",
+        "Hajj, R",
+        "Lu, Y"
+    ],
+    "prereq": [
+        "CEE 310"
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "title": "MATH 484",
+    "names": "Nonlinear Programming",
+    "credit": "3 OR 4 hours.",
+    "intro": "Iterative and analytical solutions of constrained and unconstrained problems of optimization; gradient and conjugate gradient solution methods; Newton's method, Lagrange multipliers, duality and the Kuhn-Tucker theorem; and quadratic, convex, and geometric programming. ",
+    "instructors": [
+        "St Dizier, A"
+    ],
+    "prereq": [
+        "MATH 241",
+        "MATH 347",
+        "MATH 348",
+        "MATH 415"
+    ]
+}

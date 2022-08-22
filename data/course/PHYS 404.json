@@ -1,0 +1,14 @@
+{
+    "title": "PHYS 404",
+    "names": "Electronic Circuits",
+    "credit": "4 or 5 hours.",
+    "intro": "Physics of semiconductor devices; theory and application of discrete and integrated devices in linear circuits; use of operational amplifiers and feedback; regulation, oscillators, and modulation; emphasizes practical experience. ",
+    "instructors": [
+        "Newton, D",
+        "Gold, M",
+        "Giannetta, R"
+    ],
+    "prereq": [
+        "PHYS 325"
+    ]
+}

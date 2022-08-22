@@ -1,0 +1,32 @@
+{
+    "title": "CHEM 104",
+    "names": "General Chemistry II",
+    "credit": "3 hours.",
+    "intro": "Lecture and discussions. Chemistry of materials, including organic and biological substances, chemical energetics and equilibrium, chemical kinetics, and electrochemistry. ",
+    "instructors": [
+        "Andino Martinez, J",
+        "Bhurgri, S",
+        "Xhumari, J",
+        "Escamilla, J",
+        "Gondela, A",
+        "McGinnis, M",
+        "Sikander, Q",
+        "Horcher, J",
+        "Huang, J",
+        "Ray, C",
+        "Caraway, H",
+        "Priser, J",
+        "Marville, K",
+        "Rodriguez, V",
+        "McCarren, E",
+        "Chan, J",
+        "Schuffler, A",
+        "Sportiello, G"
+    ],
+    "prereq": [
+        "CHEM 104",
+        "CHEM 204",
+        "CHEM 102",
+        "CHEM 202"
+    ]
+}

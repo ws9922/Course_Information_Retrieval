@@ -1,0 +1,13 @@
+{
+    "title": "MATH 424",
+    "names": "Honors Real Analysis",
+    "credit": "3 hours.",
+    "intro": "A rigorous treatment of basic real analysis via metric spaces recommended for those who intend to pursue programs heavily dependent upon graduate level Mathematics. Metric space topics include continuity, compactness, completeness, connectedness and uniform convergence. Analysis topics include the theory of differentiation, Riemann-Darboux integration, sequences and series of functions, and interchange of limiting operations. As part of the honors sequence, this course will be rigorous and abstract. ",
+    "instructors": [
+        "Erdogan, M"
+    ],
+    "prereq": [
+        "MATH 347",
+        "MATH 416"
+    ]
+}

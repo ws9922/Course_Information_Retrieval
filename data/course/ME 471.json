@@ -1,0 +1,19 @@
+{
+    "title": "ME 471",
+    "names": "Finite Element Analysis",
+    "credit": "3 OR 4 hours.",
+    "intro": "The finite element method and its application to engineering problems: truss and frame structures, heat conduction, and linear elasticity; use of application software; overview of advanced topics such as structural dynamics, fluid flow, and nonlinear structural analysis. ",
+    "instructors": [
+        "James, K",
+        "He, J"
+    ],
+    "prereq": [
+        "CSE 451",
+        "ME 471",
+        "CEE 470",
+        "CS 101",
+        "ME 371",
+        "TAM 470",
+        "AE 370"
+    ]
+}

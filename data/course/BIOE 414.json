@@ -1,0 +1,15 @@
+{
+    "title": "BIOE 414",
+    "names": "Biomedical Instrumentation",
+    "credit": "3 hours.",
+    "intro": "Engineering aspects of the detection, acquisition, processing, and display of signals from living systems; biomedical sensors for measurements of biopotentials, ions and gases in aqueous solution, force, displacement, blood pressure, blood flow, heart sounds, respiration, and temperature; therapeutic and prosthetic devices; medical imaging instrumentation. ",
+    "instructors": [
+        "Jaradat, Y",
+        "Irudayaraj, J"
+    ],
+    "prereq": [
+        "BIOE 205",
+        "ECE 205",
+        "ECE 210"
+    ]
+}

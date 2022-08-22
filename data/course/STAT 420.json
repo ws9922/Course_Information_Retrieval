@@ -1,0 +1,14 @@
+{
+    "title": "STAT 420",
+    "names": "Methods of Applied Statistics",
+    "credit": "3 OR 4 hours.",
+    "intro": "Systematic, calculus-based coverage of the more widely used methods of applied statistics, including simple and multiple regression, correlation, analysis of variance and covariance, multiple comparisons, goodness of fit tests, contingency tables, nonparametric procedures, and power of tests; emphasizes when and why various tests are appropriate and how they are used. ",
+    "instructors": [
+        "Deeke, J"
+    ],
+    "prereq": [
+        "STAT 408",
+        "STAT 400",
+        "MATH 231"
+    ]
+}

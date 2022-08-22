@@ -1,0 +1,10 @@
+{
+    "title": "CS 542",
+    "names": "Statistical Reinforcement Learning",
+    "credit": "4 hours.",
+    "intro": "Theory of reinforcement learning, with a focus on sample complexity analyses. Specific topics include MDP basics, finite-sample analyses of online (i.e., exploration) and offline (i.e., batch) RL with a tabular representation, finite-sample analyses of online and offline RL with function approximation, state abstraction theory, off-policy evaluation (importance sampling), and policy gradient. The course goal is to provide a comprehensive understanding of the statistical properties of RL under various settings (e.g., online vs offline), preparing the students for doing research in the area. ",
+    "instructors": [
+        "Jiang, N"
+    ],
+    "prereq": []
+}

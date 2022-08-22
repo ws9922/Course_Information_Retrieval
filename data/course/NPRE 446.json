@@ -1,0 +1,13 @@
+{
+    "title": "NPRE 446",
+    "names": "Radiation Interact w/Matter I",
+    "credit": "3 hours.",
+    "intro": "Experimental and theoretical foundations of interaction of neutrons, photons, and charged particles with matter. Emphasis on topics that underlie the following applications: radiation detection, biological effects and radiation dosimetry, radiation damage and nuclear materials, neutron activation analysis, and fission and fusion energy systems. Classical theory of charged particle cross sections. Introductory quantum mechanics. Exact and numerical solutions of the Schroedinger equation. Quantum theory of cross sections. Photon interactions with atomic electrons and nuclei. Radioactive-series decay. Computer assignments illustrate fundamental concepts. ",
+    "instructors": [
+        "Zhang, Y"
+    ],
+    "prereq": [
+        "MATH 285",
+        "ME 200"
+    ]
+}

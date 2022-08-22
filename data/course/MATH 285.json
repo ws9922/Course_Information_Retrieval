@@ -1,0 +1,17 @@
+{
+    "title": "MATH 285",
+    "names": "Intro Differential Equations",
+    "credit": "3 hours.",
+    "intro": "Techniques and applications of ordinary differential equations, including Fourier series and boundary value problems, and an introduction to partial differential equations. Intended for engineering majors and others who require a working knowledge of differential equations. ",
+    "instructors": [
+        "Yang, Z",
+        "Bronski, J"
+    ],
+    "prereq": [
+        "MATH 285",
+        "MATH 284",
+        "MATH 286",
+        "MATH 441",
+        "MATH 241"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "title": "FIN 512",
+    "names": "Financial Derivatives",
+    "credit": "4 hours.",
+    "intro": "Introduction to options, futures, swaps and other derivative securities; examination of institutional aspects of the markets; theories of pricing; discussion of simple as well as complicated trading strategies (arbitrage, hedging, and spread); applications for asset and risk management. ",
+    "instructors": [
+        "Widdicks, M",
+        "Duarte, V"
+    ],
+    "prereq": [
+        "FIN 520",
+        "MBA 505"
+    ]
+}

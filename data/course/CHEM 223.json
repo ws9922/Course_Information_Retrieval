@@ -1,0 +1,18 @@
+{
+    "title": "CHEM 223",
+    "names": "Quantitative Analysis Lab",
+    "credit": "2 hours.",
+    "intro": "Laboratory course covers the fundamentals of quantitative analysis, equilibrium and kinetics. ",
+    "instructors": [
+        "Litts, C",
+        "Marcellus, M",
+        "Olson, D",
+        "McCleary-Petersen, K",
+        "Tan, Y"
+    ],
+    "prereq": [
+        "CHEM 223",
+        "CHEM 205",
+        "CHEM 222"
+    ]
+}

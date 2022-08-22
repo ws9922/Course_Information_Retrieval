@@ -1,0 +1,12 @@
+{
+    "title": "MSE 500",
+    "names": "Statistical Thermodyn of Matls",
+    "credit": "4 hours.",
+    "intro": "Atomistic concepts of statistical thermodynamics and their relationship to classical phenomenological thermodynamics. Application of the methods of statistical thermodynamics and statistical mechanics to describe the structure, phase behavior, and properties of both hard and soft materials. ",
+    "instructors": [
+        "Schweizer, K"
+    ],
+    "prereq": [
+        "MSE 401"
+    ]
+}

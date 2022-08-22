@@ -1,0 +1,13 @@
+{
+    "title": "BIOE 476",
+    "names": "Tissue Engineering",
+    "credit": "3 hours.",
+    "intro": "Tissue engineering therapies for cell-based, material-based, and therapeutic-based solutions. Stem cells, immunology, and clinical applications. ",
+    "instructors": [
+        "Underhill, G"
+    ],
+    "prereq": [
+        "MCB 150",
+        "BIOE 206"
+    ]
+}

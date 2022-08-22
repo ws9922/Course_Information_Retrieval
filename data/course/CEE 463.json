@@ -1,0 +1,13 @@
+{
+    "title": "CEE 463",
+    "names": "Reinforced Concrete II",
+    "credit": "3 OR 4 hours.",
+    "intro": "Strength, behavior, and design of indeterminate reinforced concrete structures, with primary emphasis on slab systems; emphasis on the strength of slabs and on the available methods of design of slabs spanning in two directions, with or without supporting beams. ",
+    "instructors": [
+        "Andrawes, B",
+        "Sung, M"
+    ],
+    "prereq": [
+        "CEE 461"
+    ]
+}

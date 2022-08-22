@@ -1,0 +1,16 @@
+{
+    "title": "PHYS 486",
+    "names": "Quantum Physics I",
+    "credit": "4 hours.",
+    "intro": "Atomic phenomena integrated with an introduction to quantum theory; evidence for the atomic nature of matter and the properties of the Schrodinger equation, single particle solutions in one dimension, the hydrogen atom, perturbation theory, external fields, and atomic spectroscopy of outer electrons. ",
+    "instructors": [
+        "Madhavan, V",
+        "Munoz, A",
+        "Mirasola, A"
+    ],
+    "prereq": [
+        "PHYS 214",
+        "PHYS 435",
+        "ECE 329"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "title": "CS 576",
+    "names": "Topics in Automated Deduction",
+    "credit": "2 TO 4 hours.",
+    "intro": "Advanced topics in computer-aided methods for formal deduction, selected from areas of current research, such as: resolution theorem proving strategies, special relations, equational reasoning, unification theory, rewrite systems, mathematical induction, program derivation, hybrid inference systems, and programming with logic. ",
+    "instructors": [
+        "Meseguer, J"
+    ],
+    "prereq": []
+}

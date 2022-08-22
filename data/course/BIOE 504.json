@@ -1,0 +1,12 @@
+{
+    "title": "BIOE 504",
+    "names": "Analytical Methods in Bioeng",
+    "credit": "4 hours.",
+    "intro": "Mathematical concept relating to modeling of physiological and bio-molecular processes and the instrumentation used to measure those processes. Review of matrix methods, probability, linear systems, and integral transforms. Singular value decomposition, Bayesian decision making, and linear system solutions to ordinary differential equations. Application of concepts to biosensor design and evaluation, tracer kinetic modeling, and filtering and curve-fitting approaches to forward modeling problems. ",
+    "instructors": [
+        "Lam, F"
+    ],
+    "prereq": [
+        "MATH 285"
+    ]
+}

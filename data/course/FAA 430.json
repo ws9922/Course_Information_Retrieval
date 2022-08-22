@@ -1,0 +1,13 @@
+{
+    "title": "FAA 430",
+    "names": "Capstone Seminar",
+    "credit": "3 hours.",
+    "intro": "Introduces advanced research themes, methods, and techniques for seniors in the Bachelor of Science in Sustainable Design. Emphasis is placed on students developing their own research topics, using multiple representational forms, including writing, drawing, mapping, and modeling. ",
+    "instructors": [
+        "11:00AM - 12:20PM"
+    ],
+    "prereq": [
+        "FAA 230",
+        "FAA 330"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "title": "CEE 472",
+    "names": "Structural Dynamics I",
+    "credit": "3 OR 4 hours.",
+    "intro": "Analysis of the dynamic response of structures and structural components to transient loads and foundation excitation; single-degree-of-freedom and multi-degree-of-freedom systems; response spectrum concepts; simple inelastic structural systems; systems with distributed mass and flexibility. ",
+    "instructors": [
+        "Spencer, B"
+    ],
+    "prereq": [
+        "CEE 360",
+        "MATH 285",
+        "TAM 212"
+    ]
+}

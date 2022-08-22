@@ -1,0 +1,14 @@
+{
+    "title": "ARCH 577",
+    "names": "Theories of Architecture",
+    "credit": "4 hours.",
+    "intro": "Review of principles of architectural design; factors in programming architectural requirements; design development; and evaluation and criticism. ",
+    "instructors": [
+        "Stallmeyer, J",
+        "Dasgupta, S",
+        "Santra, A"
+    ],
+    "prereq": [
+        "ARCH 517"
+    ]
+}

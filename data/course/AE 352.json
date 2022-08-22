@@ -1,0 +1,16 @@
+{
+    "title": "AE 352",
+    "names": "Aerospace Dynamical Systems",
+    "credit": "3 hours.",
+    "intro": "Particle kinematics and dynamics; Lagrange's equations; vibration of multiple degree-of-freedom systems; rotational kinematics and dynamics of rigid bodies. ",
+    "instructors": [
+        "Eggl, S"
+    ],
+    "prereq": [
+        "AE 352",
+        "TAM 412",
+        "MATH 225",
+        "MATH 285",
+        "TAM 212"
+    ]
+}

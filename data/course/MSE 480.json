@@ -1,0 +1,13 @@
+{
+    "title": "MSE 480",
+    "names": "Surfaces and Colloids",
+    "credit": "3 OR 4 hours.",
+    "intro": "Chemistry and physics of surfaces and interfaces, with emphasis on behavior in liquid media. Surface composition; surface and interfacial forces; colloidal stability and flocculation; amphiphilic molecules. ",
+    "instructors": [
+        "Smith, J",
+        "Chen, Q"
+    ],
+    "prereq": [
+        "MSE 401"
+    ]
+}

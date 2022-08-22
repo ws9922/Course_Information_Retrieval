@@ -1,0 +1,14 @@
+{
+    "title": "EPSY 456",
+    "names": "Human Performance and Cognition in Context",
+    "credit": "3 OR 4 hours.",
+    "intro": "Theories and findings from cognitive science and related disciplines concerning human information processing mechanisms and capacities are covered, with an emphasis on how understanding people's perceptual and cognitive strengths and limitations can inform decisions about teaching/training strategies and designing technological environments to suit people's needs and abilities. ",
+    "instructors": [
+        "Cromley, J"
+    ],
+    "prereq": [
+        "PSYC 456",
+        "PSYC 100",
+        "PSYC 103"
+    ]
+}

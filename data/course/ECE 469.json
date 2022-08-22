@@ -1,0 +1,16 @@
+{
+    "title": "ECE 469",
+    "names": "Power Electronics Laboratory",
+    "credit": "2 hours.",
+    "intro": "Circuits and devices used for switching power converters, solid-state motor drives, and power controllers; dc-dc, ac-dc, and dc-ac converters and applications; high-power transistors and magnetic components; design considerations including heat transfer. ",
+    "instructors": [
+        "Banerjee, A",
+        "Tungare, S",
+        "Ku, B",
+        "Johanesen, M"
+    ],
+    "prereq": [
+        "ECE 343",
+        "ECE 464"
+    ]
+}

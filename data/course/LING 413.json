@@ -1,0 +1,19 @@
+{
+    "title": "LING 413",
+    "names": "Corpus Linguistics",
+    "credit": "3 OR 4 hours.",
+    "intro": "An introduction to computational research methods applied to large natural language corpora (i.e. text analytics) which can uncover complexities in naturally occurring data and explore issues related to frequency of usage. Students will be introduced to corpus concepts, methods, and examples; computational skills needed to build, annotate, and search a corpus for patterns and phenomena of interest,; and get hands-on corpus analysis experience. Topics may include syntax (i.e., patterns and alternations), lexical semantics, language variation, pragmatics / language use, discourse analysis, psycholinguistics, as well as descriptive and exploratory text analytics models. ",
+    "instructors": [
+        "Park, H",
+        "Girju, R"
+    ],
+    "prereq": [
+        "LING 100",
+        "LING 400",
+        "CS 225",
+        "STAT 200",
+        "STAT 212",
+        "STAT 400",
+        "CS 361"
+    ]
+}

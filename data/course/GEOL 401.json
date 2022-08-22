@@ -1,0 +1,13 @@
+{
+    "title": "GEOL 401",
+    "names": "Geomorphology",
+    "credit": "4 hours.",
+    "intro": "History, origin, and characteristics of land forms produced by weathering, fluvial, glacial, wind, and wave processes or by a combination of these acting upon the major kinds of geologic materials and structures. Lectures, laboratory, and field trips. ",
+    "instructors": [
+        "Anders, A",
+        "Meghani, N"
+    ],
+    "prereq": [
+        "GEOL 208"
+    ]
+}

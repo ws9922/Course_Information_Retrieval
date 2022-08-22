@@ -1,0 +1,17 @@
+{
+    "title": "ACE 300",
+    "names": "Intermediate Applied Microeconomics",
+    "credit": "3 hours.",
+    "intro": "Why could energy policy affect the profitability of farmers? Is it better to help families in developing countries with food aid or mini cash grants? Who will bear the cost of a carbon tax? Microeconomic theory helps us answer many important questions about markets and human behavior. Students in ACE 300 will learn rigorous intermediate microeconomic theory through applications to areas such as agriculture, development, finance, consumer behavior, and the environment. ",
+    "instructors": [
+        "Wei, M",
+        "Box-Couillard, S",
+        "Endres, R"
+    ],
+    "prereq": [
+        "ACE 300",
+        "ECON 302",
+        "ACE 100",
+        "ECON 102"
+    ]
+}

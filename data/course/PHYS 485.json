@@ -1,0 +1,16 @@
+{
+    "title": "PHYS 485",
+    "names": "Atomic Phys & Quantum Theory",
+    "credit": "3 hours.",
+    "intro": "Basic concepts of quantum theory which underlie modern theories of the properties of materials; elements of atomic and nuclear theory; kinetic theory and statistical mechanics; quantum theory and simple applications; atomic spectra and atomic structure; molecular structure and chemical binding. ",
+    "instructors": [
+        "Vishveshwara, S"
+    ],
+    "prereq": [
+        "PHYS 485",
+        "CHEM 442",
+        "MATH 285",
+        "MATH 286",
+        "PHYS 214"
+    ]
+}

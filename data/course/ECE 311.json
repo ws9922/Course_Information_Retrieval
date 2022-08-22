@@ -1,0 +1,16 @@
+{
+    "title": "ECE 311",
+    "names": "Digital Signal Processing Lab",
+    "credit": "1 hours.",
+    "intro": "Companion laboratory for ECE 310. ",
+    "instructors": [
+        "Snyder, C",
+        "Yao, S",
+        "Rojas Gomez, R",
+        "Bresler, Y",
+        "Katselis, D"
+    ],
+    "prereq": [
+        "ECE 310"
+    ]
+}

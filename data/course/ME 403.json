@@ -1,0 +1,15 @@
+{
+    "title": "ME 403",
+    "names": "Internal Combustion Engines",
+    "credit": "3 or 4 hours.",
+    "intro": "Theory and analysis of reciprocating internal-combustion engines; fuels, carburetion, combustion, exhaust emissions, detonation, fuel injection, and factors affecting performance; laboratory work on variables that affect performance. ",
+    "instructors": [
+        "Lee, C",
+        "Yan, A",
+        "Zhao, Z"
+    ],
+    "prereq": [
+        "ME 400",
+        "ABE 466"
+    ]
+}

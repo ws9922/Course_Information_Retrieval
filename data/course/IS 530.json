@@ -1,0 +1,16 @@
+{
+    "title": "IS 530",
+    "names": "Collection Development",
+    "credit": "4 hours.",
+    "intro": "Examines issues affecting the development and management of collections for academic, public, special, and school libraries: collection development policies, collection assessment, the marketplace, publishing, legal issues, and budget allocation; document delivery; collaboration and cooperation. ",
+    "instructors": [
+        "Holba Puacz, J",
+        "Barnhart, A"
+    ],
+    "prereq": [
+        "IS 505",
+        "IS 501",
+        "IS 505",
+        "IS 530"
+    ]
+}

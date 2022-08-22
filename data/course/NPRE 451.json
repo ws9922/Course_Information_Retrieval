@@ -1,0 +1,12 @@
+{
+    "title": "NPRE 451",
+    "names": "NPRE Laboratory",
+    "credit": "3 hours.",
+    "intro": "Radiation detection and instrumentation; radiation dosimetry and shielding; basic measurements in nuclear engineering; engineering applications; micro computer data acquisition and experimental control. ",
+    "instructors": [
+        "Di Fulvio, A"
+    ],
+    "prereq": [
+        "NPRE 446"
+    ]
+}

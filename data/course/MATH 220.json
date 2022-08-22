@@ -1,0 +1,35 @@
+{
+    "title": "MATH 220",
+    "names": "Calculus",
+    "credit": "5 hours.",
+    "intro": "First course in calculus and analytic geometry; basic techniques of differentiation and integration with applications including curve sketching; antidifferentation, the Riemann integral, fundamental theorem, exponential and trigonometric functions. ",
+    "instructors": [
+        "Castillo, C",
+        "Zomback, J",
+        "Liu, J",
+        "Shinkle, E",
+        "Barron, A",
+        "Taylor, A",
+        "Garg, M",
+        "Smilde, W",
+        "Yang, Y",
+        "Ellefsen, B",
+        "Petrickova, S",
+        "Siskaki, M",
+        "Hui, L",
+        "Kuehster, W",
+        "Kumar Raja, A",
+        "Chrontsios Garitsis, E",
+        "Benton, C",
+        "Si, A",
+        "Musleh, O",
+        "Bavisetty, V"
+    ],
+    "prereq": [
+        "MATH 220",
+        "MATH 221",
+        "MATH 234",
+        "MATH 115",
+        "MATH 221"
+    ]
+}

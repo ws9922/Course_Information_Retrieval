@@ -1,0 +1,17 @@
+{
+    "title": "SPAN 141",
+    "names": "Introduction to Spanish Grammar",
+    "credit": "4 hours.",
+    "intro": "Introduction to the major structures of Spanish, from a linguistic perspective and will develop students' formal knowledge of Spanish grammar. This is considered a fourth level course for purposes of fulfilling the University General Education Language requirement. ",
+    "instructors": [
+        "Alarcon, L",
+        "Rocha Martinez, U",
+        "Casquete De La Puente, M",
+        "Carollo, B"
+    ],
+    "prereq": [
+        "SPAN 141",
+        "SPAN 142",
+        "SPAN 130"
+    ]
+}

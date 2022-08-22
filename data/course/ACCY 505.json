@@ -1,0 +1,14 @@
+{
+    "title": "ACCY 505",
+    "names": "Federal Taxation",
+    "credit": "2 OR 4 hours.",
+    "intro": "Introduction to historical and conceptual as well as applied material in the accounting area of federal taxation; emphasizes the provisions of the tax law relevant to accounting measurement methods. ",
+    "instructors": [
+        "Hutchens, M",
+        "Alt, M"
+    ],
+    "prereq": [
+        "ACCY 505",
+        "ACCY 312"
+    ]
+}

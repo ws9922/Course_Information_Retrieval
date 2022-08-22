@@ -1,0 +1,19 @@
+{
+    "title": "PATH 559",
+    "names": "Surgical Pathology",
+    "credit": "0 TO 2 hours.",
+    "intro": "Discussion and interpretation of disease processes of domestic animals; emphasizes interpretation of pathologic changes in tissue specimens obtained during surgical procedures; correlates structure, function, and prognosis. ",
+    "instructors": [
+        "Vieson, M",
+        "Landolfi, J",
+        "Hsiao, S",
+        "Fredrickson, R",
+        "Roady, P",
+        "Delaney, M",
+        "Samuelson, J"
+    ],
+    "prereq": [
+        "PATH 545",
+        "PATH 546"
+    ]
+}

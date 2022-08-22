@@ -1,0 +1,13 @@
+{
+    "title": "CEE 512",
+    "names": "Logistics Systems Analysis",
+    "credit": "4 hours.",
+    "intro": "Planning, design and operations of complex logistics systems: logistics costs; production, transportation and distribution systems; lot-sizing; traveling salesman problem (TSP) and vehicle routing problem (VRP); transshipments; facility location problem; supply chain management and inventory control; order instability; analytical methods and practical solution techniques. ",
+    "instructors": [
+        "Ouyang, Y"
+    ],
+    "prereq": [
+        "CEE 310",
+        "IE 310"
+    ]
+}

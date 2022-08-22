@@ -1,0 +1,13 @@
+{
+    "title": "TSM 438",
+    "names": "Renewable Energy Applications",
+    "credit": "3 hours.",
+    "intro": "Renewable energy sources and applications, including solar, geothermal, wind, and biomass. Environmental consequences of energy conversion including how renewable energy can reduce air pollution and global climate change. Economics of alternative energy systems. ",
+    "instructors": [
+        "Wang, X"
+    ],
+    "prereq": [
+        "TSM 438",
+        "ABE 436"
+    ]
+}

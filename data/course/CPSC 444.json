@@ -1,0 +1,12 @@
+{
+    "title": "CPSC 444",
+    "names": "Introduction to Spatial Analytics",
+    "credit": "4 hours.",
+    "intro": "New technologies in biological sciences make it possible to collect information in time and space and analyze it to open new insights with broad impact in academia and industry. The goal in this course is to provide students with a broad understanding of how to collect and integrate spatial datasets and to develop analytical skills for use in research and decision making. ",
+    "instructors": [
+        "Martin, N"
+    ],
+    "prereq": [
+        "CPSC 440"
+    ]
+}

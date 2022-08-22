@@ -1,0 +1,13 @@
+{
+    "title": "CEE 590",
+    "names": "Geotechnical Field Measurement",
+    "credit": "4 hours.",
+    "intro": "Discussion of observational method in geotechnical engineering. Historical, theoretical, experimental, and empirical development of in-situ tests and instrumentation in geotechnical engineering. Practical applications and limitation of field testing devices and instruments. Interpretation of test results and measurements for geotechnical site characterization. Discussion of data acquisition systems and data management. Introduction of emerging technologies in field testing and instrumentation. ",
+    "instructors": [
+        "Olson, S"
+    ],
+    "prereq": [
+        "CEE 483",
+        "CEE 484"
+    ]
+}

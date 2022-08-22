@@ -1,0 +1,13 @@
+{
+    "title": "CHBE 478",
+    "names": "Bioenergy Technology",
+    "credit": "3 hours.",
+    "intro": "Introduction to emerging bioenergy technologies including: world energy consumption and greenhouse gas concerns; fundamental biochemistry of biomass conversion; structural chemistry of lignocelluloses; pretreatment of biomass; enzymatic deconstruction; bioethanol production and fermentation; metabolic engineering for improved biofuels production; feedstock development; industrial fermentation and fermentor design; economics of bioethanol; alternative biofuels, including biodiesel, syngas, Fischer-Tropsch diesel, butanol, ABE fermentation and biohydrogen; anaerobic microbiology; and the biorefinery concept. ",
+    "instructors": [
+        "ARRANGED"
+    ],
+    "prereq": [
+        "CHBE 321",
+        "MCB 450"
+    ]
+}

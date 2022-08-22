@@ -1,0 +1,18 @@
+{
+    "title": "FIN 580",
+    "names": "Special Topics in Finance",
+    "credit": "0 TO 4 hours.",
+    "intro": "Lectures and discussions relating to new areas of interest. See class schedule for topics and prerequisites. ",
+    "instructors": [
+        "11:00AM - 12:20PM",
+        "Widdicks, M",
+        "Kiku, D",
+        "Smith, M",
+        "Natenberg, S",
+        "Gao, X"
+    ],
+    "prereq": [
+        "FIN 528",
+        "FIN 580"
+    ]
+}

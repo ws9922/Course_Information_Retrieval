@@ -1,0 +1,14 @@
+{
+    "title": "MATH 481",
+    "names": "Vector and Tensor Analysis",
+    "credit": "3 OR 4 hours.",
+    "intro": "Introductory course in modern differential geometry focusing on examples, broadly aimed at students in mathematics, the sciences, and engineering. Emphasis on rigorously presented concepts, tools and ideas rather than on proofs. The topics covered include differentiable manifolds, tangent spaces and orientability; vector and tensor fields; differential forms; integration on manifolds and Generalized Stokes Theorem; Riemannian metrics, Riemannian connections and geodesics. Applications to configuration and phase spaces, Maxwell equations and relativity theory will be discussed. ",
+    "instructors": [
+        "Carpenter, B"
+    ],
+    "prereq": [
+        "MATH 241",
+        "MATH 415",
+        "MATH 416"
+    ]
+}

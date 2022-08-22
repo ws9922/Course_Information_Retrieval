@@ -1,0 +1,17 @@
+{
+    "title": "GEOL 208",
+    "names": "History of the Earth System",
+    "credit": "4 hours.",
+    "intro": "Presents systematic analysis of formation and evolution of the Earth and its dynamic systems (lithosphere, hydrosphere, atmosphere, and biosphere). Also introduces methods of reconstructing Earth's history through use of geochronology, paleontology, and the stratigraphic records. Introduces the geological history of life evolution, mountain belts and continents, geochemical systems, climate, sea level, and the Earth's interior. Field trip required. ",
+    "instructors": [
+        "Christie, M",
+        "Todorov, L"
+    ],
+    "prereq": [
+        "GEOL 100",
+        "GEOL 101",
+        "GEOL 103",
+        "GEOL 104",
+        "GEOL 107"
+    ]
+}

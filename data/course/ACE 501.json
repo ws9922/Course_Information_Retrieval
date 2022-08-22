@@ -1,0 +1,13 @@
+{
+    "title": "ACE 501",
+    "names": "Risk and Info: Theory and App",
+    "credit": "4 hours.",
+    "intro": "Applications of the theory of economic behavior under uncertainty and asymmetric information. Analysis of individual decision making under uncertainty includes: tests of the expected utility hypothesis; comparative statistics of changes in risk preferences and risk; and moment based models of decision making. Analysis of economic equilibrium under uncertainty and asymmetric information includes tests for complete markets and applications of noncooperative game theory. ",
+    "instructors": [
+        "Nelson, C"
+    ],
+    "prereq": [
+        "ECON 500",
+        "ECON 506"
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "title": "ECE 482",
+    "names": "Digital IC Design",
+    "credit": "3 hours.",
+    "intro": "Bipolar and MOS field effect transistor characteristics; VLSI fabrication techniques for MOS and bipolar circuits; calculation of circuit parameters from the process parameters; design of VLSI circuits such as logic, memories, charge-coupled devices, and A/D and D/A converters. ",
+    "instructors": [
+        "Rosenbaum, E"
+    ],
+    "prereq": [
+        "ECE 342"
+    ]
+}

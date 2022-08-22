@@ -1,0 +1,25 @@
+{
+    "title": "MATH 257",
+    "names": "Linear Algebra with Computational Applications",
+    "credit": "3 hours.",
+    "intro": "Introductory course incorporating linear algebra concepts with computational tools, with real world applications to science, engineering and data science. Topics include linear equations, matrix operations, vector spaces, linear transformations, eigenvalues, eigenvectors, inner products and norms, orthogonality, linear regression, equilibrium, linear dynamical systems and the singular value decomposition. ",
+    "instructors": [
+        "Tatum, E",
+        "Park, S",
+        "Terlov, G",
+        "Blanchard, E",
+        "Chuang, J",
+        "Grossman-Naples, D"
+    ],
+    "prereq": [
+        "MATH 257",
+        "MATH 125",
+        "MATH 225",
+        "MATH 227",
+        "MATH 415",
+        "ASRM 406",
+        "MATH 220",
+        "MATH 221",
+        "CS 101"
+    ]
+}

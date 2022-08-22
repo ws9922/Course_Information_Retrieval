@@ -1,0 +1,13 @@
+{
+    "title": "CS 582",
+    "names": "Machine Learning for Bioinformatics",
+    "credit": "4 hours.",
+    "intro": "This graduate course on bioinformatics introduces a selection of topics in computational biology and bioinformatics, with special emphasis on current problems in regulatory genomics and systems biology. Computational approaches discussed will focus on Machine Learning techniques such as Bayesian inference, graphical models, supervised learning and network analysis. Bioinformatics topics will be introduced through lectures by instructor and research paper presentations by students, and include regulatory sequence analysis, cistromics, epigenomics, regulatory network reconstruction, non-coding variant interpretation, and protein structure and function prediction. A research project involving real data analysis with techniques related to course content is mandatory and will help prepare students for bioinformatics research. ",
+    "instructors": [
+        "Sinha, S"
+    ],
+    "prereq": [
+        "CS 446",
+        "CS 466"
+    ]
+}

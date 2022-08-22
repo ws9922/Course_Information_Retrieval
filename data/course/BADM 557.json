@@ -1,0 +1,10 @@
+{
+    "title": "BADM 557",
+    "names": "Business Intelligence",
+    "credit": "4 hours.",
+    "intro": "This graduate level course provides a conceptual and practical overview of analytical tools, techniques, and practices used to support data-driven decision making in organizations. Topics include data visualization, machine learning techniques, and business intelligence programming languages or services. ",
+    "instructors": [
+        "Subramanyam, R"
+    ],
+    "prereq": []
+}

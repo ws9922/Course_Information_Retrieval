@@ -1,0 +1,10 @@
+{
+    "title": "SHS 542",
+    "names": "Signals and Systems",
+    "credit": "4 hours.",
+    "intro": "Provides an overview of the fundamental theory of signals and systems analysis with applications to hearing and speech sciences. Topics include: Introduction to MATLAB, time and frequency domain characterizations of signals and of systems, analyses of signals through systems, time/frequency relations, spectrograms, applications to hearing (e.g., hearing aid and cochlear implant signal processing), applications to speech, and digital signal processing. Practical experience with signal processing (primarily in MATLAB) will supplement lectures. No explicit background in signal processing or MATLAB is assumed. ",
+    "instructors": [
+        "Bottalico, P"
+    ],
+    "prereq": []
+}

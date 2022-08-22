@@ -1,0 +1,12 @@
+{
+    "title": "MATH 554",
+    "names": "Linear Analysis and Partial Differential Equations",
+    "credit": "4 hours.",
+    "intro": "Course will provide students with the basic background in linear analysis associated with partial differential equations. The specific topics chosen will be largely up to the instructor, but will cover such areas as linear partial differential operators, distribution theory and test functions, Fourier transforms, Sobolev spaces, pseudodifferential operators, microlocal analysis, and applications of the above topics. ",
+    "instructors": [
+        "Tzirakis, N"
+    ],
+    "prereq": [
+        "MATH 553"
+    ]
+}

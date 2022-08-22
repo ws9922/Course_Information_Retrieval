@@ -1,0 +1,20 @@
+{
+    "title": "MATH 347",
+    "names": "Fundamental Mathematics",
+    "credit": "3 hours.",
+    "intro": "Fundamental ideas used in many areas of mathematics. Topics will include: techniques of proof, mathematical induction, binomial coefficients, rational and irrational numbers, the least upper bound axiom for real numbers, and a rigorous treatment of convergence of sequences and series. This will be supplemented by the instructor from topics available in the various texts. Students will regularly write proofs emphasizing precise reasoning and clear exposition. ",
+    "instructors": [
+        "10:00AM - 10:50AM",
+        "Dodd, C",
+        "Kutzarova-Ford, D",
+        "Junge, M",
+        "Li, M",
+        "Palmer, J",
+        "Thorner, J"
+    ],
+    "prereq": [
+        "MATH 347",
+        "MATH 348",
+        "MATH 231"
+    ]
+}

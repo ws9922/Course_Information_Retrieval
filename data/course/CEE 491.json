@@ -1,0 +1,13 @@
+{
+    "title": "CEE 491",
+    "names": "Decision and Risk Analysis",
+    "credit": "3 OR 4 hours.",
+    "intro": "Development of modern statistical decision theory and risk analysis, and application of these concepts in civil engineering design and decision making; Bayesian statistical decision theory, decision tree, utility concepts, and multi-objective decision problems; modeling and analysis of uncertainties, practical risk evaluation, and formulation of risk-based design criteria, risk benefit trade-offs, and optimal decisions. ",
+    "instructors": [
+        "Gardoni, P",
+        "Eid, K"
+    ],
+    "prereq": [
+        "CEE 202"
+    ]
+}

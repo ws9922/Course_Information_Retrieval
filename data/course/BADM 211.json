@@ -1,0 +1,17 @@
+{
+    "title": "BADM 211",
+    "names": "Business Analytics II",
+    "credit": "3 hours.",
+    "intro": "This course builds on the foundation from the Business Analytics I (BADM 210), synthesizes concepts through hands-on application and project-based learning. Focuses on data acquisition, organization, analysis and visualization in a business setting. Expanding on the use of statistics in generating basic inferences to predictive modeling Identify opportunities for improving business decisions using data, conduct relevant analysis of the gathered and cleaned data, and finally, interpret and present analysis outcomes to decision makers. Using statistical tools and software applications to identify business problems, acquire relevant data, and generate analytic solutions using advanced analytics techniques and tools for generating insights. Introduces the students to analyzing, learning, and prediction using advanced analytics techniques and tools for generating business insights. This course will provide a practical introduction to various techniques regarding clustering, text mining, classification and decision trees, and time series analysis. Finally, the course will introduce advanced and emerging topics in predictive analytics. ",
+    "instructors": [
+        "Bao, Y",
+        "Guggenheim, D",
+        "Hao, S",
+        "Wu, A",
+        "Khandelwal, A",
+        "Zhao, T"
+    ],
+    "prereq": [
+        "BADM 210"
+    ]
+}

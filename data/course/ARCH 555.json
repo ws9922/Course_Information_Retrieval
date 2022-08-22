@@ -1,0 +1,12 @@
+{
+    "title": "ARCH 555",
+    "names": "Prestressed Concrete Design",
+    "credit": "3 hours.",
+    "intro": "Theory and design of prestressed concrete structures and suspension shell structures. ",
+    "instructors": [
+        "Krishnan, S"
+    ],
+    "prereq": [
+        "ARCH 553"
+    ]
+}

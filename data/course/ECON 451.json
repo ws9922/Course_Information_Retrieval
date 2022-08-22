@@ -1,0 +1,13 @@
+{
+    "title": "ECON 451",
+    "names": "Program Evaluation in Developing Economies",
+    "credit": "3 OR 4 hours.",
+    "intro": "Advanced economics course on microeconomic issues in developing countries with particular attention to empirical analyses and methodologies to address fundamental theoretical and policy relevant questions. Focus is on topics within health and education, although papers may cover other topics. An original empirical research paper is required, applying ideas and concepts covered in class. Class alternates between lectures (discussing new ideas or concepts and assigned readings) and lab (applying concepts to actual data using Stata). ",
+    "instructors": [
+        "Thornton, R"
+    ],
+    "prereq": [
+        "ECON 203",
+        "ECON 302"
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "title": "EPSY 582",
+    "names": "Advanced Statistical Methods",
+    "credit": "4 hours.",
+    "intro": "Advanced topics in analyses of variance and covariance, and principles of experimental design; brief introduction to multivariate analysis, including rudiments of matrix algebra. ",
+    "instructors": [
+        "Kern, J"
+    ],
+    "prereq": [
+        "EPSY 580",
+        "PSYC 407"
+    ]
+}

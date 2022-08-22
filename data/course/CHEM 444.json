@@ -1,0 +1,16 @@
+{
+    "title": "CHEM 444",
+    "names": "Physical Chemistry II",
+    "credit": "4 hours.",
+    "intro": "Continuation of CHEM 442, focusing on thermodynamics, statistical mechanics and kinetics from single molecules to the bulk, in gases and in the condensed phase. ",
+    "instructors": [
+        "Jain, P",
+        "Venu, S"
+    ],
+    "prereq": [
+        "CHEM 444",
+        "MSE 401",
+        "PHYS 427",
+        "CHEM 442"
+    ]
+}

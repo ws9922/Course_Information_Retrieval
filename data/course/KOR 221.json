@@ -1,0 +1,14 @@
+{
+    "title": "KOR 221",
+    "names": "Korean Reading and Writing I",
+    "credit": "4 hours.",
+    "intro": "First semester of spoken and written Korean for students with background in spoken Korean. Starting from the Korean alphabet (Hangul) students learn basic grammar, vocabulary, and commonly used expressions, to achieve the beginning level proficiency in reading and writing as well as in speaking. ",
+    "instructors": [
+        "Ha, J",
+        "Moon, J"
+    ],
+    "prereq": [
+        "KOR 221",
+        "KOR 202"
+    ]
+}

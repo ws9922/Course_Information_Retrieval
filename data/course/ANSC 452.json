@@ -1,0 +1,15 @@
+{
+    "title": "ANSC 452",
+    "names": "Animal Growth and Development",
+    "credit": "3 OR 4 hours.",
+    "intro": "Basic principles of animal growth from early fetal development through typical marketing ages for the major domestic animal species. Topics discussed include molecular and cellular determinants of tissue development and whole animal growth, with coverage of current and future technologies for manipulating growth to enhance animal production. ",
+    "instructors": [
+        "Dilger, A"
+    ],
+    "prereq": [
+        "ANSC 221",
+        "ANSC 222",
+        "ANSC 223",
+        "ANSC 224"
+    ]
+}

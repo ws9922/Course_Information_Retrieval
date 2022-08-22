@@ -1,0 +1,12 @@
+{
+    "title": "CEE 442",
+    "names": "Environmental Engineering Principles, Physical",
+    "credit": "4 hours.",
+    "intro": "Analysis of the physical principles which form the basis of many water and air quality-control operations; sedimentation, filtration, inertial separations, flocculation, mixing, and principles of reactor design; energy flows, thermal pollution, earth's energy balance. ",
+    "instructors": [
+        "09:00AM - 09:50AM"
+    ],
+    "prereq": [
+        "CEE 437"
+    ]
+}

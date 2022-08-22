@@ -1,0 +1,13 @@
+{
+    "title": "ACCY 502",
+    "names": "Accounting Analysis II",
+    "credit": "2 OR 4 hours.",
+    "intro": "Measurement and reporting of firm's liabilities and shareholders' equity. Topics include contingencies, subsequent events, bonds, leases, deferred taxes, pensions, equity transactions, and earning per share. ",
+    "instructors": [
+        "Mendoza, S",
+        "Schwartz, R"
+    ],
+    "prereq": [
+        "ACCY 501"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "title": "FSHN 302",
+    "names": "Sensory Evaluation of Foods",
+    "credit": "3 hours.",
+    "intro": "This course is devoted to learning the 1) physiological and psychological basis of human subjects, 2) chemistry of aroma and taste, 3) basic sensory methodologies in food evaluation, and 4) analysis and interpretation of sensory data. ",
+    "instructors": [
+        "Lee, S",
+        "Albiol Tapia, M",
+        "Dunteman, A"
+    ],
+    "prereq": [
+        "STAT 100",
+        "STAT 200",
+        "FSHN 440"
+    ]
+}

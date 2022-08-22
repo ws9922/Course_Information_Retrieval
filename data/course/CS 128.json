@@ -1,0 +1,20 @@
+{
+    "title": "CS 128",
+    "names": "Introduction to Computer Science II",
+    "credit": "3 hours.",
+    "intro": "Continuation of CS 124. More advanced concepts in computing and techniques and approaches for solving computational problems. ",
+    "instructors": [
+        "Camps, A",
+        "Zhu, K",
+        "Nowak, M",
+        "Suresh Babu, V",
+        "Das, S",
+        "Wells, V",
+        "Lee, G",
+        "Nathan, N"
+    ],
+    "prereq": [
+        "CS 124",
+        "CS 125"
+    ]
+}

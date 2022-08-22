@@ -1,0 +1,13 @@
+{
+    "title": "NPRE 501",
+    "names": "Fundamentals of Nuclear Engrg",
+    "credit": "4 hours.",
+    "intro": "Background for advanced work in nuclear engineering; problems in materials, heat transfer, and fluid flow; special emphasis on basic ideas and the mathematical similarity of problems in heat transfer, fluid flow, and neutron diffusion. Lecture-problem format. ",
+    "instructors": [
+        "Uddin, R"
+    ],
+    "prereq": [
+        "NPRE 247",
+        "NPRE 446"
+    ]
+}

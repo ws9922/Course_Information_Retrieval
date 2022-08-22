@@ -1,0 +1,12 @@
+{
+    "title": "CS 580",
+    "names": "Topics in Algorithmic Game Theory",
+    "credit": "4 hours.",
+    "intro": "A theoretical CS course covering advances in algorithmic game theory. This includes study of strategic, computational, learning, dynamic, and fairness aspects of games and markets (organizations that involves rational and strategic agents). In particular, topics will include computation and complexity of equilibria, mechanism design, fair-division, dynamics in games and markets, price-of-anarchy etc.. These topics arise from applications such as online marketplaces (like Lyft, Uber, eBay, sponsored search, TaskRabbit), social networks, recommendation systems, kidney exchange, spectrum auction, etc., and thereby will prepare students for related research and/or industry jobs. ",
+    "instructors": [
+        "Mehta, R"
+    ],
+    "prereq": [
+        "CS 473"
+    ]
+}

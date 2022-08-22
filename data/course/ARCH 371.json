@@ -1,0 +1,22 @@
+{
+    "title": "ARCH 371",
+    "names": "Architectural Design and Urbanism",
+    "credit": "6 hours.",
+    "intro": "Building design in urban settings; including introductory urban design and site planning issues; urban zoning requirements; human-built environment relationships; life safety requirements; universal design and accessibility; architectural design methods and presentation techniques; required field trips. ",
+    "instructors": [
+        "E6 ",
+        "E7 ",
+        "E0 ",
+        "E5 ",
+        "E1 ",
+        "E2 ",
+        "E3 ",
+        "E4 "
+    ],
+    "prereq": [
+        "ARCH 171",
+        "ARCH 172",
+        "ARCH 273",
+        "ARCH 274"
+    ]
+}

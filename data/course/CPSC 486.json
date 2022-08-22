@@ -1,0 +1,14 @@
+{
+    "title": "CPSC 486",
+    "names": "Plant Growth and Development",
+    "credit": "3 hours.",
+    "intro": "Plant growth and development is a complex and highly regulated process that occurs over various spatiotemporal scales. This advanced interdisciplinary course integrates genetic, molecular, cellular, biochemical, anatomical, and physiological information in order to explore the life of a plant from its embryonic origins to its final death. ",
+    "instructors": [
+        "ARRANGED"
+    ],
+    "prereq": [
+        "IB 103",
+        "CPSC 352",
+        "IB 204"
+    ]
+}

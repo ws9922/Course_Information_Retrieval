@@ -1,0 +1,15 @@
+{
+    "title": "FIN 552",
+    "names": "Applied Financial Econometrics",
+    "credit": "4 hours.",
+    "intro": "The aim of this course is to equip students with a working knowledge of important econometric techniques necessary to understand and interpret financial market data. The course covers time-series and cross-sectional properties of asset returns, predictability of equity returns, empirical tests of asset pricing models, modelling time-varying volatility. The interplay between asset pricing theories, statistical assumptions and relevant econometric techniques is explored in the context of published empirical work, including classical papers as well as a more recent research. ",
+    "instructors": [
+        "Kiku, D"
+    ],
+    "prereq": [
+        "FIN 552",
+        "FIN 580",
+        "FIN 580",
+        "FIN 511"
+    ]
+}

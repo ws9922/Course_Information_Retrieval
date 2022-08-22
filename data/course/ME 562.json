@@ -1,0 +1,17 @@
+{
+    "title": "ME 562",
+    "names": "Robust Adaptive Control",
+    "credit": "4 hours.",
+    "intro": "Mathematical foundation for synthesis and analysis of adaptive control systems: Lyapunov stability theory; methods of direct and indirect model reference adaptive control; recent methods, such as L1 adaptive control, that enable adaptive control with desired transient and steady-stage performance specifications. ",
+    "instructors": [
+        "Wan, W",
+        "Hovakimyan, N"
+    ],
+    "prereq": [
+        "ECE 486",
+        "ECE 515",
+        "ECE 528",
+        "GE 424",
+        "ME 460"
+    ]
+}

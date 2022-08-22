@@ -1,0 +1,12 @@
+{
+    "title": "SE 450",
+    "names": "Decision Analysis I",
+    "credit": "3 OR 4 hours.",
+    "intro": "Rules of thought that transform complex decision situations into simpler ones where the course of action is clear. Practical application of decision analysis in large organizations; methods to generate insights into real-life decision problems, avoid the common pitfalls in decision processes, and overcome the possible barriers to implementing a high-quality decision-making process for individual and organizational decision making; graphical representations of decision problems such as decision diagrams and utility diagrams. ",
+    "instructors": [
+        "Wang, P"
+    ],
+    "prereq": [
+        "IE 300"
+    ]
+}

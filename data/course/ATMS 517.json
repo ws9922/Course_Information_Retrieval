@@ -1,0 +1,11 @@
+{
+    "title": "ATMS 517",
+    "names": "Data Science for the Geosciences",
+    "credit": "4 hours.",
+    "intro": "Many petabytes of geosciences data have been observed and curated by NASA and NOAA in anticipation of new data science tools designed to yield insights and improve forecasts of Earth processes. Students will learn the fundamentals of data science using publicly available datasets toward the end of conducting novel research in the geosciences. Topics include data ethics, uncertainty, data curation and management, version control, cluster and cloud computing, introductory Unix and Python, and visualization. ",
+    "instructors": [
+        "ARRANGED",
+        "Klees, A"
+    ],
+    "prereq": []
+}

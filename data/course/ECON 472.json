@@ -1,0 +1,17 @@
+{
+    "title": "ECON 472",
+    "names": "Financial Econometrics",
+    "credit": "3 OR 4 hours.",
+    "intro": "Examines the econometric modeling applied to empirical and computational finance. Explains the empirical properties of financial data as well as the statistical models behind these stylized facts from the data. Explains the statistics and time series concepts that will be useful to understand financial market dynamics, and investigates some popular econometric models and estimation methods. ",
+    "instructors": [
+        "Lee, J"
+    ],
+    "prereq": [
+        "ECON 203",
+        "ECON 302",
+        "MATH 220",
+        "MATH 221",
+        "MATH 231",
+        "ECON 471"
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "title": "ACCY 202",
+    "names": "Accounting and Accountancy II",
+    "credit": "3 hours.",
+    "intro": "Further develops the student's understanding of accrual accounting, the goals and objectives of financial reporting, the information needs of end users, the qualities of useful information, as well as the financial statements and financial statement elements. Students will analyze and record progressively more complex transactions, continuing to take the economic event from inception to reporting. Recurring themes and foundational concepts are emphasized such that students can develop intuition for accounting measurement and reporting. ",
+    "instructors": [
+        "Larasati, N",
+        "Lyon, A",
+        "Shapland, J",
+        "Kamaludin, K",
+        "Carroll, M",
+        "Alber, A",
+        "Flores, K"
+    ],
+    "prereq": [
+        "ACCY 202",
+        "ACCY 200",
+        "ACCY 201"
+    ]
+}

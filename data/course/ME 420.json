@@ -1,0 +1,15 @@
+{
+    "title": "ME 420",
+    "names": "Intermediate Heat Transfer",
+    "credit": "4 hours.",
+    "intro": "Conduction heat transfer, radiation heat transfer, mass transfer, phase change, heat exchangers; numerical methods. ",
+    "instructors": [
+        "Fu, W",
+        "Miljkovic, N"
+    ],
+    "prereq": [
+        "ME 310",
+        "TAM 335",
+        "ME 320"
+    ]
+}

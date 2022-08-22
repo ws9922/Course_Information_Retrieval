@@ -1,0 +1,14 @@
+{
+    "title": "ABE 466",
+    "names": "Engineering Off-Road Vehicles",
+    "credit": "3 hours.",
+    "intro": "Design and application of off-road vehicles for farm and construction use; thermodynamics of engines; measurement of power and efficiencies; power transmission and traction; chassis mechanics; operator environment. ",
+    "instructors": [
+        "Allen, C"
+    ],
+    "prereq": [
+        "ABE 466",
+        "TSM 464",
+        "ME 300"
+    ]
+}

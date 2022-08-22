@@ -1,0 +1,12 @@
+{
+    "title": "LING 507",
+    "names": "Formal Semantics I",
+    "credit": "4 hours.",
+    "intro": "Introduction to formal semantic theory for natural language, with attention to quantification, anaphora, tense, intensionality, and related topics. ",
+    "instructors": [
+        "Lasersohn, P"
+    ],
+    "prereq": [
+        "LING 407"
+    ]
+}

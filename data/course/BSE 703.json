@@ -1,0 +1,11 @@
+{
+    "title": "BSE 703",
+    "names": "Medical Informatics",
+    "credit": "2 hours.",
+    "intro": "A detailed overview of biomedical and health informatics for medical students. The course provides up-to-date details on the informatics field, which includes: electronic health records, data standards and interoperability, clinical decision support, healthcare data analytics, population health, patient engagement, and telemedicine. It also describes and sets the context for new technologies, such as SMART on FHIR, machine learning, artificial intelligence, and wearables. ",
+    "instructors": [
+        "Van Orman, C",
+        "Richards, V"
+    ],
+    "prereq": []
+}

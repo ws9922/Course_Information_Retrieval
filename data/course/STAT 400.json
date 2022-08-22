@@ -1,0 +1,23 @@
+{
+    "title": "STAT 400",
+    "names": "Statistics and Probability I",
+    "credit": "4 hours.",
+    "intro": "Introduction to mathematical statistics that develops probability as needed; includes the calculus of probability, random variables, expectation, distribution functions, central limit theorem, point estimation, confidence intervals, and hypothesis testing. Offers a basic one-term introduction to statistics and also prepares students for STAT 410 and STAT 425. ",
+    "instructors": [
+        "Zhang, Y",
+        "Bowers, J",
+        "Wayman, E",
+        "Gracyk, A",
+        "Yu, A",
+        "Nguyen, H",
+        "Xin, H",
+        "Xu, T",
+        "Cui, X",
+        "Li, K",
+        "Unger, D"
+    ],
+    "prereq": [
+        "MATH 231",
+        "MATH 241"
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "title": "TAM 559",
+    "names": "Atomistic Solid Mechanics",
+    "credit": "4 hours.",
+    "intro": "Fundamental concepts in solid mechanics, including measures of stress, strain, and displacement, as well as principles of equilibrium, compatibility, and constitutive theory, all derived from an atomistic perspective; atomistic considerations in treatment of simple boundary value problems. Virial stress theorem, classical and quantum based potential energy functionals, energy minimization algorithms for molecular statics, and principles of molecular dynamics. Atomistic treatment of dislocation theory and fracture mechanics. Survey of current mechanics literature and introduction to open-source atomistic modeling software. ",
+    "instructors": [
+        "Johnson, H"
+    ],
+    "prereq": [
+        "TAM 451",
+        "TAM 551"
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "title": "ECON 501",
+    "names": "Macroeconomics",
+    "credit": "4 hours.",
+    "intro": "Emphasis on macroeconomic theory; principal topics include a review of Keynesian macroeconomic theory, formal growth theory, and selected business cycle theory. ",
+    "instructors": [
+        "12:30PM - 01:50PM"
+    ],
+    "prereq": [
+        "ECON 501",
+        "ECON 529",
+        "ECON 303",
+        "ECON 501",
+        "ECON 102",
+        "ECON 103"
+    ]
+}

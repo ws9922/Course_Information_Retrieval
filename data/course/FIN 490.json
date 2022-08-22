@@ -1,0 +1,14 @@
+{
+    "title": "FIN 490",
+    "names": "Special Topics in Finance",
+    "credit": "1 TO 3 hours.",
+    "intro": "Lectures and discussions relating to new areas of interest. See class schedule for topics and prerequisites. ",
+    "instructors": [
+        "Hart, J"
+    ],
+    "prereq": [
+        "FIN 490",
+        "FIN 464",
+        "FIN 300"
+    ]
+}

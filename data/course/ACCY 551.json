@@ -1,0 +1,13 @@
+{
+    "title": "ACCY 551",
+    "names": "Corporate Income Taxation",
+    "credit": "4 hours.",
+    "intro": "Analyzes the tax treatment, problems, planning techniques, and underlying governmental policies involving corporations and their shareholders; coverage includes formations, operations, distributions, liquidations, reorganizations, and affiliations. ",
+    "instructors": [
+        "Sternburg, T"
+    ],
+    "prereq": [
+        "ACCY 451",
+        "ACCY 556"
+    ]
+}

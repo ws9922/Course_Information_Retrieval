@@ -1,0 +1,13 @@
+{
+    "title": "CS 562",
+    "names": "Advanced Topics in Security, Privacy, and Machine Learning",
+    "credit": "4 hours.",
+    "intro": "Advanced topics in security and privacy problems in machine learning systems, selected from areas of current research such as: adversarial machine learning, differential privacy, game theory enabled defenses, robust learning methods, machine learning based cybercrime analysis, network intrusion detection, and malware analysis, and machine learning interpretation techniques. ",
+    "instructors": [
+        "Li, B"
+    ],
+    "prereq": [
+        "CS 446",
+        "CS 463"
+    ]
+}

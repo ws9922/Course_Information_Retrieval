@@ -1,0 +1,15 @@
+{
+    "title": "MUS 360",
+    "names": "Jazz Improv:Theory and Prac I",
+    "credit": "2 hours.",
+    "intro": "Fundamentals of jazz improvisation, with an emphasis on aural recognition of jazz chord voicings, harmonic progressions, and scales. Includes interactive software related to jazz improvisation ear-training. Application of melodic, harmonic, and rhythmic materials with regard to improvisation. ",
+    "instructors": [
+        "Schmalbeck, W",
+        "Carrillo, T"
+    ],
+    "prereq": [
+        "MUS 102",
+        "MUS 108",
+        "MUS 167"
+    ]
+}

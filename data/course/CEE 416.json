@@ -1,0 +1,12 @@
+{
+    "title": "CEE 416",
+    "names": "Traffic Capacity Analysis",
+    "credit": "3 OR 4 hours.",
+    "intro": "Fundamentals of traffic engineering; analysis of traffic stream characteristics; capacity of urban and rural highways; design and analysis of traffic signals and intersections; traffic control; traffic impact studies; traffic accidents. ",
+    "instructors": [
+        "Benekohal, R"
+    ],
+    "prereq": [
+        "CEE 310"
+    ]
+}

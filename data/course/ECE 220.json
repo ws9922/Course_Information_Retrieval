@@ -1,0 +1,21 @@
+{
+    "title": "ECE 220",
+    "names": "Computer Systems & Programming",
+    "credit": "4 hours.",
+    "intro": "Advanced use of LC-3 assembly language for I/O and function calling convention. C programming, covering basic programming concepts, functions, arrays, pointers, I/O, recursion, simple data structures, linked lists, dynamic memory management, and basic algorithms. Information hiding and object-oriented design as commonly implemented in modern software and computer systems programming. ",
+    "instructors": [
+        "Chen, Y",
+        "Moon, T",
+        "Kindratenko, V",
+        "Huang, B",
+        "Kamboj, A",
+        "Douglas, J",
+        "Zhang, J",
+        "Bhowmik, U",
+        "Liu, T",
+        "Liu, I"
+    ],
+    "prereq": [
+        "ECE 120"
+    ]
+}

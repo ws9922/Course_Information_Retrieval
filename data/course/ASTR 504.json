@@ -1,0 +1,14 @@
+{
+    "title": "ASTR 504",
+    "names": "Theoretical Stellar Physics",
+    "credit": "4 hours.",
+    "intro": "Application of physical principles to energy generation and flow in astrophysical environments: equations of state; thermonuclear reactions; radiative transport; convection; stellar spectra; nebular spectra; evolution of both single and binary stars; compact stars; accretion disks; thermal and particle history of the universe. ",
+    "instructors": [
+        "Ricker, P"
+    ],
+    "prereq": [
+        "PHYS 436",
+        "PHYS 427",
+        "PHYS 486"
+    ]
+}

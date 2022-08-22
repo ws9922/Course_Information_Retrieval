@@ -1,0 +1,23 @@
+{
+    "title": "CS 450",
+    "names": "Numerical Analysis",
+    "credit": "3 or 4 hours.",
+    "intro": "Linear system solvers, optimization techniques, interpolation and approximation of functions, solving systems of nonlinear equations, eigenvalue problems, least squares, and quadrature; numerical handling of ordinary and partial differential equations. ",
+    "instructors": [
+        "Kloeckner, A",
+        "Wei, X"
+    ],
+    "prereq": [
+        "ECE 491",
+        "MATH 450",
+        "CS 450",
+        "CS 457",
+        "CS 101",
+        "CS 125",
+        "CS 357",
+        "MATH 257",
+        "MATH 415",
+        "MATH 416",
+        "MATH 285"
+    ]
+}

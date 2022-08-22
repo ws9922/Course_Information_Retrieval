@@ -1,0 +1,14 @@
+{
+    "title": "HDFS 301",
+    "names": "Infancy & Early Childhood",
+    "credit": "4 hours.",
+    "intro": "Reviews development during the first five years of life, including cognitive, social, and biological aspects of early development; includes first-hand observation of young children to supplement and extend lecture material. ",
+    "instructors": [
+        "McBride, B",
+        "Aguirre, J"
+    ],
+    "prereq": [
+        "HDFS 105",
+        "PSYC 216"
+    ]
+}

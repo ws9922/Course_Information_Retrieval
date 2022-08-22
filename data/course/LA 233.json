@@ -1,0 +1,13 @@
+{
+    "title": "LA 233",
+    "names": "Foundation Design Studio",
+    "credit": "5 hours.",
+    "intro": "Introduction to the fundamentals of design, including studies in two- and three-dimensional abstract and applied problems, basic elements and procedures of design, and principles of landscape composition. ",
+    "instructors": [
+        "Baakliny, J",
+        "Sears, S"
+    ],
+    "prereq": [
+        "LA 280"
+    ]
+}

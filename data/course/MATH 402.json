@@ -1,0 +1,15 @@
+{
+    "title": "MATH 402",
+    "names": "Non Euclidean Geometry",
+    "credit": "3 OR 4 hours.",
+    "intro": "Historical development of geometry; includes tacit assumptions made by Euclid; the discovery of non-Euclidean geometries; geometry as a mathematical structure; and an axiomatic development of plane geometry. ",
+    "instructors": [
+        "Samperton, E",
+        "Bradlow, S"
+    ],
+    "prereq": [
+        "MATH 241",
+        "MATH 347",
+        "MATH 348"
+    ]
+}

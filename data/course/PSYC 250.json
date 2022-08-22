@@ -1,0 +1,14 @@
+{
+    "title": "PSYC 250",
+    "names": "Psych of Personality",
+    "credit": "3 hours.",
+    "intro": "Study of personality from various points of view: biological, experimental, social, and humanistic; surveys theory and empirical research in the study of personality. ",
+    "instructors": [
+        "Pantin, K",
+        "Briskin, J"
+    ],
+    "prereq": [
+        "PSYC 100",
+        "PSYC 103"
+    ]
+}

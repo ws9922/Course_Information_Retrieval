@@ -1,0 +1,20 @@
+{
+    "title": "PHYS 100",
+    "names": "Thinking About Physics",
+    "credit": "2 hours.",
+    "intro": "Conceptual and problem solving skills in preparation for PHYS 211: --analysis and mathematical descriptions of physical situations --understanding the meaning of the solutions ",
+    "instructors": [
+        "Boyd, C",
+        "Clarisse, N",
+        "Kuo, E",
+        "Rao, P",
+        "Woods, D",
+        "Graham-Bailey, R",
+        "Lawson, A",
+        "Yeo, L"
+    ],
+    "prereq": [
+        "MATH 220",
+        "MATH 221"
+    ]
+}

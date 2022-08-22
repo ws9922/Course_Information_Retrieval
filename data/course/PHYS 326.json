@@ -1,0 +1,14 @@
+{
+    "title": "PHYS 326",
+    "names": "Classical Mechanics II",
+    "credit": "3 hours.",
+    "intro": "Continuation of PHYS 325. Central force motion, collisions and scattering, rotational motion, coupled oscillations, continuous media, and fluid dynamics. ",
+    "instructors": [
+        "Golding, I",
+        "Alam, F",
+        "Basa, B"
+    ],
+    "prereq": [
+        "PHYS 325"
+    ]
+}

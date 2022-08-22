@@ -1,0 +1,13 @@
+{
+    "title": "CEE 483",
+    "names": "Soil Mechanics and Behavior",
+    "credit": "4 hours.",
+    "intro": "Composition and structure of soil; water flow and hydraulic properties; stress in soil; compressibility behavior and properties of soils; consolidation and settlement analysis; shear strength of soils; compaction and unsaturated soils; experimental measurements. ",
+    "instructors": [
+        "Zhang, L",
+        "Mesri, G"
+    ],
+    "prereq": [
+        "CEE 380"
+    ]
+}

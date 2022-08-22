@@ -1,0 +1,14 @@
+{
+    "title": "ASRM 533",
+    "names": "Risk Management Practices and Regulation",
+    "credit": "4 hours.",
+    "intro": "Offers a comprehensive coverage of different aspects of risks and regulation of financial institutions. Topics include financial institutions and their trading, risk management frameworks, market risk, interest rate risk, liquidity risk, credit risk, operational risk, latest industry practices and regulation, including Basel and Solvency, fundamental review of trading books, scenario analysis and stress testing, etc. ",
+    "instructors": [
+        "Freiji, C"
+    ],
+    "prereq": [
+        "ASRM 401",
+        "MATH 461",
+        "STAT 400"
+    ]
+}

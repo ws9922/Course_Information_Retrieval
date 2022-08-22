@@ -1,0 +1,11 @@
+{
+    "title": "BSE 686",
+    "names": "Medicine - Data Science Project (Longitudinal)",
+    "credit": "2 TO 4 hours.",
+    "intro": "Develop skills in data science for health care through the Data Science Project. Identify an exciting data-driven question, find data sources to address the question, and access and utilize those data to improve clinical care. Students will interact with databases, utilize tools for analyzing clinical or molecular data, and learn about the immense potential of medical data science while familiarizing themselves with the issues of human subject's protection and privacy regulations around data. ",
+    "instructors": [
+        "Van Orman, C",
+        "Richards, V"
+    ],
+    "prereq": []
+}

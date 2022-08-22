@@ -1,0 +1,15 @@
+{
+    "title": "MATH 489",
+    "names": "Dynamics & Differential Eqns",
+    "credit": "3 OR 4 hours.",
+    "intro": "Studies mathematical theory of dynamical systems, emphasizing both discrete-time dynamics and nonlinear systems of differential equations. Topics include: chaos, fractals, attractors, bifurcations, with application to areas such as population biology, fluid dynamics and classical physics. Basic knowledge of matrix theory will be assumed. ",
+    "instructors": [
+        "Kirr, E"
+    ],
+    "prereq": [
+        "MATH 284",
+        "MATH 285",
+        "MATH 286",
+        "MATH 441"
+    ]
+}

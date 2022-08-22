@@ -1,0 +1,17 @@
+{
+    "title": "CI 403",
+    "names": "Teaching a Diverse High School Student Population",
+    "credit": "3 hours.",
+    "intro": "Examines the curriculum and philosophy of teaching students in high school grades. Students will focus on a number of related topics including teaching a diverse student population, including all students in instruction, using technology for teaching high school English, Mathematics, Science, and Social Studies and alternative means of assessing students' learning. Seminar content will be integrated with coursework in instructional technology, assessment, and special education with high school students. Coursework is integrated with a high school field experience. ",
+    "instructors": [
+        "Poetzel, A",
+        "Dean, S",
+        "Moermond, V",
+        "Hale, J"
+    ],
+    "prereq": [
+        "CI 401",
+        "EPSY 485",
+        "SPED 405"
+    ]
+}

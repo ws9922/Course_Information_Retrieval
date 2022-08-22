@@ -1,0 +1,18 @@
+{
+    "title": "MATH 444",
+    "names": "Elementary Real Analysis",
+    "credit": "3 OR 4 hours.",
+    "intro": "Careful treatment of the theoretical aspects of the calculus of functions of a real variable intended for those who do not plan to take graduate courses in Mathematics. Topics include the real number system, limits, continuity, derivatives, and the Riemann integral. ",
+    "instructors": [
+        "Mortensen, K",
+        "Boca, F",
+        "Hinkkanen, A"
+    ],
+    "prereq": [
+        "MATH 444",
+        "MATH 447",
+        "MATH 241",
+        "MATH 347",
+        "MATH 348"
+    ]
+}

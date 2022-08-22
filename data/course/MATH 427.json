@@ -1,0 +1,16 @@
+{
+    "title": "MATH 427",
+    "names": "Honors Abstract Algebra",
+    "credit": "3 hours.",
+    "intro": "Group theory, counting formulae, factorization, modules with applications to Abelian groups and linear operators. As part of the honors sequence, this course will be rigorous and abstract. ",
+    "instructors": [
+        "Loja Fernandes, R"
+    ],
+    "prereq": [
+        "MATH 427",
+        "MATH 417",
+        "MATH 416",
+        "MATH 415",
+        "MATH 347"
+    ]
+}

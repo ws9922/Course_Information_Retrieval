@@ -1,0 +1,15 @@
+{
+    "title": "ACE 360",
+    "names": "Spreadsheet Models and Applications",
+    "credit": "2 hours.",
+    "intro": "Spreadsheet development and modeling skills intended for economics and finance applications. Advanced uses of spreadsheet software, development of user-defined functions, use of Visual Basic and comparable external interface languages, data query designs, and advanced data analyses, summary and presentation skills are stressed. Iintended to serve as a prerequisite for advanced modeling courses in specific disciplinary areas. ",
+    "instructors": [
+        "Werries, I",
+        "09:00AM - 10:50AM",
+        "Campbell, W"
+    ],
+    "prereq": [
+        "ACE 161",
+        "CS 105"
+    ]
+}

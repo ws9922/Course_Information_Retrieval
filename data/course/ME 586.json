@@ -1,0 +1,12 @@
+{
+    "title": "ME 586",
+    "names": "Mechanics of MEMS",
+    "credit": "4 hours.",
+    "intro": "Mechanics and dynamics of microelectromechanical systems (MEMS); scaling laws in electrostatics, magnetics, and fluidics; analytical models for thin-film growth and etching; effect of surface tension in small dimensions in relations to stability of MEMS during web fabrication; size effects on mechanical properties of MEMS materials; equations of motion for MEMS, involving coupled elastic and electric fields that give rise to nonlinear dynamical behavior; Mathieu behavior and chaotic systems. ",
+    "instructors": [
+        "Saif, M"
+    ],
+    "prereq": [
+        "ME 485"
+    ]
+}

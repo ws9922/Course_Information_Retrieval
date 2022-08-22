@@ -1,0 +1,14 @@
+{
+    "title": "MATH 446",
+    "names": "Applied Complex Variables",
+    "credit": "3 OR 4 hours.",
+    "intro": "For students who desire a working knowledge of complex variables; covers the standard topics and gives an introduction to integration by residues, the argument principle, conformal maps, and potential fields. Students desiring a systematic development of the foundations of the subject should take MATH 448. ",
+    "instructors": [
+        "Nikolaev, I"
+    ],
+    "prereq": [
+        "MATH 446",
+        "MATH 448",
+        "MATH 241"
+    ]
+}

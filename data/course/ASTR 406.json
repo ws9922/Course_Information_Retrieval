@@ -1,0 +1,15 @@
+{
+    "title": "ASTR 406",
+    "names": "Galaxies and the Universe",
+    "credit": "3 hours.",
+    "intro": "Nature of the Milky Way galaxy: stellar statistics and distributions, stellar populations, spiral structure, the nucleus and halo. Nature of ordinary galaxies; galaxies in our Local Group, structure of voids and superclusters. Nature of peculiar objects: Seyfert galaxies, starburst galaxies, and quasars. Elementary aspects of physical cosmology. ",
+    "instructors": [
+        "Wong, T"
+    ],
+    "prereq": [
+        "PHYS 212",
+        "ASTR 210",
+        "PHYS 213",
+        "PHYS 214"
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "title": "ECE 551",
+    "names": "Digital Signal Processing II",
+    "credit": "4 hours.",
+    "intro": "Basic concept review of digital signals and systems; computer-aided digital filter design, quantization effects, decimation and interpolation, and fast algorithms for convolution and the DFT; introduction to adaptive signal processing. ",
+    "instructors": [
+        "Liang, Z"
+    ],
+    "prereq": [
+        "ECE 310",
+        "ECE 313"
+    ]
+}

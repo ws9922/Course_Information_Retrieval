@@ -1,0 +1,21 @@
+{
+    "title": "IB 203",
+    "names": "Ecology",
+    "credit": "4 hours.",
+    "intro": "The links between evolution and ecology, population dynamics, community structure and function, and ecosystem function on local and global scales. Basic ecology needed to understand environmental problems and to conserve biodiversity. Investigations in both field and laboratory included. ",
+    "instructors": [
+        "Schore, A",
+        "Friedmann, C",
+        "Morphew, N",
+        "O'Dwyer, J",
+        "Lara, M",
+        "Turner, A",
+        "Lakeram, S",
+        "Luro, A",
+        "Flores, M"
+    ],
+    "prereq": [
+        "IB 150",
+        "MCB 150"
+    ]
+}

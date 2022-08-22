@@ -1,0 +1,17 @@
+{
+    "title": "ACE 262",
+    "names": "Applied Statistical Methods and Data Analytics I",
+    "credit": "3 hours.",
+    "intro": "Statistics is a key tool in the data analysis process, which involves data collection, data description, data analysis, and results interpretation. ACE 262 discusses how to collect data and how to analyze these data using descriptive statistics. Descriptive statistics help summarize the data in a meaningful way and identify possible patterns. The course also introduces random variables, probability distributions, and simple linear regression, which serves as a transition to ACE 264, a course on inferential statistics. ",
+    "instructors": [
+        "Sellars, S"
+    ],
+    "prereq": [
+        "ACE 262",
+        "ECON 202",
+        "CPSC 241",
+        "STAT 100",
+        "MATH 124",
+        "MATH 125"
+    ]
+}

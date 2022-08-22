@@ -1,0 +1,15 @@
+{
+    "title": "CHBE 321",
+    "names": "Thermodynamics",
+    "credit": "4 hours.",
+    "intro": "Fundamental concepts and the laws of thermodynamics; the first and second law applications to phase equilibrium and chemical equilibrium and other applications in the Chemical and Biomolecular Engineering profession. ",
+    "instructors": [
+        "Onusaitis, B",
+        "Endress, L",
+        "Kong, H"
+    ],
+    "prereq": [
+        "CHBE 221",
+        "MATH 241"
+    ]
+}

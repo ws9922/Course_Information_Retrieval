@@ -1,0 +1,25 @@
+{
+    "title": "PHYS 102",
+    "names": "College Physics: E&M & Modern",
+    "credit": "5 hours.",
+    "intro": "Electric forces and fields, electric potential, electric circuits, magnetic forces and fields, geometrical optics, relativity,  and modern physics. A noncalculus-based approach for majors in the life sciences, preprofessional health programs, agriculture, and veterinary medicine. ",
+    "instructors": [
+        "Pfaff, W",
+        "Lu, K",
+        "Day, H",
+        "Schulte, E",
+        "Hecht, M",
+        "Hilbert, K",
+        "Townsend, A",
+        "Yin, S",
+        "Jia, W",
+        "Dong, H",
+        "Ansell, K"
+    ],
+    "prereq": [
+        "PHYS 102",
+        "PHYS 212",
+        "PHYS 214",
+        "PHYS 101"
+    ]
+}

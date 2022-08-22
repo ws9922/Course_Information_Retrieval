@@ -1,0 +1,15 @@
+{
+    "title": "ABE 436",
+    "names": "Renewable Energy Systems",
+    "credit": "3 OR 4 hours.",
+    "intro": "Renewable energy sources and applications, including solar, geothermal, wind, and biomass. Renewable energy's role in reducing air pollution and global climate change. Capstone project to design a system for converting renewable energy into thermal or electrical energy. ",
+    "instructors": [
+        "Wang, X",
+        "01:00PM - 01:50PM"
+    ],
+    "prereq": [
+        "ABE 436",
+        "TSM 438",
+        "PHYS 211"
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "title": "PSYC 350",
+    "names": "Personality Lab",
+    "credit": "4 hours.",
+    "intro": "Study of personality emphasizing active participation in designing, conducting, analyzing, and presenting of research; lectures concern the practical aspects of research methodology and the philosophy of personality research; and laboratory involves conducting original research in small groups. ",
+    "instructors": [
+        "Alzate Vanegas, J",
+        "Fraley, R",
+        "Chen, L"
+    ],
+    "prereq": [
+        "PSYC 235",
+        "PSYC 250"
+    ]
+}

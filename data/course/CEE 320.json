@@ -1,0 +1,15 @@
+{
+    "title": "CEE 320",
+    "names": "Construction Engineering",
+    "credit": "3 hours.",
+    "intro": "Construction engineering processes: contracting and bonding, planning and scheduling, estimating and project control, productivity models, and construction econometrics. ",
+    "instructors": [
+        "Nunez Morales, J",
+        "Golparvar Fard, M"
+    ],
+    "prereq": [
+        "CEE 201",
+        "CS 101",
+        "CEE 202"
+    ]
+}

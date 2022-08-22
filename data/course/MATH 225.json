@@ -1,0 +1,17 @@
+{
+    "title": "MATH 225",
+    "names": "Introductory Matrix Theory",
+    "credit": "2 hours.",
+    "intro": "Systems of linear equations, matrices and inverses, determinants, and a glimpse at vector spaces, eigenvalues and eigenvectors. ",
+    "instructors": [
+        "Srikant, J"
+    ],
+    "prereq": [
+        "MATH 225",
+        "MATH 125",
+        "ASRM 406",
+        "MATH 415",
+        "MATH 220",
+        "MATH 221"
+    ]
+}

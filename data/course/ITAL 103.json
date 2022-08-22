@@ -1,0 +1,14 @@
+{
+    "title": "ITAL 103",
+    "names": "Intermediate Italian I",
+    "credit": "4 hours.",
+    "intro": "Rapid reading, review of grammar, composition, and conversation. ",
+    "instructors": [
+        "Hill, L",
+        "Stuardi, M",
+        "Derhemi, E"
+    ],
+    "prereq": [
+        "ITAL 102"
+    ]
+}

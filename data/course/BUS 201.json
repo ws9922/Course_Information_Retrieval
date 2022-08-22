@@ -1,0 +1,16 @@
+{
+    "title": "BUS 201",
+    "names": "Business Dynamics",
+    "credit": "3 hours.",
+    "intro": "Introduces College of Business sophomores to the primary functional areas of business and how each functional area relates to comprise a business system. Students will engage in a dynamic simulation to develop an understanding of the interdependencies between the functional areas. The course will also highlight and continue to develop the teamwork and leadership skills required of successful managers. ",
+    "instructors": [
+        "White, J",
+        "Luckman, E",
+        "Dahl, J",
+        "Sanchez, C",
+        "Kim, H"
+    ],
+    "prereq": [
+        "BUS 101"
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "title": "BADM 460",
+    "names": "Business Process Modeling",
+    "credit": "3 hours.",
+    "intro": "Introduces the identification and analysis of various aspects of business processes. The course defines business processes and provides tools for designing and analyzing them. ",
+    "instructors": [
+        "Wang, I"
+    ],
+    "prereq": [
+        "BADM 367"
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "title": "TAM 554",
+    "names": "Plasticity",
+    "credit": "4 hours.",
+    "intro": "Phenomenological and mathematical formulation of the constitutive laws of plasticity; yield criteria and their experimental verification; plastic stress-strain relations and their associated flow rules; correspondence between rate-independent and rate-dependent plasticity; solutions to basic boundary-value problems, including plane problems and those involving cylindrical and spherical symmetries; variational and minimum principles; limit analysis; plane-strain problems and crystal plasticity; finite-strain theory. ",
+    "instructors": [
+        "Sehitoglu, H"
+    ],
+    "prereq": [
+        "TAM 552"
+    ]
+}

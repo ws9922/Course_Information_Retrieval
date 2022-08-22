@@ -1,0 +1,13 @@
+{
+    "title": "CEE 446",
+    "names": "Air Quality Engineering",
+    "credit": "4 hours.",
+    "intro": "Description and application of chemical and physical principles related to air pollutants, aerosol mechanics, attenuation of light in the atmosphere, air quality regulation, generation of air pollutants, methods to remove gaseous and particulate pollutants from gas streams, and atmospheric dispersion. ",
+    "instructors": [
+        "Koloutsou-Vakakis, S"
+    ],
+    "prereq": [
+        "CEE 330",
+        "TAM 335"
+    ]
+}

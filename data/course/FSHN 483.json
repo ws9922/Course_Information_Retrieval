@@ -1,0 +1,16 @@
+{
+    "title": "FSHN 483",
+    "names": "Food Processing Unit Operations II",
+    "credit": "2 hours.",
+    "intro": "Study the engineering principles that govern food processing and preservation unit operations, including evaporation, freeze-concentration, membrane separation, dehydration, centrifugation, and extrusion, and understand the effect of the process conditions of various unit operations on product characteristics and product quality. ",
+    "instructors": [
+        "Feng, H"
+    ],
+    "prereq": [
+        "FSHN 414",
+        "FSHN 460",
+        "FSHN 312",
+        "FSHN 471",
+        "FSHN 260"
+    ]
+}

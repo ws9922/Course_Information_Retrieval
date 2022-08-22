@@ -1,0 +1,14 @@
+{
+    "title": "FIN 510",
+    "names": "Big Data Analytics in Finance for Predictive and Causal Analysis",
+    "credit": "4 hours.",
+    "intro": "Recent trends in \"big data\" present both enormous challenges and opportunities for businesses. This course introduces concepts and techniques of data analytics and shows how they can be used for making predictions, and to distinguish between correlation and causation, in the context of financial and economic analysis. Covered tools include data visualization, machine learning, regression analysis, randomized trials, A/B testing, and quasi-experiments. Students will apply these tools using R programming within the Amazon Web Services cloud computing environment. ",
+    "instructors": [
+        "Molitor, D",
+        "Gao, X"
+    ],
+    "prereq": [
+        "FIN 510",
+        "FIN 580"
+    ]
+}

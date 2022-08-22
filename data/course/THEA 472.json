@@ -1,0 +1,19 @@
+{
+    "title": "THEA 472",
+    "names": "Acting Studio III: Voice",
+    "credit": "2 hours.",
+    "intro": "Advanced training in voice and speech for the stage with emphasis on classic texts. Enrollment limited to Theatre majors. ",
+    "instructors": [
+        "Toruno, A",
+        "Moody, A"
+    ],
+    "prereq": [
+        "THEA 375",
+        "THEA 376",
+        "THEA 377",
+        "THEA 378",
+        "THEA 471",
+        "THEA 473",
+        "THEA 474"
+    ]
+}

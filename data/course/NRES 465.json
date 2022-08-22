@@ -1,0 +1,13 @@
+{
+    "title": "NRES 465",
+    "names": "Landscape Ecology",
+    "credit": "3 hours.",
+    "intro": "Introduction to the theory, methods, and application of landscape ecology, with an emphasis on characterizing heterogeneity and examining its consequences for ecological processes across a variety of spatial and temporal scales. Special attention will be given to the role of natural and human disturbances in shaping spatial patterns. Laboratory exercises are computer-based and focus on concepts and tools in landscape ecology. ",
+    "instructors": [
+        "11:00AM - 11:50AM"
+    ],
+    "prereq": [
+        "NRES 219",
+        "NRES 454"
+    ]
+}

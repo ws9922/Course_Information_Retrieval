@@ -1,0 +1,11 @@
+{
+    "title": "VCM 565",
+    "names": "Biostatistics, Information Management, and Data Analytics for Livestock Production Systems",
+    "credit": "4 hours.",
+    "intro": "Application of statistical methods to epidemiology, clinical and diagnostic medicine, and laboratory biomedical experiments. Topics include data collection and organization, data cleaning, data visualization, descriptive statistics, reliability, sample size estimation, analysis of group differences, correlation and linear regression. Emphasizes use of computerized statistical software in biomedical data analysis. ",
+    "instructors": [
+        "Blair, B",
+        "Lowe, J"
+    ],
+    "prereq": []
+}

@@ -1,0 +1,15 @@
+{
+    "title": "ACCY 200",
+    "names": "Fundamentals of Accounting",
+    "credit": "3 hours.",
+    "intro": "Survey course in the principles of accounting for students registered in schools and colleges other than the College of Business. ",
+    "instructors": [
+        "Zhang, L",
+        "Silhan, P"
+    ],
+    "prereq": [
+        "ACCY 200",
+        "ACCY 201",
+        "ACCY 202"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "title": "TAM 461",
+    "names": "Cellular Biomechanics",
+    "credit": "4 hours.",
+    "intro": "Mechanics of biological cells and tissues: cell structure; mechanics of biomembranes; the cytoskeleton and cortex; dynamic cell processes; cell motility and control of cell shape and proliferation; experimental approaches and theoretical models. ",
+    "instructors": [
+        "Mohagheghian, E",
+        "Wang, N",
+        "Doha, U"
+    ],
+    "prereq": [
+        "TAM 251"
+    ]
+}

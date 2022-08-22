@@ -1,0 +1,14 @@
+{
+    "title": "MUS 174",
+    "names": "Grp Instr Pno for Mus Maj III",
+    "credit": "2 hours.",
+    "intro": "Continuation of skills introduced in MUS 173. Group instruction in intermediate piano for music majors whose principal  performing medium is voice, or an orchestral or band instrument. Study of intermediate level solos and ensemble compositions, harmonization with chromatic chords, sight reading, transposition of four-voice works, improvisation, and learning of patriotic songs. ",
+    "instructors": [
+        "Tsitsaros, C"
+    ],
+    "prereq": [
+        "MUS 102",
+        "MUS 108",
+        "MUS 173"
+    ]
+}

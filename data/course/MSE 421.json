@@ -1,0 +1,12 @@
+{
+    "title": "MSE 421",
+    "names": "Ceramic Processing",
+    "credit": "3 OR 4 hours.",
+    "intro": "Microstructure development and processing of ceramic materials, with an emphasis on structure-property-processing relationships. Processing methodologies and their effects on microstructural development. Illustration and examination of several ceramic components within this context. ",
+    "instructors": [
+        "Kriven, W"
+    ],
+    "prereq": [
+        "MSE 420"
+    ]
+}

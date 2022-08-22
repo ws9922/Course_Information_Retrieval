@@ -1,0 +1,10 @@
+{
+    "title": "CS 401",
+    "names": "Accelerated Fundamentals of Algorithms I",
+    "credit": "3 hours.",
+    "intro": "The first class in a sequence of two classes that introduces students to the theoretical foundations of computer science. Topics include counting, sets, functions, decision trees, recursion, binary numbers, basic graph theory, depth first search and breadth first search, algorithms for computing shortest paths, data structures like stacks and queues, big O notation and asymptotic analysis, complexity classes like P and NP, and reductions. ",
+    "instructors": [
+        "Gertner, Y"
+    ],
+    "prereq": []
+}

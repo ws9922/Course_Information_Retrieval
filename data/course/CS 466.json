@@ -1,0 +1,12 @@
+{
+    "title": "CS 466",
+    "names": "Introduction to Bioinformatics",
+    "credit": "3 OR 4 hours.",
+    "intro": "Algorithmic approaches in bioinformatics: (i) biological problems that can be solved computationally (e.g., discovering genes, and interactions among different genes and proteins); (ii) algorithmic techniques with wide applicability in solving these problems (e.g., dynamic programming and probabilistic methods); (iii) practical issues in translating the basic algorithmic ideas into accurate and efficient tools that biologists may use. ",
+    "instructors": [
+        "El-Kebir, M"
+    ],
+    "prereq": [
+        "CS 225"
+    ]
+}

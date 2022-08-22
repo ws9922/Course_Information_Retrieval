@@ -1,0 +1,15 @@
+{
+    "title": "CEE 330",
+    "names": "Environmental Engineering",
+    "credit": "3 hours.",
+    "intro": "Sources, characteristics, transport, and effects of air and water contaminants; biological, chemical, and physical processes in water; atmospheric structure and composition; unit operations for air and water quality control; solid waste management; environmental quality standards. ",
+    "instructors": [
+        "Mao, Y",
+        "Nguyen, T",
+        "Huang, C"
+    ],
+    "prereq": [
+        "CHEM 104",
+        "CHEM 204"
+    ]
+}

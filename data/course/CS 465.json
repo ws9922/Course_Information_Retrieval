@@ -1,0 +1,15 @@
+{
+    "title": "CS 465",
+    "names": "User Interface Design",
+    "credit": "4 hours.",
+    "intro": "A project-focused course covering fundamental principles of user interface design, implementation, and evaluation. Small teams work on a term-long project that involves: analysis of the problem domain, user skills, and tasks; iterative prototyping of interfaces to address user needs; conducting several forms of evaluation such as cognitive walkthroughs and usability tests; implementation of the final prototype. Non-technical majors may enroll as non-programmers who participate in all aspects of the projects with the possible exception of implementation. ",
+    "instructors": [
+        "Do, H",
+        "Hastings, E",
+        "Shi, W",
+        "Bailey, B"
+    ],
+    "prereq": [
+        "CS 225"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "title": "PHIL 499",
+    "names": "Capstone Seminar",
+    "credit": "3 hours.",
+    "intro": "Capstone course required for all philosophy majors. Students will explore in depth a specific topic either in the history of philosophy or in contemporary practical or theoretical philosophy and will write a substantial original essay appropriate for a senior thesis. Topics will differ by section and semester. ",
+    "instructors": [
+        "Bojanowski, J"
+    ],
+    "prereq": [
+        "PHIL 202",
+        "PHIL 203",
+        "PHIL 206",
+        "PHIL 222",
+        "PHIL 223"
+    ]
+}

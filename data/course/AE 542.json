@@ -1,0 +1,19 @@
+{
+    "title": "AE 542",
+    "names": "Aerospace Syst Engineering I",
+    "credit": "4 hours.",
+    "intro": "Aerospace systems engineering principles, processes and practices for the definition of spacecraft, aircraft, launch and associated systems, and the application of the systems approach across the development life cycle. ",
+    "instructors": [
+        "Merret, J"
+    ],
+    "prereq": [
+        "AE 442",
+        "AE 443",
+        "ME 470",
+        "ECE 445",
+        "ECE 411",
+        "CS 492",
+        "CS 493",
+        "CEE 465"
+    ]
+}

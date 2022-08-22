@@ -1,0 +1,14 @@
+{
+    "title": "FIN 516",
+    "names": "Term Structure Models",
+    "credit": "2 hours.",
+    "intro": "Coverage of the fundamental models models of the term structure of interest rates, including their implementation, calibration, and use in valuing interest rate derivatives. Focus will be on the Black model and short rate models such as Black-Derman-Toy and Hull-White. ",
+    "instructors": [
+        "Widdicks, M"
+    ],
+    "prereq": [
+        "FIN 512",
+        "IE 525",
+        "FIN 513"
+    ]
+}

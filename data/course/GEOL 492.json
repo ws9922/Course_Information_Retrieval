@@ -1,0 +1,11 @@
+{
+    "title": "GEOL 492",
+    "names": "Senior Thesis",
+    "credit": "2 TO 8 hours.",
+    "intro": "Research in geology, with thesis; a thesis must be submitted for credit to be received. ",
+    "instructors": [],
+    "prereq": [
+        "GEOL 492",
+        "GEOL 493"
+    ]
+}

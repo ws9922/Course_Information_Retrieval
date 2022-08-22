@@ -1,0 +1,25 @@
+{
+    "title": "MSE 307",
+    "names": "Materials Laboratory I",
+    "credit": "3 hours.",
+    "intro": "Experiments using optical microscopy and various thermal and thermodynamic measuring techniques including differential scanning calorimetry. Experience with laboratory test instruments and technical communication, including reports and oral presentations. ",
+    "instructors": [
+        "Swett, A",
+        "Derkaloustian, M",
+        "Rai, A",
+        "Yang, J",
+        "Park, J",
+        "Feathers, S",
+        "ARRANGED",
+        "01:00PM - 01:50PM",
+        "Mahat, S",
+        "TerBush, J",
+        "Hitchens, Z"
+    ],
+    "prereq": [
+        "MSE 307",
+        "MSE 308",
+        "MSE 201",
+        "MSE 401"
+    ]
+}

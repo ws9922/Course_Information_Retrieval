@@ -1,0 +1,14 @@
+{
+    "title": "CS 554",
+    "names": "Parallel Numerical Algorithms",
+    "credit": "4 hours.",
+    "intro": "Numerical algorithms for parallel computers: parallel algorithms in numerical linear algebra (dense and sparse solvers for linear systems and the algebraic eigenvalue problem), numerical handling of ordinary and partial differential equations, and numerical optimization techniques. ",
+    "instructors": [
+        "Solomonik, E"
+    ],
+    "prereq": [
+        "CS 450",
+        "CS 457",
+        "CS 555"
+    ]
+}

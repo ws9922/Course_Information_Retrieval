@@ -1,0 +1,14 @@
+{
+    "title": "IE 310",
+    "names": "Deterministic Models in Optimization",
+    "credit": "3 hours.",
+    "intro": "Linear Optimization - Simplex method, duality, and sensitivity analysis, Transportation and Assignment Problems, Network Optimization Models, Dynamic Programming, Nonlinear optimization, and Discrete optimization. ",
+    "instructors": [
+        "Sun, R"
+    ],
+    "prereq": [
+        "IE 310",
+        "CEE 201",
+        "MATH 415"
+    ]
+}

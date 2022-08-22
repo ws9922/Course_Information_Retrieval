@@ -1,0 +1,14 @@
+{
+    "title": "ANSC 221",
+    "names": "Cells, Metabolism and Genetics",
+    "credit": "3 hours.",
+    "intro": "Provides an introductory background in basic aspects of cell biology, physiology, and genetics. Topics addressed include cell structure, cell organelles, and different types of cells, protein synthesis and gene expression, chromosome structure, basic mechanisms of chromosome replication, basic principles of quantitative and population genetics, and an introduction to genomics and proteomics. ",
+    "instructors": [
+        "McKim, D",
+        "Kukekova, A"
+    ],
+    "prereq": [
+        "ANSC 100",
+        "CHEM 102"
+    ]
+}

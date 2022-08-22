@@ -1,0 +1,42 @@
+{
+    "title": "VM 614",
+    "names": "Clinical Practice V",
+    "credit": "8 hours.",
+    "intro": "Teaches clinical skills, practices, and procedures used in the Veterinary Teaching Hospital and the Veterinary Diagnostic Laboratory and provides hands-on experience in the methodologies used to diagnose, treat, and prevent disease in animals. ",
+    "instructors": [
+        "Gutierrez Nibeyro, S",
+        "Maddox, C",
+        "French, D",
+        "Connolly, S",
+        "Fan, T",
+        "Barger, A",
+        "Ridgway, M",
+        "Whittington, J",
+        "Aldridge, B",
+        "Fleming, K",
+        "Wilkins, P",
+        "Foreman, J",
+        "Keating, S",
+        "Fredrickson, R",
+        "Harper, T",
+        "Phillips, H",
+        "Hsiao, S",
+        "Garrett, E",
+        "Somrak, A",
+        "Austin, S",
+        "Johnson-Walker, Y",
+        "Sullivan, D",
+        "Firkins, L",
+        "Welle, K",
+        "Frederico Canisso, I",
+        "Allison, S",
+        "Kling, K",
+        "Lowe, J",
+        "Roady, P",
+        "McCoy, A",
+        "Garrett, L"
+    ],
+    "prereq": [
+        "VM 611"
+    ]
+}

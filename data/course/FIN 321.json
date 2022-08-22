@@ -1,0 +1,13 @@
+{
+    "title": "FIN 321",
+    "names": "Advanced Corporate Finance",
+    "credit": "3 hours.",
+    "intro": "Theories of firms' investment and financing decisions are covered. Topics include dividend policy, capital budgeting, capital structure, bankruptcy, long- term debt and leasing decisions. ",
+    "instructors": [
+        "Huang, J",
+        "Wu, Y"
+    ],
+    "prereq": [
+        "FIN 300"
+    ]
+}

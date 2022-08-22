@@ -1,0 +1,17 @@
+{
+    "title": "ECON 418",
+    "names": "Health Economics",
+    "credit": "3 OR 4 hours.",
+    "intro": "Introduction to the economics of the U.S. health care system. Analyzes the supply of and demand for health care, building upon models of consumer, producer, and insurer behavior. Covers public policy, including regulation and provision of services to the poor and elderly. Emphasizes empirical evidence on these topics. ",
+    "instructors": [
+        "Marques de Amorim, G"
+    ],
+    "prereq": [
+        "ECON 482",
+        "ECON 418",
+        "ECON 202",
+        "ECON 302",
+        "MATH 220",
+        "MATH 221"
+    ]
+}

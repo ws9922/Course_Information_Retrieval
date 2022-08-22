@@ -1,0 +1,14 @@
+{
+    "title": "MCB 461",
+    "names": "Cell & Molecular Neuroscience",
+    "credit": "3 hours.",
+    "intro": "Designed as an in-depth foundation course for graduate and undergraduate students with strong neuroscience interests. Covers up-to-date cellular and molecular neurobiology (including basic principles of neuronal function, signaling, and plasticity) and introductory brain anatomy that underlie brain function and animal behaviors. Pathogenic mechanisms of neurological diseases and disorders from the latest research will be heavily explored. ",
+    "instructors": [
+        "Chung, H"
+    ],
+    "prereq": [
+        "MCB 252",
+        "MCB 250",
+        "MCB 462"
+    ]
+}

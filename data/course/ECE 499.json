@@ -1,0 +1,12 @@
+{
+    "title": "ECE 499",
+    "names": "Senior Thesis",
+    "credit": "2 hours.",
+    "intro": "Completion of the research project begun under ECE 496. Preparation and oral presentation of a written thesis that reports the results of the project. ",
+    "instructors": [],
+    "prereq": [
+        "ECE 496",
+        "ECE 499",
+        "ECE 496"
+    ]
+}

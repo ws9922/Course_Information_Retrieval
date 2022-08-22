@@ -1,0 +1,16 @@
+{
+    "title": "CHEM 420",
+    "names": "Instrumental Characterization",
+    "credit": "2 hours.",
+    "intro": "Lecture course covers the fundamentals of instrumental characterization including: nuclear magnetic resonance spectroscopy, potentiometry, voltammetry, atomic and molecular spectroscopy, mass spectrometry, and gas and liquid chromatography. ",
+    "instructors": [
+        "Xu, K",
+        "Nixon, R",
+        "Siddiqui, A",
+        "Rodriguez Lopez, J"
+    ],
+    "prereq": [
+        "CHEM 440",
+        "CHEM 442"
+    ]
+}

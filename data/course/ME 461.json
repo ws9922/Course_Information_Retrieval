@@ -1,0 +1,14 @@
+{
+    "title": "ME 461",
+    "names": "Computer Cntrl of Mech Systems",
+    "credit": "3 or 4 hours.",
+    "intro": "Microcomputer control of thermal and mechanical systems: sensors and transducers, signal transmission and conversion, and regulator actuation. ",
+    "instructors": [
+        "Chen, S",
+        "Block, D"
+    ],
+    "prereq": [
+        "ME 360",
+        "ABE 425"
+    ]
+}

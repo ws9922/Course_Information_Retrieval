@@ -1,0 +1,14 @@
+{
+    "title": "ECE 330",
+    "names": "Power Ckts & Electromechanics",
+    "credit": "3 hours.",
+    "intro": "Network equivalents; power and energy fundamentals, resonance, mutual inductance; three-phase power concepts, forces and torques of electric origin in electromagnetic and electrostatic systems; energy conversion cycles; principles of electric machines; transducers; relays; laboratory demonstration. ",
+    "instructors": [
+        "Mironenko, O",
+        "Schuh, J",
+        "Zhang, R"
+    ],
+    "prereq": [
+        "ECE 210"
+    ]
+}

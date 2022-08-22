@@ -1,0 +1,14 @@
+{
+    "title": "LING 301",
+    "names": "Elements of Syntax",
+    "credit": "3 hours.",
+    "intro": "Introduction to concepts and techniques essential for syntactic analysis and description, with special attention to testing analyses and justifying them. ",
+    "instructors": [
+        "MacDonald, J",
+        "Gallardo, M",
+        "Glodstaf, W"
+    ],
+    "prereq": [
+        "LING 100"
+    ]
+}

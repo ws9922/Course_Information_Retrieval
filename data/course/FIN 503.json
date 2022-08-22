@@ -1,0 +1,14 @@
+{
+    "title": "FIN 503",
+    "names": "Quantitative Finance II",
+    "credit": "2 hours.",
+    "intro": "This course covers topics in time series analysis with an emphasis on applications. It is intended to prepare MSF students for more advanced courses in finance. This course provides some basic knowledge of financial time series data. It also introduces models and methods widely used by academics and practitioners. The purpose of this course is to understand proper use and limitations of econometric methods in applied time series analysis. ",
+    "instructors": [
+        "Yang, X"
+    ],
+    "prereq": [
+        "FIN 503",
+        "FIN 580",
+        "FIN 580"
+    ]
+}

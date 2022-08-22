@@ -1,0 +1,12 @@
+{
+    "title": "AE 416",
+    "names": "Applied Aerodynamics",
+    "credit": "3 OR 4 hours.",
+    "intro": "Two-dimensional and finite wing theory with emphasis on the mechanisms of lift and drag generation; Reynolds number and Mach number effects; drag analysis; high-lift wing systems; propeller and rotor aerodynamics; control surface design; application of V/STOL aerodynamics. ",
+    "instructors": [
+        "Ansell, P"
+    ],
+    "prereq": [
+        "AE 311"
+    ]
+}

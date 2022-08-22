@@ -1,0 +1,12 @@
+{
+    "title": "CS 567",
+    "names": "Social Signals and Social Media",
+    "credit": "4 hours.",
+    "intro": "Online social interactions occur in many arenas important to society and human well-being, but are mediated through algorithmic interventions that alter the users expectations in these social spaces. This class explores the presentation of self, the presentation of collectives, the presentation of news, and social dynamics in these online spaces--and how algorithmic intervention shapes them from the perspective of social signaling theory. Topics covered include: the evolution of algorithmic matchmaking (as in online resume/interviews and dating sites), why people share misinformation, the mitigation of trolling, ethics, and bias in social media systems. Upon completion of this course, students will have an up-to-date understanding of the design social media interfaces with incentive structures from social signaling theory. ",
+    "instructors": [
+        "Karahalios, K"
+    ],
+    "prereq": [
+        "CS 465"
+    ]
+}

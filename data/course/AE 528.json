@@ -1,0 +1,13 @@
+{
+    "title": "AE 528",
+    "names": "Nonlinear Continuous Media",
+    "credit": "4 hours.",
+    "intro": "Fundamental concepts of large deformations in nonlinear elasticity and inelasticity with applications: generalized tensors, finite deformations, stress-strain relations in terms of strain energy functions, inverse problems, solutions of tension, shear and bending problems, finite plane strain, theory of successive approximations, fiber-reinforced beams, plates and cylinders, thermodynamics of deformable media, stability considerations, and constituent relations for inelasticity. ",
+    "instructors": [
+        "Hilton, H"
+    ],
+    "prereq": [
+        "AE 321",
+        "TAM 451"
+    ]
+}

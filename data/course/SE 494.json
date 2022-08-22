@@ -1,0 +1,20 @@
+{
+    "title": "SE 494",
+    "names": "Senior Engineering Project I",
+    "credit": "3 hours.",
+    "intro": "Senior engineering project - team component. Student teams of three or four, guided by faculty advisors, develop solutions to real-world engineering problems provided by industry-partnering companies, subject to realistic constraints and supported by economic analyses and recommendations for implementation. Prototype solutions fabricated where practical. Multiple reports and presentations throughout the term. Several trips to company typical. Common project grade for all team members. SE 494 and SE 495 taken concurrently fulfill the Advanced Composition Requirement. Approval of the department is required to register. ",
+    "instructors": [
+        "Titone, T"
+    ],
+    "prereq": [
+        "SE 261",
+        "SE 290",
+        "SE 311",
+        "IE 300",
+        "IE 310",
+        "TAM 335",
+        "IE 310",
+        "IE 311",
+        "SE 495"
+    ]
+}

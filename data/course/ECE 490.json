@@ -1,0 +1,13 @@
+{
+    "title": "ECE 490",
+    "names": "Introduction to Optimization",
+    "credit": "3 OR 4 hours.",
+    "intro": "Basic theory and methods for the solution of optimization problems; iterative techniques for unconstrained minimization; linear and nonlinear programming with engineering applications. ",
+    "instructors": [
+        "Veeravalli, V"
+    ],
+    "prereq": [
+        "ECE 220",
+        "MATH 415"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "title": "CHEM 447",
+    "names": "Physical Principles Lab II",
+    "credit": "2 hours.",
+    "intro": "Laboratory course featuring experiments of interest to chemists and biochemists. Examples of experiments may include, but are not limited to, molecular mechanics/molecular dynamics (MM/MD) simulations of proteins; Raman spectroscopy; low-energy electron diffraction (LEED); bomb calorimetry; nuclear magnetic resonance imaging (MRI), and enzyme kinetics and inhibition. This course provides hands-on experience with instrumental and computational techniques that are frequently used in both industrial and academic research and will be of interest to students proposing to carry out work in any area of chemistry and in related disciplines. ",
+    "instructors": [
+        "Smith, L",
+        "Adams, K",
+        "Rasmussen, B",
+        "Gopan, G",
+        "Vura-Weis, J",
+        "Grant, R"
+    ],
+    "prereq": [
+        "CHEM 440",
+        "CHEM 442"
+    ]
+}

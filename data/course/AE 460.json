@@ -1,0 +1,13 @@
+{
+    "title": "AE 460",
+    "names": "Aerodynamics & Propulsion Lab",
+    "credit": "2 hours.",
+    "intro": "Theory and application of experimental techniques in aerospace engineering with emphasis on fluid dynamic, aerodynamic, thermal, combustion, and propulsion phenomena. ",
+    "instructors": [
+        "Woodard, B"
+    ],
+    "prereq": [
+        "AE 311",
+        "AE 433"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "title": "AE 485",
+    "names": "Spacecraft Environment and Interactions",
+    "credit": "3 OR 4 hours.",
+    "intro": "The course focuses on the theoretical and practical aspects of spacecraft aerodynamics and environment. It covers topics related to free molecular flows. Materials interactions and onboard sensor optical backgrounds caused by spacecraft neutral interactions, chemical reactions of materials with ambient atomic O, spacecraft glow, ion and chemical thrusters are studied. The plasma space environment, its connection to our sun, and the presence of the van Allen Belts and their affect on spacecraft charging for LEO and GEO conditions are discussed. Spacecraft shielding requirements due to plasma interactions and the space radiation environment are examined. ",
+    "instructors": [
+        "Levin Fliflet, D"
+    ],
+    "prereq": [
+        "AE 311",
+        "AE 312",
+        "ME 200"
+    ]
+}

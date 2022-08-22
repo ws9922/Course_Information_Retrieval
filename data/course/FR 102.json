@@ -1,0 +1,15 @@
+{
+    "title": "FR 102",
+    "names": "Elementary French II",
+    "credit": "4 hours.",
+    "intro": "Continuation of FR 101. Introduces cultural and supplementary enrichment materials; requires online laboratory sessions as in FR 101. ",
+    "instructors": [
+        "Hill, L",
+        "Wikle, J",
+        "Laing, A",
+        "Prieu, C"
+    ],
+    "prereq": [
+        "FR 101"
+    ]
+}

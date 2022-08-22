@@ -1,0 +1,13 @@
+{
+    "title": "ECE 584",
+    "names": "Embedded System Verification",
+    "credit": "4 hours.",
+    "intro": "Examines formal analysis an synthesis approaches for discrete, continuous, and hybrid models of computing systems and their physical environment. Introduces timed and hybrid automata models. Analysis techniques including model checking, Hoare-style deduction, and abstractions for safety and stability, and controller synthesis strategies with applications in distributed robotics, automobile system, traffic control, and real-time systems. ",
+    "instructors": [
+        "Mitra, S"
+    ],
+    "prereq": [
+        "CS 476",
+        "CS 477"
+    ]
+}

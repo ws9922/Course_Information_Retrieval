@@ -1,0 +1,12 @@
+{
+    "title": "PHYS 505",
+    "names": "Classical Electromagnetism",
+    "credit": "4 hours.",
+    "intro": "Review of Maxwell's equations; relativistic formulation of the electromagnetic field and the motion of charged particles; plane and guided waves; retarded potentials; radiation from simple antennas; radiation from accelerated charged particles; scattering and further topics. ",
+    "instructors": [
+        "Faulkner, T"
+    ],
+    "prereq": [
+        "PHYS 436"
+    ]
+}

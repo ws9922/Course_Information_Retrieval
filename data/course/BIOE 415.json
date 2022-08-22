@@ -1,0 +1,15 @@
+{
+    "title": "BIOE 415",
+    "names": "Biomedical Instrumentation Lab",
+    "credit": "2 hours.",
+    "intro": "Laboratory to accompany BIOE 414. Use of sensors and medical instrumentation for static and dynamic biological inputs. Measurement of biomedical signals. ",
+    "instructors": [
+        "Vasudevan, M",
+        "Syed, H",
+        "Newman, W",
+        "Reck, R"
+    ],
+    "prereq": [
+        "BIOE 414"
+    ]
+}

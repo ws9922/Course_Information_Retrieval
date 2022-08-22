@@ -1,0 +1,12 @@
+{
+    "title": "IE 431",
+    "names": "Design for Six Sigma",
+    "credit": "3 hours.",
+    "intro": "Quality Engineering principles and the Six Sigma Define-Measure-Analyze-Improve-Control (DMAIC) process. Application of concepts and methods of statistical process control, designed experiments, and measurement systems analysis to cases of quality and productivity improvement; application of the fundamentals of quality engineering and the Six Sigma to areas of produce development, service enterprise, and manufacturing processes. ",
+    "instructors": [
+        "Kim, H"
+    ],
+    "prereq": [
+        "IE 300"
+    ]
+}

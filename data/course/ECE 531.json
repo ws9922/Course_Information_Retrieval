@@ -1,0 +1,13 @@
+{
+    "title": "ECE 531",
+    "names": "Theory of Guided Waves",
+    "credit": "4 hours.",
+    "intro": "Propagation of electromagnetic waves in general cylindrical waveguides; stationary principles; non-uniform inhomogeneously filled waveguides; mode and power orthogonality; losses in waveguides; analytical and numerical techniques; microwave integrated circuits waveguides; optical waveguides. ",
+    "instructors": [
+        "Shao, Y"
+    ],
+    "prereq": [
+        "ECE 520",
+        "MATH 556"
+    ]
+}

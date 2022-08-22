@@ -1,0 +1,27 @@
+{
+    "title": "CS 598",
+    "names": "Special Topics",
+    "credit": "2 TO 4 hours.",
+    "intro": "Subject offerings of new and developing areas of knowledge in computer science intended to augment the existing curriculum. See Class Schedule or departmental course information for topics and prerequisites. ",
+    "instructors": [
+        "Gupta, S",
+        "Hauser, K",
+        "Delgosha, P",
+        "Singh, G",
+        "Sundaram, H",
+        "Banerjee, A",
+        "Renear, A",
+        "Kirlik, A",
+        "Mendis, C",
+        "Hoiem, D",
+        "Cobb, C",
+        "Rauchwerger, L",
+        "Wang, S",
+        "Chan, T",
+        "Chandrasekharan, E",
+        "Liang, F",
+        "Zhao, H",
+        "Parthasarathy, M"
+    ],
+    "prereq": []
+}

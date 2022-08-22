@@ -1,0 +1,15 @@
+{
+    "title": "SE 310",
+    "names": "Design of Structures and Mechanisms",
+    "credit": "3 hours.",
+    "intro": "Fundamental concepts in the classical and computer-based analysis and design of structural and machine components and assemblies. External loads, internal forces, and displacements in statically determinate and indeterminate configurations: kinematics of linkages, gears, and cams; static forces in machines. ",
+    "instructors": [
+        "Krishnan, G"
+    ],
+    "prereq": [
+        "CS 101",
+        "TAM 212",
+        "TAM 251",
+        "MATH 415"
+    ]
+}

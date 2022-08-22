@@ -1,0 +1,13 @@
+{
+    "title": "CEE 465",
+    "names": "Design of Structural Systems",
+    "credit": "3 hours.",
+    "intro": "Examination of the whole structural design process including definition of functional requirements, selection of structural scheme, formulation of design criteria, preliminary and computer-aided proportioning, and analysis of response, cost, and value. ",
+    "instructors": [
+        "Sychterz, A"
+    ],
+    "prereq": [
+        "CEE 460",
+        "CEE 461"
+    ]
+}

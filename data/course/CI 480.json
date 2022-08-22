@@ -1,0 +1,12 @@
+{
+    "title": "CI 480",
+    "names": "Introduction to Computer Science for CS Teachers",
+    "credit": "4 hours.",
+    "intro": "This course introduces the core concepts of computer science and computer programming for students to gain experience creating programs using text-based programming languages. It also provides opportunities for students to reflect on how they experience learning those concepts and how this might impact teaching high school students. Students will learn about the fundamentals of how programs are executed and how to store and process data using computers. They will be introduced to the concepts of algorithms, algorithm execution time, and the core concepts of object-oriented programming. ",
+    "instructors": [
+        "Paquette, L"
+    ],
+    "prereq": [
+        "CI 438"
+    ]
+}

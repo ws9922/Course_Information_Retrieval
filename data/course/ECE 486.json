@@ -1,0 +1,14 @@
+{
+    "title": "ECE 486",
+    "names": "Control Systems",
+    "credit": "4 hours.",
+    "intro": "Analysis and design of control systems with emphasis on modeling, state variable representation, computer solutions, modern design principles, and laboratory techniques. ",
+    "instructors": [
+        "Hu, B",
+        "Chang, Y",
+        "Syed, U"
+    ],
+    "prereq": [
+        "ECE 210"
+    ]
+}

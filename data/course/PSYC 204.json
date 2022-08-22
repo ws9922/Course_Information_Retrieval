@@ -1,0 +1,15 @@
+{
+    "title": "PSYC 204",
+    "names": "Intro to Brain and Cognition",
+    "credit": "3 hours.",
+    "intro": "Introduction to the interdisciplinary field of cognitive neuroscience, which is concerned with how the cognitive systems supporting a broad range of capacities including memory, attention, and social and emotional processing, arise from the functioning of specific brain modules and brain mechanisms. Emphasizes how functional brain imaging and other cognitive neuroscience methods can be brought to bear on answering these questions. ",
+    "instructors": [
+        "Dolcos, S",
+        "West, H"
+    ],
+    "prereq": [
+        "PSYC 100",
+        "PSYC 103",
+        "PSYC 105"
+    ]
+}

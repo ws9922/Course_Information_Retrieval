@@ -1,0 +1,15 @@
+{
+    "title": "KOR 241",
+    "names": "Korean Reading and Writing III",
+    "credit": "4 hours.",
+    "intro": "Continuation of KOR 222 and first semester of the second year of spoken and written Korean. Students learn grammar and vocabulary to achieve intermediate-level speaking, listening, reading and writing in Korean. ",
+    "instructors": [
+        "Ha, J"
+    ],
+    "prereq": [
+        "KOR 241",
+        "KOR 204",
+        "KOR 222",
+        "KOR 222"
+    ]
+}

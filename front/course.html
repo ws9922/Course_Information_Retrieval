@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
+        integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <link rel="stylesheet" href="{{ url_for('static', filename='main-style.css') }}">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title>Course Information Retrieval</title>
+</head>
+
+<body>
+    <nav class="fixed-top">
+        <div class="nav-left">
+            <div class="nav-text">Course Information Retrieval</div>
+        </div>
+    </nav>
+
+    <div class="main">
+        <div class="left-subpage">
+            <h1>{{ course_info['num'] + ' (' + course_info['credits'] + ')' }}</h1>
+            <h3>{{ course_info['name'] }}</h3>
+            <p>{{ course_info['description']}}</p>
+            <br>
+            <h1>Professor</h1>
+            <h2>{{ professor_info['name'] }}</h2>
+            <h3>{{ professor_info['rating'] }}</h3>
+            <h3> {{ professor_info['tags'] }}  </h3>
+            <p>{{ professor_info['comments'][0] }}</p>
+            <p>{{ professor_info['comments'][1] }}</p>
+            <p>{{ professor_info['comments'][2] }}</p>
+        </div>
+        <div class="right-subpage">
+            <h2>Prereqs</h2>
+            <p>{{course_info['prerequisites']}}</p>
+            <br>
+            <h2>Courses after</h2>
+            <p>{{course_info['after']}}</p>
+        </div>
+    </div>
+    
+</body>
+
+
+</html>

@@ -1,0 +1,15 @@
+{
+    "title": "PSYC 433",
+    "names": "Evolutionary Neuroscience",
+    "credit": "3 OR 4 hours.",
+    "intro": "Current methods, tools, and progress in evolutionary biology and quantitative genetics of brain and behavior of vertebrates. ",
+    "instructors": [
+        "Rhodes, J"
+    ],
+    "prereq": [
+        "NEUR 433",
+        "PHIL 433",
+        "IB 150",
+        "PSYC 210"
+    ]
+}

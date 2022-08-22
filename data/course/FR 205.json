@@ -1,0 +1,14 @@
+{
+    "title": "FR 205",
+    "names": "Oral French",
+    "credit": "2 hours.",
+    "intro": "Developing oral facility and aural comprehension, focusing on everyday events. ",
+    "instructors": [
+        "Maroun, D",
+        "Andre, E"
+    ],
+    "prereq": [
+        "FR 104",
+        "FR 134"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "title": "NRES 348",
+    "names": "Fish and Wildlife Ecology",
+    "credit": "3 hours.",
+    "intro": "Application of ecological principles and modeling to management of fish and wildlife populations; significance of abiotic and biotic factors, including life-history parameters in population growth and management; and techniques and procedures for the development of management strategies for animal populations, emphasizing vertebrates. A course in statistics is highly recommended. ",
+    "instructors": [
+        "Ward, M",
+        "Dorman, W"
+    ],
+    "prereq": [
+        "IB 203",
+        "NRES 219"
+    ]
+}

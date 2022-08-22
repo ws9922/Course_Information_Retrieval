@@ -1,0 +1,12 @@
+{
+    "title": "GEOG 477",
+    "names": "Introduction to Remote Sensing",
+    "credit": "3 hours.",
+    "intro": "Fundamentals of energy-matter interaction mechanisms, and the manifestation of reflected and emitted radiation on photographs and images; introduces characteristics of aerial films and filters, electro-optical scanners, and digital processing; and emphasizes applications in environmental problems. ",
+    "instructors": [
+        "Diao, C"
+    ],
+    "prereq": [
+        "GEOG 280"
+    ]
+}

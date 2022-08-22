@@ -1,0 +1,14 @@
+{
+    "title": "CS 445",
+    "names": "Computational Photography",
+    "credit": "3 OR 4 hours.",
+    "intro": "Computer vision techniques to enhance, manipulate, and create media from photo collections, such as panoramic stitching, face morphing, texture synthesis, blending, and 3D reconstruction. ",
+    "instructors": [
+        "Wang, Y"
+    ],
+    "prereq": [
+        "CS 225",
+        "MATH 225",
+        "MATH 231"
+    ]
+}

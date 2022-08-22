@@ -1,0 +1,12 @@
+{
+    "title": "PS 532",
+    "names": "Quant Pol Analysis III",
+    "credit": "4 hours.",
+    "intro": "Select topics in inferential statistics, including models for limited dependent variables. Topics vary by semester and may include spatial econometrics, bootstrap models, ecological inference, and causal inference. ",
+    "instructors": [
+        "Cho, W"
+    ],
+    "prereq": [
+        "PS 531"
+    ]
+}

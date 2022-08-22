@@ -1,0 +1,16 @@
+{
+    "title": "ASRM 569",
+    "names": "Extreme Value Theory and Catastrophe Modeling",
+    "credit": "4 hours.",
+    "intro": "Principles and fundamental techniques of ratemaking for casualty and property insurances; risk classification; coinsurance; estimation of claim liabilities; financial reporting; catastrophe modeling. ",
+    "instructors": [
+        "Quan, F"
+    ],
+    "prereq": [
+        "ASRM 469",
+        "MATH 479",
+        "ASRM 569",
+        "MATH 569",
+        "ASRM 401"
+    ]
+}

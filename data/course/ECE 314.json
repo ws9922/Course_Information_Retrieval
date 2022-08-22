@@ -1,0 +1,16 @@
+{
+    "title": "ECE 314",
+    "names": "Probability in Engineering Lab",
+    "credit": "1 hours.",
+    "intro": "Designed to be taken concurrently with ECE 313, Probability in Engineering Systems, to strengthen the students' understanding of the concepts in ECE 313 and their applications, through computer simulation and computation using the Python programming language. Topics include sequential hypothesis testing, parameter estimation, confidence intervals, Bloom filters, min hashing, load balancing, inference for Markov chains, PageRank algorithm, vector Gaussian distribution, contagion in networks, principle component method and linear regression for data analysis, investment portfolio analysis. ",
+    "instructors": [
+        "Zhang, Y",
+        "Hajek, B"
+    ],
+    "prereq": [
+        "ECE 313",
+        "ECE 313",
+        "IE 300",
+        "STAT 410"
+    ]
+}

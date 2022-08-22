@@ -1,0 +1,20 @@
+{
+    "title": "CHEM 237",
+    "names": "Structure and Synthesis",
+    "credit": "2 hours.",
+    "intro": "Laboratory course introduces synthesis and the basic techniques for the separation, isolation and purification of organic and inorganic compounds. ",
+    "instructors": [
+        "White, M",
+        "Milkovits, A",
+        "Firestein, Z",
+        "Weaver, J",
+        "Way, H",
+        "Zhang, J",
+        "Ryffel, P"
+    ],
+    "prereq": [
+        "CHEM 237",
+        "CHEM 233",
+        "CHEM 236"
+    ]
+}

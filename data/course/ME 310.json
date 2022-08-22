@@ -1,0 +1,26 @@
+{
+    "title": "ME 310",
+    "names": "Fundamentals of Fluid Dynamics",
+    "credit": "4 hours.",
+    "intro": "Fundamentals of fluid mechanics with coverage of theory and applications of incompressible viscous and inviscid flows, and compressible high speed flows. ",
+    "instructors": [
+        "Khan, R",
+        "Srinivasan, S",
+        "Ahmed, S",
+        "Liu, X",
+        "Juarez, G",
+        "Brunkow, S",
+        "Pearlstein, A",
+        "Haider, S",
+        "Ran, J",
+        "Gamboa, A"
+    ],
+    "prereq": [
+        "ME 310",
+        "TAM 335",
+        "MATH 285",
+        "MATH 286",
+        "MATH 441",
+        "ME 200"
+    ]
+}

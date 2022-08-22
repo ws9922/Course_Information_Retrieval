@@ -1,0 +1,18 @@
+{
+    "title": "GEOL 460",
+    "names": "Geochemistry",
+    "credit": "3 hours.",
+    "intro": "Fundamental chemical and physical concepts applied to geological processes; topics include: origin, distribution, and geochemical behavior of elements; chemical evolution of the Earth; geochemistry of natural waters and sedimentary rocks; isotope geochemistry, crystal chemistry, trace element geochemistry and organic geochemistry. ",
+    "instructors": [
+        "Stewart, M",
+        "Akrie, P"
+    ],
+    "prereq": [
+        "GEOL 101",
+        "GEOL 107",
+        "CHEM 104",
+        "CHEM 105",
+        "MATH 220",
+        "MATH 221"
+    ]
+}

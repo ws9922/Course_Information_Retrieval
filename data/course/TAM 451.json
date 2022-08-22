@@ -1,0 +1,13 @@
+{
+    "title": "TAM 451",
+    "names": "Intermediate Solid Mechanics",
+    "credit": "4 hours.",
+    "intro": "Analysis of stress and strain (definitions, transformation of axes, equilibrium equations, and symmetry of the stress tensor); linear materials, Hooke's law; strain energy, potential energy, energy principles and methods; two-dimensional problems in elasticity (torsion, axisymmetric problems); the finite-element method for two- and three-dimensional boundary-value problems in linear elasticity; plasticity (introduction, yield criteria, elastic-plastic behavior, and limit-load calculations); linear-elastic fracture mechanics (introduction, Griffith's approach, stress intensity factor, and energy release rate). ",
+    "instructors": [
+        "Pierce, C",
+        "Matlack, K"
+    ],
+    "prereq": [
+        "TAM 251"
+    ]
+}

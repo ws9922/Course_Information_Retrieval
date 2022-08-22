@@ -1,0 +1,10 @@
+{
+    "title": "MATH 520",
+    "names": "Symplectic Geometry",
+    "credit": "4 hours.",
+    "intro": "Introduction to the foundational tools, ideas, examples and theorems of symplectic geometry. It is intended for PhD students studying symplectic geometry, Poisson geometry, and symplectic topology, as well as students in related areas such as dynamical systems, algebraic geometry, complex geometry and low dimensional topology. Covers the local and global structure of symplectic manifolds, their submanifolds, the special automorphisms they support (Hamiltonian flows), their natural boundaries (contact manifolds), their special geometric features (almost complex structures), and their symmetries. The last three weeks of the course will be devoted to a more advanced topic to be determined by the interests of both the instructor and the students. ",
+    "instructors": [
+        "Kerman, E"
+    ],
+    "prereq": []
+}

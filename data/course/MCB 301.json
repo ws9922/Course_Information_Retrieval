@@ -1,0 +1,19 @@
+{
+    "title": "MCB 301",
+    "names": "Experimental Microbiology",
+    "credit": "3 hours.",
+    "intro": "Laboratory emphasizing the fundamentals of microbiology. Topics include growth, isolation, and identification of bacteria; restriction endonuclease analysis of DNA, genetic cloning, and gene transfer. Computer methods are used for the identification of microorganisms and for the analysis of recombinant DNA molecules. ",
+    "instructors": [
+        "Rodriguez Carrero, R",
+        "Bari, N",
+        "Alt, R",
+        "Frederick, D",
+        "Crowder, M",
+        "Ikeda, J",
+        "Sanchez-Nieves, R"
+    ],
+    "prereq": [
+        "MCB 250",
+        "MCB 300"
+    ]
+}

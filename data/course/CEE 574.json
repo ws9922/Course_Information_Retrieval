@@ -1,0 +1,13 @@
+{
+    "title": "CEE 574",
+    "names": "Probabilistic Loads and Design",
+    "credit": "4 hours.",
+    "intro": "Application of probabilistic methods in describing and defining loads on structures with emphasis on the random fluctuation in time and space. Random vibration methods and applications to dynamic response of structures under wind and earthquake loads. Computer simulation of structural loads and responses. Probability-based safety criteria and review of current methods of selection of design loads and load combinations. ",
+    "instructors": [
+        "Cha, E"
+    ],
+    "prereq": [
+        "CEE 202",
+        "CEE 472"
+    ]
+}

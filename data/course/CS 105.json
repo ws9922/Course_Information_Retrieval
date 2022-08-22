@@ -1,0 +1,23 @@
+{
+    "title": "CS 105",
+    "names": "Intro Computing: Non-Tech",
+    "credit": "3 hours.",
+    "intro": "Computing as an essential tool of academic and professional activities. Functions and interrelationships of computer system components: hardware, systems and applications software, and networks. Widely used application packages such as spreadsheets and databases. Concepts and practice of programming for the solution of simple problems in different application areas. Intended for non-science and non-engineering majors. ",
+    "instructors": [
+        "Fowler, M",
+        "Xu, R",
+        "Lam, S",
+        "Wang, Y",
+        "Liu, A",
+        "Cheng, S",
+        "Smith, D",
+        "Mathew, R",
+        "Chen, B",
+        "Gao, M",
+        "Dey, P",
+        "Zilles, C"
+    ],
+    "prereq": [
+        "MATH 112"
+    ]
+}

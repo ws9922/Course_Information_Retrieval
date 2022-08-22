@@ -1,0 +1,13 @@
+{
+    "title": "ECON 531",
+    "names": "Macroeconomic Theory I",
+    "credit": "4 hours.",
+    "intro": "Introduces students to a variety of dynamic general equilibrium models that currently dominate the study of growth and economic fluctuations. These models include: neoclassical growth models, overlapping generations models, CAPM models, search models, and endogenous growth models. In covering these models, the course also seeks to develop a set of techniques for students to use. These techniques include discrete time optimization, continuous time optimization, dynamic programming and model calibration. ",
+    "instructors": [
+        "11:00AM - 12:20PM"
+    ],
+    "prereq": [
+        "ECON 302",
+        "ECON 303"
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "title": "KIN 565",
+    "names": "Teaching in the Professoriate",
+    "credit": "4 hours.",
+    "intro": "Provides scholarly knowledge and practical experience necessary for effectively assuming the roles of teaching, mentoring, and presenting in the professoriate. Students will team teach an undergraduate course with an assigned faculty mentor, give a scholarly research presentation, and attend a series of theoretically grounded lectures focusing on instructional design, learner characteristics, and successfully conveying information to others. ",
+    "instructors": [
+        "Carlson, K"
+    ],
+    "prereq": [
+        "RST 560",
+        "SHS 565"
+    ]
+}

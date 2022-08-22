@@ -1,0 +1,16 @@
+{
+    "title": "SOC 485",
+    "names": "Intermediate Social Statistics",
+    "credit": "3 OR 4 hours.",
+    "intro": "Intermediate course in the theory and application of statistical methods to social science data. Coverage includes overviews of measurement issues, the logic of hypothesis testing and estimation, the general linear model, one-way analysis of variance, correlation and regression. The core of the course is multiple regression analysis and its extensions. Topics include dummy variable analysis, statistical interaction, model assumptions and violations, non-linear and logistic regression, and an introduction to path analysis. Emphasis on the application of statistical computing packages (e. g. SPSS) and the substantive interpretation of results. ",
+    "instructors": [
+        "09:00AM - 09:50AM"
+    ],
+    "prereq": [
+        "SOC 485",
+        "ECON 203",
+        "STAT 420",
+        "PSYC 406",
+        "SOC 280"
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "title": "ECE 304",
+    "names": "Photonic Devices",
+    "credit": "3 hours.",
+    "intro": "Introduction to active and passive photonic devices and applications; optical processes in semiconductor and dielectric materials including electrical junctions, light emission and absorption, and waveguide confinement; photonic components such as light emitting diodes, lasers, photodetectors, solar cells, liquid crystals, and optical fiber; optical information distribution networks and display applications. ",
+    "instructors": [
+        "Choquette, K"
+    ],
+    "prereq": [
+        "PHYS 214"
+    ]
+}

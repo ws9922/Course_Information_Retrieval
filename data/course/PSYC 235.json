@@ -1,0 +1,21 @@
+{
+    "title": "PSYC 235",
+    "names": "Intro to Statistics",
+    "credit": "3 hours.",
+    "intro": "Development of skill and understanding in the application of statistical methods to problems in psychological research; topics include descriptive statistics, probability theory and distributions, point and interval estimation, and hypothesis testing. ",
+    "instructors": [
+        "Han, J",
+        "He, S",
+        "Regenwetter, M"
+    ],
+    "prereq": [
+        "PSYC 235",
+        "STAT 100",
+        "ECON 202",
+        "EPSY 480",
+        "PSYC 301",
+        "SOC 485",
+        "PSYC 100",
+        "PSYC 103"
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "title": "CEE 437",
+    "names": "Water Quality Engineering",
+    "credit": "3 hours.",
+    "intro": "Fundamental theory underlying the unit processes utilized in the treatment of water for domestic and industrial usage, and in the treatment of domestic and industrial wastewaters. ",
+    "instructors": [
+        "Marinas, B"
+    ],
+    "prereq": [
+        "CEE 330",
+        "TAM 335"
+    ]
+}

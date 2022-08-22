@@ -1,0 +1,13 @@
+{
+    "title": "SE 402",
+    "names": "Comp-Aided Product Realization",
+    "credit": "3 OR 4 hours.",
+    "intro": "Computer-aided design, analysis, and prototyping tools used in the produce development process. Principles of computer graphics and geometric modeling, including transformations, coordinate systems, parametric solid modeling, spline curves, and surface modeling. Finite element and kinematics analyses. Rapid prototyping, product dissection, CAD-CAM-CAE operability issues, and CAD collaboration tools. ",
+    "instructors": [
+        "Goldstein, M"
+    ],
+    "prereq": [
+        "SE 101",
+        "SE 311"
+    ]
+}

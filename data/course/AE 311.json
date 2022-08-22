@@ -1,0 +1,13 @@
+{
+    "title": "AE 311",
+    "names": "Incompressible Flow",
+    "credit": "3 hours.",
+    "intro": "Equations of motion for incompressible flow, both inviscid and viscous; potential flow theory, inviscid airfoil theory: two- and three-dimensional, Navier-Stokes equations, laminar boundary layer and transition to turbulence. ",
+    "instructors": [
+        "Goza, A"
+    ],
+    "prereq": [
+        "AE 202",
+        "MATH 241"
+    ]
+}

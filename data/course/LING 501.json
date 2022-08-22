@@ -1,0 +1,13 @@
+{
+    "title": "LING 501",
+    "names": "Syntax I",
+    "credit": "4 hours.",
+    "intro": "Introduction to the fundamental concepts, philosophy, and methods of syntactic theory. ",
+    "instructors": [
+        "Yoon, J",
+        "Dees, J"
+    ],
+    "prereq": [
+        "LING 400"
+    ]
+}

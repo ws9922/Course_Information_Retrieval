@@ -1,0 +1,16 @@
+{
+    "title": "AE 483",
+    "names": "Autonomous Systems Lab",
+    "credit": "2 hours.",
+    "intro": "Theory and application of experimental techniques in aerospace engineering with emphasis on autonomous systems. ",
+    "instructors": [
+        "Bretl, T"
+    ],
+    "prereq": [
+        "AE 202",
+        "AE 352",
+        "AE 353",
+        "AE 370",
+        "PHYS 212"
+    ]
+}

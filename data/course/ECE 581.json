@@ -1,0 +1,13 @@
+{
+    "title": "ECE 581",
+    "names": "Advanced Analog IC Design",
+    "credit": "4 hours.",
+    "intro": "Advanced topics in modern analog IC design. Emphasis on CMOS building blocks and circuit techniques as a result of fabrication technology advancement. Noise in linear analog circuits; linear feedback theory and stability; harmonic distortion in weakly nonlinear circuits; switched-capacitor circuit technique and realization; Nyquist-rate and oversampled data converters. Extensive computer simulations required in both homework and final project. ",
+    "instructors": [
+        "Hanumolu, P"
+    ],
+    "prereq": [
+        "ECE 310",
+        "ECE 483"
+    ]
+}

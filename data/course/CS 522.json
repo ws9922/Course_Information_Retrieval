@@ -1,0 +1,13 @@
+{
+    "title": "CS 522",
+    "names": "Programming Language Semantics",
+    "credit": "4 hours.",
+    "intro": "Theory of programming languages including functional programming, meta-circular interpreters, typed, untyped and polymorphic lambda-calculi, and denotational semantics. ",
+    "instructors": [
+        "Rosu, G"
+    ],
+    "prereq": [
+        "CS 422",
+        "CS 426"
+    ]
+}

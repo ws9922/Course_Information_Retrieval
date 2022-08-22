@@ -1,0 +1,19 @@
+{
+    "title": "NPRE 201",
+    "names": "Energy Systems",
+    "credit": "2 or 3 hours.",
+    "intro": "Patterns of energy production and utilization and technical aspects of renewable energy resources, advanced fossil fuel systems, and advanced nuclear systems. ",
+    "instructors": [
+        "Andruczyk, D",
+        "12:00PM - 12:50PM"
+    ],
+    "prereq": [
+        "MATH 220",
+        "MATH 221",
+        "PHYS 101",
+        "PHYS 211",
+        "CHEM 104",
+        "CHEM 204",
+        "ME 200"
+    ]
+}

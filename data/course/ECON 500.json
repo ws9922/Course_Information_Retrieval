@@ -1,0 +1,17 @@
+{
+    "title": "ECON 500",
+    "names": "Microeconomics",
+    "credit": "4 hours.",
+    "intro": "Emphasizes microeconomic theory; principal topics include a review of value and distribution theory, the theory of choice by households and firms, general microeconomic theory, and theoretical developments of current interest. ",
+    "instructors": [
+        "11:00AM - 12:20PM",
+        "09:30AM - 10:50AM"
+    ],
+    "prereq": [
+        "ECON 500",
+        "ECON 528",
+        "ECON 302",
+        "ECON 500",
+        "ECON 102"
+    ]
+}

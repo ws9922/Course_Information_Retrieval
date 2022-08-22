@@ -1,0 +1,10 @@
+{
+    "title": "CS 556",
+    "names": "Iterative & Multigrid Methods",
+    "credit": "4 hours.",
+    "intro": "Comprehensive treatment of algebraic and multigrid iterative methods to solve systems of equations, primarily linear equations arising from discretization of partial differential equations. ",
+    "instructors": [
+        "Olson, L"
+    ],
+    "prereq": []
+}

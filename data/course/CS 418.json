@@ -1,0 +1,18 @@
+{
+    "title": "CS 418",
+    "names": "Interactive Computer Graphics",
+    "credit": "3 or 4 hours.",
+    "intro": "Basic mathematical tools and computational techniques for modeling, rendering, and animating 3-D scenes. ",
+    "instructors": [
+        "Hart, J"
+    ],
+    "prereq": [
+        "CS 225",
+        "MATH 225",
+        "MATH 257",
+        "MATH 415",
+        "MATH 416",
+        "ASRM 406",
+        "MATH 241"
+    ]
+}

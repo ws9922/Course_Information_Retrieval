@@ -1,0 +1,12 @@
+{
+    "title": "NRES 401",
+    "names": "Watershed Hydrology",
+    "credit": "3 hours.",
+    "intro": "Precipitation, evapotranspiration, stream flow, and other aspects of the hydrologic cycle are studied in a watershed context. Measurement techniques, statistical analyses of hydrologic data, and simulation modeling are discussed. Case studies that quantify water movement in specific watersheds are used to integrate course topics. ",
+    "instructors": [
+        "Guan, K"
+    ],
+    "prereq": [
+        "CHEM 102"
+    ]
+}

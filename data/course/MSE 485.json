@@ -1,0 +1,13 @@
+{
+    "title": "MSE 485",
+    "names": "Atomic Scale Simulations",
+    "credit": "3 OR 4 hours.",
+    "intro": "Application of Monte Carlo and Molecular Dynamics techniques in primarily classical simulations to understand and predict properties of microscopic systems in materials science, physics, biology, and chemistry. Numerical algorithms, connections between simulation results and real properties of materials (structural or thermodynamic), and statistical and systematic error estimation using real simulation programs. Simulation project comprised of scientific research, algorithm development, and presentation. ",
+    "instructors": [
+        "Statt, A"
+    ],
+    "prereq": [
+        "PHYS 466",
+        "MSE 401"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "title": "PHYS 540",
+    "names": "Astrophysics",
+    "credit": "4 hours.",
+    "intro": "Fundamental aspect of astrophysics and cosmology and new developments in these fields. Basic physical concepts and principles, the key observational evidence, and illustrative calculations. Relativistic cosmological models, inflation, Big-Bang nucleosynthesis, and the cosmic microwave background; formation and evolution of galaxy clusters, galaxies, and stars; formation, structure, and evolution of white dwarfs, neutron stars, and black holes; rotation- and accretion-powered pulsars, X-ray and y-ray stars, and gravitational radiation. ",
+    "instructors": [
+        "Mouschovias, T"
+    ],
+    "prereq": [
+        "PHYS 435",
+        "PHYS 485",
+        "PHYS 486"
+    ]
+}

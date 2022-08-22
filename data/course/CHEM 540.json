@@ -1,0 +1,13 @@
+{
+    "title": "CHEM 540",
+    "names": "Quantum Mechanics",
+    "credit": "4 hours.",
+    "intro": "The sequence, CHEM 540 and CHEM 542, is designed to give seniors and graduate students a unified treatment of quantum mechanics and spectroscopy on an advanced level. CHEM 540 covers the principles of formalism of quantum mechanics, as well as the solution of the Schrodinger equation for models and simple chemical systems. ",
+    "instructors": [
+        "Carney, S",
+        "Makri, N"
+    ],
+    "prereq": [
+        "CHEM 442"
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "title": "CI 430",
+    "names": "Teaching Children Mathematics",
+    "credit": "3 hours.",
+    "intro": "Examines children's learning of mathematics and meaningful instructional methods, representations and materials. Emphasis given to number and operations (including both whole and rational numbers), number theory and statistics/probability. Includes laboratory experience with supervised problem solving. ",
+    "instructors": [
+        "Poetzel, A",
+        "Brown-Tess, K"
+    ],
+    "prereq": [
+        "CI 430",
+        "CI 431",
+        "MATH 103"
+    ]
+}

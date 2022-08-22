@@ -1,0 +1,16 @@
+{
+    "title": "KOR 305",
+    "names": "Advanced Korean I",
+    "credit": "5 hours.",
+    "intro": "Continuation of KOR 204 and first semester of third year Korean. Concentrates on enhancing the level of fluency in speaking, listening, reading and writing of Korean. Students learn more advanced-level vocabulary and expressions and read more authentic texts in Korean. ",
+    "instructors": [
+        "Ha, J",
+        "Song, J"
+    ],
+    "prereq": [
+        "KOR 305",
+        "KOR 241",
+        "KOR 204",
+        "KOR 204"
+    ]
+}

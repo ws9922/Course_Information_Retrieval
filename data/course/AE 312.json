@@ -1,0 +1,14 @@
+{
+    "title": "AE 312",
+    "names": "Compressible Flow",
+    "credit": "3 hours.",
+    "intro": "Dynamics of compressible fluid; conservation of mass, momentum, and energy; one-dimensional and quasi-one-dimensional flow; oblique shock waves & Parandtl-Meyer expansion fans; unsteady wave motion; linearized theory. Application to nozzles, diffusers, airfoils, shock tubes and other geometries. ",
+    "instructors": [
+        "Stephani, K"
+    ],
+    "prereq": [
+        "AE 202",
+        "MATH 285",
+        "ME 200"
+    ]
+}

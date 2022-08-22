@@ -1,0 +1,15 @@
+{
+    "title": "TAM 531",
+    "names": "Inviscid Flow",
+    "credit": "4 hours.",
+    "intro": "Dynamics of fluids in the limit of zero viscosity: governing equations of motion, kinematics, and vorticity transport; general theory of irrotational flow, including two-dimensional potential flow, the complex potential, and three-dimensional potential flow; applications to thin airfoil theory and free streamline theory; inviscid flows with vorticity; vortex dynamics; water wave theory; aspects of inviscid compressible flow. ",
+    "instructors": [
+        "Hilgenfeldt, S"
+    ],
+    "prereq": [
+        "MATH 285",
+        "MATH 286",
+        "MATH 441",
+        "TAM 435"
+    ]
+}

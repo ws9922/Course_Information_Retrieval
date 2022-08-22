@@ -1,0 +1,12 @@
+{
+    "title": "CEE 450",
+    "names": "Surface Hydrology",
+    "credit": "3 hours.",
+    "intro": "Descriptive and quantitative hydrology dealing with the distribution, circulation, and storage of water on the earth's surface; principles of hydrologic processes; methods of analysis and their applications to engineering and environmental problems. ",
+    "instructors": [
+        "Sivapalan, M"
+    ],
+    "prereq": [
+        "CEE 350"
+    ]
+}

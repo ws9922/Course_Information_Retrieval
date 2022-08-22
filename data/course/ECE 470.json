@@ -1,0 +1,19 @@
+{
+    "title": "ECE 470",
+    "names": "Introduction to Robotics",
+    "credit": "4 hours.",
+    "intro": "Fundamentals of robotics including rigid motions; homogeneous transformations; forward and inverse kinematics; velocity kinematics; motion planning; trajectory generation; sensing, vision; control. ",
+    "instructors": [
+        "Belabbas, M",
+        "Mathur, D",
+        "Chakraborty, N",
+        "Driggs-Campbell, K"
+    ],
+    "prereq": [
+        "ME 445",
+        "MATH 225",
+        "MATH 286",
+        "MATH 415",
+        "MATH 418"
+    ]
+}

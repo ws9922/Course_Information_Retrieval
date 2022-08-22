@@ -1,0 +1,13 @@
+{
+    "title": "ASRM 410",
+    "names": "Investments and Financial Markets",
+    "credit": "3 OR 4 hours.",
+    "intro": "Theoretical foundation in financial models and their applications to insurance and other financial risks. Topics include derivative markets, no arbitrage pricing of financial derivatives, interest rate models, dynamic hedging and other risk management techniques. ",
+    "instructors": [
+        "Hinkkanen, A"
+    ],
+    "prereq": [
+        "ASRM 402",
+        "STAT 410"
+    ]
+}

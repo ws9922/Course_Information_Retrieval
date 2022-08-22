@@ -1,0 +1,11 @@
+{
+    "title": "FR 390",
+    "names": "Indiv Study Major Tutorial",
+    "credit": "1 TO 12 hours.",
+    "intro": "Tutorial taken by students during two of their last four terms of undergraduate study. Students read the works on a departmental reading list with the guidance of a tutor. ",
+    "instructors": [],
+    "prereq": [
+        "FR 205",
+        "FR 207"
+    ]
+}

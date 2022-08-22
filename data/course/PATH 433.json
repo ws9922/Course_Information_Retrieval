@@ -1,0 +1,13 @@
+{
+    "title": "PATH 433",
+    "names": "Virology & Viral Pathogenesis",
+    "credit": "3 hours.",
+    "intro": "Emphasizes basic principles of virus structure and replication, virus-cell interactions and virus-host interactions that underlie the molecular biology, pathogenesis, and transmission of viral disease. ",
+    "instructors": [
+        "Rock, D"
+    ],
+    "prereq": [
+        "MCB 300",
+        "MCB 354"
+    ]
+}

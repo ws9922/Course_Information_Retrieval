@@ -1,0 +1,13 @@
+{
+    "title": "PSYC 506",
+    "names": "Statistical Methods I",
+    "credit": "4 hours.",
+    "intro": "Techniques in applied statistics used in psychological research, including simple linear regression, partial and multiple correlation, and nonparametric methods; thorough review of statistical estimation and significance tests; emphasizes applied statistics and statistical computing. ",
+    "instructors": [
+        "Koehn, H"
+    ],
+    "prereq": [
+        "PSYC 506",
+        "SOC 586"
+    ]
+}

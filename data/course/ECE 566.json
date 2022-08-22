@@ -1,0 +1,13 @@
+{
+    "title": "ECE 566",
+    "names": "Computational Inference and Learning",
+    "credit": "4 hours.",
+    "intro": "Computational inference and machine learning have seen a surge of interest in the last 15 years, motivated by applications as diverse as computer vision, speech recognition, analysis of networks and distributed systems, big-data analytics, large-scale computer simulations, and indexing and searching of very large databases. This course introduces the mathematical and computational methods that enable such applications. Topics include computational methods for statistical inference, sparsity analysis, approximate inference and search, and fast optimization. ",
+    "instructors": [
+        "Moulin, P"
+    ],
+    "prereq": [
+        "ECE 490",
+        "ECE 534"
+    ]
+}

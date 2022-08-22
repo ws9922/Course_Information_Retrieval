@@ -1,0 +1,12 @@
+{
+    "title": "ARCH 433",
+    "names": "Design of Steel and Reinforced Concrete Structures I",
+    "credit": "4 hours.",
+    "intro": "Loads and load combinations; design methods/structural safety; steel as a structural material; design of structural steel members subject to tension, compression, bending, and shear. Reinforced concrete as a structural material; design for bending, shear, and serviceability; introduction to design of columns. ",
+    "instructors": [
+        "Aminmansour, A"
+    ],
+    "prereq": [
+        "ARCH 232"
+    ]
+}

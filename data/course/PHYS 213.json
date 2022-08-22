@@ -1,0 +1,29 @@
+{
+    "title": "PHYS 213",
+    "names": "Univ Physics: Thermal Physics",
+    "credit": "2 hours.",
+    "intro": "First and second laws of thermodynamics including kinetic theory of gases, heat capacity, heat engines, introduction to entropy and statistical mechanics, and introduction to application of free energy and Boltzmann factor. A calculus-based approach for majors in engineering, mathematics, physics and chemistry. ",
+    "instructors": [
+        "Cordeiro, I",
+        "Makins, N",
+        "Arya, S",
+        "Balaji, P",
+        "Shelton, T",
+        "Germany, C",
+        "Ouellette, A",
+        "Kaur, S",
+        "Bradlyn, B",
+        "Mozafarishamsi, T",
+        "Bezryadin, A",
+        "Kim, J",
+        "Velury, S",
+        "Gliozzi, J",
+        "Miloro, P"
+    ],
+    "prereq": [
+        "PHYS 213",
+        "PHYS 101",
+        "PHYS 211",
+        "MATH 241"
+    ]
+}

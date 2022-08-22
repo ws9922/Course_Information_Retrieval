@@ -1,0 +1,16 @@
+{
+    "title": "VCM 635",
+    "names": "Advanced Soft Tissue Surgery",
+    "credit": "1 hours.",
+    "intro": "Seven-week course during the second half of the Fall semester focusing on the theory and practice of small animal soft tissue surgery. This course covers many of the soft tissue surgical procedures which new veterinary graduates are expected to competently perform. Procedures to be covered include bandaging and wound management, drain placement, declaw, dewclaw removal, tendonectomy, aural hematoma repair, pinna repairs, biopsies, surgery of the integument, gastrointestinal surgery, limb amputations and mastectomy. ",
+    "instructors": [
+        "Phillips, H",
+        "Moran, C"
+    ],
+    "prereq": [
+        "VM 605",
+        "VM 606",
+        "VM 607",
+        "VM 608"
+    ]
+}

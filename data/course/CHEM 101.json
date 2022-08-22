@@ -1,0 +1,19 @@
+{
+    "title": "CHEM 101",
+    "names": "Introductory Chemistry",
+    "credit": "3 hours.",
+    "intro": "Introduction to the basic concepts and language of chemistry; lectures, discussions, and lab. Preparatory chemistry course for students who require additional background before enrolling in CHEM 102. This course has been approved for graduation credit for all students in the College of LAS. Students in other colleges should check with their college office. ",
+    "instructors": [
+        "02:00PM - 03:50PM",
+        "10:00AM - 11:50AM",
+        "Leveritt, J",
+        "04:00PM - 05:50PM",
+        "12:00PM - 01:50PM",
+        "McCarren, E",
+        "06:00PM - 07:50PM",
+        "08:00AM - 09:50AM"
+    ],
+    "prereq": [
+        "MATH 112"
+    ]
+}

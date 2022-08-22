@@ -1,0 +1,23 @@
+{
+    "title": "CHEM 232",
+    "names": "Elementary Organic Chemistry I",
+    "credit": "3 or 4 hours.",
+    "intro": "Presents structural and mechanistic chemistry with emphasis on applications of this material to closely related areas. For students in agricultural, nutritional and biological sciences, as well as premedical, predental, and preveterinary programs. One-term survey course; may be followed by CHEM 332. ",
+    "instructors": [
+        "Pires, T",
+        "Meyle, E",
+        "Li, H",
+        "Pichardo Peguero, O",
+        "Axelson, J",
+        "Hwang, C",
+        "Celis Chance, N",
+        "Najam, N"
+    ],
+    "prereq": [
+        "CHEM 232",
+        "CHEM 236",
+        "CHEM 104",
+        "CHEM 105",
+        "CHEM 204"
+    ]
+}

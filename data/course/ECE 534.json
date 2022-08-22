@@ -1,0 +1,14 @@
+{
+    "title": "ECE 534",
+    "names": "Random Processes",
+    "credit": "4 hours.",
+    "intro": "Basic concepts of random processes; linear systems with random inputs; Markov processes; spectral analysis; Wiener and Kalman filtering; applications to systems engineering. ",
+    "instructors": [
+        "Katselis, D"
+    ],
+    "prereq": [
+        "ECE 313",
+        "MATH 461",
+        "STAT 400"
+    ]
+}

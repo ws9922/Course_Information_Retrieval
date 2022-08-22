@@ -1,0 +1,12 @@
+{
+    "title": "LING 506",
+    "names": "Topics in Computational Ling",
+    "credit": "4 hours.",
+    "intro": "Provides an introduction to practical problems in computational linguistics in a laboratory setting. At the beginning of the semester, a substantial project will be assigned to the class, and the class will work as a team towards implementing a solution, and evaluating the final product against a test corpus, which will also be developed during the class. Topical readings will also be assigned and will be discussed. ",
+    "instructors": [
+        "Girju, R"
+    ],
+    "prereq": [
+        "LING 406"
+    ]
+}

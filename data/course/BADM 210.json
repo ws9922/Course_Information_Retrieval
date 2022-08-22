@@ -1,0 +1,16 @@
+{
+    "title": "BADM 210",
+    "names": "Business Analytics I",
+    "credit": "3 hours.",
+    "intro": "An introduction to basic knowledge of statistics, distributions, and linear regressions in a business setting Students will be able to perform and understand the use of basic statistical methods in generating inferences and modeling including hypothesis testing and multivariate regression. The course will introduce the concepts of a data life cycle, data visualization, and data summarization. Students will learn how to identify, describe and frame business opportunities through evidence-based storytelling and hands-on learning using spreadsheets and data visualization tools. ",
+    "instructors": [
+        "Kertcher, Z",
+        "Shen, M",
+        "Khandelwal, A",
+        "Larson, E",
+        "Kogen, A"
+    ],
+    "prereq": [
+        "CS 105"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "title": "ECON 437",
+    "names": "Game Theory",
+    "credit": "3 OR 4 hours.",
+    "intro": "Explores game theory and strategic decision making. Game theory is the study of strategic interaction where one person's actions affect the actions of others. Introduces students to the tools for modeling and solving problems with strategic interaction. Will cover topics such as Nash equilibrium, dominance, voting, bargaining, auction, adverse selection, each of which have broad applications in economics, politics, psychology, and everyday life. ",
+    "instructors": [
+        "Arzumanyan, M",
+        "Vazquez, J"
+    ],
+    "prereq": [
+        "ECON 202",
+        "ECON 302",
+        "MATH 220",
+        "MATH 221",
+        "ECON 203",
+        "MATH 231"
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "title": "AE 202",
+    "names": "Aerospace Flight Mechanics",
+    "credit": "3 hours.",
+    "intro": "Fundamental principles of aerospace flight mechanics applied to spacecraft and aircraft. Orbital mechanics, rocket propulsion, and dynamics and control applied to spacecraft design. Aerodynamics, maneuvering, stability and flight performance applied to aircraft design. ",
+    "instructors": [
+        "Tran, H"
+    ],
+    "prereq": [
+        "TAM 212"
+    ]
+}

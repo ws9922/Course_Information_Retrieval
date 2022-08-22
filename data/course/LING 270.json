@@ -1,0 +1,14 @@
+{
+    "title": "LING 270",
+    "names": "Language, Technology & Society",
+    "credit": "3 hours.",
+    "intro": "What technologies have humans developed to augment the quintessential human ability: language? We start with the development of writing, the first technology that was specifically designed for language, and trace its history through the invention of printing, and into the digital age. With the advent of computers the relevance of language for technology has broadened significantly. We review technologies such as automatic speech recognition, speech synthesis and automatic translation, and discuss their implications for present and future human-machine interaction. ",
+    "instructors": [
+        "Schwartz, L",
+        "Stelzer, D",
+        "Adams, C"
+    ],
+    "prereq": [
+        "LING 100"
+    ]
+}

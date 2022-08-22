@@ -1,0 +1,19 @@
+{
+    "title": "ECON 425",
+    "names": "Macroeconomic Policy",
+    "credit": "3 OR 4 hours.",
+    "intro": "Analyzes current macroeconomic policy issues, problems, and techniques; discusses various policy techniques including monetary, fiscal, incomes, and exchange rate policies, and their effectiveness for treating inflation, unemployment, productivity, resource and exchange rate problems. May emphasize current issues in developed economies or in emerging market economies. ",
+    "instructors": [
+        "Zhao, R"
+    ],
+    "prereq": [
+        "ECON 462",
+        "ECON 425",
+        "ECON 203",
+        "ECON 302",
+        "ECON 303",
+        "MATH 220",
+        "MATH 221",
+        "MATH 231"
+    ]
+}

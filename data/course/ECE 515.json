@@ -1,0 +1,12 @@
+{
+    "title": "ECE 515",
+    "names": "Control System Theory & Design",
+    "credit": "4 hours.",
+    "intro": "Feedback control systems emphasizing state space techniques. Basic principles, modeling, analysis, stability, structural properties, optimization, and design to meet specifications. ",
+    "instructors": [
+        "Dong, R"
+    ],
+    "prereq": [
+        "ECE 486"
+    ]
+}

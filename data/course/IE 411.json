@@ -1,0 +1,13 @@
+{
+    "title": "IE 411",
+    "names": "Optimization of Large Systems",
+    "credit": "3 OR 4 hours.",
+    "intro": "Practical methods of optimization of large-scale linear systems including extreme point algorithms, duality theory, parametric linear programming, generalized upper bounding technique, price-directive and resource-directive decomposition techniques, Lagrangian duality, Karmarkar's algorithm, applications in engineering systems, and use of state-of-the-art computer codes. ",
+    "instructors": [
+        "Chen, X"
+    ],
+    "prereq": [
+        "IE 310",
+        "MATH 415"
+    ]
+}

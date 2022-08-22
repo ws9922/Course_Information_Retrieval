@@ -1,0 +1,16 @@
+{
+    "title": "ECE 365",
+    "names": "Data Science and Engineering",
+    "credit": "3 hours.",
+    "intro": "Project-based course focused on exploring and understanding how data are collected, represented and stored, and computed/analyzed upon to arrive at appropriate and meaningful interpretation. Foundations of machine learning are developed and then applied in the context of two specific application areas, such as social network analytics, biological data analysis, and auto and video analytics. ",
+    "instructors": [
+        "Hou, B",
+        "Liang, Y",
+        "Bose, S",
+        "Zhao, Z",
+        "Veeravalli, V"
+    ],
+    "prereq": [
+        "ECE 313"
+    ]
+}

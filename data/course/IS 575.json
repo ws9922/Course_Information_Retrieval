@@ -1,0 +1,13 @@
+{
+    "title": "IS 575",
+    "names": "Metadata in Theory & Practice",
+    "credit": "4 hours.",
+    "intro": "Combines theoretical examination of the design of metadata schema with their practical application in a variety of settings. Hands-on experience in the creation of descriptive, administrative, and structural metadata, along with their application in systems such as OAI harvesting, OpenURL resolution systems, metasearch systems and digital repositories, will help students develop a thorough understanding of current metadata standards as well as such issues as crosswalking, metadata schema, metadata's use in information retrieval and data management applications, and the role of standards bodies in metadata schema development. ",
+    "instructors": [
+        "Jett, J"
+    ],
+    "prereq": [
+        "IS 505",
+        "IS 501"
+    ]
+}

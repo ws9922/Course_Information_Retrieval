@@ -1,0 +1,16 @@
+{
+    "title": "ACE 445",
+    "names": "Intermediate Financial and Estate Planning",
+    "credit": "4 hours.",
+    "intro": "Covers financial and estate planning philosophies, techniques, and procedures. Students will utilize case studies and problem-solving activities to construct financial plans for individuals and families in various life cycle stages and family structures. ",
+    "instructors": [
+        "Allen, S",
+        "Lemoine, C"
+    ],
+    "prereq": [
+        "ACE 240",
+        "ECON 302",
+        "FIN 230",
+        "ACE 398"
+    ]
+}

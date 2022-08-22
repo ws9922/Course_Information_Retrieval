@@ -1,0 +1,13 @@
+{
+    "title": "ACCY 575",
+    "names": "Data Analytics Applications in Accountancy",
+    "credit": "4 hours.",
+    "intro": "Develops knowledge regarding the role, methods, and implications of business and data analytics in accounting. Building on prior coursework on the fundamentals of statistical analysis and business/data analytics, this course provides the opportunity to apply related theoretical and practical principles to a variety of accounting scenarios, including audit, tax, fraud identification and detection, financial reporting, and managerial accounting. ",
+    "instructors": [
+        "Lu, L",
+        "Penn, M"
+    ],
+    "prereq": [
+        "ACCY 570"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "title": "AE 321",
+    "names": "Mechs of Aerospace Structures",
+    "credit": "3 hours.",
+    "intro": "Fundamental concepts in the linear theory of elasticity, including stress, strain, equilibrium, compatibility, material constitution and properties. Failure mechanisms and criteria. Application to plane stress-strain problems, beams in extension and bending, and shafts in torsion. ",
+    "instructors": [
+        "Lambros, J"
+    ],
+    "prereq": [
+        "MATH 285",
+        "TAM 210",
+        "TAM 211"
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "title": "MATH 540",
+    "names": "Real Analysis",
+    "credit": "4 hours.",
+    "intro": "Lebesgue measure on the real line; integration and differentiation of real valued functions of a real variable; and additional topics at discretion of instructor. ",
+    "instructors": [
+        "Li, X"
+    ],
+    "prereq": [
+        "MATH 447"
+    ]
+}

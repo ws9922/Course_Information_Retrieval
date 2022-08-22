@@ -1,0 +1,14 @@
+{
+    "title": "NRES 421",
+    "names": "Quantitative Methods in NRES",
+    "credit": "3 hours.",
+    "intro": "Explores the fundamental principles, procedures, and practices that underlie the most common statistical and sampling methods used in natural resources and environmental sciences. This course covers hypothesis testing, regression, and analysis of variance. There is also a strong focus on sampling theory and experimental design. Computer labs utilize the open source R statistical computing environment. ",
+    "instructors": [
+        "ARRANGED"
+    ],
+    "prereq": [
+        "MATH 220",
+        "MATH 221",
+        "MATH 234"
+    ]
+}

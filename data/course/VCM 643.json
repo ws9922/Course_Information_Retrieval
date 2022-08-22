@@ -1,0 +1,14 @@
+{
+    "title": "VCM 643",
+    "names": "Equine Emergency Medicine",
+    "credit": "1 hours.",
+    "intro": "Familiarizes the veterinary student with the basic and advanced principles of emergency care for adult horses. Topics include gastrointestinal, musculoskeletal, respiratory, central nervous system, ophthalmic, and urogenital emergency problems of the horse. Particular attention will be paid to gastrointestinal disease of the horse that present as an emergency, such as colic, enteritis, and typhlocolitis. ",
+    "instructors": [
+        "McCoy, A",
+        "Austin, S",
+        "Wilkins, P"
+    ],
+    "prereq": [
+        "VM 606"
+    ]
+}

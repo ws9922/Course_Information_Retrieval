@@ -1,0 +1,10 @@
+{
+    "title": "ASRM 195",
+    "names": "Foundations of Data Management",
+    "credit": "3 hours.",
+    "intro": "An introduction to basic data management concepts and programming skills necessary for analyzing data in actuarial and financial applications. Students are expected to learn how to store, clean, explore and analyze data using a programming language and statistical software. ",
+    "instructors": [
+        "Cole, P"
+    ],
+    "prereq": []
+}

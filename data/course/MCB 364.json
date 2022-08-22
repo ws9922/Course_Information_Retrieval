@@ -1,0 +1,13 @@
+{
+    "title": "MCB 364",
+    "names": "Eukaryotic Cell Biology Laboratory",
+    "credit": "2 hours.",
+    "intro": "Laboratory course emphasizing biochemical, immunological and molecular biological techniques used to probe the molecules and processes of eukaryotic cells. Special emphasis will be given to the cell cycle, intracellular trafficking, and cellular differentiation. Students will also learn proper data handling and reporting techniques. ",
+    "instructors": [
+        "Levesque, L"
+    ],
+    "prereq": [
+        "MCB 252",
+        "MCB 253"
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "title": "ECE 574",
+    "names": "Nanophotonics",
+    "credit": "4 hours.",
+    "intro": "Nanoscale interaction between light and semiconductors, metals, or composites; plasmonics, cavity electrodynamics, polarition cavity condensation, sub-wavelength structures, metamaterials, and applications. ",
+    "instructors": [
+        "Choquette, K"
+    ],
+    "prereq": [
+        "ECE 455",
+        "ECE 572",
+        "ECE 487",
+        "PHYS 486"
+    ]
+}

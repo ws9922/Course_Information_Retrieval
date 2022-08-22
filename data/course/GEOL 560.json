@@ -1,0 +1,15 @@
+{
+    "title": "GEOL 560",
+    "names": "Aqueous Geochemistry",
+    "credit": "4 hours.",
+    "intro": "Introduction to geochemical processes occurring in natural waters, with emphasis on the thermodynamic and kinetic controls governing chemical speciation, surface complexation, redox cycling and mineral formation and stability. Applications to a variety of soil and groundwater systems will be presented. ",
+    "instructors": [
+        "Druhan, J"
+    ],
+    "prereq": [
+        "CHEM 104",
+        "CHEM 105",
+        "MATH 220",
+        "GEOL 460"
+    ]
+}

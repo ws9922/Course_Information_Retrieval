@@ -1,0 +1,12 @@
+{
+    "title": "IS 205",
+    "names": "Programming for Information Problems",
+    "credit": "3 hours.",
+    "intro": "Covers common data processing methods and computing concepts used in the information sciences. Evaluates strengths and weaknesses of the techniques in the context of our discipline. No prior programming background is assumed. Course will use the Python programming language. ",
+    "instructors": [
+        "Wickes, E"
+    ],
+    "prereq": [
+        "IS 203"
+    ]
+}

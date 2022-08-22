@@ -1,0 +1,13 @@
+{
+    "title": "FIN 418",
+    "names": "Financial Modeling",
+    "credit": "3 hours.",
+    "intro": "The objective is to learn the fundamentals and practice building financial models using Microsoft Excel. By the end of the term, each student should be able to develop an understanding of any financial relationship and build that financial relationship into a model using the built-in functions of Excel. Financial modeling, by definition, requires significant work outside of the classroom. Models are introduced, demonstrated, and reviewed in class, but each student is expected to research and collect date, and to construct the models, prior to each week's class meeting. ",
+    "instructors": [
+        "Brobst, C"
+    ],
+    "prereq": [
+        "FIN 300",
+        "FIN 321"
+    ]
+}

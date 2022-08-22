@@ -1,0 +1,13 @@
+{
+    "title": "LAT 201",
+    "names": "Intermediate Latin",
+    "credit": "4 hours.",
+    "intro": "Review of grammar; reading of easy narrative prose. ",
+    "instructors": [
+        "Traill, A",
+        "Merkley, K"
+    ],
+    "prereq": [
+        "LAT 102"
+    ]
+}

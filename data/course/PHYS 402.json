@@ -1,0 +1,18 @@
+{
+    "title": "PHYS 402",
+    "names": "Light",
+    "credit": "3 or 4 hours.",
+    "intro": "Wave kinematics; geometrical optics: basic concepts, ray-tracing and matrix formalism, Gaussian imaging by thick lenses, stops, apertures, and intensity relations; interference; interference spectroscopy and coherence; diffraction: Fresnel-Kirchhoff formulation, Fraunhofer case, Fresnel case, and holography; polarized light. ",
+    "instructors": [
+        "Hoppesch, M",
+        "Campbell, J",
+        "Cohen, O",
+        "Long, A",
+        "Nussbaum, B"
+    ],
+    "prereq": [
+        "PHYS 214",
+        "PHYS 435",
+        "ECE 329"
+    ]
+}

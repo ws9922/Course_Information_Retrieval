@@ -1,0 +1,13 @@
+{
+    "title": "ECE 411",
+    "names": "Computer Organization & Design",
+    "credit": "4 hours.",
+    "intro": "Basic computer organization and design: integer and floating-point computer arithmetic; control unit design; pipelining; system interconnect; memory organization; I/O design; reliability and performance evaluation. Laboratory for computer design implementation, simulation, and layout. ",
+    "instructors": [
+        "Kim, N"
+    ],
+    "prereq": [
+        "ECE 391",
+        "CS 241"
+    ]
+}

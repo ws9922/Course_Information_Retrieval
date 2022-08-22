@@ -1,0 +1,12 @@
+{
+    "title": "CS 511",
+    "names": "Advanced Data Management",
+    "credit": "4 hours.",
+    "intro": "Advanced concepts in data management and information system design and implementation, and recent developments in the field. 1) Relational roots, objects and extensibility, query languages, data indexing, query processing, transaction processing, benchmarks, and 2) semi-structured data and unstructured data, information extraction, information integration, web search and mining, and other emerging directions in the field. ",
+    "instructors": [
+        "Chang, K"
+    ],
+    "prereq": [
+        "CS 411"
+    ]
+}

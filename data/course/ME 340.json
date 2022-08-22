@@ -1,0 +1,26 @@
+{
+    "title": "ME 340",
+    "names": "Dynamics of Mechanical Systems",
+    "credit": "3.5 hours.",
+    "intro": "Dynamic modeling of mechanical components and systems; time-domain and frequency-domain analyses of linear time-invariant systems; multi-degree-of-freedom systems; linearization of nonlinear systems. ",
+    "instructors": [
+        "Mao, Y",
+        "Ahsan, Z",
+        "Almeida de Souza Ramos, J",
+        "Li, Y",
+        "Zhang, L",
+        "Shao, C"
+    ],
+    "prereq": [
+        "ME 340",
+        "SE 320",
+        "AE 353",
+        "MATH 285",
+        "MATH 286",
+        "MATH 441",
+        "TAM 212",
+        "MATH 257",
+        "MATH 415",
+        "ECE 205"
+    ]
+}

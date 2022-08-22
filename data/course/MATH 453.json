@@ -1,0 +1,13 @@
+{
+    "title": "MATH 453",
+    "names": "Number Theory",
+    "credit": "3 OR 4 hours.",
+    "intro": "Basic introduction to the theory of numbers. Core topics include divisibility, primes and factorization, congruences, arithmetic functions, quadratic residues and quadratic reciprocity, primitive roots and orders. Additional topics covered at the discretion of the instructor include sums of squares, Diophantine equations, continued fractions, Farey fractions, recurrences, and applications to primality testing and cryptopgraphy. ",
+    "instructors": [
+        "Zaharescu, A",
+        "Ahlgren, S"
+    ],
+    "prereq": [
+        "MATH 241"
+    ]
+}

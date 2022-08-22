@@ -1,0 +1,12 @@
+{
+    "title": "AE 402",
+    "names": "Orbital Mechanics",
+    "credit": "3 OR 4 hours.",
+    "intro": "Analysis of orbits in an inverse-square gravitational field; elementary rocket dynamics, impulsive orbit transfer and rendezvous, and Lambert's Theorem with applications; patched-conic trajectories, planetary gravity-assist maneuvers, and linearized orbit theory with application to simplified analytical models; perturbations. ",
+    "instructors": [
+        "Woollands, R"
+    ],
+    "prereq": [
+        "AE 202"
+    ]
+}

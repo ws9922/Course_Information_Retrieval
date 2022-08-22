@@ -1,0 +1,15 @@
+{
+    "title": "MCB 428",
+    "names": "Microbial Pathogens Laboratory",
+    "credit": "2 hours.",
+    "intro": "Laboratory study of methods of recognition and differentiation, diagnostic tests, and mechanisms of bacterial and viral pathogenesis. Topics include infections of the urinary tract, respiratory tract, gastrointestinal tract, and sexually transmitted diseases. ",
+    "instructors": [
+        "Ikeda, J",
+        "Alt, R",
+        "Liu, T"
+    ],
+    "prereq": [
+        "MCB 300",
+        "MCB 301"
+    ]
+}

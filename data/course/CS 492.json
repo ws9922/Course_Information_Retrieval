@@ -1,0 +1,12 @@
+{
+    "title": "CS 492",
+    "names": "Senior Project I",
+    "credit": "3 hours.",
+    "intro": "First part of a project course in computer science. Students work in teams to solve typical commercial or industrial problems. Work involves planning, design, and implementation. Extensive oral and written work is required both on-campus and possibly off-campus at sponsors' locations. CS 492 must be taken as a sequence with either CS 493 or CS 494. ",
+    "instructors": [
+        "Woodley, M"
+    ],
+    "prereq": [
+        "CS 492"
+    ]
+}

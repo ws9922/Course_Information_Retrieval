@@ -1,0 +1,14 @@
+{
+    "title": "IE 360",
+    "names": "Facilities Planning and Design",
+    "credit": "3 hours.",
+    "intro": "Facility planning, plant layout design, and materials handling analysis; determination of facilities requirements, site selection, materials flow, use of analytical and computerized techniques including simulation, and applications to areas such as manufacturing, warehousing, and office planning. ",
+    "instructors": [
+        "Park, S",
+        "Arian, E",
+        "Marla, L"
+    ],
+    "prereq": [
+        "IE 310"
+    ]
+}

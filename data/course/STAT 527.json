@@ -1,0 +1,13 @@
+{
+    "title": "STAT 527",
+    "names": "Advanced Regression Analysis",
+    "credit": "4 hours.",
+    "intro": "An advanced introduction to regression analysis with applications to analysing data from disciplines such as biostatistics and economics. The course will introduce classical as well as modern regression methods and goes into the depths of those techniques to understand the motivation, justification, implementation of those methods. An emphasis will be given to understand the statistical properties of those methods along with their practical advantages and limitations. Both theoretical and applied aspects of regression analysis will be discussed. ",
+    "instructors": [
+        "Liu, J"
+    ],
+    "prereq": [
+        "STAT 410",
+        "STAT 510"
+    ]
+}

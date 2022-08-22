@@ -1,0 +1,14 @@
+{
+    "title": "MATH 542",
+    "names": "Complex Variables I",
+    "credit": "4 hours.",
+    "intro": "Topics include the Cauchy theory, harmonic functions, entire and meromorphic functions, and the Riemann mapping theorem. ",
+    "instructors": [
+        "Laugesen, R"
+    ],
+    "prereq": [
+        "MATH 446",
+        "MATH 447",
+        "MATH 448"
+    ]
+}

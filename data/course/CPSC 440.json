@@ -1,0 +1,16 @@
+{
+    "title": "CPSC 440",
+    "names": "Applied Statistical Methods I",
+    "credit": "4 hours.",
+    "intro": "Statistical methods involving relationships between populations and samples; collection, organization, and analysis of data; and techniques in testing hypotheses with an introduction to regression, correlation, and analysis of variance limited to the completely randomized design and the randomized complete-block design. ",
+    "instructors": [
+        "Lipka, A"
+    ],
+    "prereq": [
+        "ANSC 440",
+        "FSHN 440",
+        "NRES 440",
+        "NUTR 440",
+        "MATH 112"
+    ]
+}

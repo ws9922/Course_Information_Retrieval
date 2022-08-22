@@ -1,0 +1,13 @@
+{
+    "title": "SHS 541",
+    "names": "Clinical Auditory Anat & Phys",
+    "credit": "4 hours.",
+    "intro": "The objective of the course is for students to gain an understanding of the structure and function of the peripheral and central auditory system from a clinically oriented perspective. Clinically relevant topics on the pathophysiology of the auditory system will be presented. ",
+    "instructors": [
+        "Monson, B"
+    ],
+    "prereq": [
+        "SHS 240",
+        "SHS 450"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "title": "ECE 391",
+    "names": "Computer Systems Engineering",
+    "credit": "4 hours.",
+    "intro": "Concepts and abstractions central to the development of modern computing systems, with an emphasis on the systems software that controls interaction between devices and other hardware and application programs. Input-output semantics; synchronization; interrupts; multitasking; virtualization of abstractions. Term-based projects. ",
+    "instructors": [
+        "Chen, H",
+        "Miao, Y",
+        "Hu, Y",
+        "Jeon, S",
+        "Bailey, M"
+    ],
+    "prereq": [
+        "ECE 391",
+        "CS 241",
+        "ECE 220",
+        "CS 233"
+    ]
+}

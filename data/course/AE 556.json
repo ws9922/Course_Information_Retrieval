@@ -1,0 +1,13 @@
+{
+    "title": "AE 556",
+    "names": "Robust Control",
+    "credit": "4 hours.",
+    "intro": "Signal and system spaces; stability, robustness, and the small gain theorem; factorization and parameterization of all stabilizing controllers; performance and achievable closed loop maps; model matching; design of optimal single-input single-output systems in H-infinity, H2, L1 senses; extensions to multi-output systems; structured and unstructured uncertainty; robust performance analysis and synthesis; multi-objective control. ",
+    "instructors": [
+        "Langbort, C"
+    ],
+    "prereq": [
+        "ECE 515",
+        "MATH 446"
+    ]
+}

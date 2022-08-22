@@ -1,0 +1,17 @@
+{
+    "title": "ECON 475",
+    "names": "Economic Forecasting",
+    "credit": "3 OR 4 hours.",
+    "intro": "Overview of modern, quantitative, statistical and econometric methods for forecasting and evaluating forecasts. Topics include linear regressions; modeling and forecasting trends and seasonality; characterizing and forecasting cycles; MA, AR, and ARMA models; forecasting with regressions; evaluating and combining forecasts. Advanced topics include unit roots, stochastic trends, ARIMA models, and smoothing will be covered as time permits. ",
+    "instructors": [
+        "Morais Santos, I",
+        "Xie, S"
+    ],
+    "prereq": [
+        "ECON 203",
+        "ECON 302",
+        "MATH 220",
+        "MATH 221",
+        "MATH 231"
+    ]
+}

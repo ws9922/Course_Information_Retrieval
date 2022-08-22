@@ -1,0 +1,19 @@
+{
+    "title": "CS 464",
+    "names": "Topics in Societal and Ethical Impacts of Computer Technology",
+    "credit": "3 hours.",
+    "intro": "Topics selected from key current areas of impact of computer technology on aspects of society and ethics such as: freedom versus the rule of law in cyberspace; social discourse; privacy; livelihoods and automation; fairness; security; political change; business models; technology divide. ",
+    "instructors": [
+        "Gunter, C"
+    ],
+    "prereq": [
+        "CS 225",
+        "CS 210",
+        "CS 211",
+        "ECE 316",
+        "PHIL 316",
+        "CS 361",
+        "STAT 400",
+        "STAT 200"
+    ]
+}

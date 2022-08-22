@@ -1,0 +1,24 @@
+{
+    "title": "MCB 354",
+    "names": "Biochem & Phys Basis of Life",
+    "credit": "3 hours.",
+    "intro": "Introduction to biochemistry and structural biology emphasizing the physical and chemical properties of macromolecules. ",
+    "instructors": [
+        "Stenger, A",
+        "Lindsey, G",
+        "Narayanan, K",
+        "Przybyla, J",
+        "Procko, E",
+        "Teo, C",
+        "Kalsotra, A",
+        "Modi, N"
+    ],
+    "prereq": [
+        "MCB 354",
+        "MCB 450",
+        "CHEM 232",
+        "CHEM 236",
+        "MCB 250",
+        "MCB 252"
+    ]
+}

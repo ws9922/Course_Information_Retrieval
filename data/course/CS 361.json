@@ -1,0 +1,25 @@
+{
+    "title": "CS 361",
+    "names": "Probability & Statistics for Computer Science",
+    "credit": "3 hours.",
+    "intro": "Introduction to probability theory and statistics with applications to computer science. Topics include: visualizing datasets, summarizing data, basic descriptive statistics, conditional probability, independence, Bayes theorem, random variables, joint and conditional distributions, expectation, variance and covariance, central limit theorem. Markov inequality, Chebyshev inequality, law of large numbers, Markov chains, simulation, the PageRank algorithm, populations and sampling, sample mean, standard error, maximum likelihood estimation, Bayes estimation, hypothesis testing, confidence intervals, linear regression, principal component analysis, classification, and decision trees. ",
+    "instructors": [
+        "Karan, A",
+        "Deng, N",
+        "Liu, H",
+        "Long, Z",
+        "Fewell, A",
+        "Xu, W"
+    ],
+    "prereq": [
+        "CS 361",
+        "ECE 313",
+        "MATH 220",
+        "MATH 221",
+        "MATH 225",
+        "MATH 257",
+        "MATH 415",
+        "MATH 416",
+        "ASRM 406"
+    ]
+}

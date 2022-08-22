@@ -1,0 +1,20 @@
+{
+    "title": "ME 360",
+    "names": "Signal Processing",
+    "credit": "3.5 hours.",
+    "intro": "Basic electromechanical techniques used in modern instrumentation and control systems. Use of transducers and actuators. Signal conditioning, grounding, and shielding. Analog and digital signal processing and feedback control methods with emphasis on frequency domain techniques. Frequency response of continuous and discrete systems. ",
+    "instructors": [
+        "Basiri, S",
+        "Swansen, E",
+        "Salapaka, S",
+        "Xu, Z",
+        "Mehta, P",
+        "Cui, H",
+        "Kang, H"
+    ],
+    "prereq": [
+        "ME 360",
+        "ABE 425",
+        "ME 340"
+    ]
+}

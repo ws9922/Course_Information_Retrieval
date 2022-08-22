@@ -1,0 +1,14 @@
+{
+    "title": "PHYS 225",
+    "names": "Relativity & Math Applications",
+    "credit": "2 hours.",
+    "intro": "Theory of Special Relativity, with applications to kinematics and dynamics. Key mathematical methods as they apply to aspects of electromagnetic theory and classical mechanics, including vector analysis, series expansions, matrices, Fourier analysis, partial differentiation, three-dimensional calculus, and simple differential equations. ",
+    "instructors": [
+        "O'Boyle, M",
+        "Zhang, S",
+        "Hooberman, B"
+    ],
+    "prereq": [
+        "PHYS 212"
+    ]
+}

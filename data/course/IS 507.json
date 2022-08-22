@@ -1,0 +1,12 @@
+{
+    "title": "IS 507",
+    "names": "Data, Statistical Models and Information",
+    "credit": "4 hours.",
+    "intro": "An introduction to statistical and probabilistic models as they pertain to quantifying information, assessing information quality, and principled application of information to decision making, with focus on model selection and gauging model quality. The course reviews relevant results from probability theory, parametric and non-parametric predictive models, as well as extensions of these models for unsupervised learning. Applications of statistical and probabilistic models to tasks in information management (e.g. prediction, ranking, and data reduction) are emphasized. ",
+    "instructors": [
+        "Torvik, V",
+        "Besser, S",
+        "Bosch, N"
+    ],
+    "prereq": []
+}

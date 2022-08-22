@@ -1,0 +1,13 @@
+{
+    "title": "PHYS 580",
+    "names": "Quantum Mechanics I",
+    "credit": "4 hours.",
+    "intro": "Second course in quantum mechanics. Operators, state vectors, and the formal structure of quantum theory; operator treatments of simple systems; angular momentum and vector addition coefficients; stationary state perturbation theory; introduction to scattering theory for particles without spin, partial wave analysis, and Born approximation; examples taken from atomic, nuclear, and elementary particle physics. ",
+    "instructors": [
+        "Leite Noronha, J"
+    ],
+    "prereq": [
+        "PHYS 485",
+        "PHYS 487"
+    ]
+}

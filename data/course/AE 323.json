@@ -1,0 +1,16 @@
+{
+    "title": "AE 323",
+    "names": "Applied Aerospace Structures",
+    "credit": "3 hours.",
+    "intro": "Fundamental concepts of stress, strain, equilibrium, compatibility, material constitution and properties. Analysis of beams and shafts of monocoque and semi-monocoque construction. Energy methods. ",
+    "instructors": [
+        "Chew, H"
+    ],
+    "prereq": [
+        "AE 321",
+        "MATH 241",
+        "MATH 285",
+        "TAM 210",
+        "TAM 211"
+    ]
+}

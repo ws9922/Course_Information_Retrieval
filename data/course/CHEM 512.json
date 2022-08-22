@@ -1,0 +1,13 @@
+{
+    "title": "CHEM 512",
+    "names": "Advanced Inorganic Chemistry",
+    "credit": "4 hours.",
+    "intro": "Descriptive chemistry of the main group and transition elements, reactions and reaction mechanisms of inorganic systems, and electronic structure of inorganic molecules and solids. ",
+    "instructors": [
+        "Olshansky, L",
+        "Clements, E"
+    ],
+    "prereq": [
+        "CHEM 312"
+    ]
+}

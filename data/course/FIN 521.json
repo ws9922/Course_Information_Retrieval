@@ -1,0 +1,15 @@
+{
+    "title": "FIN 521",
+    "names": "Advanced Corporate Finance",
+    "credit": "4 hours.",
+    "intro": "Addresses both the theoretical and applied aspects of firms' financing decisions; topics include capital structure and cost of capital theories; mergers, acquisitions and leveraged buyouts; options, warrants, and convertibles; venture capital and initial public offerings; and pensions. ",
+    "instructors": [
+        "Huang, J"
+    ],
+    "prereq": [
+        "FIN 520",
+        "ECON 506",
+        "BADM 572",
+        "MBA 505"
+    ]
+}

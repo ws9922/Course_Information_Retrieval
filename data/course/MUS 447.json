@@ -1,0 +1,14 @@
+{
+    "title": "MUS 447",
+    "names": "Advanced Music Ed Technology",
+    "credit": "2 OR 4 hours.",
+    "intro": "A deepening of ideas and skills presented in MUS 243. Provides advanced exploration and construction of digital learning environments, as well as exploring the computer as a musical instrument. Students will work alone and in teams to create curricular materials grounded by historical, philosophical, and research in technology and education. ",
+    "instructors": [
+        "Patterson, W",
+        "Kruse, A"
+    ],
+    "prereq": [
+        "MUS 240",
+        "MUS 243"
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "title": "EPSY 585",
+    "names": "Theories of Measurement I",
+    "credit": "4 hours.",
+    "intro": "Provides a conceptual framework of classical test theory (e.g., true scores, error of measurement, composite measures) and alternatives to the classical model (e.g., generalizability theory, latent trait theory). Students will learn the techniques and theory of classical test theory and apply the methods to educational and psychological assessments. Topics covered include reliability, validity, generalizability, dichotomous Item Response Theory (IRT), test construction and design, item bias and fairness, Differential Item Functioning (DIF), scaling, linking, and equating. ",
+    "instructors": [
+        "Zhang, J"
+    ],
+    "prereq": [
+        "EPSY 581",
+        "EPSY 582",
+        "PSYC 406",
+        "PSYC 407"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "title": "BIOE 571",
+    "names": "Biological Measurement I",
+    "credit": "4 hours.",
+    "intro": "With special focus on medical imaging, this course will introduce fundamental concepts related to the detection and analysis of biological analytes, biomedical images, and physiological parameters. Topics include signal-to-noise analysis, noise characterization, data aliasing, analog-to-digital conversion, common strategies for noise reduction, exogenous contrast agents and fundamentals of molecular imaging. The fundamental phenomena behind biological measurements such as DNA sequencing, fluorescence microscopy. MRI imaging, OCT imaging, and ultrasound imaging will be discussed along with the factors that influence noise and contrast from the standpoint of fundamental physics, instrumentation/hardware, and post-measurement data/signal processing. ",
+    "instructors": [
+        "Campos Coiado, O"
+    ],
+    "prereq": []
+}

@@ -1,0 +1,15 @@
+{
+    "title": "ARCH 536",
+    "names": "Planning and Design of Structural Systems",
+    "credit": "4 hours.",
+    "intro": "This course addresses the selection, planning, and preliminary design of structural systems for buildings. Emphasis is on understanding structural systems and their components as part of an integrated building system. Topics covered include a review of concepts from statics and strength of materials, structural requirements of strength-stiffness-stability, structural planning considerations, gravity loads and systems, lateral loads and systems, soils and foundations, and cable-net and other facade systems. ",
+    "instructors": [
+        "Zaid Kaylani, R",
+        "Krishnan, S",
+        "Liao, Y"
+    ],
+    "prereq": [
+        "ARCH 232",
+        "ARCH 433"
+    ]
+}

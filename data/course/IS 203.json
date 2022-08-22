@@ -1,0 +1,13 @@
+{
+    "title": "IS 203",
+    "names": "Analytical Foundations for Information Problems",
+    "credit": "3 hours.",
+    "intro": "A survey of mathematical topics for students in information sciences. Provides an introduction to sets, relations, graphs, grammars, probability, and propositional and predicate logic. These topics relate to applications in information modeling, representation and expression. ",
+    "instructors": [
+        "Wickett, K",
+        "Nunez-Corrales, S"
+    ],
+    "prereq": [
+        "MATH 112"
+    ]
+}

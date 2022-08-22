@@ -1,0 +1,15 @@
+{
+    "title": "ME 410",
+    "names": "Intermediate Gas Dynamics",
+    "credit": "3 OR 4 hours.",
+    "intro": "Solution of internal compressible-flow problems by one-dimensional techniques, both steady and unsteady; flows with smooth and abrupt area change, with friction, with heat addition, and with mass addition; flows with weak and strong waves, multiple confined streams, and shock waves. ",
+    "instructors": [
+        "Stephani, K"
+    ],
+    "prereq": [
+        "ME 200",
+        "ME 310",
+        "TAM 335",
+        "AE 311"
+    ]
+}

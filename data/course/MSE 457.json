@@ -1,0 +1,14 @@
+{
+    "title": "MSE 457",
+    "names": "Polymer Chemistry",
+    "credit": "3 OR 4 hours.",
+    "intro": "Methods used to make polymers including reaction mechanisms, kinetics, and analytical techniques. Emphasis on understanding how macromolecule structure, composition, and properties are controlled through a variety of synthetic approaches. ",
+    "instructors": [
+        "Evans, C",
+        "Jang, S",
+        "Gerios, V"
+    ],
+    "prereq": [
+        "CHEM 232"
+    ]
+}

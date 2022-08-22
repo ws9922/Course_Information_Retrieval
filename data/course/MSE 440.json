@@ -1,0 +1,12 @@
+{
+    "title": "MSE 440",
+    "names": "Mechanical Behavior of Metals",
+    "credit": "3 hours.",
+    "intro": "Mechanical behavior of solids: crystal plasticity, dislocations, point defects and grain boundaries, creep and fatigue behavior, and fracture. ",
+    "instructors": [
+        "Krogstad, J"
+    ],
+    "prereq": [
+        "MSE 406"
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "title": "PHYS 427",
+    "names": "Thermal & Statistical Physics",
+    "credit": "4 hours.",
+    "intro": "Equilibrium thermodynamics, statistical mechanics, and kinetic theory of gases. A unified treatment is used in that the principles of heat and thermodynamics are discussed along with statistical postulates and the microscopic approach of introductory quantum mechanics. ",
+    "instructors": [
+        "Dahmen, K",
+        "Moy, B"
+    ],
+    "prereq": [
+        "PHYS 427",
+        "ME 404",
+        "CHEM 444",
+        "MSE 500",
+        "PHYS 213",
+        "PHYS 214",
+        "PHYS 435",
+        "ECE 329"
+    ]
+}

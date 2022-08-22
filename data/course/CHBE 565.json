@@ -1,0 +1,13 @@
+{
+    "title": "CHBE 565",
+    "names": "CHBE Seminar",
+    "credit": "1 hours.",
+    "intro": "Required of all graduate students whose major is Chemical and Biomolecular Engineering. ",
+    "instructors": [
+        "Kenis, P",
+        "Su, X"
+    ],
+    "prereq": [
+        "CHBE 422"
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "title": "CS 583",
+    "names": "Approximation Algorithms",
+    "credit": "4 hours.",
+    "intro": "Approximation algorithms for NP-hard problems. Basic and advanced techniques in approximation algorithm design: combinatorial algorithms; mathematical programming methods including linear and semi-definite programming, local search methods, and others. Algorithms for graphs and networks, constraint satisfaction, packing and scheduling. ",
+    "instructors": [
+        "Chekuri, C"
+    ],
+    "prereq": [
+        "CS 573"
+    ]
+}

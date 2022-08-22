@@ -1,0 +1,27 @@
+{
+    "title": "TAM 211",
+    "names": "Statics",
+    "credit": "3 hours.",
+    "intro": "Forces, moments, and couples; resultants of force systems; equilibrium analysis and free-body diagrams; analysis of forces acting on members of trusses, frames, etc.; shear-force and bending-moment distributions; Coulomb friction; centroids, center of mass, moment of inertia, polar moment of inertia, and product of inertia; virtual work; hydrostatic pressure; applications of statics in design. ",
+    "instructors": [
+        "Admal, N",
+        "Li, C",
+        "Williams, C",
+        "Manandhar, S",
+        "Ko, J",
+        "Joshi, H",
+        "Do, H",
+        "Chang, W",
+        "Taghibakhshi, A",
+        "Kim, J",
+        "Moradzadeh, A",
+        "Qian, B"
+    ],
+    "prereq": [
+        "TAM 211",
+        "TAM 210",
+        "PHYS 211",
+        "MATH 241",
+        "MATH 257"
+    ]
+}

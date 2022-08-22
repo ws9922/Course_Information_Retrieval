@@ -1,0 +1,12 @@
+{
+    "title": "DANC 102",
+    "names": "Modern Dance II",
+    "credit": "2 hours.",
+    "intro": "Intermediate dance technique and improvisation. For non-dance majors. ",
+    "instructors": [
+        "Ayorinde, O"
+    ],
+    "prereq": [
+        "DANC 101"
+    ]
+}

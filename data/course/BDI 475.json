@@ -1,0 +1,10 @@
+{
+    "title": "BDI 475",
+    "names": "Introduction to Data Analytics Applications in Business",
+    "credit": "3 hours.",
+    "intro": "Introduces the role, methods, and implications of data analytics in business. Building on prior coursework on the fundamentals of analytics and related statistical analyses, this course provides students the opportunity to apply related theoretical and practical principles to a variety of business scenarios. After completing this course, students should (1) have a foundational understanding of the role of data analytics in business and (2) be able to apply this knowledge to real-world clients, business decisions, etc. This course will provide you the opportunity to develop and improve (1) written and oral communication skills in the form of interpersonal interaction, discussion, reports/presentations, etc., (2) knowledge of the use of spreadsheets, Python, and other analytics tools in performing common business analytics and decision-modeling, and (3) knowledge of data visualization software used for analytics-related exploration, hypothesis testing, and results-based organization and communication. Cases, class discussion, and other projects emphasize the importance of independent thinking, group processes, and communication for professional business practice. ",
+    "instructors": [
+        "Park, Y"
+    ],
+    "prereq": []
+}

@@ -1,0 +1,17 @@
+{
+    "title": "MILS 341",
+    "names": "Leadership and Management",
+    "credit": "3 hours.",
+    "intro": "MILS 341 is the third in a sequence of four college courses that comprise the Advanced Course, specifically designed for Army ROTC Advanced Course Cadets. This is an academically challenging course where you will study, practice, develop, and apply critical thinking skills pertaining to Army leadership, officer skills, Army Values and Ethics, personal development, and Army doctrine. This course includes reading assignments, homework assignments, small group assignments, briefings, case studies, practical exercises, a mid-term exam, and final exam. You will be assessed on your execution of missions during classroom PEs, Leadership Labs, and during the Field Training Exercise (FTX). You will receive systematic and specific feedback on your leader attributes, values, and core leader competencies from your cadre, PMS and other MS IV Cadets who will evaluate you using the Cadet Officer Evaluation Report (COER). You will be required to write peer evaluations and receive feedback on your abilities as a leader and how to improve those leader skills. Successful completion of this course will assist in preparing you for your BOLC B course and is a mandatory requirement for commissioning. ",
+    "instructors": [
+        "Ashworth, E",
+        "Johnson, D"
+    ],
+    "prereq": [
+        "MILS 301",
+        "MILS 312",
+        "MILS 302",
+        "MILS 314",
+        "MILS 341"
+    ]
+}

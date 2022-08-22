@@ -1,0 +1,13 @@
+{
+    "title": "ACE 531",
+    "names": "Impact Evaluation",
+    "credit": "2 hours.",
+    "intro": "The problem of identification. Methods for impact evaluation, including randomized field experiments, propensity score matching, differences in differences, instrumental variables, and regression discontinuity. Includes exercises using the econometric software program STATA. ",
+    "instructors": [
+        "10:00AM - 10:50AM"
+    ],
+    "prereq": [
+        "ACE 500",
+        "ECON 500"
+    ]
+}

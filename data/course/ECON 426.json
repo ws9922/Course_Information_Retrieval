@@ -1,0 +1,15 @@
+{
+    "title": "ECON 426",
+    "names": "Monetary Economics and Policy",
+    "credit": "3 OR 4 hours.",
+    "intro": "Study of a variety of topics on money, banking, and financial markets. In particular, provides an introduction to money and its role in the economy, the bond market and interest rates, the stock market and other financial assests, exchange rates, banks and regulation of the banking industry, the money supply process and monetary policy. ",
+    "instructors": [
+        "Zhao, R"
+    ],
+    "prereq": [
+        "ECON 202",
+        "ECON 303",
+        "MATH 231",
+        "ECON 302"
+    ]
+}

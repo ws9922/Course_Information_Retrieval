@@ -1,0 +1,14 @@
+{
+    "title": "MATH 526",
+    "names": "Algebraic Topology II",
+    "credit": "4 hours.",
+    "intro": "CW-complexes, relative homeomorphism theorem, cellular homology, cohomology, Kunneth theorem, Eilenberg-Zilber theorem, cup products, Poincare duality, examples. ",
+    "instructors": [
+        "Dunfield, N"
+    ],
+    "prereq": [
+        "MATH 525",
+        "MATH 500",
+        "MATH 501"
+    ]
+}

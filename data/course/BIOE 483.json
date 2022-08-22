@@ -1,0 +1,18 @@
+{
+    "title": "BIOE 483",
+    "names": "Biomedical Computed Imaging Systems",
+    "credit": "3 OR 4 hours.",
+    "intro": "The frontier of biomedical imaging is computed imaging where multi-dimensional images must be reconstructed from measured data that is otherwise not meaningful to human observers. In this course, computational image reconstruction techniques will be developed and employed across a broad range of radiographic, magnetic resonance, and nuclear imaging modalities. General imaging and detection principles common to all computational modalities will be covered in context of specific biomedical imaging scenarios. X-ray computed tomography will be covered in depth and in the context of the imaging science principles presented the co-requisites; this also includes practical concerns about computing resources and modern GPU-based computing. The physics of magnetic resonance imaging will be presented and related to specific mathematical issues of image reconstruction and under-sampled measurement space. Positron emission tomography (PET) will be covered and specific clinical issues discussed in terms of reconstruction algorithm and parameter choices. ",
+    "instructors": [
+        "Tibbs, J",
+        "Insana, M"
+    ],
+    "prereq": [
+        "BIOE 205",
+        "BIOE 210",
+        "ECE 380",
+        "BIOE 380",
+        "BIOE 485",
+        "BIOE 580"
+    ]
+}

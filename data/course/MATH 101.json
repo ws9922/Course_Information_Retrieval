@@ -1,0 +1,12 @@
+{
+    "title": "MATH 101",
+    "names": "Thinking Mathematically",
+    "credit": "3 hours.",
+    "intro": "Designed for students in majors that do not specifically require a mathematics course beyond the level of precalculus. Focus is on critical thinking and applications. All topics are covered from a contextual standpoint. Topics include proportional reasoning and modeling, functions, sets, consumer math, probability, and statistics. Other topics may be covered as time permits. ",
+    "instructors": [
+        "Dobbs, T",
+        "Gates, R",
+        "Lahey, L"
+    ],
+    "prereq": []
+}

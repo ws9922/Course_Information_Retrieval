@@ -1,0 +1,14 @@
+{
+    "title": "IE 522",
+    "names": "Statistical Methods in Finance",
+    "credit": "4 hours.",
+    "intro": "Methods of statistical modeling of signals and systems with an emphasis on finance applications. Review of linear algebra, probability theory, and spectral analysis; Linear Time Invariant (LTI) and ARX models; least-squares, maximum-likelihood, non-parametric, and frequency-domain methods; convergence, consistency and identifiability of linear models; asymptotic distribution of parameter estimates; techniques of model validation; Principle Component Analysis (PCA) for dimension reduction; ARCH and GARCH processes and their related models; implementation, application, and case-studies of recursive identification; Monte Carlo simulation. ",
+    "instructors": [
+        "Feng, L"
+    ],
+    "prereq": [
+        "IE 522",
+        "GE 524",
+        "MATH 415"
+    ]
+}

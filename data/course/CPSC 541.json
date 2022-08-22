@@ -1,0 +1,12 @@
+{
+    "title": "CPSC 541",
+    "names": "Regression Analysis",
+    "credit": "5 hours.",
+    "intro": "The application of regression methods to problems in the agricultural, biological, and life sciences. Topics include simple linear, multiple linear, nonlinear, and logistic regression analysis and correlation analysis. Emphasis is placed on predictor variable selection, diagnostics, model selection and validation, and remedial measures, including ridge regression, weighted least squares regression, and the use of autoregressive models. Both quantitative and qualitative predictor variables are examined. SAS and R will be used. ",
+    "instructors": [
+        "Dokoohaki, H"
+    ],
+    "prereq": [
+        "CPSC 440"
+    ]
+}

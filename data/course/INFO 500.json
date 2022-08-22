@@ -1,0 +1,10 @@
+{
+    "title": "INFO 500",
+    "names": "Orientation Seminar",
+    "credit": "1 hours.",
+    "intro": "A broad introduction to faculty research in each Informatics Area. Consists of weekly presentations by Informatics faculty highlighting their recent research, practice, and related concepts. ",
+    "instructors": [
+        "Turk, M"
+    ],
+    "prereq": []
+}

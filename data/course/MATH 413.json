@@ -1,0 +1,13 @@
+{
+    "title": "MATH 413",
+    "names": "Intro to Combinatorics",
+    "credit": "3 OR 4 hours.",
+    "intro": "Permutations and combinations, generating functions, recurrence relations, inclusion and exclusion, Polya's theory of counting, and block designs. ",
+    "instructors": [
+        "Ford, K"
+    ],
+    "prereq": [
+        "MATH 347",
+        "MATH 348"
+    ]
+}

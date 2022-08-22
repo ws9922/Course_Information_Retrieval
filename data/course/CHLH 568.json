@@ -1,0 +1,10 @@
+{
+    "title": "CHLH 568",
+    "names": "Computer Packages in Health Research",
+    "credit": "2 hours.",
+    "intro": "This introductory level class is designed to introduce students to SAS and STATA programming for the analysis of public health, clinical and biomedical data. Students will learn to perform basic data management and analysis tasks in SAS and STATA, the leading software packages in public health research. Students will use both programs to write programs for processing data and performing statistical analyses. The course is recommended for graduate students interested in pursuing careers in epidemiology, community health, and other fields that involve health data analysis. ",
+    "instructors": [
+        "Guigma, T"
+    ],
+    "prereq": []
+}

@@ -1,0 +1,14 @@
+{
+    "title": "ECE 420",
+    "names": "Embedded DSP Laboratory",
+    "credit": "2 hours.",
+    "intro": "Development of real-time digital signal processing (DSP) systems using a DSP microprocessor; several structured laboratory exercises, such as sampling and digital filtering; followed by an extensive DSP project of the student's choice. ",
+    "instructors": [
+        "Pehlivan, I",
+        "Moon, T",
+        "Gotsis, D"
+    ],
+    "prereq": [
+        "ECE 310"
+    ]
+}

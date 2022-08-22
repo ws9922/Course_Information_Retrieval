@@ -1,0 +1,17 @@
+{
+    "title": "FIN 221",
+    "names": "Corporate Finance",
+    "credit": "3 hours.",
+    "intro": "Introductory study of corporate financial management, in particular how the financial manager's choices add value to shareholder wealth through investment financing and operating decisions. ",
+    "instructors": [
+        "Dyer, M",
+        "Lee, J",
+        "Mohr, J",
+        "Sun, F",
+        "Raskie, S"
+    ],
+    "prereq": [
+        "ECON 102",
+        "ECON 103"
+    ]
+}

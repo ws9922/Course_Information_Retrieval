@@ -1,0 +1,13 @@
+{
+    "title": "VM 654",
+    "names": "Large Animal Medicine and Surgery II",
+    "credit": "3.5 hours.",
+    "intro": "Teaches the practice of Large Animal Medicine and Surgery in dermatology, endocrinology, gastroenterology, urology, and infectious diseases. Surgery laboratories occur throughout this course and the companion course VM 653. ",
+    "instructors": [
+        "02:00PM - 02:50PM"
+    ],
+    "prereq": [
+        "VM 651",
+        "VM 652"
+    ]
+}

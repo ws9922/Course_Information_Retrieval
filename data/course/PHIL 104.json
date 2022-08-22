@@ -1,0 +1,16 @@
+{
+    "title": "PHIL 104",
+    "names": "Intro to Ethics-ACP",
+    "credit": "3 hours.",
+    "intro": "Some basic questions of ethics, discussed in the light of influential ethical theories and with reference to specific moral problems, such as: What makes an action morally right? Are moral standards absolute or relative? What is relation between personal morality and social morality, and between social morality and law? Course is identical to PHIL 105 except for the additional writing component. ",
+    "instructors": [
+        "Carlson, A",
+        "Roman, J",
+        "Bojanowski, J"
+    ],
+    "prereq": [
+        "PHIL 104",
+        "PHIL 105",
+        "PHIL 106"
+    ]
+}

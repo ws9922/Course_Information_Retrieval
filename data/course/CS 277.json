@@ -1,0 +1,19 @@
+{
+    "title": "CS 277",
+    "names": "Algorithms and Data Structures for Data Science",
+    "credit": "4 hours.",
+    "intro": "Introduction to elementary concepts in algorithms and classical data structures with a focus on their applications in Data Science. Topics include algorithm analysis (ex: Big-O notation), elementary data structures (ex: lists, stacks, queues, trees, and graphs), basics of discrete algorithm design principles (ex: greedy, divide and conquer, dynamic programming), and discussion of discrete and continuous optimization. ",
+    "instructors": [
+        "Solomon, B"
+    ],
+    "prereq": [
+        "CS 277",
+        "CS 225",
+        "STAT 207",
+        "MATH 220",
+        "MATH 221",
+        "MATH 234",
+        "CS 277",
+        "CS 225"
+    ]
+}

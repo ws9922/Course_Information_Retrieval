@@ -1,0 +1,12 @@
+{
+    "title": "CEE 581",
+    "names": "Dams, Embankments, and Slopes",
+    "credit": "4 hours.",
+    "intro": "Fundamentals of static and seismic slope stability and shear strength; seepage in composite sections and anisotropic materials; methods of stability analyses; mechanism of failure of natural and man-made slopes; compaction; field observations. ",
+    "instructors": [
+        "Stark, T"
+    ],
+    "prereq": [
+        "CEE 483"
+    ]
+}

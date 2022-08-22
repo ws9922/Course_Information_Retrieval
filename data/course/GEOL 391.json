@@ -1,0 +1,12 @@
+{
+    "title": "GEOL 391",
+    "names": "Individual Honors Study",
+    "credit": "1 TO 4 hours.",
+    "intro": "Research and individual study in geology for honors credit. ",
+    "instructors": [],
+    "prereq": [
+        "GEOL 390",
+        "GEOL 391",
+        "GEOL 208"
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "title": "NRES 420",
+    "names": "Restoration Ecology",
+    "credit": "4 hours.",
+    "intro": "Historical development of ecological restoration, its philosophical foundation, multi-disciplinary borrowings from the natural, applied, and social sciences, and varied practical applications, with emphasis on the application of ecological principles. Case studies, field trips, and laboratory activities on restoration planning. Field trip required. ",
+    "instructors": [
+        "Gracon, R"
+    ],
+    "prereq": [
+        "NRES 219",
+        "LA 450"
+    ]
+}

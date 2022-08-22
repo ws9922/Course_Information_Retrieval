@@ -1,0 +1,12 @@
+{
+    "title": "GEOG 380",
+    "names": "GIS II: Spatial Prob Solving",
+    "credit": "4 hours.",
+    "intro": "Study of the analytical capabilities of geographic information systems with an emphasis on learning to solve spatial problems in both the vector and raster data formats. Students will develop the skills necessary to answer questions or solve problems in their areas of interest, with particular emphasis on problems and questions that require multiple steps to resolve. Students will learn the fundamental theory behind spatial problem solving, but also learn to execute these procedures with industry-standard software packages. Thus, this class contains both lecture/discussion elements and hands-on laboratory work. ",
+    "instructors": [
+        "Han, S"
+    ],
+    "prereq": [
+        "GEOG 379"
+    ]
+}

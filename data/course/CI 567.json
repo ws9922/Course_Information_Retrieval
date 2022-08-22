@@ -1,0 +1,15 @@
+{
+    "title": "CI 567",
+    "names": "Children's Literature in the School Curriculum",
+    "credit": "4 hours.",
+    "intro": "Investigates trends and issues related to teaching literature in the school; focuses attention upon the organization and planning of a balanced literature curriculum (fictional and informational). ",
+    "instructors": [
+        "Zhang, J",
+        "MacGregor, N",
+        "Putri, N"
+    ],
+    "prereq": [
+        "CI 467",
+        "LIS 404"
+    ]
+}

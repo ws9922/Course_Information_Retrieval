@@ -1,0 +1,16 @@
+{
+    "title": "ECE 343",
+    "names": "Electronic Circuits Laboratory",
+    "credit": "1 hours.",
+    "intro": "Companion laboratory for ECE 342. ",
+    "instructors": [
+        "Radhakrishnan, C",
+        "Kanungo, R",
+        "Yuan, Y"
+    ],
+    "prereq": [
+        "ECE 343",
+        "PHYS 404",
+        "ECE 342"
+    ]
+}

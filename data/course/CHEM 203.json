@@ -1,0 +1,21 @@
+{
+    "title": "CHEM 203",
+    "names": "Accelerated Chemistry Lab I",
+    "credit": "2 hours.",
+    "intro": "Companion laboratory course to CHEM 202. Comprehensive skills-oriented approach to learning laboratory technique and safety. ",
+    "instructors": [
+        "Andino Martinez, J",
+        "Chong, K",
+        "Rand, W",
+        "Okeke, K",
+        "Xiao, Y",
+        "Kerr, S",
+        "Kruszynski, E",
+        "Kettelson, C",
+        "Mubayi, V"
+    ],
+    "prereq": [
+        "CHEM 103",
+        "CHEM 202"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "title": "PHYS 211",
+    "names": "University Physics: Mechanics",
+    "credit": "4 hours.",
+    "intro": "Newton's Laws, work and energy, static properties and fluids, oscillations, transverse waves, systems of particles, and rotations. A calculus-based approach for majors in engineering, mathematics, physics and chemistry. ",
+    "instructors": [
+        "Bowers, J",
+        "Cote, A",
+        "Stone, M",
+        "El-Khadra, A",
+        "Khera, N",
+        "Nguyen, V",
+        "Yao, N",
+        "Merriman, B",
+        "Sickles, A",
+        "Ding, Y",
+        "Kodumagulla, A",
+        "Zhang, C",
+        "Ramsey, L",
+        "Wang, Z",
+        "Loehr, K",
+        "Patwardhan, A",
+        "Wolanski, E",
+        "Razavimaleki, V",
+        "Osborne, I",
+        "Li, Y",
+        "Cruz Camacho, N",
+        "Bhikha, A",
+        "Richards, C",
+        "Karydas, M",
+        "Wilson, T",
+        "Kunapuli, N",
+        "Goldschmidt, E",
+        "Johnson, T"
+    ],
+    "prereq": [
+        "PHYS 211",
+        "PHYS 101",
+        "MATH 231"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "title": "MATH 417",
+    "names": "Intro to Abstract Algebra",
+    "credit": "3 OR 4 hours.",
+    "intro": "Fundamental theorem of arithmetic, congruences. Permutations. Groups and subgroups, homomorphisms. Group actions with applications. Polynomials. Rings, subrings, and ideals. Integral domains and fields. Roots of polynomials. Maximal ideals, construction of fields. ",
+    "instructors": [
+        "Rezk, C",
+        "Pascaleff, J",
+        "Reznick, B"
+    ],
+    "prereq": [
+        "MATH 416",
+        "ASRM 406",
+        "MATH 415",
+        "MATH 347",
+        "MATH 348",
+        "CS 374"
+    ]
+}

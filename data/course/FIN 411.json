@@ -1,0 +1,14 @@
+{
+    "title": "FIN 411",
+    "names": "Investment & Portfolio Mngt",
+    "credit": "3 hours.",
+    "intro": "Current theories of portfolio management are covered in considerable detail to provide a conceptual framework for the evaluation of investment strategies. Applications and implementation are covered in depth, including performance evaluation and international diversification. ",
+    "instructors": [
+        "Choi, J",
+        "Kiku, D",
+        "Spencer, X"
+    ],
+    "prereq": [
+        "FIN 300"
+    ]
+}

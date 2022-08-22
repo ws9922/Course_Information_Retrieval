@@ -1,0 +1,13 @@
+{
+    "title": "ECE 446",
+    "names": "Principles of Experimental Research in Electrical Engineering",
+    "credit": "4 hours.",
+    "intro": "Interdisciplinary approach to learning principles of experimental research. Focuses on: 1) experimental design 2) prevalent experimental techniques 3) data organization, analysis, and presentation and 4) scientific computing. Presentation methods explored include poster session, conference talk, and journal paper. Open-ended labs and a project reinforce concepts discussed in class. ",
+    "instructors": [
+        "Goddard, L",
+        "Wu, Y"
+    ],
+    "prereq": [
+        "ECE 313"
+    ]
+}

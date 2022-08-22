@@ -1,0 +1,12 @@
+{
+    "title": "SE 412",
+    "names": "Nondestructive Evaluation",
+    "credit": "3 OR 4 hours.",
+    "intro": "Nondestructive Evaluation (NDE) principles and the role of NDE in design, manufacturing, and maintenance. Primary Nondestructive Testing and Evaluation (NDT&E) techniques, introduced from the fundamental laws of physics, including visual, ultrasonic, acoustic emission, acousto-ultrasonic, radiology, electro-magnetic, eddy-current, penetrant, thermal, and holographic. Industrial applications of probability of flaw detection, material properties characterization, impact and fatigue damage evaluation, adhesion, etc. Current literature. ",
+    "instructors": [
+        "Reis, H"
+    ],
+    "prereq": [
+        "CEE 300"
+    ]
+}

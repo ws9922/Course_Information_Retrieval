@@ -1,0 +1,13 @@
+{
+    "title": "FIN 528",
+    "names": "Cases in Financial Derivatives",
+    "credit": "4 hours.",
+    "intro": "This advanced elective course on financial derivatives explores the economic, legal, and regulatory concepts underlying these markets. It uses case studies to examine market weaknesses, design flaws, and regulatory breakdowns, many of which have resulted in major disasters. ",
+    "instructors": [
+        "Peterson, P"
+    ],
+    "prereq": [
+        "FIN 528",
+        "FIN 580"
+    ]
+}

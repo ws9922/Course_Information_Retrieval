@@ -1,0 +1,13 @@
+{
+    "title": "STAT 571",
+    "names": "Multivariate Analysis",
+    "credit": "4 hours.",
+    "intro": "Inference in multivariate statistical populations emphasizing the multivariate normal distribution; derivation of tests, estimates, and sampling distributions; and examples from the natural and social sciences. ",
+    "instructors": [
+        "Park, T"
+    ],
+    "prereq": [
+        "STAT 410",
+        "MATH 415"
+    ]
+}

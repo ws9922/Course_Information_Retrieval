@@ -1,0 +1,12 @@
+{
+    "title": "CEE 443",
+    "names": "Env Eng Principles, Chemical",
+    "credit": "4 hours.",
+    "intro": "Application of principles of chemical equilibrium and chemical kinetics to air and water quality. Thermodynamics, kinetics, acid-base chemistry, complexation, precipitation, dissolution, and oxidation-reduction. Applications. ",
+    "instructors": [
+        "Cusick, R"
+    ],
+    "prereq": [
+        "CEE 437"
+    ]
+}

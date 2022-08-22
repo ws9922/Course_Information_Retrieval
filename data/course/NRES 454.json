@@ -1,0 +1,13 @@
+{
+    "title": "NRES 454",
+    "names": "GIS in Natural Resource Mgmt",
+    "credit": "4 hours.",
+    "intro": "Geographic Information Systems (GIS) and remote sensing for natural resource management. Personal computers and GIS software are used to demonstrate the utility of these techniques for data acquisition, image processing, and map modeling. Exercises include problems relevant to the management of natural resources such as land cover mapping, monitoring, suitability and productivity assessment, landscape pattern analysis, land use change analysis, spatial modeling, and decision making. ",
+    "instructors": [
+        "Chase, M",
+        "Stickley, S",
+        "Fraterrigo, J",
+        "Vozzo, J"
+    ],
+    "prereq": []
+}

@@ -1,0 +1,14 @@
+{
+    "title": "VCM 656",
+    "names": "Lab Animal Science II",
+    "credit": "1 hours.",
+    "intro": "Continuation of VCM 646. Additional topics in laboratory animal science including the biology, husbandry, and medicine of commonly studied laboratory animal species, researcher presentations on their animal studies, and student-led animal model presentations ",
+    "instructors": [
+        "Hayes, C",
+        "Xu, J",
+        "Herndon, N"
+    ],
+    "prereq": [
+        "VCM 646"
+    ]
+}

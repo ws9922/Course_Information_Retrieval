@@ -1,0 +1,19 @@
+{
+    "title": "ME 370",
+    "names": "Mechanical Design I",
+    "credit": "3 hours.",
+    "intro": "Kinematics and dynamics of machinery, including introduction to user-centered design and design thinking, analytical and computer-aided design of kinematics, dynamic force analysis, principle of virtual work, cam and gear design, and balancing. Project-based learning of multi-mechanism system design, analysis, fabrication, and evaluation. ",
+    "instructors": [
+        "Flachsbart, B",
+        "Parasramka, V",
+        "Marin, N",
+        "Hsiao-Wecksler, E",
+        "Singh, S",
+        "Thompson, N"
+    ],
+    "prereq": [
+        "ME 270",
+        "TAM 212",
+        "TAM 251"
+    ]
+}

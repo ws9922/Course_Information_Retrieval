@@ -1,0 +1,19 @@
+{
+    "title": "ECE 385",
+    "names": "Digital Systems Laboratory",
+    "credit": "3 hours.",
+    "intro": "Design, build, and test digital systems using transistor-transistor logic (TTL), SystemVerilog, and field-programmable gate arrays (FPGAs). Topics include combinational and sequential logic, storage elements, input/output and display, timing analysis, design tradeoffs, synchronous and asynchronous design methods, datapath and controller, microprocessor design, software/hardware co-design, and system-on-a-chip. ",
+    "instructors": [
+        "Pan, W",
+        "Lu, Y",
+        "Gacek, A",
+        "Chen, M",
+        "Cheng, Z",
+        "Yao, R",
+        "Yu, C"
+    ],
+    "prereq": [
+        "ECE 110",
+        "ECE 220"
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "title": "FSHN 422",
+    "names": "Introduction to Personalized Nutrition",
+    "credit": "3 hours.",
+    "intro": "Explores the role of genetics and epigenetics in nutrition as a basis for differential responses of individuals to diet. Students will learn about how epigenetics and genetic variation affects individualistic responses to food and nutrients, and they will also learn about how food affects gene expression. Topics include genetics, epigenetics, and nutrigenetics; variation in taste, food selection, and eating behaviors; personalized nutrition; food intolerance and metabolic disorders; genetic variation in gut microbiota. This course is appropriate for students who wish to learn how to develop of better food products, optimize nutritional counseling, improve individualize diets, and better understand how to apply nutritional advice for the public generally. ",
+    "instructors": [
+        "Pan, Y",
+        "Kadayifci, F"
+    ],
+    "prereq": [
+        "FSHN 120",
+        "FSHN 220",
+        "CHEM 101"
+    ]
+}

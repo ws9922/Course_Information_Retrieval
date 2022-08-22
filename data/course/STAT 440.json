@@ -1,0 +1,13 @@
+{
+    "title": "STAT 440",
+    "names": "Statistical Data Management",
+    "credit": "3 OR 4 hours.",
+    "intro": "The critical elements of data storage, data cleaning, and data extractions that ultimately lead to data analysis are presented. Includes basic theory and methods of databases, auditing and querying databases, as well as data management and data preparation using standard large-scale statistical software. Students will gain competency in the skills required in storing, cleaning, and managing data, all of which are required prior to data analysis. ",
+    "instructors": [
+        "Kinson, C"
+    ],
+    "prereq": [
+        "STAT 400",
+        "STAT 409"
+    ]
+}

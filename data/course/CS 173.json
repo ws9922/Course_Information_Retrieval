@@ -1,0 +1,19 @@
+{
+    "title": "CS 173",
+    "names": "Discrete Structures",
+    "credit": "3 hours.",
+    "intro": "Discrete mathematical structures frequently encountered in the study of Computer Science. Sets, propositions, Boolean algebra, induction, recursion, relations, functions, and graphs. ",
+    "instructors": [
+        "Zhou, Q",
+        "Cosman, B"
+    ],
+    "prereq": [
+        "CS 173",
+        "MATH 213",
+        "CS 124",
+        "CS 125",
+        "ECE 220",
+        "MATH 220",
+        "MATH 221"
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "title": "NPRE 457",
+    "names": "Safety Anlys Nucl Reactor Syst",
+    "credit": "3 OR 4 hours.",
+    "intro": "Basic safety philosophy in nuclear reactor systems; brief review of nuclear reactor systems; regulatory processes; siting considerations; safety problems related to reactor dynamics; evaluation of postulated accidents; risks associated with nuclear fuel cycle; methods of systems safety analysis. ",
+    "instructors": [
+        "Ragheb, M"
+    ],
+    "prereq": [
+        "NPRE 402",
+        "NPRE 247"
+    ]
+}

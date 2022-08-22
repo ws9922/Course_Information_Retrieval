@@ -1,0 +1,12 @@
+{
+    "title": "ECE 496",
+    "names": "Senior Research Project",
+    "credit": "2 hours.",
+    "intro": "Individual research project under the guidance of a faculty member: for example, mathematical analysis, laboratory experiments, computer simulations, software development, circuit design, or device fabrication. Preparation of a written research proposal, including preliminary results. ",
+    "instructors": [],
+    "prereq": [
+        "ECE 496",
+        "ECE 499",
+        "RHET 105"
+    ]
+}

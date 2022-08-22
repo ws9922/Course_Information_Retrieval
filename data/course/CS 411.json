@@ -1,0 +1,13 @@
+{
+    "title": "CS 411",
+    "names": "Database Systems",
+    "credit": "3 OR 4 hours.",
+    "intro": "Examination of the logical organization of databases: the entity-relationship model; the hierarchical, network, and relational data models and their languages. Functional dependencies and normal forms. Design, implementation, and optimization of query languages; security and integrity; concurrency control, and distributed database systems. ",
+    "instructors": [
+        "Alawini, A",
+        "Park, Y"
+    ],
+    "prereq": [
+        "CS 225"
+    ]
+}

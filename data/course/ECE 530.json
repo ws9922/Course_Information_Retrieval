@@ -1,0 +1,13 @@
+{
+    "title": "ECE 530",
+    "names": "Large-Scale System Analysis",
+    "credit": "4 hours.",
+    "intro": "Fundamental techniques for the analysis of large-scale electrical systems, including methods for nonlinear and switched systems. Emphasis on the importance of the structural characteristics of such systems. Key aspects of static and dynamic analysis methods. ",
+    "instructors": [
+        "Bose, S"
+    ],
+    "prereq": [
+        "ECE 464",
+        "ECE 476"
+    ]
+}

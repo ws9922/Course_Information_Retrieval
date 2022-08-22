@@ -1,0 +1,13 @@
+{
+    "title": "BUS 115",
+    "names": "Freshman Gies Scholar Seminar",
+    "credit": "2 hours.",
+    "intro": "Introduction to business and an overview of the role of the Gies College of Business and the University of Illinois in providing opportunities for undergraduates to prepare to become business leaders. Introduction to the Gies Scholar Program, a leadership program for approximately 40 incoming freshmen in Gies College of Business. Students will begin to work as a team to use leadership in service to all undergraduates in Gies College of Business. ",
+    "instructors": [
+        "Ohms, C"
+    ],
+    "prereq": [
+        "BUS 120",
+        "BUS 115"
+    ]
+}

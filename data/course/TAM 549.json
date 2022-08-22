@@ -1,0 +1,14 @@
+{
+    "title": "TAM 549",
+    "names": "Asymptotic Methods",
+    "credit": "4 hours.",
+    "intro": "Advanced methods of perturbation theory and asymptotic analysis, with examples drawn from classical dynamics, fluid mechanics, and wave propagation: asymptotics of integrals, singular perturbation theory (boundary layers, matched asymptotic expansions, and composite expansions), multiple scales, summation of series; special topics. ",
+    "instructors": [
+        "Matalon, M",
+        "Krishnan, G"
+    ],
+    "prereq": [
+        "MATH 446",
+        "TAM 541"
+    ]
+}

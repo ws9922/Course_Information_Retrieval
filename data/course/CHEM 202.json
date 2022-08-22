@@ -1,0 +1,23 @@
+{
+    "title": "CHEM 202",
+    "names": "Accelerated Chemistry I",
+    "credit": "3 hours.",
+    "intro": "Lectures and discussions. Beginning chemistry course for students in the chemical sciences and others with strong high school chemistry and mathematics preparation. Chemical calculations, structure, bonding and equilibrium. ",
+    "instructors": [
+        "Lopez, I",
+        "Alghoraibi, N",
+        "Wang, A",
+        "Sanders, K",
+        "Park, R",
+        "Decoste, D",
+        "McCarren, E",
+        "Kahng, J"
+    ],
+    "prereq": [
+        "CHEM 202",
+        "CHEM 102",
+        "MATH 220",
+        "MATH 221",
+        "CHEM 203"
+    ]
+}

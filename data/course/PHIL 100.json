@@ -1,0 +1,16 @@
+{
+    "title": "PHIL 100",
+    "names": "Intro to Philosophy-ACP",
+    "credit": "3 hours.",
+    "intro": "Consideration of some main problems of philosophy concerning, for example, knowledge, God, mind and body, and human freedom. Course is identical to PHIL 101 except for the additional writing component. ",
+    "instructors": [
+        "Weinberg, S",
+        "Jensen, E",
+        "Smith, A",
+        "Rowe, J"
+    ],
+    "prereq": [
+        "PHIL 100",
+        "PHIL 101"
+    ]
+}

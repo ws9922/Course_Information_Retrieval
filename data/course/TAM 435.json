@@ -1,0 +1,15 @@
+{
+    "title": "TAM 435",
+    "names": "Intermediate Fluid Mechanics",
+    "credit": "4 hours.",
+    "intro": "Analytical solution methods for problems involving ideal and real fluids: potential flow theory, boundary-layer theory; surface waves, vortex dynamics, and compressible flows. ",
+    "instructors": [
+        "Feng, J",
+        "Yang, Z"
+    ],
+    "prereq": [
+        "AE 312",
+        "ME 310",
+        "TAM 335"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "title": "GEOG 407",
+    "names": "Foundations of CyberGIS & Geospatial Data Science",
+    "credit": "4 hours.",
+    "intro": "Intended to introduce students to CyberGIS – Geospatial Information Science and Systems (GIS) based on advanced cyberinfrastructure as well as the state of the art in high-performance computing, big data, and cloud computing in the context of geospatial data science. Students will use CyberGISX, which is an innovative cyberGIS framework for conducting data-intensive, reproducible, and scalable geospatial analytics with Jupyter Notebook as its primary user environment. Students are expected to learn how to develop Jupyter notebooks to analyze and visualize geospatial data using leading-edge cyberGIS software and python libraries. Emphasis is placed on learning the cutting-edge advances of cyberGIS and its underlying geospatial data science principles. ",
+    "instructors": [
+        "Padmanabhan, A"
+    ],
+    "prereq": []
+}

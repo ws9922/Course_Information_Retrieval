@@ -1,0 +1,16 @@
+{
+    "title": "TAM 251",
+    "names": "Introductory Solid Mechanics",
+    "credit": "3 hours.",
+    "intro": "Relationship between internal stresses and deformations produced by external forces acting on deformable bodies, and design principles based on mechanics of solids: normal stresses, shear stresses, and deformations produced by tensile, compressive, torsional, and bending loading of members; beam deflections; elastic energy and impact; multi-dimensional stress states; buckling of columns. ",
+    "instructors": [
+        "Wang, Y",
+        "Karimi, P",
+        "Chang, W",
+        "Darwish, O"
+    ],
+    "prereq": [
+        "TAM 210",
+        "TAM 211"
+    ]
+}

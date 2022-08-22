@@ -1,0 +1,12 @@
+{
+    "title": "ECE 350",
+    "names": "Fields and Waves II",
+    "credit": "3 hours.",
+    "intro": "Continuation of ECE 329: radiation theory; antennas, radiation fields, radiation resistance and gain; transmitting arrays; plane-wave approximation of radiation fields; plane-wave propagation, reflection, and transmission; Doppler effect, evanescent waves and tunneling, dispersion, phase and group velocities; waveguides and resonant cavities; antenna reception and link budgets. ",
+    "instructors": [
+        "Kudeki, E"
+    ],
+    "prereq": [
+        "ECE 329"
+    ]
+}

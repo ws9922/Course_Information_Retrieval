@@ -1,0 +1,19 @@
+{
+    "title": "ECON 303",
+    "names": "Inter Macroeconomic Theory",
+    "credit": "3 hours.",
+    "intro": "The modern theory of the determination of the level and rate of growth of income, employment, output, and the price level; discusses alternate fiscal and monetary policies to facilitate full employment and economic growth. ",
+    "instructors": [
+        "Da Cunha Rodrigues, F",
+        "Zhao, R",
+        "Okada Da Silva, V",
+        "Bao, Y"
+    ],
+    "prereq": [
+        "ECON 102",
+        "ECON 103",
+        "MATH 220",
+        "MATH 221",
+        "MATH 234"
+    ]
+}

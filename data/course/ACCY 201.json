@@ -1,0 +1,29 @@
+{
+    "title": "ACCY 201",
+    "names": "Accounting and Accountancy I",
+    "credit": "3 hours.",
+    "intro": "Develops a foundation for understanding and analyzing how accounting information is generated and interpreted by both external and internal decision makers. Students will begin by identifying the information conveyed in each of the basic financial statements and understand the way that this information is used by different external decision makers. Students will then focus on information used by management, with an emphasis on analysis to facilitate and guide management decision making, planning and control. ",
+    "instructors": [
+        "Fisher, M",
+        "Thakkar, R",
+        "Maguire, N",
+        "Ibrahim, M",
+        "Ensenberger, E",
+        "Hong, B",
+        "Wang, Y",
+        "Alasapuri, H",
+        "Wang, K",
+        "Abandy, J",
+        "Sorenson, M",
+        "Maimon, N"
+    ],
+    "prereq": [
+        "ACCY 201",
+        "ACCY 200",
+        "ACCY 201",
+        "ECON 102",
+        "ECON 103",
+        "ECON 102",
+        "ECON 103"
+    ]
+}

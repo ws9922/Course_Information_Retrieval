@@ -1,0 +1,10 @@
+{
+    "title": "TRST 407",
+    "names": "Terminology",
+    "credit": "3 OR 4 hours.",
+    "intro": "Provides a foundation in terminology management theory and practice. Key principles, including concept orientation, term autonomy, data granularity, and interchange standards are emphasized. Practical skills learned include performing term extraction, creating a terminology database (termbase), using the termbase as an aid when translating a text, and developing interpreter-oriented formats. Requires access to a computer running Windows. ",
+    "instructors": [
+        "Warburton, K"
+    ],
+    "prereq": []
+}

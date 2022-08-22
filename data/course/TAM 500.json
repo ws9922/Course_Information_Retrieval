@@ -1,0 +1,11 @@
+{
+    "title": "TAM 500",
+    "names": "Seminar",
+    "credit": "1 hours.",
+    "intro": "Lectures and discussion on current topics in theoretical and applied mechanics. ",
+    "instructors": [
+        "Smith, K",
+        "Sofronis, P"
+    ],
+    "prereq": []
+}

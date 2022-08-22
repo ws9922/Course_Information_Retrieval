@@ -1,0 +1,13 @@
+{
+    "title": "LA 342",
+    "names": "Site Engineering",
+    "credit": "4 hours.",
+    "intro": "Principles of site engineering including landform design, stormwater management, site surveying, circulation systems and site utility planning. ",
+    "instructors": [
+        "Champagne, A",
+        "Franks, C"
+    ],
+    "prereq": [
+        "LA 241"
+    ]
+}

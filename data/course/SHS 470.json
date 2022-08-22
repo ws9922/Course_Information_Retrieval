@@ -1,0 +1,13 @@
+{
+    "title": "SHS 470",
+    "names": "Neural Bases Spch Lang",
+    "credit": "4 hours.",
+    "intro": "Advanced study of neuroanatomy and neurophysiology with emphasis on current research pertaining to nervous system structures and functions important for speech and language. Critical analyses of current theories of the function of neural mechanisms utilized in speech and language. ",
+    "instructors": [
+        "Fogerty, D"
+    ],
+    "prereq": [
+        "SHS 300",
+        "SHS 301"
+    ]
+}

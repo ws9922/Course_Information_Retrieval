@@ -1,0 +1,13 @@
+{
+    "title": "ECE 549",
+    "names": "Computer Vision",
+    "credit": "4 hours.",
+    "intro": "Information processing approaches to computer vision, algorithms, and architectures for artificial intelligence and robotics systems capable of vision: inference of three-dimensional properties of a scene from its images, such as distance, orientation, motion, size and shape, acquisition, and representation of spatial information for navigation and manipulation in robotics. ",
+    "instructors": [
+        "Lazebnik, S"
+    ],
+    "prereq": [
+        "ECE 448",
+        "CS 225"
+    ]
+}

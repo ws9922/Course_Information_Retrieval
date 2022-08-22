@@ -1,0 +1,16 @@
+{
+    "title": "FIN 511",
+    "names": "Investments",
+    "credit": "2 OR 4 hours.",
+    "intro": "Introduction to investment analysis, including the theory and implementation of portfolio theory; empirical evidence on the performance of financial assets; evaluation of portfolio investment strategies; and the extension of diversification to international markets. ",
+    "instructors": [
+        "Pollet, J",
+        "Spencer, X",
+        "Weisbenner, S",
+        "Gao, X"
+    ],
+    "prereq": [
+        "FIN 520",
+        "MBA 505"
+    ]
+}

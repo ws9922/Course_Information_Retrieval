@@ -1,0 +1,15 @@
+{
+    "title": "SPAN 102",
+    "names": "Elementary Spanish II",
+    "credit": "4 hours.",
+    "intro": "Continuation of SPAN 101. Students continue developing basic listening, speaking, reading and writing skills in Spanish to an intermediate low level, based on the ACTFL proficiency and provides introduction to the various cultures of the Spanish-speaking world and Hispanics in the United States. ",
+    "instructors": [
+        "Waters, M",
+        "Arruti Iparraguirre, M"
+    ],
+    "prereq": [
+        "SPAN 102",
+        "SPAN 122",
+        "SPAN 101"
+    ]
+}

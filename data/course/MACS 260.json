@@ -1,0 +1,16 @@
+{
+    "title": "MACS 260",
+    "names": "Film Production",
+    "credit": "4 hours.",
+    "intro": "This course serves as an introduction to the many phases of narrative film production. Students will explore—through technical application—the formal qualities of motion pictures and the ways that film communicates space and time, stories, and experiences. Through lectures and labs, students will learn the technical skills and concepts that will enable them to complete a number of production projects outside of class. They will also gain a fundamental grounding in all of the essential skills of the film production workflow. This course is a prerequisite for all upper-level MACS cinema production courses. ",
+    "instructors": [
+        "Font Bas, V",
+        "Colin, M"
+    ],
+    "prereq": [
+        "MACS 140",
+        "MACS 150",
+        "MACS 140",
+        "MACS 150"
+    ]
+}

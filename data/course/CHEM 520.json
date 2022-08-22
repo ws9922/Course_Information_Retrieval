@@ -1,0 +1,15 @@
+{
+    "title": "CHEM 520",
+    "names": "Advanced Analytical Chemistry",
+    "credit": "4 hours.",
+    "intro": "Treatment of the basic issues of importance in modern analytical chemistry. Topics include basic chemical and measurement concepts, measurement instrumentation and techniques, and principles, tools, and applications in spectroscopy, electrochemistry, separations, sensors, mass spectroscopy and surface characterization. ",
+    "instructors": [
+        "Han, H",
+        "Pence, M"
+    ],
+    "prereq": [
+        "CHEM 315",
+        "CHEM 420",
+        "CHEM 444"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "title": "HIST 499",
+    "names": "Thesis Seminar",
+    "credit": "1 TO 2 hours.",
+    "intro": "A required seminar for all seniors writing Honor Theses in history, this course will meet throughout the year and will supplement individual students' meetings with their primary advisors. Provides an intellectually supportive environment in which students work together on common methodological problems, share the results of their research, and critique developing projects. ",
+    "instructors": [
+        "Mathisen, R"
+    ],
+    "prereq": [
+        "HIST 492",
+        "HIST 495",
+        "HIST 493"
+    ]
+}

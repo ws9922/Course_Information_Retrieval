@@ -1,0 +1,10 @@
+{
+    "title": "BADM 554",
+    "names": "Enterprise Database Management",
+    "credit": "4 hours.",
+    "intro": "Databases are important because they play a critical role in today's business environment. Almost all modern organizations use database technologies to store and manage data in every functional area of business including its operations, finance, accounting, and marketing. By understanding data modeling and being able to query databases, you possess one of the most marketable skills to help a business better manage their data and discover new opportunities through better analytics. At the end of this course you will be able to (a) Understand and help articulate the data needs of the company (requirement analysis), (b) Conceptually model the relationship of the data (data modeling), (c) Query databases to meet business requirements, (d) Understand the principles of design of data warehouses, (e) Understand the alternatives to relational databases (no SQL) with reference to storing Big Data, and (f) Explain the benefits of distributed databases ",
+    "instructors": [
+        "Sachdev, V"
+    ],
+    "prereq": []
+}

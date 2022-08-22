@@ -1,0 +1,15 @@
+{
+    "title": "VCM 598",
+    "names": "Manuscript Research",
+    "credit": "0 TO 12 hours.",
+    "intro": "Independent research to fulfill requirement for non-thesis alternative in Master of Science Program. ",
+    "instructors": [
+        "Doodnaught, G",
+        "Fick, M",
+        "Lundberg, A"
+    ],
+    "prereq": [
+        "VCM 598",
+        "VCM 599"
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "title": "CHEM 105",
+    "names": "General Chemistry Lab II",
+    "credit": "1 hours.",
+    "intro": "Laboratory studies to accompany CHEM 104. ",
+    "instructors": [
+        "Nowak, O",
+        "Weir, E",
+        "Marville, K",
+        "Carter, R",
+        "Weissman, J",
+        "Garcia, G",
+        "Jois, R",
+        "Rohn, M"
+    ],
+    "prereq": [
+        "CHEM 105",
+        "CHEM 205",
+        "CHEM 102",
+        "CHEM 103",
+        "CHEM 104"
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "title": "ECON 490",
+    "names": "Topics in Economics",
+    "credit": "3 OR 4 hours.",
+    "intro": "Special topics in advanced economics within a variety of areas. See course schedule for topics. ",
+    "instructors": [
+        "Weinstein, R",
+        "Armendariz Buaun, R",
+        "Kleemans, M",
+        "Vazquez, J",
+        "Ranjan, A",
+        "Powers, E",
+        "Perry, M"
+    ],
+    "prereq": [
+        "ECON 202",
+        "ECON 302",
+        "ECON 303",
+        "MATH 220",
+        "MATH 221"
+    ]
+}

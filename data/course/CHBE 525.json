@@ -1,0 +1,13 @@
+{
+    "title": "CHBE 525",
+    "names": "Statistical Thermodynamics for Chemical Engineers",
+    "credit": "4 hours.",
+    "intro": "Fundamentals and applications of both macroscopic thermodynamics and statistical mechanics. The formalism of statistical mechanics is introduced, in particular the development and calculation of partition functions, as well as its connections to thermodynamic equations of state and material properties. These concepts will be applied to problems relevant to chemical engineering, such as solution theory, electrolytes, adsorption, non-equilibrium thermodynamics, chemical reactions, molecular simulation, and dispersive interactions. ",
+    "instructors": [
+        "Mironenko, A",
+        "Walker, D"
+    ],
+    "prereq": [
+        "CHBE 321"
+    ]
+}

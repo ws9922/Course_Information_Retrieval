@@ -1,0 +1,21 @@
+{
+    "title": "CS 101",
+    "names": "Intro Computing: Engrg & Sci",
+    "credit": "3 hours.",
+    "intro": "Fundamental principles, concepts, and methods of computing, with emphasis on applications in the physical sciences and engineering. Basic problem solving and programming techniques; fundamental algorithms and data structures; use of computers in solving engineering and scientific problems. Intended for engineering and science majors. ",
+    "instructors": [
+        "Davis, N",
+        "Isaac, I",
+        "Jothishankar, S",
+        "Zhan, Z",
+        "Zhai, A",
+        "Mukherjee, D",
+        "Atcheson, A",
+        "Nagda, C",
+        "Singh, J"
+    ],
+    "prereq": [
+        "MATH 220",
+        "MATH 221"
+    ]
+}

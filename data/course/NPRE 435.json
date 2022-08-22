@@ -1,0 +1,12 @@
+{
+    "title": "NPRE 435",
+    "names": "Radiological Imaging",
+    "credit": "3 hours.",
+    "intro": "Physical, mathematical and experimental foundations of radiological imaging techniques, such as typical sources of ionizing radiation, the interactions of radiation with matter, image formation techniques, linear systems theory applied to radiological imaging, and the techniques for tomographic image reconstruction. Includes diagnostic radiological imaging modalities, such as X-ray computed tomography (CT), single photon computed emission tomography (SPECT), positron emission tomography (PET), as well as modern X-ray imaging techniques, such as phase contrast imaging and diffraction-enhanced X-ray imaging. Provides a solid foundation for understanding of modern radiological imaging techniques, and in-depth discussions on the strengths and limitations of various modalities in application to medical, physical, security and environmental imaging. ",
+    "instructors": [
+        "Meng, L"
+    ],
+    "prereq": [
+        "NPRE 446"
+    ]
+}

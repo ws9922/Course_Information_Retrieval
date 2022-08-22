@@ -1,0 +1,14 @@
+{
+    "title": "ASTR 502",
+    "names": "Astrophysical Dynamics",
+    "credit": "4 hours.",
+    "intro": "Introduction to stellar dynamics and fluid dynamics. Topics include two body collisions, two body relaxation, potential theory for stellar systems, adiabatic invariance, stellar system models, Jeans equations, and the virial theorem. Also hydrodynamics, magnetohydrodynamics, waves, instabilities, shocks, explosions, density waves, and wind-blown bubbles. ",
+    "instructors": [
+        "Gammie, C"
+    ],
+    "prereq": [
+        "PHYS 436",
+        "PHYS 427",
+        "PHYS 486"
+    ]
+}

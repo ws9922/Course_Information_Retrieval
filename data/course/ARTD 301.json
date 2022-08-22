@@ -1,0 +1,13 @@
+{
+    "title": "ARTD 301",
+    "names": "Industrial Design III",
+    "credit": "4 hours.",
+    "intro": "Design of user centered products for mass production; experience in the iterative problem solving processes and methods. Addresses practical constraints such as sustainability, environmental factors/ergonomics, manufacturing and materials, social and political and economic. ",
+    "instructors": [
+        "09:00AM - 11:40AM",
+        "01:00PM - 03:40PM"
+    ],
+    "prereq": [
+        "ARTD 202"
+    ]
+}

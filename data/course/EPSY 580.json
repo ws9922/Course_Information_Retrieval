@@ -1,0 +1,12 @@
+{
+    "title": "EPSY 580",
+    "names": "Statistical Inference in Education",
+    "credit": "4 hours.",
+    "intro": "Intermediate statistical methods in education; includes probability theory, distribution theory, interval estimation, hypothesis testing, regression and correlational analysis, and analysis of variance. ",
+    "instructors": [
+        "Jiang, G"
+    ],
+    "prereq": [
+        "EPSY 480"
+    ]
+}

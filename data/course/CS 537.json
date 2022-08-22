@@ -1,0 +1,13 @@
+{
+    "title": "CS 537",
+    "names": "Advanced Topics in Internet of Things (IoT)",
+    "credit": "4 hours.",
+    "intro": "Advanced topics in Internet of Things (IoT) algorithms, protocols, architectures, systems, and infrastructures, selected from areas of current research such as: IoT sensors representations and compression, streaming and caching of IoT data, IoT analytics and feature learning, IoT-edge-cloud computing infrastructures, resource optimization for multi-modal IoT systems, applications and human perception of IoT. Students will read and discuss recent research papers and conduct a semester-long research project. ",
+    "instructors": [
+        "Nahrstedt, K"
+    ],
+    "prereq": [
+        "CS 425",
+        "CS 438"
+    ]
+}

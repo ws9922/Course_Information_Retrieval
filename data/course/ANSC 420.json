@@ -1,0 +1,13 @@
+{
+    "title": "ANSC 420",
+    "names": "Ruminant Nutrition",
+    "credit": "3 hours.",
+    "intro": "Physiology and microbiology of digestion in the ruminant, and biochemical pathways of utilization of the absorbed nutrients for productive purposes. ",
+    "instructors": [
+        "Loor, J",
+        "Drackley, J"
+    ],
+    "prereq": [
+        "ANSC 223"
+    ]
+}

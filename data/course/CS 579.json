@@ -1,0 +1,13 @@
+{
+    "title": "CS 579",
+    "names": "Computational Complexity",
+    "credit": "4 hours.",
+    "intro": "Turing machines; determinism and non-determinism; time and space hierarchy theorems; speed-up and tape compression; Blum axioms; structure of complexity classes NP, P, NL, L, and PSPACE; complete problems; randomness and complexity classes RP, RL, and BPP; alternation, polynomial-time hierarchy; circuit complexity, parallel complexity, NC, and RNC; relativized computational complexity; time-space trade-offs. ",
+    "instructors": [
+        "Forbes, M"
+    ],
+    "prereq": [
+        "CS 473",
+        "CS 475"
+    ]
+}

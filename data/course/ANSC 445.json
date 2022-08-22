@@ -1,0 +1,13 @@
+{
+    "title": "ANSC 445",
+    "names": "Statistical Methods",
+    "credit": "4 hours.",
+    "intro": "Design and analysis of experiments: multiple regression, method of fitting constants, factorial experiments with unequal subclass numbers, analysis of covariance, experimental design; computer applications to agricultural experiments using statistical packages. ",
+    "instructors": [
+        "Rodriguez Zas, S"
+    ],
+    "prereq": [
+        "NRES 445",
+        "CPSC 440"
+    ]
+}

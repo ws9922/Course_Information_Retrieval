@@ -1,0 +1,10 @@
+{
+    "title": "IS 537",
+    "names": "Theory & Practice of Data Cleaning",
+    "credit": "4 hours.",
+    "intro": "Data cleaning (also: cleansing) is the process of assessing and improving data quality for later analysis and use, and is a crucial part of data curation and analysis. This course identifies data quality issues throughout the data lifecycle, and reviews specific techniques and approaches for checking and improving data quality. Techniques are drawn primarily from the database community, using schema-level and instance-level information, and from different scientific communities, which are developing practical tools for data pre-processing and cleaning. ",
+    "instructors": [
+        "Hetrick, A"
+    ],
+    "prereq": []
+}

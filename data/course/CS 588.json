@@ -1,0 +1,13 @@
+{
+    "title": "CS 588",
+    "names": "Autonomous Vehicle System Engineering",
+    "credit": "4 hours.",
+    "intro": "Will introduce students to the computational principles involved in autonomous vehicles, with practical labwork on an actual vehicle. Sensing topics will include vision, lidar and sonar sensing, including state-of-the-art methods for detection, classification, and segmentation. Bayesian filtering methods will be covered in the context of both SLAM and visual tracking. Planning and control topics will cover vehicle dynamics models, state-lattice planning, sampling-based kinodynamic planning, optimal control and trajectory optimization, and some reinforcement learning. Evaluation will involve ambitious challenge projects implemented on a physical vehicle. ",
+    "instructors": [
+        "Forsyth, D"
+    ],
+    "prereq": [
+        "CS 374",
+        "ECE 484"
+    ]
+}

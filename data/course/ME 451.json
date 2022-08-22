@@ -1,0 +1,13 @@
+{
+    "title": "ME 451",
+    "names": "Computer-Aided Mfg Systems",
+    "credit": "3 OR 4 hours.",
+    "intro": "The application of computer technology and operations research to manufacturing systems. Use of microprocessors for direct numeric control of machine tools, adaptive control and optimization, and integrated manufacturing systems. Applications of industrial robots. ",
+    "instructors": [
+        "Tanveer, A",
+        "Kapoor, S"
+    ],
+    "prereq": [
+        "ME 270"
+    ]
+}

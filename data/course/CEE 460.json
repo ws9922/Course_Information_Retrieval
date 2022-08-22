@@ -1,0 +1,12 @@
+{
+    "title": "CEE 460",
+    "names": "Steel Structures I",
+    "credit": "3 hours.",
+    "intro": "Introduction to the design of metal structures; behavior of members and their connections; theoretical, experimental, and practical bases for proportioning members and their connections. ",
+    "instructors": [
+        "Elbanna, A"
+    ],
+    "prereq": [
+        "CEE 360"
+    ]
+}

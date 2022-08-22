@@ -1,0 +1,16 @@
+{
+    "title": "BIOE 206",
+    "names": "Cellular Bioengineering",
+    "credit": "3 hours.",
+    "intro": "Molecular and cellular biology focusing on instrumentation and measurement techniques: gene expression, translation, and regulation; cellular energetics and enzyme kinetics; membrane transport and cell signaling; cytoskeleton and the cell cycle; cell biology fundamentals emphasizing modern imaging and measurement systems to quantify cellular function. ",
+    "instructors": [
+        "Sirk, S",
+        "Gaj, T",
+        "Kelly, V"
+    ],
+    "prereq": [
+        "BIOE 206",
+        "MCB 252",
+        "MCB 150"
+    ]
+}

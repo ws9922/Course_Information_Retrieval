@@ -1,0 +1,15 @@
+{
+    "title": "CEE 473",
+    "names": "Wind Effects on Structures",
+    "credit": "4 hours.",
+    "intro": "This course treats fundamental aspects of wind engineering – defined here as the salient characteristics of the wind and its effects on the built and natural environment. Students are expected to understand the behavior of wind relevant to wind engineering, the mechanisms for induced loading from wind, and associated structural responses. Specific topics include prediction of wind speeds for structural design, the atmospheric boundary layer, bluff-body aerodynamics, dynamic analysis, use of wind tunnels, wind loading on low-rise and high-rise buildings, wind loading on bridges, windstorm damage and risk. As the wind is a stochastic process, simulation of large data sets of wind speed, wind-induced pressure, and structural responses are required. Treatment of wind engineering topics for structural design for wind in codes and standards such as those in ASCE 7 are discussed. Field work is required as part of the course. ",
+    "instructors": [
+        "Lombardo, F"
+    ],
+    "prereq": [
+        "CEE 202",
+        "STAT 400",
+        "TAM 335",
+        "CEE 360"
+    ]
+}

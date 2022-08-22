@@ -1,0 +1,12 @@
+{
+    "title": "ARCH 550",
+    "names": "Design of Steel and Reinforced Concrete Structures II",
+    "credit": "4 hours.",
+    "intro": "Analysis and design of structural steel members subject to combined forces; analysis and design of bolted and welded joints, and simple connections. Presentation of reinforced concrete slab and roof systems and their characteristics; design of one-way slab-joist systems; design of multi-span reinforced concrete beams under pattern loading; influence lines and practical design of continuous beams; deflection of reinforced concrete beams and slabs; development length and bar cut-offs; design of short and slender reinforced concrete columns including biaxial bending ",
+    "instructors": [
+        "12:30PM - 01:50PM"
+    ],
+    "prereq": [
+        "ARCH 433"
+    ]
+}

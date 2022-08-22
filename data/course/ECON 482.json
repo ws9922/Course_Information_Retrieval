@@ -1,0 +1,14 @@
+{
+    "title": "ECON 482",
+    "names": "Economics of the Digital Economy",
+    "credit": "3 OR 4 hours.",
+    "intro": "Analysis of firm strategies and public policy issues surrounding the digital economy and related industries. Applies economic tools and principles, including game theory, industrial organization, and information economics. Topics include: differentiation of prices and products; search cost and price dispersion; network effects and system competition; economics of platforms; intellectual property; antitrust regulations. ",
+    "instructors": [
+        "Hong, S"
+    ],
+    "prereq": [
+        "ECON 302",
+        "MATH 220",
+        "MATH 221"
+    ]
+}

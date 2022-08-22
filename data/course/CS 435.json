@@ -1,0 +1,17 @@
+{
+    "title": "CS 435",
+    "names": "Cloud Networking",
+    "credit": "3 OR 4 hours.",
+    "intro": "Provides a foundational view of computer networks with a focus on enabling modern large-scale cloud computing. The first part of this course studies the principles upon which the Internet and other networks are built, and how those principles translate into deployed protocols. The second part covers how those principles are applied in network infrastructure for modern clouds, enabling deployment of virtual networks on shared infrastructure, efficient transfer of big data and low latency communication, and federation of applications across countries and continents. ",
+    "instructors": [
+        "Godfrey, P"
+    ],
+    "prereq": [
+        "CS 435",
+        "CS 438",
+        "ECE 438",
+        "CS 240",
+        "CS 241",
+        "ECE 391"
+    ]
+}

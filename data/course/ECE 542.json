@@ -1,0 +1,12 @@
+{
+    "title": "ECE 542",
+    "names": "Fault-Tolerant Dig Syst Design",
+    "credit": "4 hours.",
+    "intro": "Advanced concepts in hardware and software fault tolerance: fault models, coding in computer systems, module and system level fault detection mechanism, reconfiguration techniques in multiprocessor systems and VLSI processor arrays, and software fault tolerance techniques such as recovery blocks, N-version programming, checkpointing, and recovery; survey of practical fault-tolerant systems. ",
+    "instructors": [
+        "Kalbarczyk, Z"
+    ],
+    "prereq": [
+        "ECE 411"
+    ]
+}

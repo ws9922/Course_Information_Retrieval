@@ -1,0 +1,14 @@
+{
+    "title": "BCOG 458",
+    "names": "Advances in Brain and Cognitive Science",
+    "credit": "3 hours.",
+    "intro": "An in-depth, integrative overview of the major themes in the study of Cognitive Science, including cognition as computation, the relation between mind and brain, computability and the role of heuristics in \"solving\" unsolvable problems, and the logical/mathematical foundations of these themes. Specific topics covered include inverse optics and vision; induction and reasoning; learnability and language; philosophy of minds and brains; evolution; artificial intelligence and computational modeling; information theory; knowledge representation. The emphasis throughout is on the interrelations among these topics as examples of important but fundamentally unsolvable problems. ",
+    "instructors": [
+        "Hummel, J"
+    ],
+    "prereq": [
+        "PSYC 224",
+        "PSYC 248",
+        "PHIL 270"
+    ]
+}

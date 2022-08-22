@@ -1,0 +1,13 @@
+{
+    "title": "ME 402",
+    "names": "Design of Thermal Systems",
+    "credit": "3 OR 4 hours.",
+    "intro": "Selection of components in fluid- and energy-processing systems to meet system-performance requirements; computer-aided design; system simulation; optimization techniques; investment economics and statistical combinations of operating conditions. ",
+    "instructors": [
+        "Zhang, Y",
+        "He, J"
+    ],
+    "prereq": [
+        "ME 320"
+    ]
+}

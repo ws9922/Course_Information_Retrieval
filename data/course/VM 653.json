@@ -1,0 +1,13 @@
+{
+    "title": "VM 653",
+    "names": "Small Animal Medicine and Surgery II",
+    "credit": "7 hours.",
+    "intro": "Teaches the practice of Small Animal Medicine and Surgery in Dermatology, Endocrinology, Gastroenterology, Urology, Infectious Diseases. Surgery laboratories occur throughout this course and the companion course VM 654. ",
+    "instructors": [
+        "AL1"
+    ],
+    "prereq": [
+        "VM 651",
+        "VM 652"
+    ]
+}

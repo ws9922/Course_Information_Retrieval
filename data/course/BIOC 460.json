@@ -1,0 +1,15 @@
+{
+    "title": "BIOC 460",
+    "names": "Biochemistry Senior Seminar",
+    "credit": "3 hours.",
+    "intro": "Writing intensive course dealing with the technical literature, current issues, and current advances in Biochemistry. ",
+    "instructors": [
+        "Shapiro, D",
+        "Zhu, J",
+        "Jabeen, M"
+    ],
+    "prereq": [
+        "MCB 354",
+        "BIOC 455"
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "title": "BADM 367",
+    "names": "Mgmt of Innov and Technology",
+    "credit": "3 hours.",
+    "intro": "Course focuses on the strategic management of technology and innovation in organizations. It builds primarily on broad models of technological evolution and organizational change. ",
+    "instructors": [
+        "Corredor Waldron, S"
+    ],
+    "prereq": [
+        "BADM 320",
+        "BADM 365"
+    ]
+}

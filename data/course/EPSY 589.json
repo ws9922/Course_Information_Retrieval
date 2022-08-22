@@ -1,0 +1,16 @@
+{
+    "title": "EPSY 589",
+    "names": "Categorical Data Analysis in Educational Psychology",
+    "credit": "4 hours.",
+    "intro": "Concepts and methods for analyzing categorical data with an emphasis placed on building and applying models in education, sociology and psychology. Generalized linear models covered including logistic and Poisson regression models, loglinear, logit, and probit models, and models for ordinal data. ",
+    "instructors": [
+        "Anderson, C"
+    ],
+    "prereq": [
+        "SOC 579",
+        "EPSY 589",
+        "STAT 426",
+        "EPSY 581",
+        "PSYC 507"
+    ]
+}

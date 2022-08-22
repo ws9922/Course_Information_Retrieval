@@ -1,0 +1,29 @@
+{
+    "title": "ME 330",
+    "names": "Engineering Materials",
+    "credit": "4 hours.",
+    "intro": "Structures of polymers, metals, and ceramics as the basis for their mechanical behavior. Manipulation of structure through such processes as heat treatment and solidification. Mechanisms of material failure in service (yielding, fracture, fatigue, creep, corrosion, and wear) and simple design techniques to avoid these failures. Strategies for materials selection in design. ",
+    "instructors": [
+        "Tao, R",
+        "Zhou, K",
+        "Deshpande, K",
+        "Ananthakrishnan, G",
+        "Chaudhary, S",
+        "Rashid, F",
+        "Ravi, S",
+        "Alam, M",
+        "Gengor, G",
+        "Piuly, S",
+        "Cai, L",
+        "Das, P",
+        "Hamid, M",
+        "Kim, H"
+    ],
+    "prereq": [
+        "ME 330",
+        "CEE 300",
+        "MSE 280",
+        "CHEM 102",
+        "TAM 251"
+    ]
+}

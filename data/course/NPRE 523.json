@@ -1,0 +1,14 @@
+{
+    "title": "NPRE 523",
+    "names": "Plasma Waves",
+    "credit": "4 hours.",
+    "intro": "The course covers the fundamentals of plasma waves and plasma heating, including an overview of the techniques and the technologies used in thermonuclear fusion reactors for heating and current drive. The first part of the semester covers the linear theory of plasma waves, including: the cold plasma tensor, cold dispersion relation, normal modes, frequency plots, Clemmow-Mullaly-Allis diagram, acoustic modes, kinetic theory of plasma waves, hot tensor, Bernstein modes, electrostatic damping, cyclotron modes. The course then offers an introduction to non-linearities, with major emphasis on the quasi-linear theory as a natural extension from the kinetic theory of plasma waves. The final portion of the course provides a qualitative and quantitative description of the major techniques used to deliver energy and momentum to a plasma (heating and current drive), namely ion cyclotron heating, electron cyclotron, lower hybrid, electron Bernstein, and neutral beam injection. Examples of heating technologies are provided for both thermonuclear and industrial applications. The course comprises simple analytical and computational homework assignments. ",
+    "instructors": [
+        "Curreli, D"
+    ],
+    "prereq": [
+        "ECE 329",
+        "PHYS 435",
+        "NPRE 421"
+    ]
+}

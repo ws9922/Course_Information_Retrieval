@@ -1,0 +1,14 @@
+{
+    "title": "CS 581",
+    "names": "Algorithmic Genomic Biology",
+    "credit": "4 hours.",
+    "intro": "The purpose of the course is to give each student enough background and training in the area of algorithmic genomic biology so that each will be able to do research in this area, and publish papers. The main focus of the course is phylogeny (evolutionary tree) estimation, multiple sequence alignment, and genome-scale phylogenetics, which are problems that present very interesting challenges from a computational and statistical standpoint. Time permitting, we will also discuss computational problems in microbiome analysis, protein function and structure prediction, genome assembly, and even historical linguistics. Students will learn the mathematical and computational foundations in these areas, read the current literature, and do a team research project. The course is designed for doctoral students in computer science, computer engineering, bioengineering, mathematics, and statistics, and does not depend on any prior background in biology. The technical material will depend on discrete algorithms, graph theory, simulations, and probabilistic analysis of algorithms. ",
+    "instructors": [
+        "Warnow, T"
+    ],
+    "prereq": [
+        "CS 374",
+        "CS 361",
+        "STAT 361"
+    ]
+}

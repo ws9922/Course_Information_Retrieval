@@ -1,0 +1,12 @@
+{
+    "title": "IS 515",
+    "names": "Information Modeling",
+    "credit": "4 hours.",
+    "intro": "Information modeling is critical to all information systems and analysis. This course introduces students to foundational frameworks (set theory and logics) and basic underlying objects (entities, attributes, and relations) of information modeling. A variety of modeling approaches (use case modeling, relational database design, first-order predicate logic, and semantic web technologies) are considered, and recent developments (non-relational databases and knowledge graphs) are reviewed. Modeling strategies are assessed by their expressiveness and reasoning capabilities. ",
+    "instructors": [
+        "Jett, J",
+        "Kilicoglu, H",
+        "Schneider, J"
+    ],
+    "prereq": []
+}

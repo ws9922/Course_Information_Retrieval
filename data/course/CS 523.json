@@ -1,0 +1,14 @@
+{
+    "title": "CS 523",
+    "names": "Advanced Operating Systems",
+    "credit": "4 hours.",
+    "intro": "Advanced concepts in operating system design and coverage of recent research directions. Resource management for parallel and distributed systems. Interaction between operating system design and computer architectures. Process management, virtual memory, interprocess communication, context switching, parallel and distributed file system designs, persistent objects, process and data migration, load balancing, security, protection. Term projects. ",
+    "instructors": [
+        "Xu, T"
+    ],
+    "prereq": [
+        "CS 423",
+        "CS 425",
+        "CS 433"
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "title": "IS 543",
+    "names": "Digital Preservation",
+    "credit": "4 hours.",
+    "intro": "Examines current problems with and approaches to digital preservation that are fundamental to the long-term accessibility of digital materials. Examines the range of current research problems, along with emerging methods and tools, and assesses a variety of organizational scenarios to plan and implement a preservation plan. Topics include basic information theory, preservation of complex digital objects; standards and specifications; sustainability and risk assessment; authenticity, integrity, quality control, and certification; and management of preservation activities. ",
+    "instructors": [
+        "Han, Y",
+        "Oliver, M",
+        "DeCandido, R"
+    ],
+    "prereq": []
+}

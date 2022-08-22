@@ -1,0 +1,16 @@
+{
+    "title": "PS 495",
+    "names": "Senior Honors Seminar",
+    "credit": "3 hours.",
+    "intro": "Provides an advanced overview of methodological issues in political science especially identification of research questions and design of research strategies in political science appropriate for a senior thesis. Requires completion of a substantial research proposal. ",
+    "instructors": [
+        "Ksiazkiewicz, A",
+        "Winters, M"
+    ],
+    "prereq": [
+        "PS 495",
+        "PS 496",
+        "PS 495",
+        "PS 496"
+    ]
+}

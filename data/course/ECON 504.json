@@ -1,0 +1,13 @@
+{
+    "title": "ECON 504",
+    "names": "Time Series Analysis in Econ",
+    "credit": "4 hours.",
+    "intro": "Modern time series analysis techniques for handling economic data which arises in a happenstance fashion through time and their application to specific economic problems. ",
+    "instructors": [
+        "Lee, J"
+    ],
+    "prereq": [
+        "ECON 503",
+        "STAT 578"
+    ]
+}

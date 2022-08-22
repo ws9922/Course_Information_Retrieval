@@ -1,0 +1,17 @@
+{
+    "title": "ME 200",
+    "names": "Thermodynamics",
+    "credit": "3 hours.",
+    "intro": "Classical thermodynamics through the second law; system and control-volume analyses of thermodynamic processes; irreversibility and availability; relations for ideal gas mixtures. ",
+    "instructors": [
+        "Eraslan, E",
+        "Hutchens, S",
+        "Inampudi, S",
+        "Cheng, W",
+        "Kimura de Carvalho, B",
+        "Liebenberg, L"
+    ],
+    "prereq": [
+        "MATH 241"
+    ]
+}

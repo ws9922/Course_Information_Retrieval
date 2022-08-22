@@ -1,0 +1,14 @@
+{
+    "title": "CHEM 197",
+    "names": "Individual Study Freshman",
+    "credit": "1 TO 2 hours.",
+    "intro": "Individual study of problems related to chemistry or research not necessarily leading to a senior thesis. ",
+    "instructors": [],
+    "prereq": [
+        "CHEM 197",
+        "CHEM 297",
+        "CHEM 397",
+        "CHEM 497",
+        "CHEM 499"
+    ]
+}

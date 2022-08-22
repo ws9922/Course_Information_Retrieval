@@ -1,0 +1,15 @@
+{
+    "title": "IB 372",
+    "names": "Ecology and Evolution",
+    "credit": "5 hours.",
+    "intro": "Integrated study of ecology, population genetics, and evolution. Conceptual themes and techniques from the molecular, cellular, and organismal levels of biology will be integrated as well. Lecture, laboratory, and field work. ",
+    "instructors": [
+        "10:00AM - 10:50AM"
+    ],
+    "prereq": [
+        "IB 372",
+        "IB 203",
+        "IB 302",
+        "IB 271"
+    ]
+}

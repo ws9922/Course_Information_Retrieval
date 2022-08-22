@@ -1,0 +1,12 @@
+{
+    "title": "IE 410",
+    "names": "Advanced Topics in Stochastic Processes & Applications",
+    "credit": "3 OR 4 hours.",
+    "intro": "Modeling and analysis of stochastic processes. Transient and steady-state behavior of continuous-time Markov chains; renewal processes; models of queuing systems (birth-and-death models, embedded-Markov-chain models, queuing networks); reliability models; inventory models. Familiarity with discrete-time Markov chains, Poisson processes, and birth-and-death processes is assumed. ",
+    "instructors": [
+        "03:00PM - 03:50PM"
+    ],
+    "prereq": [
+        "IE 310"
+    ]
+}

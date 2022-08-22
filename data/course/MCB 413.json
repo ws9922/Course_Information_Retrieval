@@ -1,0 +1,13 @@
+{
+    "title": "MCB 413",
+    "names": "Endocrinology",
+    "credit": "3 hours.",
+    "intro": "Physiology and biochemistry of the endocrine system and its hormones with special reference to vertebrates and to human endocrine disorders. ",
+    "instructors": [
+        "Bagchi, M",
+        "Raetzman, L"
+    ],
+    "prereq": [
+        "MCB 252"
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "title": "EPSY 403",
+    "names": "Research Methods in Learning Sciences",
+    "credit": "3 OR 4 hours.",
+    "intro": "This course is an introduction to conducting research in the learning sciences, including how to use theory as a guide to conducting literature reviews and formulating research questions. The course introduces quantitative and qualitative research design, data collection and analysis, and other aspects of research relevant to learning, teaching, and other topics relevant to education. A secondary goal is to better understand research reported in the primary literature as well as in the news media. Assignments will include evaluating research papers and writing a research proposal. ",
+    "instructors": [
+        "Cromley, J"
+    ],
+    "prereq": [
+        "EPSY 280",
+        "EPSY 480",
+        "PSYC 235",
+        "PSYC 301"
+    ]
+}

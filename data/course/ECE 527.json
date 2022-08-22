@@ -1,0 +1,13 @@
+{
+    "title": "ECE 527",
+    "names": "System-On-Chip Design",
+    "credit": "4 hours.",
+    "intro": "System-on-chip (SOC) design methodology and IP (intellectual property) reuse, system modeling and analysis, hardware/software co-design, behavioral synthesis, embedded software, reconfigurable computing, design verification and test, and design space exploration. Class projects focusing on current SOC design and research. Platform FPGA boards and digital cameras are provided to prototype, test, and evaluate SOC designs. ",
+    "instructors": [
+        "11:00AM - 12:20PM"
+    ],
+    "prereq": [
+        "ECE 391",
+        "ECE 425"
+    ]
+}

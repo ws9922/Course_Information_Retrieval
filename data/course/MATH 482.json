@@ -1,0 +1,14 @@
+{
+    "title": "MATH 482",
+    "names": "Linear Programming",
+    "credit": "3 OR 4 hours.",
+    "intro": "Rigorous introduction to a wide range of topics in optimization, including a thorough treatment of basic ideas of linear programming, with additional topics drawn from numerical considerations, linear complementarity, integer programming and networks, polyhedral methods. ",
+    "instructors": [
+        "English, S"
+    ],
+    "prereq": [
+        "ASRM 406",
+        "MATH 415",
+        "MATH 416"
+    ]
+}

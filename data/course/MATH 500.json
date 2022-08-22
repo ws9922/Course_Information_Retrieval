@@ -1,0 +1,13 @@
+{
+    "title": "MATH 500",
+    "names": "Abstract Algebra I",
+    "credit": "4 hours.",
+    "intro": "Isomorphism theorems for groups. Group actions. Composition series. Jordan-Holder theorem. Solvable and nilpotent groups. Field extensions. Algebraic and transcendental extensions. Algebraic closures. Fundamental theorem of Galois theory, and applications. Modules over commutative rings. Structure of finitely generated modules over a principal ideal domain. Applications to finite Abelian groups and matrix canonical forms. ",
+    "instructors": [
+        "Duursma, I"
+    ],
+    "prereq": [
+        "MATH 417",
+        "MATH 418"
+    ]
+}

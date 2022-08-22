@@ -1,0 +1,16 @@
+{
+    "title": "ECON 528",
+    "names": "Microeconomics for Business",
+    "credit": "4 hours.",
+    "intro": "Microeconomics for professional business students. Shows relevance of value and distribution theories for business managers.  Includes demand and supply theory, consumer choice, production and cost theory, industrial structure, and wage and capital theory. Intended for students in the Master of Business Administration program. ",
+    "instructors": [
+        "Marcinkowski, M",
+        "DeBrock, L",
+        "Dolgopolov, V"
+    ],
+    "prereq": [
+        "ECON 528",
+        "ECON 302",
+        "ECON 500"
+    ]
+}

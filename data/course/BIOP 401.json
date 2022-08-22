@@ -1,0 +1,15 @@
+{
+    "title": "BIOP 401",
+    "names": "Introduction to Biophysics",
+    "credit": "3 hours.",
+    "intro": "Topics include equilibrium thermodynamics, kinetics, and quantum mechanics with applications to biological and chemical systems. ",
+    "instructors": [
+        "Wu, N",
+        "Rasouli, A",
+        "Tan, T"
+    ],
+    "prereq": [
+        "MCB 354",
+        "MCB 450"
+    ]
+}

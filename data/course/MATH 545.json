@@ -1,0 +1,13 @@
+{
+    "title": "MATH 545",
+    "names": "Harmonic Analysis",
+    "credit": "4 hours.",
+    "intro": "Harmonic analysis on the circle, the line, and the integers, i.e., Fourier series and transforms; locally compact Abelian groups; convergence and summability; conjugate functions; Hardy spaces; uniqueness; Tauberian theorems; almost-periodic functions; commutative Banach algebras. ",
+    "instructors": [
+        "Erdogan, M"
+    ],
+    "prereq": [
+        "MATH 448",
+        "MATH 541"
+    ]
+}

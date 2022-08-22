@@ -1,0 +1,10 @@
+{
+    "title": "FIN 553",
+    "names": "Machine Learning in Finance",
+    "credit": "2 OR 4 hours.",
+    "intro": "Machine Learning includes the design and the study of algorithms that can learn from experience, improve their performance and make predictions. In this course students will learn the foundations of Machine Learning and explore state of the art algorithms and tools. Topics include supervised learning (neural networks, support vector machines), unsupervised learning (clustering, dimensionality reduction) and reinforcement learning (dynamic programming, Q-learning, SARSA, policy gradient methods). Applications include option pricing, portfolio selection and credit card fraud detection. Students will gain practical experience implementing these models in Python with frequently used packages such as TensorFlow. ",
+    "instructors": [
+        "Duarte, V"
+    ],
+    "prereq": []
+}

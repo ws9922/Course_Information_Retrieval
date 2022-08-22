@@ -1,0 +1,12 @@
+{
+    "title": "THEA 497",
+    "names": "Audio Engineering I",
+    "credit": "3 hours.",
+    "intro": "Introduction to audio engineering and system design concepts through exploration of audio consoles, amplification, loudspeaker manufacturing and design. ",
+    "instructors": [
+        "LaBau, A"
+    ],
+    "prereq": [
+        "THEA 153"
+    ]
+}

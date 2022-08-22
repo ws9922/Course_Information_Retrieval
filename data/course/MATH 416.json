@@ -1,0 +1,18 @@
+{
+    "title": "MATH 416",
+    "names": "Abstract Linear Algebra",
+    "credit": "3 OR 4 hours.",
+    "intro": "Rigorous proof-oriented course in linear algebra. Topics include determinants, vector spaces over fields, linear transformations, inner product spaces, eigenvectors and eigenvalues, Hermitian matrices, Jordan Normal Form. ",
+    "instructors": [
+        "Leditzky, F",
+        "Albin, P",
+        "Dutta, S"
+    ],
+    "prereq": [
+        "MATH 416",
+        "ASRM 406",
+        "MATH 415",
+        "MATH 241",
+        "MATH 347"
+    ]
+}

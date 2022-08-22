@@ -1,0 +1,16 @@
+{
+    "title": "CS 473",
+    "names": "Algorithms",
+    "credit": "4 hours.",
+    "intro": "Design and analysis techniques, approximation algorithms, randomized algorithms and amortized analysis, and advanced topics such as network flow, linear programming, and dynamic data structures, among others. ",
+    "instructors": [
+        "Har-Peled, S"
+    ],
+    "prereq": [
+        "MATH 473",
+        "CS 374",
+        "CS 361",
+        "MATH 461",
+        "STAT 400"
+    ]
+}

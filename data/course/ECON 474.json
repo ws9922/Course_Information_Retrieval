@@ -1,0 +1,17 @@
+{
+    "title": "ECON 474",
+    "names": "Econometrics of Policy Evaluation",
+    "credit": "3 OR 4 hours.",
+    "intro": "Develops the basic tools to understand and use modern econometric methods for estimating and making inference of causal effects. The topics include randomized experiments, natural experiments, matching methods, instrumental variables, and regression discontinuity. Focuses on topics which are relevant for policy problems. ",
+    "instructors": [
+        "Batista Guerra Junior, M"
+    ],
+    "prereq": [
+        "ECON 203",
+        "ECON 302",
+        "MATH 220",
+        "MATH 221",
+        "MATH 231",
+        "ECON 471"
+    ]
+}

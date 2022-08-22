@@ -1,0 +1,12 @@
+{
+    "title": "MATH 585",
+    "names": "Probabilistic Combinatorics",
+    "credit": "4 hours.",
+    "intro": "Techniques and applications of probabilistic methods in combinatorics. Draws applications from a variety of areas, but emphasizes theoretical aspects of random graphs, including connectivity, trees & cycles, planarity, and coloring problems. Techniques include the second moment method, Lovasz Local Lemma, martingales, Talgrand's Inequality, the Rodl Nibble, and Szemeredi's Regularity Lemma. Applications may come from discrete geometry, coding theory, algorithms & complexity, additive number theory, percolation, positional games, etc. ",
+    "instructors": [
+        "Balogh, J"
+    ],
+    "prereq": [
+        "MATH 580"
+    ]
+}

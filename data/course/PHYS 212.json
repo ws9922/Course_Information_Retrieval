@@ -1,0 +1,42 @@
+{
+    "title": "PHYS 212",
+    "names": "University Physics: Elec & Mag",
+    "credit": "4 hours.",
+    "intro": "Coulomb's Law, electric fields, Gauss' Law, electric potential, capacitance, circuits, magnetic forces and fields, Ampere's law, induction, electromagnetic waves, polarization, and geometrical optics. A calculus-based approach for majors in engineering, mathematics, physics, and chemistry. ",
+    "instructors": [
+        "Irfan, A",
+        "Gaidau, C",
+        "Ceyhan, F",
+        "Langeslay, B",
+        "Qu, O",
+        "Reggio, B",
+        "Covey, J",
+        "Gibbs, S",
+        "Cao, J",
+        "Kou, A",
+        "Housenga, M",
+        "Harris, I",
+        "Jenike, B",
+        "Zakrzewski, A",
+        "Maytin, A",
+        "Stelzer, T",
+        "Brookhouse, C",
+        "Pardoe, F",
+        "Vijay, A",
+        "Li, J",
+        "Mullen, E",
+        "Waite, E",
+        "DeMarco, B",
+        "Prabhu, A",
+        "Wentzel, M",
+        "Salners, T",
+        "Williams, G",
+        "Alenezi, A"
+    ],
+    "prereq": [
+        "PHYS 212",
+        "PHYS 102",
+        "PHYS 211",
+        "MATH 241"
+    ]
+}

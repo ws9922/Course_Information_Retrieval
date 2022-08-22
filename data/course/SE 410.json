@@ -1,0 +1,13 @@
+{
+    "title": "SE 410",
+    "names": "Component Design",
+    "credit": "3 hours.",
+    "intro": "Design of basic engineering components: structural members, machine parts, and connections. Principles applied include: material failure (yield, fracture, fatigue); buckling and other instabilities; design reliability; analytical simulation. ",
+    "instructors": [
+        "Allison, J"
+    ],
+    "prereq": [
+        "SE 311",
+        "SE 320"
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "title": "CEE 202",
+    "names": "Engineering Risk & Uncertainty",
+    "credit": "3 hours.",
+    "intro": "Identification and modeling of non-deterministic problems in civil engineering design and decision making. Development of stochastic concepts and simulation models, and their relevance to real design and decision problems in various areas of civil engineering. ",
+    "instructors": [
+        "Zhao, L"
+    ],
+    "prereq": [
+        "CEE 202",
+        "IE 300",
+        "CS 101",
+        "MATH 241"
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "title": "ME 170",
+    "names": "Computer-Aided Design",
+    "credit": "3 hours.",
+    "intro": "Geometry and topology of engineered components: creation of engineering models and their presentation in standard 2D blueprint form and as 3D wire-frame and shaded solids; meshed topologies for engineering analysis and tool-path generation for component manufacture; ISO and ANSI standards for coordinate dimensioning and tolerancing; geometric dimensioning and tolerancing. Use of solid-modeling software for creating associative models at the component and assembly levels with automatic blueprint creation, interference checking, and linked bill of materials. ",
+    "instructors": [
+        "Poss, M",
+        "Lu, K",
+        "Chun, S",
+        "Philpott, M"
+    ],
+    "prereq": []
+}

@@ -1,0 +1,13 @@
+{
+    "title": "NRES 595",
+    "names": "Advanced Quantitative Techniques for Ecology and Conservation",
+    "credit": "4 hours.",
+    "intro": "This course is designed to provide the tools necessary to estimate population parameters in a rigorous and robust manner. Students will learn about the tools researchers and managers use to address questions in population ecology and conservation. The course covers five major topics in the estimation and management of wildlife populations: 1) Neutral models, 2) Presence/absence, 3) Abundance estimation, 4) Survival estimation, and 5) Bayesian Methodology. Emphasis is placed on the applied nature of these tools, including model building, selection, and inference. ",
+    "instructors": [
+        "Stodola, K",
+        "Benson, T"
+    ],
+    "prereq": [
+        "NRES 593"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "title": "ACE 510",
+    "names": "Adv Natural Resource Economics",
+    "credit": "4 hours.",
+    "intro": "Economic theory is used to examine the allocation of renewable and efficiency issues that arise from natural resource policy and management issues. ",
+    "instructors": [
+        "Brazee, R"
+    ],
+    "prereq": [
+        "ENVS 510",
+        "NRES 510",
+        "ECON 302"
+    ]
+}

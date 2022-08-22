@@ -1,0 +1,17 @@
+{
+    "title": "MCB 253",
+    "names": "Exp Techniqs in Cellular Biol",
+    "credit": "2 hours.",
+    "intro": "Laboratory course emphasizing experimental techniques in cellular biology, cellular physiology, and developmental biology. Students who enter the University Fall 2011 or later are responsible for additional course-based tuition of $300 unless they are already paying differential tuition during the term of course enrollment. ",
+    "instructors": [
+        "Nawaz, A",
+        "Shinn, E",
+        "Good, E",
+        "Baculis, B"
+    ],
+    "prereq": [
+        "MCB 253",
+        "MCB 151",
+        "MCB 252"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "title": "STAT 542",
+    "names": "Statistical Learning",
+    "credit": "4 hours.",
+    "intro": "Modern techniques of predictive modeling, classification, and clustering are discussed. Examples of these are linear regression, nonparametric regression, kernel methods, regularization, cluster analysis, classification trees, neural networks, boosting, discrimination, support vector machines, and model selection. Applications are discussed as well as computation and theory. ",
+    "instructors": [
+        "Liang, F"
+    ],
+    "prereq": [
+        "CSE 542",
+        "STAT 410",
+        "STAT 425"
+    ]
+}

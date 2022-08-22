@@ -1,0 +1,16 @@
+{
+    "title": "TAM 518",
+    "names": "Wave Motion",
+    "credit": "4 hours.",
+    "intro": "Linear waves in one-dimensional homogeneous and inhomogeneous media (both solids and fluids), linear elastic waves in a homogeneous halfspace, scalar waves in a layer and in a layered halfspace, nonlinear diffusive waves, nonlinear dispersive waves, and the inverse scattering transform. ",
+    "instructors": [
+        "Starzewski, M"
+    ],
+    "prereq": [
+        "TAM 541",
+        "MATH 556",
+        "TAM 514",
+        "TAM 531",
+        "TAM 551"
+    ]
+}

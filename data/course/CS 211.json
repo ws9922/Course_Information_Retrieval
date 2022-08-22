@@ -1,0 +1,15 @@
+{
+    "title": "CS 211",
+    "names": "Ethical and Professional Conduct",
+    "credit": "3 hours.",
+    "intro": "Navigating the complex ethical and professional landscape of the computing professional: privacy, intellectual property, cybersecurity, and freedom of speech. Hands-on exercises, assignments, and discussions in which students analyze current events from perspectives in both philosophical and professional ethics. Writing professionally and technically in several writing assignments requiring peer review, workshops, and multiple rounds of editing and revising. ",
+    "instructors": [
+        "Cunningham, R"
+    ],
+    "prereq": [
+        "CS 211",
+        "CS 210",
+        "ECE 316",
+        "CS 225"
+    ]
+}

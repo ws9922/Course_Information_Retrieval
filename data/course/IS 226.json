@@ -1,0 +1,11 @@
+{
+    "title": "IS 226",
+    "names": "Introduction to HCI",
+    "credit": "3 hours.",
+    "intro": "This course introduces students to fundamental theories and techniques in Human-Computer Interaction (HCI). This course presents basic tools and methods for creating, designing, prototyping, and evaluating user interfaces to computing applications and web sites. Students will explore course content by conducting individual and group hands-on projects. Assignments involving prototyping can be implemented by self-selected solutions, e.g. Axure, JavaScript. Students from all backgrounds are welcomed.",
+    "instructors": [
+        "Wang, Y",
+        "Seo, J"
+    ],
+    "prereq": []
+}

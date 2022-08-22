@@ -1,0 +1,12 @@
+{
+    "title": "VM 605",
+    "names": "Pathobiology I",
+    "credit": "9.5 hours.",
+    "intro": "Teaches principles of pharmacology; general pathology; immunology; medical genetics; and mechanistic toxicology. ",
+    "instructors": [
+        "AL1"
+    ],
+    "prereq": [
+        "VM 604"
+    ]
+}

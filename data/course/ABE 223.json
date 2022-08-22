@@ -1,0 +1,15 @@
+{
+    "title": "ABE 223",
+    "names": "ABE Principles: Machine Syst",
+    "credit": "2 hours.",
+    "intro": "Machinery systems for off-road applications: internal combustion engines; fluid power; tractors, and traction; chemical application; grain harvesting. ",
+    "instructors": [
+        "Grift, T",
+        "Barber, B"
+    ],
+    "prereq": [
+        "MATH 220",
+        "MATH 221",
+        "MATH 234"
+    ]
+}

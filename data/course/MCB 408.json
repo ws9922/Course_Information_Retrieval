@@ -1,0 +1,18 @@
+{
+    "title": "MCB 408",
+    "names": "Immunology",
+    "credit": "3 hours.",
+    "intro": "Introduction to fundamentals of immunology with emphasis on biological application; basic background for understanding immunological responses and techniques applicable to biological research. ",
+    "instructors": [
+        "Stenger, A",
+        "Stadtmueller, B",
+        "Lyu, I"
+    ],
+    "prereq": [
+        "MCB 250",
+        "MCB 251",
+        "MCB 252",
+        "MCB 253",
+        "MCB 354"
+    ]
+}

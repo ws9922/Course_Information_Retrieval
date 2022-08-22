@@ -1,0 +1,12 @@
+{
+    "title": "ECE 464",
+    "names": "Power Electronics",
+    "credit": "3 hours.",
+    "intro": "Switching functions and methods of control such as pulse-width modulation, phase control, and phase modulation; dc-dc, ac-dc, dc-ac, and ac-ac power converters; power components, including magnetic components and power semiconductor switching devices. ",
+    "instructors": [
+        "Banerjee, A"
+    ],
+    "prereq": [
+        "ECE 342"
+    ]
+}

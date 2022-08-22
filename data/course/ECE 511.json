@@ -1,0 +1,13 @@
+{
+    "title": "ECE 511",
+    "names": "Computer Architecture",
+    "credit": "4 hours.",
+    "intro": "Advanced concepts in computer architecture: design, management, and modeling of memory hierarchies; stack-oriented processors; associative processors; pipelined computers; and multiple processor systems. Emphasis on hardware alternatives in detail and their relation to system performance and cost. ",
+    "instructors": [
+        "Kumar, R"
+    ],
+    "prereq": [
+        "ECE 411",
+        "CS 433"
+    ]
+}

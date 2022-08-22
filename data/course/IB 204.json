@@ -1,0 +1,19 @@
+{
+    "title": "IB 204",
+    "names": "Genetics",
+    "credit": "3 or 4 hours.",
+    "intro": "The fundamentals of inheritance, with an emphasis on eukaryotes. Major topics include transmission genetics, quantitative genetics, cytogenetics, genomics, genetics of development and behavior, and population genetics. Laboratory emphasizes an experimental, inquiry-based approach to modern and classical genetics. Lecture only, 3 hours; with laboratory, 4 hours. ",
+    "instructors": [
+        "Madrigal, G",
+        "Raudabaugh, D",
+        "Rivera-Colon, A",
+        "Marshall-Colon, A",
+        "Seyfried, G",
+        "Laserna Cowal, A",
+        "Cucalon Tamayo, R"
+    ],
+    "prereq": [
+        "IB 150",
+        "MCB 150"
+    ]
+}

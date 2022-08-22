@@ -1,0 +1,15 @@
+{
+    "title": "ACE 310",
+    "names": "Natural Resource Economics",
+    "credit": "3 hours.",
+    "intro": "Economic principles are used to analyze a broad range of natural resource policy and management issues. Economic concepts developed include public goods, social welfare, discounting, dynamic efficiency, and resource scarcity. Natural resources examined include biodiversity, fisheries, forests, minerals, soil, and water resources. ",
+    "instructors": [
+        "Wells, K",
+        "Endres, R"
+    ],
+    "prereq": [
+        "NRES 310",
+        "ACE 100",
+        "ECON 102"
+    ]
+}

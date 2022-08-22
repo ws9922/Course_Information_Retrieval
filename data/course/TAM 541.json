@@ -1,0 +1,16 @@
+{
+    "title": "TAM 541",
+    "names": "Mathematical Methods I",
+    "credit": "4 hours.",
+    "intro": "Vector and tensor algebra and complex-variable methods; ordinary differential equations, qualitative questions of existence and uniqueness; analytic solution methods, numerical methods, power-series solution and special functions; eigenvalue problems, Green's functions, Laplace transforms, stability of solutions; engineering applications drawn from mechanics. ",
+    "instructors": [
+        "Kim, J",
+        "Mehta, P"
+    ],
+    "prereq": [
+        "MATH 285",
+        "MATH 286",
+        "MATH 441",
+        "TAM 251"
+    ]
+}

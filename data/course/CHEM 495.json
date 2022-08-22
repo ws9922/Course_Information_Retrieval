@@ -1,0 +1,12 @@
+{
+    "title": "CHEM 495",
+    "names": "Teaching Secondary Chemistry",
+    "credit": "4 hours.",
+    "intro": "Intended for undergraduates working toward certification to teach high school chemistry and graduate students working towards a Master's degree in the Teaching of Chemistry. Course aims to provide future teachers with hands-on experience in conducting laboratory experiments, demonstrations, and teaching strategies. ",
+    "instructors": [
+        "Decoste, D"
+    ],
+    "prereq": [
+        "CI 403"
+    ]
+}

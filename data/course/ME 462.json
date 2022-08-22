@@ -1,0 +1,15 @@
+{
+    "title": "ME 462",
+    "names": "Advanced Computer Control",
+    "credit": "4 hours.",
+    "intro": "Computer-based design of modern real-time controllers through progression from basic theory to advanced control algorithms proven successful in applications. Both discrete and continuous time formats are employed and linked through sampled-data concepts. The course has 8 2-hour labs providing exposure to 1) controller enhancement through AI and machine learning, 2) the related MATLAB toolboxes, 3) controller implementation on modern computing platforms (GPUs and FPGAs), and 4) applications in aerospace, power generation, manufacturing, and other areas. The lecture focus will be on clear control problem statement, analytical expressions of the control laws solving the problem, and applicability limitations. The corresponding MATLAB-based controller design tools and applications will be provided in the labs. Rigorous mathematical proofs will be given in the lectures for only a few key results. ",
+    "instructors": [
+        "Bentsman, J",
+        "Lee, Y",
+        "El-Kebir, H"
+    ],
+    "prereq": [
+        "ME 460",
+        "MATH 415"
+    ]
+}

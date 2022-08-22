@@ -1,0 +1,13 @@
+{
+    "title": "CS 425",
+    "names": "Distributed Systems",
+    "credit": "3 OR 4 hours.",
+    "intro": "Protocols, specification techniques, global states and their determination, reliable broadcast, transactions and commitment, security, and real-time systems. ",
+    "instructors": [
+        "Borisov, N"
+    ],
+    "prereq": [
+        "CS 241",
+        "ECE 391"
+    ]
+}

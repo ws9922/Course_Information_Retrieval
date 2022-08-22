@@ -1,0 +1,19 @@
+{
+    "title": "ASRM 561",
+    "names": "Loss Data Analytics & Credibility",
+    "credit": "4 hours.",
+    "intro": "Introduction to the actuarial modeling process: construction, selection and validation of empirical and parametric models. Survival, severity, frequency and aggregate loss models; statistical methods to estimate model parameters. ",
+    "instructors": [
+        "Freiji, C"
+    ],
+    "prereq": [
+        "ASRM 461",
+        "MATH 478",
+        "ASRM 561",
+        "MATH 568",
+        "ASRM 401",
+        "MATH 408",
+        "MATH 461",
+        "MATH 463"
+    ]
+}

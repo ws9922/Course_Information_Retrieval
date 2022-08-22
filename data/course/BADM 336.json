@@ -1,0 +1,12 @@
+{
+    "title": "BADM 336",
+    "names": "Modeling the Supply Chain",
+    "credit": "3 hours.",
+    "intro": "Course introduces students to supply chain modeling. It covers optimization and simulation modeling, value stream mapping, and the SCOR model for representation of supply chains. Models for strategic and tactical decision-making in supply chain design and operations will be considered. Presents examples of supply chain modeling in practice and integration of supply chain models with other business functions. ",
+    "instructors": [
+        "Mehrotra, M"
+    ],
+    "prereq": [
+        "BADM 335"
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "title": "ANSC 401",
+    "names": "Beef Production",
+    "credit": "3 hours.",
+    "intro": "The principles of the management of beef cattle enterprises. Applies science and technology to the breeding, selection, feeding, health and production of beef and beef products. Emphasizes the use of research findings in decision-making. ",
+    "instructors": [
+        "Shike, D",
+        "Parrett, D"
+    ],
+    "prereq": [
+        "ANSC 401",
+        "ANSC 213",
+        "ANSC 223"
+    ]
+}

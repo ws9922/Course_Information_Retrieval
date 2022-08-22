@@ -1,0 +1,10 @@
+{
+    "title": "BADM 352",
+    "names": "Database Design and Management",
+    "credit": "3 hours.",
+    "intro": "Introduce the modern concepts, techniques and management practices when dealing with data and use of data in organizations. Topics include data modeling, database logical and physical designs, implementation, database administration and web-based database environment. Students will be involved in constructing a database and researching an advanced topic to solidify the learning.",
+    "instructors": [
+        "Pamuksuz, U"
+    ],
+    "prereq": []
+}

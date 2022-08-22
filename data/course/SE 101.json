@@ -1,0 +1,18 @@
+{
+    "title": "SE 101",
+    "names": "Engineering Graphics & Design",
+    "credit": "3 hours.",
+    "intro": "Computer-aided design (CAD) software modeling of parts and assemblies. Parametric and non-parametric solid, surface, and wireframe models. Part editing and two-dimensional documentation of models. Planar projection theory, including sketching of perspective, isometric, multiview, auxiliary, and section views. Spatial visualization exercises. Dimensioning guidelines, tolerancing techniques. Team design project. ",
+    "instructors": [
+        "05:00PM - 05:50PM",
+        "03:00PM - 03:50PM",
+        "08:00AM - 08:50AM",
+        "09:00AM - 09:50AM",
+        "12:00PM - 12:50PM",
+        "02:00PM - 02:50PM",
+        "Goldstein, M",
+        "01:00PM - 01:50PM",
+        "04:00PM - 04:50PM"
+    ],
+    "prereq": []
+}

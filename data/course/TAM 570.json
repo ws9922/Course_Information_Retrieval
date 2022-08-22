@@ -1,0 +1,14 @@
+{
+    "title": "TAM 570",
+    "names": "Computational Fluid Mechanics",
+    "credit": "4 hours.",
+    "intro": "Highly accurate and reliable techniques for large-scale numerical simulations of fluid flows: spectral numerical methods, including Fourier and other functional expansions, Galerkin and collocation projections, domain decompositions and the solution of partial differential equations, especially the Navier-Stokes equations; high-resolution methods for the solution of hyperbolic conservation laws with discontinuous solutions, and issues related to implementation on supercomputers. ",
+    "instructors": [
+        "Christensen, N",
+        "Fischer, P"
+    ],
+    "prereq": [
+        "TAM 470",
+        "TAM 542"
+    ]
+}

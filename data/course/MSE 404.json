@@ -1,0 +1,19 @@
+{
+    "title": "MSE 404",
+    "names": "Laboratory Studies in Materials Science and Engineering",
+    "credit": "1.5 hours.",
+    "intro": "Experiments include direct hands-on investigations or are performed through computational approaches. Laboratory experiences include both fundamental studies as well as investigations on more applied topics. ",
+    "instructors": [
+        "Nagel, L",
+        "Schleife, A",
+        "Coffman, K",
+        "Zhao, Z",
+        "Gabrielson, N",
+        "Zuo, J",
+        "Kim, Y"
+    ],
+    "prereq": [
+        "MSE 307",
+        "MSE 308"
+    ]
+}

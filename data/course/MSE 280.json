@@ -1,0 +1,19 @@
+{
+    "title": "MSE 280",
+    "names": "Engineering Materials",
+    "credit": "3 hours.",
+    "intro": "Materials science and engineering of ceramics, electronic materials, metals and polymers. Bonding; crystallography; imperfections; processing and properties of semiconductors, polymers, metals, ceramics and composites; phase diagrams. Case studies. ",
+    "instructors": [
+        "Hunt, H",
+        "Shiro, E",
+        "Goodman, M"
+    ],
+    "prereq": [
+        "MSE 280",
+        "CEE 300",
+        "ME 330",
+        "MSE 201",
+        "CHEM 102",
+        "PHYS 211"
+    ]
+}

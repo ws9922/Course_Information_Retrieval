@@ -1,0 +1,17 @@
+{
+    "title": "TAM 212",
+    "names": "Introductory Dynamics",
+    "credit": "3 hours.",
+    "intro": "Kinematics and dynamics of the three-dimensional motion of particles; kinematics and dynamics of the plane motion of rigid bodies; methods of work energy and impulse momentum; moving reference frames. ",
+    "instructors": [
+        "Keivan Esfahani, D",
+        "Zhao, J",
+        "West, M",
+        "Tseng, K",
+        "Darir, H"
+    ],
+    "prereq": [
+        "TAM 210",
+        "TAM 211"
+    ]
+}

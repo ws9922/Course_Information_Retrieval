@@ -1,0 +1,12 @@
+{
+    "title": "PHYS 508",
+    "names": "Mathematical Physics I",
+    "credit": "4 hours.",
+    "intro": "Core techniques of mathematical physics widely used in the physical sciences. Calculus of variations and its applications; partial differential equations of mathematical physics (including classification and boundary conditions); separation of variables, series solutions of ordinary differential equations and Sturm-Liouville eigenproblems; Legendre polynomials, spherical harmonics, Bessel functions and their applications; normal mode eigenproblems (including the wave and diffusion equations); inhomogeneous ordinary differential equations (including variation of parameters); inhomogeneous partial differential equations and Green functions; potential theory; integral equations (including Fredholm theory). ",
+    "instructors": [
+        "Draper, P"
+    ],
+    "prereq": [
+        "MATH 285"
+    ]
+}

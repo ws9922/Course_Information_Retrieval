@@ -1,0 +1,12 @@
+{
+    "title": "LING 402",
+    "names": "Tools & Tech Spch & Lang Proc",
+    "credit": "3 OR 4 hours.",
+    "intro": "Introduction to aspects of the tools and methods of studies in speech and natural language processing (NLP), with a focus on programming for NLP and speech applications, statistical methods for data analysis, and tools for displaying and manipulating speech data. ",
+    "instructors": [
+        "Gent, H",
+        "Tang, Y",
+        "Adams, C"
+    ],
+    "prereq": []
+}

@@ -1,0 +1,14 @@
+{
+    "title": "CEE 471",
+    "names": "Structural Mechanics",
+    "credit": "3 OR 4 hours.",
+    "intro": "Beams under lateral load and thrust; beams on elastic foundations; virtual work and energy principles; principles of solid mechanics, stress and strain in three dimensions; static stability theory; torsion; computational methods. ",
+    "instructors": [
+        "Nashar, S",
+        "Masud, A"
+    ],
+    "prereq": [
+        "MATH 285",
+        "TAM 251"
+    ]
+}

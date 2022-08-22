@@ -1,0 +1,17 @@
+{
+    "title": "MCB 400",
+    "names": "Cancer Cell Biology",
+    "credit": "3 hours.",
+    "intro": "Principles of eukaryotic cell biology with an emphasis on cancer cell biology; consideration of molecular and fine structural components of the cell with an emphasis on experimental analysis of the relationship of structure to function of gene, membrane, cytoskeleton, and extracellular matrix. ",
+    "instructors": [
+        "Prasanth, S"
+    ],
+    "prereq": [
+        "MCB 250",
+        "MCB 251",
+        "MCB 252",
+        "MCB 253",
+        "MCB 354",
+        "MCB 450"
+    ]
+}

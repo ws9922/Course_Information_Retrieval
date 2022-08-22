@@ -1,0 +1,13 @@
+{
+    "title": "ACE 428",
+    "names": "Commodity Futures and Options",
+    "credit": "3 hours.",
+    "intro": "Development of futures trading; operation and governance of commodity exchanges; economic functions of futures trading; operational procedures and problems in using futures markets; public regulation of futures trading; evaluation of market performance. ",
+    "instructors": [
+        "Robe, M"
+    ],
+    "prereq": [
+        "ACE 222",
+        "FIN 300"
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "title": "GEOG 379",
+    "names": "Intro to GIS Systems",
+    "credit": "4 hours.",
+    "intro": "Investigates the fundamentals of geographic information science as well as the basic skills in the execution of that theoretical knowledge with industry standard software packages. Student will learn the basics of projections and coordinate systems, how geographic information is stored and manipulated, and the theory and practice behind the production of thematic maps. Includes lecture and hands-on laboratory components. ",
+    "instructors": [
+        "Zhao, Y",
+        "Anderson, D",
+        "Winata, F"
+    ],
+    "prereq": []
+}

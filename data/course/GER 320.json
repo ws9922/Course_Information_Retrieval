@@ -1,0 +1,13 @@
+{
+    "title": "GER 320",
+    "names": "German for Business",
+    "credit": "3 hours.",
+    "intro": "Introduces German business language as used in basic operations in retail/wholesale, export/import, banking transactions. ",
+    "instructors": [
+        "Niekerk, C",
+        "Alomerovic, B"
+    ],
+    "prereq": [
+        "GER 211"
+    ]
+}

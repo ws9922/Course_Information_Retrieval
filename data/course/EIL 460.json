@@ -1,0 +1,17 @@
+{
+    "title": "EIL 460",
+    "names": "Principles of Language Testing",
+    "credit": "3 OR 4 hours.",
+    "intro": "Studies theoretical and practical aspects of language testing. Examines purposes and types of language tests in relation to theories of language use and language teaching goals; discusses testing practices and procedures related to language teaching and language  research; and includes the planning, writing, and administration of tests, basic descriptive statistics, and test analysis. A project is required. ",
+    "instructors": [
+        "Pierce, L"
+    ],
+    "prereq": [
+        "FR 460",
+        "GER 460",
+        "ITAL 460",
+        "PORT 460",
+        "SPAN 460",
+        "EIL 489"
+    ]
+}

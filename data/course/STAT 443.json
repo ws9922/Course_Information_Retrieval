@@ -1,0 +1,12 @@
+{
+    "title": "STAT 443",
+    "names": "Professional Statistics",
+    "credit": "3 OR 4 hours.",
+    "intro": "This project-based course emphasizes written, visual, and oral communication of statistical results and conclusions. An introduction to statistical consulting is also provided. Additional topics include introductions to statistical methodologies in industry and aspects of careers in statistics. ",
+    "instructors": [
+        "Glosemeyer, D"
+    ],
+    "prereq": [
+        "STAT 420"
+    ]
+}

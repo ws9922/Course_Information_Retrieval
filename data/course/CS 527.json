@@ -1,0 +1,13 @@
+{
+    "title": "CS 527",
+    "names": "Topics in Software Engineering",
+    "credit": "4 hours.",
+    "intro": "Fault-tolerant software, software architecture, software patterns, multi-media software, and knowledge-based approaches to software engineering. Case studies. ",
+    "instructors": [
+        "Marinov, D"
+    ],
+    "prereq": [
+        "CS 428",
+        "CS 429"
+    ]
+}

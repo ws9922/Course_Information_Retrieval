@@ -1,0 +1,12 @@
+{
+    "title": "CS 426",
+    "names": "Compiler Construction",
+    "credit": "3 OR 4 hours.",
+    "intro": "Compiler structure, syntax analysis, syntax-directed translation, automatically constructed recognizers, semantic analysis, code generation, intermediate language, optimization techniques. ",
+    "instructors": [
+        "Adve, V"
+    ],
+    "prereq": [
+        "CS 421"
+    ]
+}

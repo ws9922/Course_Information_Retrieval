@@ -1,0 +1,10 @@
+{
+    "title": "MATH 580",
+    "names": "Combinatorial Mathematics",
+    "credit": "4 hours.",
+    "intro": "Fundamental results on core topics of combinatorial mathematics: classical enumeration, basic graph theory, extremal problems on finite sets, probabilistic methods, design theory, discrete optimization. ",
+    "instructors": [
+        "Balogh, J"
+    ],
+    "prereq": []
+}

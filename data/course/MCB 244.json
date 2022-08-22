@@ -1,0 +1,14 @@
+{
+    "title": "MCB 244",
+    "names": "Human Anatomy & Physiology I",
+    "credit": "3 hours.",
+    "intro": "Organ system biology with an emphasis on normal human anatomy and physiology, physiological processes and associated disease processes of the following systems; skeletal, muscle, nervous, sensory, and endocrine. ",
+    "instructors": [
+        "Joesting, J",
+        "Brown, C"
+    ],
+    "prereq": [
+        "CHEM 101",
+        "CHEM 102"
+    ]
+}

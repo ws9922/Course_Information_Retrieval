@@ -1,0 +1,18 @@
+{
+    "title": "PSYC 201",
+    "names": "Intro to Social Psych",
+    "credit": "3 hours.",
+    "intro": "Systematic study of social factors in individual and group behavior; attention to social perception, motivation, and learning; attitudes, norms, and social influence processes; the development and dynamics of groups; and the effects of social and cultural factors on the individual. ",
+    "instructors": [
+        "Dai, W",
+        "Shenouda, C",
+        "Chen, F",
+        "Vogt, R",
+        "Hyland, W",
+        "Cho, M"
+    ],
+    "prereq": [
+        "PSYC 100",
+        "PSYC 103"
+    ]
+}

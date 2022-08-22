@@ -1,0 +1,13 @@
+{
+    "title": "ACCY 570",
+    "names": "Data Analytics Foundations for Accountancy",
+    "credit": "2 or 4 hours.",
+    "intro": "Concepts and foundations underlying data analytics for accounting. Provides fundamental knowledge of how to acquire, organize, synthesize and analyze (possibly large) volumes of data to address questions and problems. After completing this course, students should (1) have a foundational understanding of the techniques underlying data analytics, (2) recognize scenarios and identify appropriate tools for various types of data analysis and (3) use Python and Tableau to perform data analysis. ",
+    "instructors": [
+        "05:00PM - 05:50PM",
+        "06:00PM - 06:50PM",
+        "08:00AM - 09:20AM",
+        "04:00PM - 04:50PM"
+    ],
+    "prereq": []
+}

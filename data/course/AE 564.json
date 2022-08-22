@@ -1,0 +1,15 @@
+{
+    "title": "AE 564",
+    "names": "Advanced Aero Propulsion Lab",
+    "credit": "4 hours.",
+    "intro": "Theory and application of advanced diagnostic techniques used in aerodynamics and propulsion research with an emphasis placed on wind tunnel testing and advanced optical and laser-based techniques. Experience with aircraft performance measurement, wind tunnel testing, schlieren/shadowgraph photography, interferometry, spectroscopy, laser Doppler velocimetry, particle and molecular-based scattering, particle image velocimetry, pressure/temperature/shear sensitive paint, and other recently developed techniques provided through lectures and laboratory exercises.",
+    "instructors": [
+        "Elliott, G"
+    ],
+    "prereq": [
+        "AE 311",
+        "AE 312",
+        "AE 433",
+        "AE 460"
+    ]
+}

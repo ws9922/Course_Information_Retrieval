@@ -1,0 +1,13 @@
+{
+    "title": "ECE 473",
+    "names": "Fund of Engrg Acoustics",
+    "credit": "3 OR 4 hours.",
+    "intro": "Development of the basic theoretical concepts of acoustical systems; mechanical vibration, plane and spherical wave phenomena in fluid media, lumped and distributed resonant systems, and absorption phenomena and hearing. ",
+    "instructors": [
+        "Oelze, M"
+    ],
+    "prereq": [
+        "MATH 285",
+        "MATH 286"
+    ]
+}

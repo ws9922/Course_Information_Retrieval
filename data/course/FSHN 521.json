@@ -1,0 +1,15 @@
+{
+    "title": "FSHN 521",
+    "names": "Molecular Basis of Metabolic Syndrome and Weight Management",
+    "credit": "2 hours.",
+    "intro": "The objective of the course is to help nutritionists and dietitians build a strong biochemical, physiological, clinical and epidemiological foundation in the areas of: 1. Metabolic adaptation to positive and negative energy balance 2. Progression and regression of metabolic syndrome 3. Principles of running a cost-effective dietary weight loss/maintenance program. ",
+    "instructors": [
+        "Nakamura, M"
+    ],
+    "prereq": [
+        "MCB 450",
+        "MCB 244",
+        "MCB 246",
+        "FSHN 420"
+    ]
+}

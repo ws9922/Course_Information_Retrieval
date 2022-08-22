@@ -1,0 +1,14 @@
+{
+    "title": "CEE 504",
+    "names": "Infrastructure NDE Methods",
+    "credit": "4 hours.",
+    "intro": "Fundamental bases and methodologies of non-destructive evaluation (NDE) techniques for infrastructure materials: methods for steel including ultrasound, radiography, eddy-current and magnetic-particles; methods for concrete including sounding, semi-destructive, ultrasound, seismic, impact-echo, impulse-response, ground-penetrating radar, infrared-thermography, and nuclear; planning and carrying out NDE structural investigations. Weekly laboratory sessions, a research paper, and an associated presentation related to NDE required. ",
+    "instructors": [
+        "Lee, S",
+        "Popovics, J"
+    ],
+    "prereq": [
+        "CEE 401",
+        "CEE 405"
+    ]
+}

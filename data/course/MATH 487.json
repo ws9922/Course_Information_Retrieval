@@ -1,0 +1,15 @@
+{
+    "title": "MATH 487",
+    "names": "Advanced Engineering Math",
+    "credit": "3 OR 4 hours.",
+    "intro": "Complex linear algebra, inner product spaces, Fourier transforms and analysis of boundary value problems, Sturm-Liouville theory. ",
+    "instructors": [
+        "Allen, J"
+    ],
+    "prereq": [
+        "MATH 284",
+        "MATH 285",
+        "MATH 286",
+        "MATH 441"
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "title": "MCB 100",
+    "names": "Introductory Microbiology",
+    "credit": "3 hours.",
+    "intro": "Introduction to the principal activities and properties of microorganisms, including bacteria, yeasts, molds, and viruses; consideration of the role of natural processes, such as photosynthesis; and man's use and control of microorganisms in the production of antibodies and vaccines in industrial fermentations, in sanitation and public health, and in agriculture. ",
+    "instructors": [
+        "Kieffer, C",
+        "Wilson, B"
+    ],
+    "prereq": [
+        "MCB 100",
+        "MCB 300",
+        "MCB 100"
+    ]
+}

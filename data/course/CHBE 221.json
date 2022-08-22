@@ -1,0 +1,19 @@
+{
+    "title": "CHBE 221",
+    "names": "Principles of CHE",
+    "credit": "3 hours.",
+    "intro": "Lectures and problems on material and energy balances.  ",
+    "instructors": [
+        "Griebler, J",
+        "Yang, H",
+        "Rogers, S",
+        "Someshwar, S",
+        "Hashim, S",
+        "Yu, S"
+    ],
+    "prereq": [
+        "CHEM 104",
+        "CHEM 204",
+        "CS 101"
+    ]
+}

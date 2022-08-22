@@ -1,0 +1,14 @@
+{
+    "title": "HIST 170",
+    "names": "US History to 1877-ACP",
+    "credit": "4 hours.",
+    "intro": "Course is identical to HIST 171 except for the additional writing component. ",
+    "instructors": [
+        "Jones, D",
+        "Hogarth, R"
+    ],
+    "prereq": [
+        "HIST 170",
+        "HIST 171"
+    ]
+}

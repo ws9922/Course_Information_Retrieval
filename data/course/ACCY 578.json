@@ -1,0 +1,13 @@
+{
+    "title": "ACCY 578",
+    "names": "Accounting Analytics Applications",
+    "credit": "1 hours.",
+    "intro": "Develops students’ knowledge regarding the role, methods, and implications of business and data analytics in accounting via real-world applications of fundamental and advanced analytics principles. Application opportunities span multiple areas of accounting, including audit, fraud identification and detection, financial accounting, and managerial accounting. After engaging in this course, students should (1) have a foundational understanding of the role of business / data analytics in accounting and (2) be able to apply this knowledge to real-world clients, business decisions, etc. ",
+    "instructors": [
+        "Lu, L",
+        "Nekrasz, F"
+    ],
+    "prereq": [
+        "ACCY 576"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "title": "CHEM 222",
+    "names": "Quantitative Analysis Lecture",
+    "credit": "2 hours.",
+    "intro": "Fundamentals of quantitative analysis, chemical equilibrium and kinetics. This lecture course is intended to accompany CHEM 223. ",
+    "instructors": [
+        "Shen, M",
+        "Miller, A",
+        "Chen, S",
+        "Cress, T"
+    ],
+    "prereq": [
+        "CHEM 222",
+        "CHEM 203",
+        "CHEM 104",
+        "CHEM 105"
+    ]
+}

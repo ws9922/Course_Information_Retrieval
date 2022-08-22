@@ -1,0 +1,17 @@
+{
+    "title": "ASTR 350",
+    "names": "The Big Bang, Black Holes, and the End of the Universe",
+    "credit": "3 hours.",
+    "intro": "Studies the origin, evolution, and eventual fate of the universe, and the scientific tools used to study these issues. Topics include aspects of special and general relativity; curved spacetime; the Big Bang; inflation; primordial element synthesis; the cosmic microwave background; dark matter and the formation of galaxies; observational evidence for dark matter, dark energy, and black holes. ",
+    "instructors": [
+        "Shen, Y"
+    ],
+    "prereq": [
+        "ASTR 350",
+        "ASTR 406",
+        "ASTR 100",
+        "ASTR 121",
+        "ASTR 122",
+        "ASTR 210"
+    ]
+}

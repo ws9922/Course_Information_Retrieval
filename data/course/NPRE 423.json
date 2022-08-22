@@ -1,0 +1,13 @@
+{
+    "title": "NPRE 423",
+    "names": "Plasma Laboratory",
+    "credit": "2 hours.",
+    "intro": "Experiments relating to plasma engineering and fusion energy. Topics in ultra-high vacuum technology rf and dc electric plasma probes, measurements of dc and pulsed magnetic fields, dynamics of a theta pinch, and laser interferometry to measure plasma density. ",
+    "instructors": [
+        "Sankaran, R"
+    ],
+    "prereq": [
+        "NPRE 421",
+        "NPRE 451"
+    ]
+}

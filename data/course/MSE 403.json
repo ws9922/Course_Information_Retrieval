@@ -1,0 +1,14 @@
+{
+    "title": "MSE 403",
+    "names": "Synthesis of Materials",
+    "credit": "3 hours.",
+    "intro": "Fundamentals of the synthesis of materials. Principles of synthesis; processes, approaches, synthetic methodology and probes; methodologies in materials synthesis; polymerization, sol-gel processes, liquid and vapor phase synthesis, materials coupling reactions, and precursor-derived, radiation-induced and asymmetric synthesis. ",
+    "instructors": [
+        "Shoemaker, D",
+        "Coffman, K"
+    ],
+    "prereq": [
+        "MSE 201",
+        "MSE 401"
+    ]
+}

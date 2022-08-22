@@ -1,0 +1,15 @@
+{
+    "title": "CHBE 422",
+    "names": "Mass Transfer Operations",
+    "credit": "4 hours.",
+    "intro": "Introduction to mass transfer processes and design methods for separation equipment. ",
+    "instructors": [
+        "Chen, R",
+        "Su, X",
+        "Jain, M"
+    ],
+    "prereq": [
+        "CHBE 321",
+        "CHBE 421"
+    ]
+}

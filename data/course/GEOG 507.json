@@ -1,0 +1,12 @@
+{
+    "title": "GEOG 507",
+    "names": "High-Performance Geospatial Computing",
+    "credit": "4 hours.",
+    "intro": "Intended to introduce students to high-performance geospatial computing using python to resolve computational bottlenecks and produce faster and scalable solutions. Students will learn how to use Python on high-performance and parallel computing architecture. Specifically, NumPy, SciPy, Numba, and Cython will be covered to optimize and speed up geospatial computation. Students will use CyberGISX as the primary learning environment, and be expected to learn how to develop such notebooks to address computational challenges in solving geospatial problems. By the end, students will have gained solid knowledge of common Python tools for developing high-performance geospatial computing solutions that can be applied to many applications. ",
+    "instructors": [
+        "Lyu, F"
+    ],
+    "prereq": [
+        "GEOG 407"
+    ]
+}

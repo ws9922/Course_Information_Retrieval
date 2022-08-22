@@ -1,0 +1,17 @@
+{
+    "title": "ADV 281",
+    "names": "Advertising Research Methods",
+    "credit": "3 hours.",
+    "intro": "Introduces students to the wide spectrum of qualitative and quantitative research techniques that are commonly used in the advertising industry. In addition to examining the principles, methods and techniques of advertising research, the course will address issues such as when research should and should not be conducted, analyzing data sets, forming meaningful research questions, figuring out how to answer the questions, and presenting the answers to these questions in a clear and compelling manner. ",
+    "instructors": [
+        "Lee, S",
+        "Vargas, P",
+        "Shabalina, O"
+    ],
+    "prereq": [
+        "ADV 281",
+        "ADV 481",
+        "ADV 150",
+        "STAT 100"
+    ]
+}

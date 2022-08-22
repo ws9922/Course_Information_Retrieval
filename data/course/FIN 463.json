@@ -1,0 +1,15 @@
+{
+    "title": "FIN 463",
+    "names": "Investment Banking",
+    "credit": "3 hours.",
+    "intro": "The mechanics of financial statement analysis and ratio analysis; development of investment banking/corporate finance valuation models (including DCF, leveraged buyout and merger models) in order to determine the intrinsic value of companies and price investment banking deals. ",
+    "instructors": [
+        "Bertram, J",
+        "Metzger, R"
+    ],
+    "prereq": [
+        "FIN 300",
+        "FIN 300",
+        "FIN 391"
+    ]
+}

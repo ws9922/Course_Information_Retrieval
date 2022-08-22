@@ -1,0 +1,21 @@
+{
+    "title": "EPSY 201",
+    "names": "Educational Psychology",
+    "credit": "3 hours.",
+    "intro": "Explores fundamental issues of development, learning, instruction, and assessment. This course articulates how people learn, how they are influenced by cultural and social contexts, how to assess learning and its outcomes, and how best to teach and motivate people to achieve. Educational psychologists improve learning in a broad range of settings: homes, classrooms, work environments, and communities.  ",
+    "instructors": [
+        "Cicek, Y",
+        "Chen, R",
+        "Yun, G",
+        "Keyser, G",
+        "Pan, M",
+        "Threadgill, R",
+        "Shipley, E",
+        "Chen, D",
+        "Quirk, V",
+        "Ding, Y"
+    ],
+    "prereq": [
+        "PSYC 100"
+    ]
+}

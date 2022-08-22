@@ -1,0 +1,15 @@
+{
+    "title": "ME 447",
+    "names": "Computational Design and Dynamics of Soft Systems",
+    "credit": "4 hours.",
+    "intro": "Provides a hands-on introduction to modern modeling and simulations techniques for heterogeneous structures made of assemblies of soft, elastic slender elements. Such systems are ubiquitous in nature, from animal musculoskeletal architectures to 'birds-nest' composite materials. They are also becoming increasingly relevant in robotics. Students will implement in python their own Cosserat rods-based solver. The developed solver will be then coupled with evolutionary optimization techniques for design, and reinforcement learning for control. ",
+    "instructors": [
+        "Parthasarathy, T",
+        "Gazzola, M"
+    ],
+    "prereq": [
+        "CS 101",
+        "CS 125",
+        "MATH 415"
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "title": "ACCY 517",
+    "names": "Financial Statement Analysis",
+    "credit": "4 hours.",
+    "intro": "Examines tools and techniques of financial statement analysis from the perspective of investors and creditors; emphasizes theoretical and empirical properties of financial ratios. ",
+    "instructors": [
+        "Zhang, L",
+        "Hamm, B"
+    ],
+    "prereq": [
+        "ACCY 410",
+        "ACCY 500",
+        "ACCY 502"
+    ]
+}

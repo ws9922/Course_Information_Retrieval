@@ -1,0 +1,13 @@
+{
+    "title": "PS 386",
+    "names": "International Law",
+    "credit": "3 hours.",
+    "intro": "Analyzes the concepts and bases of public international law. Topics include sources and subjects of international law, as well as issues of jurisdiction, territory, law of the sea, and use of military force. ",
+    "instructors": [
+        "Diehl, P"
+    ],
+    "prereq": [
+        "PS 280",
+        "PS 283"
+    ]
+}

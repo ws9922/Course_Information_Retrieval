@@ -1,0 +1,12 @@
+{
+    "title": "HDFS 206",
+    "names": "Early Childhood Curriculum Dev",
+    "credit": "4 hours.",
+    "intro": "Introduces development of curriculum for children from birth to age five; integrates child development theory and principles with programming for young children in preschool and childcare setting. ",
+    "instructors": [
+        "Yao, L"
+    ],
+    "prereq": [
+        "HDFS 105"
+    ]
+}

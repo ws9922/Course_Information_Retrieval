@@ -1,0 +1,12 @@
+{
+    "title": "CS 424",
+    "names": "Real-Time Systems",
+    "credit": "3 OR 4 hours.",
+    "intro": "Supervisory control aspects of Cyber Physical Systems (CPS): fundamentals of reliability analysis, real-time scheduling, simple feedback control, software fault tolerance architecture, wireless networking and energy saving, principles of safety critical system engineering. Student groups design and demonstrate supervisory control architecture for a robot. ",
+    "instructors": [
+        "Abdelzaher, T"
+    ],
+    "prereq": [
+        "CS 241"
+    ]
+}

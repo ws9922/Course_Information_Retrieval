@@ -1,0 +1,13 @@
+{
+    "title": "BADM 374",
+    "names": "Management Decision Models",
+    "credit": "3 hours.",
+    "intro": "Introduction to methods of operations research from an executive or managerial viewpoint, emphasizing formulation of business problems in quantitative terms; industrial applications of linear programming, dynamic programming, game theory, probability theory, queuing theory, and inventory theory. ",
+    "instructors": [
+        "Ye, H"
+    ],
+    "prereq": [
+        "ECON 203",
+        "BADM 210"
+    ]
+}

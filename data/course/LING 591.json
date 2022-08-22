@@ -1,0 +1,13 @@
+{
+    "title": "LING 591",
+    "names": "Seminar in Linguistic Analysis",
+    "credit": "2 OR 4 hours.",
+    "intro": "Discussion of advanced topics of current interest. ",
+    "instructors": [
+        "Lasersohn, P"
+    ],
+    "prereq": [
+        "LING 501",
+        "LING 502"
+    ]
+}

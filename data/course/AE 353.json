@@ -1,0 +1,17 @@
+{
+    "title": "AE 353",
+    "names": "Aerospace Control Systems",
+    "credit": "3 hours.",
+    "intro": "Modeling of linear dynamic systems; Laplace transform techniques; linear feedback control systems; stability criteria; design techniques. ",
+    "instructors": [
+        "Ornik, M"
+    ],
+    "prereq": [
+        "AE 353",
+        "GE 320",
+        "ME 340",
+        "MATH 225",
+        "MATH 285",
+        "TAM 212"
+    ]
+}

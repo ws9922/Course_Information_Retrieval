@@ -1,0 +1,12 @@
+{
+    "title": "ATMS 207",
+    "names": "Weather and Climate Data Science",
+    "credit": "3 hours.",
+    "intro": "Introduces python programming fundamentals as applied to real-world problems in the atmospheric sciences. Students will develop an understanding of the structure and use of weather and climate datasets; use computers for data representation, presentation, and visualization; and implement introductory methods for weather and climate data reduction and statistical analysis. ",
+    "instructors": [
+        "Nesbitt, S"
+    ],
+    "prereq": [
+        "STAT 107"
+    ]
+}

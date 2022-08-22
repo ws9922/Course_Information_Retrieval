@@ -1,0 +1,17 @@
+{
+    "title": "IS 305",
+    "names": "Programming for Information Problems II",
+    "credit": "3 hours.",
+    "intro": "Continuing coverage of common data processing and computing methods in the information sciences. Building on programming skills from IS 205, additional programming patterns will be explored, and additional tools like the command line and version control will be explored in the context of information problems. ",
+    "instructors": [
+        "09:30AM - 10:50AM",
+        "Wickes, E"
+    ],
+    "prereq": [
+        "IS 205",
+        "CS 101",
+        "CS 105",
+        "CS 125",
+        "ECE 120"
+    ]
+}

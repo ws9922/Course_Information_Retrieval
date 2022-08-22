@@ -1,0 +1,15 @@
+{
+    "title": "ATMS 410",
+    "names": "Radar Remote Sensing",
+    "credit": "4 hours.",
+    "intro": "Basic principles of radar and references to other ground based remote sensing systems, with emphasis on radar. Discusses principles of conventional and Doppler radar, data processing, and use of Doppler radar in meteorology. Emphasizes radar observations of meteorological phenomena, such as severe thunderstorms and wind shear. Students analyze data from national radar facilities. ",
+    "instructors": [
+        "Rauber, R",
+        "Zaremba, T"
+    ],
+    "prereq": [
+        "ATMS 201",
+        "MATH 231",
+        "MATH 241"
+    ]
+}

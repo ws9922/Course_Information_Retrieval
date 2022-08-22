@@ -1,0 +1,17 @@
+{
+    "title": "MCB 450",
+    "names": "Introductory Biochemistry",
+    "credit": "3 hours.",
+    "intro": "Chemistry and metabolism of carbohydrates, lipids, proteins, nucleic acids, vitamins, and coenzymes and their relation to the regulation and processes of organisms, cells, and subcellular components. Students who enter the University Fall 2011 or later are responsible for additional course-based tuition of $300 unless they are already paying differential tuition during the term of course enrollment. ",
+    "instructors": [
+        "Fratti, R",
+        "Good, E",
+        "Chen, L"
+    ],
+    "prereq": [
+        "MCB 450",
+        "MCB 354",
+        "CHEM 232",
+        "CHEM 236"
+    ]
+}

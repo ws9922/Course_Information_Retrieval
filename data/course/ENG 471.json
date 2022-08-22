@@ -1,0 +1,19 @@
+{
+    "title": "ENG 471",
+    "names": "Seminar Energy & Sustain Engrg",
+    "credit": "1 hours.",
+    "intro": "Challenges of developing energy systems and civil infrastructure that are sustainable in terms of resource availability, security, and environmental impact. Guest lecturers focus on: (i) global challenges -- future energy demand, geologic sources of energy, climate change, energy-water nexus, energy and security; (ii) markets, policies and systems -- economic incentives, policy and law, life cycle analyses; (iii) opportunities for change -- CO2 sequestration, renewable power, bioenergy feedstocks, biofuels for transportation, energy use in buildings, advanced power conversion, the smart grid. ",
+    "instructors": [
+        "Uddin, R",
+        "Abelson, J"
+    ],
+    "prereq": [
+        "MATH 220",
+        "MATH 221",
+        "CHEM 104",
+        "CHEM 204",
+        "PHYS 101",
+        "PHYS 211",
+        "NPRE 201"
+    ]
+}

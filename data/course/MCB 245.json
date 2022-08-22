@@ -1,0 +1,26 @@
+{
+    "title": "MCB 245",
+    "names": "Human Anat & Physiol Lab I",
+    "credit": "2 hours.",
+    "intro": "Laboratory exploration of normal human anatomy and physiology and relevant disease processes for the following systems: tissue, skeletal, nervous, muscular, sensory, and endocrine. Previously dissected human cadavers are an important part of the learning experience in this course, but students will not dissect human cadavers. Neither animal dissection or animal use are elements of this course. ",
+    "instructors": [
+        "Wu, J",
+        "Nguyen, J",
+        "Asokakumar, A",
+        "Joesting, J",
+        "Key, M",
+        "He, M",
+        "Otero, A",
+        "Hobbs, S",
+        "Gonzalez, R",
+        "Shaw, R",
+        "Oh, T",
+        "Park, H",
+        "Chen, X",
+        "Lee, C"
+    ],
+    "prereq": [
+        "CHEM 101",
+        "CHEM 102"
+    ]
+}

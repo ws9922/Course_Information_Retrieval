@@ -1,0 +1,15 @@
+{
+    "title": "CHEM 483",
+    "names": "Solid State Structural Anlys",
+    "credit": "4 hours.",
+    "intro": "Lectures and laboratory on various aspects of X-ray diffraction studies of solids; topics include the properties of crystals, symmetry, diffraction techniques, data collection methods, and the determination and refinement of crystal structures. ",
+    "instructors": [
+        "Flores, V",
+        "Duran, K",
+        "Gray, D",
+        "Girolami, G"
+    ],
+    "prereq": [
+        "CHEM 442"
+    ]
+}

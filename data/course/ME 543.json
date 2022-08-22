@@ -1,0 +1,19 @@
+{
+    "title": "ME 543",
+    "names": "Applied Control System Design & Analysis",
+    "credit": "4 hours.",
+    "intro": "Covers advanced design and analysis of control systems by state-space methods: classical control review, Laplace transforms, review of linear algebra (vector space, change of basis, diagonal and Jordan forms), linear dynamic systems (modes, stability, controllability, state feedback, observability, observers, canonical forms, output feedback, separation principle and decoupling), nonlinear dynamic systems (stability, Lyapunov methods). Frequency domain analysis of multivariable control systems. State space control system design methods: state feedback, observer feedback, pole placement, linear optimal control. Design exercises with CAD (computer-aided design) packages for engineering problems. Key to the course are the applied/real-world examples and CAD homework problems used to teach and reinforce the learnings of the material. Aerospace control system pose some of the most difficult and challenging control system design problems. In addition to designing feedback control system gains, the course teaches filtering techniques needed in real-world implementation of flight controls systems. ",
+    "instructors": [
+        "Wise, K",
+        "Wu, Z"
+    ],
+    "prereq": [
+        "ME 543",
+        "ECE 515",
+        "ME 540",
+        "MATH 257",
+        "MATH 415",
+        "ME 340",
+        "TAM 412"
+    ]
+}

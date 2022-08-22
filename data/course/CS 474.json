@@ -1,0 +1,14 @@
+{
+    "title": "CS 474",
+    "names": "Logic in Computer Science",
+    "credit": "3 OR 4 hours.",
+    "intro": "An introduction to mathematical logic from the perspective of computer science, emphasizing both computable aspects of logic, especially automated reasoning, as well as applications of logic to computer science in artificial intelligence, databases, formal methods, and theoretical computer science. Prepares students to use logic as a formal tool to solve problems in computer science and AI. Topics include: syntax, semantics and proofs for propositional and first order logic, the decidable logics and efficient realizations in terms of SAT/SMT solvers, decision and semi-decision procedures for first order logic and several first order logic theories, finite model theory and descriptive complexity. Additional topics include: connections between logic and machine learning, higher order logics, applications of logic to program verification, applications of logic in knowledge representation, proof complexity, modal and temporal logic, Courcelle’s theorem and its applications in parameterized complexity, logic and its role in automatic program synthesis, connections between logic and database query languages. ",
+    "instructors": [
+        "Viswanathan, M"
+    ],
+    "prereq": [
+        "CS 173",
+        "CS 225",
+        "CS 374"
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "title": "TAM 538",
+    "names": "Turbulence",
+    "credit": "4 hours.",
+    "intro": "Instability and origins of chaotic motion in fluid flow; Reynolds averaging and statistical description of turbulence, correlations and spectral dynamics of homogeneous turbulence, anisotropic flows, coherent structures, inhomogeneous turbulence, transport models, and large-eddy simulations. ",
+    "instructors": [
+        "Chamorro Chavez, L"
+    ],
+    "prereq": [
+        "TAM 532"
+    ]
+}

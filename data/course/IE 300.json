@@ -1,0 +1,21 @@
+{
+    "title": "IE 300",
+    "names": "Analysis of Data",
+    "credit": "3 hours.",
+    "intro": "Nature of probabilistic models for observed data; discrete and continuous distribution function models; inferences on universe parameters based on sample values; control charts, acceptance sampling, and measurement theory. ",
+    "instructors": [
+        "Zhu, X",
+        "Vogiatzis, C",
+        "Lusebrink, R",
+        "Xu, Z",
+        "Kohtz, S",
+        "King, D",
+        "Karajgikar, V",
+        "Soleymanifar, R"
+    ],
+    "prereq": [
+        "IE 300",
+        "CEE 202",
+        "MATH 241"
+    ]
+}

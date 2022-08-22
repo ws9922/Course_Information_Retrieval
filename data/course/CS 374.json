@@ -1,0 +1,25 @@
+{
+    "title": "CS 374",
+    "names": "Introduction to Algorithms & Models of Computation",
+    "credit": "4 hours.",
+    "intro": "Analysis of algorithms, major paradigms of algorithm design including recursive algorithms, divide-and-conquer algorithms, dynamic programming, greedy algorithms, and graph algorithms. Formal models of computation including finite automata and Turing machines. Limitations of computation arising from fundamental notions of algorithm and from complexity-theoretic constraints. Reductions, undecidability and NP-completeness. ",
+    "instructors": [
+        "Andrews, R",
+        "Erickson, J",
+        "Kani, N",
+        "Howard, C",
+        "Ashur, S",
+        "Kulkarni, S",
+        "Viola, C",
+        "Khurana, D",
+        "Hulett, J",
+        "Bajpai, T",
+        "Zheng, D",
+        "Robson, E"
+    ],
+    "prereq": [
+        "CS 173",
+        "MATH 213",
+        "CS 225"
+    ]
+}

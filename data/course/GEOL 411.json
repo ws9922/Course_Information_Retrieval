@@ -1,0 +1,13 @@
+{
+    "title": "GEOL 411",
+    "names": "Structural Geol and Tectonics",
+    "credit": "4 hours.",
+    "intro": "Introduction to principles of rock deformation, stress, and strain; description and interpretation of geologic structures; study of methods for structural analysis; outline of geotectonic processes; three hours of lecture and a three-hour lab per week. Required four-day field trip. ",
+    "instructors": [
+        "Guenthner, W",
+        "Kaempfer, J"
+    ],
+    "prereq": [
+        "GEOL 107"
+    ]
+}

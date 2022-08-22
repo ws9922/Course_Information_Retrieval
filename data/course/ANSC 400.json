@@ -1,0 +1,12 @@
+{
+    "title": "ANSC 400",
+    "names": "Dairy Herd Management",
+    "credit": "3 hours.",
+    "intro": "The technology of modern milk production practices; application of principles in nutrition, physiology, economics, health and hygiene, waste management, and facilities design for efficient dairy herd management systems. ",
+    "instructors": [
+        "Cardoso, F"
+    ],
+    "prereq": [
+        "ANSC 201"
+    ]
+}

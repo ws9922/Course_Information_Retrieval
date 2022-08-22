@@ -1,0 +1,13 @@
+{
+    "title": "GEOL 470",
+    "names": "Introduction to Hydrogeology",
+    "credit": "4 hours.",
+    "intro": "Introduction to the occurrence and movement of groundwater through the earth's crust; topics include aquifers and porous media, fluid flow and solute transport, well installation, groundwater contamination, recharge/discharge, irrigation and hydrocarbon resources. ",
+    "instructors": [
+        "Druhan, J"
+    ],
+    "prereq": [
+        "MATH 220",
+        "MATH 221"
+    ]
+}

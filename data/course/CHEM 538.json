@@ -1,0 +1,14 @@
+{
+    "title": "CHEM 538",
+    "names": "Topics in Organic Chemistry",
+    "credit": "2 TO 4 hours.",
+    "intro": "Advanced course dealing with subject matter not ordinarily covered by regularly scheduled courses, such as natural product synthesis and biosynthesis, organic photochemistry, chemistry of special families of organic compounds, etc. ",
+    "instructors": [
+        "Burke, M",
+        "Green, N"
+    ],
+    "prereq": [
+        "CHEM 532",
+        "CHEM 534"
+    ]
+}

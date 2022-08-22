@@ -1,0 +1,15 @@
+{
+    "title": "PSYC 524",
+    "names": "Dev Psycholinguistics",
+    "credit": "2 OR 4 hours.",
+    "intro": "Examination of empirical and theoretical literature on the acquisition of language; emphasis on universal patterns in the acquisition of a first language and on a consideration of explanations, both psychological and linguistic, for these patterns. ",
+    "instructors": [
+        "Fisher, C"
+    ],
+    "prereq": [
+        "MDIA 524",
+        "LING 425",
+        "PSYC 425",
+        "PSYC 462"
+    ]
+}

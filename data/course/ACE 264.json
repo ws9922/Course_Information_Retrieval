@@ -1,0 +1,17 @@
+{
+    "title": "ACE 264",
+    "names": "Applied Statistical Methods & Data Analytics 2",
+    "credit": "3 hours.",
+    "intro": "Offers the statistical and econometric tools to describe and understand common economic issues. The emphasis will be on the multiple regression model and its associated extensions regularly used to overcome traditional econometric issues. The course will introduce and use an advanced statistical software for hands-on exercises. No prior experience with the software is expected or required. ",
+    "instructors": [
+        "Chowdhury, M",
+        "Janzen, J"
+    ],
+    "prereq": [
+        "ACE 264",
+        "ECON 203",
+        "MATH 124",
+        "MATH 125",
+        "ACE 262"
+    ]
+}

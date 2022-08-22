@@ -1,0 +1,13 @@
+{
+    "title": "MATH 403",
+    "names": "Euclidean Geometry",
+    "credit": "3 OR 4 hours.",
+    "intro": "Selected topics from geometry, including the nine-point circle, theorems of Cera and Menelaus, regular figures, isometries in the plane, ordered and affine geometries, and the inversive plane. ",
+    "instructors": [
+        "Kim, D"
+    ],
+    "prereq": [
+        "MATH 241",
+        "MATH 347"
+    ]
+}

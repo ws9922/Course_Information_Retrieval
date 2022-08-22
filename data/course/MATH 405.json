@@ -1,0 +1,14 @@
+{
+    "title": "MATH 405",
+    "names": "Teacher's Course",
+    "credit": "3 OR 4 hours.",
+    "intro": "In-depth, advanced perspective look at selected topics covered in the secondary curriculum.  Connects mathematics learned at the university level to content introduced at the secondary level. Intended for students who plan to seek a secondary certificate in mathematics teaching. ",
+    "instructors": [
+        "Hoffmeister, A"
+    ],
+    "prereq": [
+        "MATH 241",
+        "MATH 347",
+        "MATH 348"
+    ]
+}

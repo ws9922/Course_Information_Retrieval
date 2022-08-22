@@ -1,0 +1,17 @@
+{
+    "title": "MCB 300",
+    "names": "Microbiology",
+    "credit": "3 hours.",
+    "intro": "Emphasizes fundamental concepts of microbiology, including nutrition, physiology, genetics, molecular biology, ecology and evolution of microorganisms, and their role in nature, human health and disease. ",
+    "instructors": [
+        "Blanke, S",
+        "Alt, R",
+        "Vanderpool, C"
+    ],
+    "prereq": [
+        "MCB 300",
+        "MCB 100",
+        "MCB 250",
+        "MCB 252"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "title": "LING 307",
+    "names": "Elmnts Semantics & Pragmatics",
+    "credit": "3 hours.",
+    "intro": "Introduction to the theory of meaning for natural language, including techniques for the description of lexical meaning, compositional determination of phrase and sentence meaning, and pragmatic effects on interpretation in context. ",
+    "instructors": [
+        "Norman, C",
+        "Park, H",
+        "Ionin, T"
+    ],
+    "prereq": [
+        "LING 100"
+    ]
+}

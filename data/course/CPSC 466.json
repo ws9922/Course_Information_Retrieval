@@ -1,0 +1,12 @@
+{
+    "title": "CPSC 466",
+    "names": "Genomics for Plant Improvement",
+    "credit": "2 hours.",
+    "intro": "An overview of applying the methods of genomics to discover variation in genes and their expression, creating new genetic variation, and applying this information to the improvement of economically important plants. Emphasis is on recent advances in genomic science and activities where functional genomics information is used to efficiently create and manipulate desirable phenotypes. ",
+    "instructors": [
+        "Moose, S"
+    ],
+    "prereq": [
+        "CPSC 352"
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "title": "IS 490",
+    "names": "Topics in Info Foundations",
+    "credit": "2 TO 4 hours.",
+    "intro": "Directed and supervised investigation of selected topics in information studies that may include among others the social, political, and historical contexts of information creation and dissemination; computers and culture; information policy; community information systems; production, retrieval and evaluation of knowledge; computer-mediated communication. ",
+    "instructors": [
+        "Hodson, R",
+        "Duffy, D"
+    ],
+    "prereq": [
+        "IS 202"
+    ]
+}

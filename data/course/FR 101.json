@@ -1,0 +1,15 @@
+{
+    "title": "FR 101",
+    "names": "Elementary French I",
+    "credit": "4 hours.",
+    "intro": "Four-skill course leading toward elementary proficiency in oral expression, listening comprehension, reading, writing, and cultural understanding. Online language laboratory and internet assignments required.",
+    "instructors": [
+        "Smith, A",
+        "Rangel, E",
+        "Gorham, J",
+        "Hill, L",
+        "Peterson, S",
+        "Koroghlanian, A"
+    ],
+    "prereq": []
+}

@@ -1,0 +1,21 @@
+{
+    "title": "CS 446",
+    "names": "Machine Learning",
+    "credit": "3 OR 4 hours.",
+    "intro": "Principles and applications of machine learning. Main paradigms and techniques, including discriminative and generative methods, reinforcement learning: linear regression, logistic regression, support vector machines, deep nets, structured methods, dimensionality reduction, k-means, Gaussian mixtures, expectation maximization, Markov decision processes, and Q-learning. Application areas such as natural language and text understanding, speech recognition, computer vision, data mining, and adaptive computer systems, among others. ",
+    "instructors": [
+        "Gui, L"
+    ],
+    "prereq": [
+        "CS 225",
+        "MATH 225",
+        "MATH 257",
+        "MATH 415",
+        "MATH 416",
+        "ASRM 406",
+        "CS 361",
+        "ECE 313",
+        "MATH 461",
+        "STAT 400"
+    ]
+}

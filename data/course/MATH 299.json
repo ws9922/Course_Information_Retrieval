@@ -1,0 +1,13 @@
+{
+    "title": "MATH 299",
+    "names": "Topics in Mathematics",
+    "credit": "1 TO 4 hours.",
+    "intro": "Topics course; see Class Schedule or department office for current topics. ",
+    "instructors": [
+        "Berwick Evans, D"
+    ],
+    "prereq": [
+        "MATH 220",
+        "MATH 221"
+    ]
+}

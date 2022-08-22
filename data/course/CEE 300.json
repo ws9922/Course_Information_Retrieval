@@ -1,0 +1,24 @@
+{
+    "title": "CEE 300",
+    "names": "Behavior of Materials",
+    "credit": "4 hours.",
+    "intro": "Macroscopic mechanical behavior in terms of phenomena at the nanometer and micrometer levels for the three types of engineering materials (metals, ceramics, and polymers) with emphasis on specific materials used in civil engineering -- steel, rocks, clay, portland cement concrete, asphaltic concrete, and wood. ",
+    "instructors": [
+        "Sharma, R",
+        "Briones, K",
+        "Kumar, P",
+        "Garg, N",
+        "Chen, C",
+        "Abdelrahman, O",
+        "Pattaje Sooryanarayana, K",
+        "Diorio, A",
+        "Romero Contreras, P"
+    ],
+    "prereq": [
+        "CEE 300",
+        "ME 330",
+        "MSE 280",
+        "CHEM 104",
+        "TAM 251"
+    ]
+}

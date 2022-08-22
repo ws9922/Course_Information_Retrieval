@@ -1,0 +1,12 @@
+{
+    "title": "BADM 458",
+    "names": "IT Governance",
+    "credit": "3 OR 4 hours.",
+    "intro": "Provides students with a core body of knowledge concerning the state of development, research and business practice of IT governance on topics such as: managerial issues for the prevention of business frauds and threats; the key technology for IT governance for users and businesses; issues concerning integrity control, privacy, ethics, risk management, and reliability; best practices concerning regulatory compliance requirements; and enterprise information management issues, policies and practices. ",
+    "instructors": [
+        "Kertcher, Z"
+    ],
+    "prereq": [
+        "BADM 350"
+    ]
+}

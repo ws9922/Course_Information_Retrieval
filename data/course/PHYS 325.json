@@ -1,0 +1,16 @@
+{
+    "title": "PHYS 325",
+    "names": "Classical Mechanics I",
+    "credit": "3 hours.",
+    "intro": "Kinematics and dynamics of classical systems, including a review of Newtonian kinematics and dynamics. Three dimensional motion, variable mass, and conservation laws; damped and periodically driven oscillations; gravitational potential of extended objects and motion in rotating frames of reference; Lagrangian and Hamiltonian mechanics. ",
+    "instructors": [
+        "Abboud, N",
+        "Adshead, P",
+        "Belkin, D"
+    ],
+    "prereq": [
+        "PHYS 225",
+        "MATH 285",
+        "MATH 286"
+    ]
+}

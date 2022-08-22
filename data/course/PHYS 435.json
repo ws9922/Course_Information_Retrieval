@@ -1,0 +1,16 @@
+{
+    "title": "PHYS 435",
+    "names": "Electromagnetic Fields I",
+    "credit": "3 hours.",
+    "intro": "Static electric and magnetic fields, their interactions with electric charge and current, and their transformation properties; the effect of special relativity is incorporated. Macroscopic fields in material media are described. ",
+    "instructors": [
+        "Klinger, M",
+        "Abbamonte, P",
+        "Manning-Coe, D"
+    ],
+    "prereq": [
+        "MATH 285",
+        "PHYS 325",
+        "MATH 415"
+    ]
+}

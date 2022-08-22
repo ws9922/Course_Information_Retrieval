@@ -1,0 +1,12 @@
+{
+    "title": "CS 412",
+    "names": "Introduction to Data Mining",
+    "credit": "3 OR 4 hours.",
+    "intro": "Concepts, techniques, and systems of data warehousing and data mining. Design and implementation of data warehouse and on-line analytical processing (OLAP) systems; data mining concepts, methods, systems, implementations, and applications. ",
+    "instructors": [
+        "Banerjee, A"
+    ],
+    "prereq": [
+        "CS 225"
+    ]
+}
